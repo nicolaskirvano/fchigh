@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:02.000Z
+pubDatetime: 2026-05-31T21:29:07.000Z
 title: "Cartas 87-89 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Michał Skóraś (88, 1A Pro League), com +60% em 24h, a 20k coins no Console (PS)."
+    a: "Laura Georges (89, D1 Arkema), com +57.6% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Riyad Mahrez (87), -43.9% em 24h, a 69k coins."
+    a: "Can Bozdoğan (87), -44% em 24h, a 24k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Timo Werner (87) — 95% de probabilidade de alta, a 49k coins."
+    a: "Pelo modelo FutQuant, Quaresma (88) — 95% de probabilidade de alta, a 218k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 266 cartas em alta contra 373 em queda (média -0.56%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 271 cartas em alta contra 351 em queda (média 1.49%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **266 subiram** e **373 caíram**, com variação média de **-0.56%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **271 subiram** e **351 caíram**, com variação média de **1.49%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Michał Skóraś (88) **+60%** · 🔴 **Maior baixa:** Riyad Mahrez (87) **-43.9%**
+> 🟢 **Maior alta:** Laura Georges (89) **+57.6%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-44%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michał Skóraś | 88 | 1A Pro League | 20k coins | +60% | +21.2% |
-| Rui Costa | 88 | Serie A TIM | 42k coins | +50% | +31.2% |
-| Bruno Fernandes | 88 | Premier League | 26k coins | +49.3% | +37.7% |
-| Fábio Vieira | 87 | Bundesliga | 24k coins | +49.2% | -12.2% |
-| Cody Gakpo | 89 | Premier League | 275k coins | +44.7% | +97.8% |
-| Marco Reus | 89 | MLS | 379k coins | +40.9% | +3.6% |
-| Aleksandar Stanković | 87 | 1A Pro League | 103k coins | +39.2% | +48.2% |
-| Giulia Gwinn | 89 | GPFBL | 30k coins | +36.4% | +25% |
-| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 816k coins | +36% | +56.3% |
-| Eden Hazard | 88 | Premier League | 483k coins | +33.4% | +50.9% |
+| Laura Georges | 89 | D1 Arkema | 34k coins | +57.6% | +59.5% |
+| Filip Kostić | 88 | Serie A TIM | 30k coins | +47.5% | +59.5% |
+| Serhou Guirassy | 89 | Bundesliga | 90k coins | +46.7% | +42.1% |
+| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 859k coins | +45.6% | +27.1% |
+| Pedro Neto | 88 | Premier League | 144k coins | +44.7% | +26.3% |
+| Moleiro | 88 | LALIGA EA SPORTS | 22k coins | +44.3% | +46.7% |
+| Dominik Szoboszlai | 87 | Premier League | 137k coins | +43.5% | -9.3% |
+| Kenan Yıldız | 88 | Serie A TIM | 306k coins | +41% | +12.9% |
+| Bruno Fernandes | 88 | Premier League | 28k coins | +40% | -13.8% |
+| Nico Williams | 89 | LALIGA EA SPORTS | 445k coins | +39.1% | +27.9% |
 
 
 ### Análise das altas
 
-- **Michał Skóraś (88)** subiu **+60%** em 24h, a **20k coins** (faixa do dia: 12k–20k). Está +23% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Laura Georges (89)** subiu **+57.6%** em 24h, a **34k coins** (faixa do dia: 19k–36k). Está +63% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Rui Costa (88)** subiu **+50%** em 24h, a **42k coins** (faixa do dia: 27k–44k). Está +35% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Filip Kostić (88)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está +53% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Bruno Fernandes (88)** subiu **+49.3%** em 24h, a **26k coins** (faixa do dia: 17k–28k). Está +29% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Serhou Guirassy (89)** subiu **+46.7%** em 24h, a **90k coins** (faixa do dia: 56k–90k). Está +42% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (68% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Riyad Mahrez | 87 | ROSHN Saudi League | 69k coins | -43.9% | -31.7% |
-| Pavel Nedvěd | 89 | Icons | 195k coins | -41.8% | -2% |
-| Nick Woltemade | 87 | Premier League | 70k coins | -40.2% | -20.9% |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 30k coins | -40% | +20% |
-| Diogo Dalot | 87 | Premier League | 32k coins | -38.1% | -70.4% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 195k coins | -37.3% | -1.5% |
-| James Milner | 88 | Premier League | 57k coins | -36.7% | +2.7% |
-| Clint Dempsey | 89 | Premier League | 28k coins | -35.8% | -9% |
-| Fara Williams | 88 | Barclays WSL | 34k coins | -32.2% | -15.1% |
-| Can Bozdoğan | 87 | Eredivisie | 30k coins | -31.8% | +46.3% |
+| Can Bozdoğan | 87 | Eredivisie | 24k coins | -44% | +27.3% |
+| Julian Araujo | 89 | Scottish Premiership | 49k coins | -42.6% | -20.1% |
+| Marc Guéhi | 88 | Premier League | 25k coins | -41.1% | -13.2% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 74k coins | -39.8% | -26% |
+| Nick Woltemade | 87 | Premier League | 60k coins | -37.5% | -36.8% |
+| Finn Azaz | 88 | EFL Championship | 24k coins | -36.6% | -16.4% |
+| Robert Pirès | 89 | Icons | 66k coins | -33.2% | -21.6% |
+| Scott McTominay | 87 | Serie A TIM | 45k coins | -29.7% | -62.5% |
+| Emmanuel Petit | 87 | Icons | 94k coins | -29.5% | -21.2% |
+| Trinity Rodman | 87 | NWSL | 240k coins | -29.4% | +2.6% |
 
 
 ### Análise das baixas
 
-- **Riyad Mahrez (87)** caiu **-43.9%** em 24h, a **69k coins** (faixa do dia: 69k–128k). Está -32% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Can Bozdoğan (87)** caiu **-44%** em 24h, a **24k coins** (faixa do dia: 24k–44k). Está -41% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Pavel Nedvěd (89)** caiu **-41.8%** em 24h, a **195k coins** (faixa do dia: 165k–310k). Está em linha com a média de 7 dias (+2%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+- **Julian Araujo (89)** caiu **-42.6%** em 24h, a **49k coins** (faixa do dia: 36k–84k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Nick Woltemade (87)** caiu **-40.2%** em 24h, a **70k coins** (faixa do dia: 70k–117k). Está -19% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Marc Guéhi (88)** caiu **-41.1%** em 24h, a **25k coins** (faixa do dia: 25k–40k). Está -21% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | 49k coins | 61k coins | 95% |
-| Aurélien Tchouaméni | 87 | 46k coins | 54k coins | 95% |
-| Alphonso Davies | 89 | 108k coins | 145k coins | 95% |
-| Petr Čech | 89 | 103k coins | 129k coins | 95% |
-| Pavel Nedvěd | 89 | 195k coins | 224k coins | 95% |
-| Kouadio Manu Koné | 88 | 106k coins | 126k coins | 95% |
-| Kenny Dalglish | 89 | 160k coins | 184k coins | 95% |
-| Koke | 88 | 50k coins | 57k coins | 95% |
+| Quaresma | 88 | 218k coins | 269k coins | 95% |
+| Jaap Stam | 89 | 110k coins | 127k coins | 95% |
+| Koke | 88 | 47k coins | 54k coins | 95% |
+| João Neves | 88 | 167k coins | 192k coins | 95% |
+| Aurélien Tchouaméni | 87 | 49k coins | 58k coins | 95% |
+| Lilian Thuram | 88 | 250k coins | 297k coins | 95% |
+| Lewis Miley | 89 | 30k coins | 35k coins | 95% |
+| Javier Zanetti | 89 | 68k coins | 78k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Karim Benzema | 88 | 19k coins | -34.2% |
-| Benjamin Pavard | 88 | 17k coins | -29.2% |
-| Croix Bethune | 89 | 20k coins | -16.7% |
-| Steffi Jones | 89 | 68k coins | -15.7% |
-| Rafael Márquez | 88 | 38k coins | -29.2% |
-| Sidney Govou | 87 | 68k coins | -29.1% |
-| Jay-Jay Okocha | 88 | 50k coins | -23.8% |
+| João Moutinho | 88 | 42k coins | -29.1% |
+| Sven Ulreich | 87 | 28k coins | -15.6% |
+| Morata | 87 | 26k coins | -15.5% |
 | Mikael Ishak | 87 | 42k coins | -24% |
+| Nuno Tavares | 87 | 47k coins | -24.1% |
+| Keita Baldé | 88 | 27k coins | -17.3% |
+| Maxence Lacroix | 87 | 136k coins | -29.2% |
+| Ian Maatsen | 89 | 40k coins | -21.4% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -120,20 +120,22 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Michał Skóraś (88, 1A Pro League), com +60% em 24h, a 20k coins no Console (PS).
+Laura Georges (89, D1 Arkema), com +57.6% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Riyad Mahrez (87), -43.9% em 24h, a 69k coins.
+Can Bozdoğan (87), -44% em 24h, a 24k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Timo Werner (87) — 95% de probabilidade de alta, a 49k coins.
+Pelo modelo FutQuant, Quaresma (88) — 95% de probabilidade de alta, a 218k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 266 cartas em alta contra 373 em queda (média -0.56%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 271 cartas em alta contra 351 em queda (média 1.49%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

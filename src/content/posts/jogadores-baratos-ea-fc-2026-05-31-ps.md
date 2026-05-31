@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:02.000Z
+pubDatetime: 2026-05-31T21:29:07.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,29 +30,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +3.8% |
-| Alisson | 89 | GK | Premier League | 6k coins | +3.8% |
 | Harry Kane | 89 | ST | Bundesliga | 6k coins | +3.8% |
+| Alisson | 89 | GK | Premier League | 6k coins | +3.8% |
 | Mapi León | 89 | CB | Liga F | 6k coins | +5.4% |
 | Patri Guijarro | 89 | CDM | Liga F | 6k coins | +5.4% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
 | Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10.9% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | +5% |
 | Florian Wirtz | 89 | CAM | Premier League | 7k coins | +15.8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +18.6% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7k coins | +18.6% |
 | Raphinha | 89 | LM | LALIGA EA SPORTS | 7k coins | +23.7% |
+| Mariona | 89 | CAM | Barclays WSL | 11k coins | -19.6% |
+| Sebastian Nanasi | 89 | LM | — | 12k coins | -12.7% |
 | Birgit Prinz | 89 | ST | — | 12k coins | +4.4% |
-| Thijs Dallinga | 89 | ST | — | 12k coins | -3.8% |
-| Ian Rush | 89 | ST | — | 12k coins | -3.8% |
-| Aleix García | 89 | CM | Bundesliga | 13k coins | -3.8% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5k coins**
 
-- **Alisson (89, GK)** da Premier League, a apenas **6k coins**
-
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **6k coins**
+
+- **Alisson (89, GK)** da Premier League, a apenas **6k coins**
 
 - **Mapi León (89, CB)** da Liga F, a apenas **6k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

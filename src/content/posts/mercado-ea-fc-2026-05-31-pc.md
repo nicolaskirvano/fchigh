@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:03.000Z
+pubDatetime: 2026-05-31T21:29:08.000Z
 title: "Cartas 87-89 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 254 cartas em alta contra 266 em queda (média 3.19%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 262 cartas em alta contra 267 em queda (média 3.13%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **254 subiram** e **266 caíram**, com variação média de **3.19%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **262 subiram** e **267 caíram**, com variação média de **3.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Igor Jesus (87) **+56.9%** · 🔴 **Maior baixa:** Victor Osimhen (88) **-46.9%**
 
@@ -36,14 +36,14 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | --- | --- | --- | --- | --- | --- |
 | Igor Jesus | 87 | Premier League | 20k coins | +56.9% | -9.1% |
 | Juan Mata | 88 | A-League | 72k coins | +54.6% | -27.8% |
+| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +54.2% | -8.6% |
 | Jack McGlynn | 87 | MLS | 20k coins | +53.8% | +29% |
 | Estefanía Banini | 89 | Liga F | 26k coins | +52.9% | +30% |
 | Christian Günter | 88 | Bundesliga | 35k coins | +51.1% | +6.1% |
+| Vini Jr. | 89 | LALIGA EA SPORTS | 25k coins | +49.2% | +31.6% |
 | Trinity Rodman | 88 | NWSL | 238k coins | +47.8% | +27.3% |
 | Jaedyn Shaw | 89 | NWSL | 42k coins | +46.5% | +11.3% |
 | Sadio Mané | 88 | ROSHN Saudi League | 133k coins | +44.6% | -2.2% |
-| Ko Itakura | 88 | Eredivisie | 37k coins | +44.1% | 0% |
-| Fernando Torres | 87 | Icons | 143k coins | +43% | +32.4% |
 
 
 ### Análise das altas
@@ -52,7 +52,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 - **Juan Mata (88)** subiu **+54.6%** em 24h, a **72k coins** (faixa do dia: 45k–72k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
 
-- **Jack McGlynn (87)** subiu **+53.8%** em 24h, a **20k coins** (faixa do dia: 12k–24k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -64,11 +64,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -46.8% | +40% |
 | Dominique Janssen | 89 | Barclays WSL | 21k coins | -44% | +10.5% |
 | Melchie Dumornay | 87 | D1 Arkema | 167k coins | -43.4% | -54.9% |
+| Giorgio Chiellini | 88 | Icons | 111k coins | -42.5% | -3.5% |
 | Kim Little | 87 | Barclays WSL | 28k coins | -41.8% | -7.6% |
 | Sam Kerr | 88 | Barclays WSL | 21k coins | -40.3% | -49.1% |
 | Nico O'Reilly | 88 | Premier League | 28k coins | -40% | -46.6% |
 | David Beckham | 89 | Icons | 102k coins | -40% | -32% |
-| Moisés Caicedo | 88 | Premier League | 28k coins | -39.4% | +90% |
 
 
 ### Análise das baixas
@@ -106,11 +106,13 @@ Victor Osimhen (88), -46.9% em 24h, a 38k coins.
 Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 254 cartas em alta contra 266 em queda (média 3.19%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 262 cartas em alta contra 267 em queda (média 3.13%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

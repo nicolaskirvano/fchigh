@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:03.000Z
+pubDatetime: 2026-05-31T21:29:08.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -33,19 +33,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Paul Onuachu | 88 | Trendyol Süper Lig | 40k coins | +8.1% | +70.2% | 47% |
 | Davor Šuker | 89 | Icons | 34k coins | +10.7% | +64.6% | 37% |
-| Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +16.4% | +47.2% | 56% |
+| Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% | 21% |
 | Peter Crouch | 87 | Premier League | 202k coins | +34.7% | +44.3% | 54% |
 | Rodrigo Mora | 88 | Liga Portugal | 36k coins | +4.3% | +39.4% | 12% |
 | Ashley Cole | 88 | — | 22k coins | +37.5% | +37.5% | 50% |
 | Donyell Malen | 89 | Serie A TIM | 93k coins | +26.5% | +36.8% | 40% |
-| Wesley Sneijder | 88 | Serie A TIM | 28k coins | +20.4% | +33.3% | 29% |
 | Nwankwo Kanu | 87 | Premier League | 29k coins | +12.6% | +33.3% | 78% |
 | Francisco Conceição | 89 | Serie A TIM | 40k coins | +11.9% | +33.3% | 52% |
 | Gabriel Martinelli | 87 | Premier League | 78k coins | +12.1% | +33% | 33% |
-| Peter Schmeichel | 89 | Icons | 90k coins | +32.6% | +32.6% | 54% |
 | Frank Rijkaard | 89 | Icons | 105k coins | +10% | +31.2% | 35% |
+| Andrea Barzagli | 87 | Serie A TIM | 16k coins | +1.6% | +27.4% | 50% |
 | Mario Lemina | 89 | Trendyol Süper Lig | 95k coins | +3.3% | +25.8% | 48% |
-| Bixente Lizarazu | 88 | Bundesliga | 16k coins | +20.8% | +25.5% | 24% |
+| Iván Zamorano | 88 | LALIGA EA SPORTS | 15k coins | +33.3% | +25% | 21% |
+| Naomie Feller | 88 | — | 54k coins | +20% | +24.1% | 25% |
 
 
 ## 📈 Análise dos destaques
@@ -54,7 +54,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Davor Šuker (89)** — 34k coins, **+64.6% em 7 dias** (+10.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ricardo Carvalho (88)** — 20k coins, **+47.2% em 7 dias** (+16.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marcelo (89)** — 178k coins, **+50.8% em 7 dias** (+31.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Peter Crouch (87)** — 202k coins, **+44.3% em 7 dias** (+34.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
@@ -84,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
