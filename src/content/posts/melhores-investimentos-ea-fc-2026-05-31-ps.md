@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:29:07.000Z
+pubDatetime: 2026-05-31T22:39:01.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,7 +32,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nuno Tavares | 87 | Serie A TIM | 47k coins | +6.8% | +74.1% | 5% |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 38k coins | +7% | +51.5% | 5% |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 22k coins | +32.4% | +73.1% | 95% |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 40k coins | +19.4% | +58.4% | 5% |
 | Hanna Lundkvist | 87 | Barclays WSL | 22k coins | +18.4% | +50% | 39% |
 | Xavi Simons | 88 | Premier League | 65k coins | +15% | +49.4% | 95% |
 | Santi Cazorla | 87 | LALIGA EA SPORTS | 114k coins | +1.8% | +49% | 95% |
@@ -41,24 +42,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Liam Kelly | 89 | — | 35k coins | +16.7% | +45.8% | 5% |
 | Selina Cerci | 87 | GPFBL | 20k coins | +5.3% | +45.4% | 95% |
 | James Milner | 88 | Premier League | 69k coins | +27.8% | +45.3% | 95% |
-| Zé Roberto | 87 | Bundesliga | 96k coins | +2.7% | +43.3% | 73% |
 | Chloe Kelly | 88 | Barclays WSL | 43k coins | +1.2% | +43% | 80% |
 | Diego Forlán | 88 | LALIGA EA SPORTS | 22k coins | +27.5% | +41.9% | 95% |
+| Roy Makaay | 87 | Bundesliga | 17k coins | +38% | +40.8% | 27% |
 | DaMarcus Beasley | 88 | MLS | 37k coins | +10.4% | +38.3% | 95% |
-| Claudio Marchisio | 88 | Serie A TIM | 137k coins | +23.4% | +37.7% | 16% |
 
 
 ## 📈 Análise dos destaques
 
 - **Nuno Tavares (87)** — 47k coins, **+74.1% em 7 dias** (+6.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Rafael Márquez (88)** — 38k coins, **+51.5% em 7 dias** (+7% em 24h). Preço +48% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Javier Mascherano (88)** — 22k coins, **+73.1% em 7 dias** (+32.4% em 24h). Preço +55% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Rafael Márquez (88)** — 40k coins, **+58.4% em 7 dias** (+19.4% em 24h). Preço +50% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Hanna Lundkvist (87)** — 22k coins, **+50% em 7 dias** (+18.4% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Xavi Simons (88)** — 65k coins, **+49.4% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (+5%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
-
-- **Santi Cazorla (87)** — 114k coins, **+49% em 7 dias** (+1.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista

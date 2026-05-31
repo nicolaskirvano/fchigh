@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:29:08.000Z
+pubDatetime: 2026-05-31T22:39:03.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,14 +32,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Florian Wirtz | 89 | CAM | Premier League | 6k coins | -10.4% |
 | Raphinha | 89 | LM | LALIGA EA SPORTS | 6k coins | -13% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +8.2% |
 | Alessia Russo | 89 | ST | Barclays WSL | 7k coins | +6.4% |
 | Alisson | 89 | GK | Premier League | 7k coins | -1.4% |
 | Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 7k coins | +43.8% |
-| Harry Kane | 89 | ST | Bundesliga | 7k coins | +13.1% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +9.5% |
 | Mapi León | 89 | CB | Liga F | 7k coins | +4.6% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 7k coins | +3% |
+| Harry Kane | 89 | ST | Bundesliga | 7k coins | +13.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 7k coins | +7.7% |
 | Patri Guijarro | 89 | CDM | Liga F | 7k coins | +20% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 8k coins | -10.7% |
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins**
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins**
-
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **7k coins**
+
+- **Alisson (89, GK)** da Premier League, a apenas **7k coins**
 
 
 ## Por que estas cartas?

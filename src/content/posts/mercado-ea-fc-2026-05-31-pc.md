@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:29:08.000Z
+pubDatetime: 2026-05-31T22:39:02.000Z
 title: "Cartas 87-89 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Igor Jesus (87, Premier League), com +56.9% em 24h, a 20k coins no PC."
+    a: "Ahmetcan Kaplan (88, Eredivisie), com +58.3% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Victor Osimhen (88), -46.9% em 24h, a 38k coins."
+    a: "Santi Cazorla (87), -47.4% em 24h, a 100k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 23k coins."
+    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 262 cartas em alta contra 267 em queda (média 3.13%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 259 cartas em alta contra 266 em queda (média 4.16%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **262 subiram** e **267 caíram**, com variação média de **3.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **259 subiram** e **266 caíram**, com variação média de **4.16%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Igor Jesus (87) **+56.9%** · 🔴 **Maior baixa:** Victor Osimhen (88) **-46.9%**
+> 🟢 **Maior alta:** Ahmetcan Kaplan (88) **+58.3%** · 🔴 **Maior baixa:** Santi Cazorla (87) **-47.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Igor Jesus | 87 | Premier League | 20k coins | +56.9% | -9.1% |
-| Juan Mata | 88 | A-League | 72k coins | +54.6% | -27.8% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 24k coins | +58.3% | +13.1% |
+| Sakina Karchaoui | 89 | — | 30k coins | +57.3% | -30.2% |
+| Christiane Endler | 89 | D1 Arkema | 30k coins | +57.1% | 0% |
+| Declan Rice | 89 | Premier League | 100k coins | +56.7% | +17.8% |
+| Scott McTominay | 87 | Serie A TIM | 156k coins | +56% | -28.8% |
 | Daniele De Rossi | 87 | Serie A TIM | 32k coins | +54.2% | -8.6% |
-| Jack McGlynn | 87 | MLS | 20k coins | +53.8% | +29% |
-| Estefanía Banini | 89 | Liga F | 26k coins | +52.9% | +30% |
-| Christian Günter | 88 | Bundesliga | 35k coins | +51.1% | +6.1% |
-| Vini Jr. | 89 | LALIGA EA SPORTS | 25k coins | +49.2% | +31.6% |
-| Trinity Rodman | 88 | NWSL | 238k coins | +47.8% | +27.3% |
-| Jaedyn Shaw | 89 | NWSL | 42k coins | +46.5% | +11.3% |
-| Sadio Mané | 88 | ROSHN Saudi League | 133k coins | +44.6% | -2.2% |
+| Junior Messias | 87 | Serie A TIM | 24k coins | +54.1% | +44.6% |
+| Bryan Mbeumo | 87 | Premier League | 60k coins | +50.6% | +14.4% |
+| Martín Cauteruccio | 87 | Libertadores | 23k coins | +50% | +50% |
+| Croix Bethune | 89 | NWSL | 29k coins | +49.4% | +21% |
 
 
 ### Análise das altas
 
-- **Igor Jesus (87)** subiu **+56.9%** em 24h, a **20k coins** (faixa do dia: 12k–30k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Ahmetcan Kaplan (88)** subiu **+58.3%** em 24h, a **24k coins** (faixa do dia: 17k–24k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Juan Mata (88)** subiu **+54.6%** em 24h, a **72k coins** (faixa do dia: 45k–72k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Sakina Karchaoui (89)** subiu **+57.3%** em 24h, a **30k coins** (faixa do dia: 16k–74k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Christiane Endler (89)** subiu **+57.1%** em 24h, a **30k coins** (faixa do dia: 19k–30k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 38k coins | -46.9% | -56% |
-| Nerea Nevado | 89 | Liga F | 21k coins | -46.9% | +6.2% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -46.8% | +40% |
-| Dominique Janssen | 89 | Barclays WSL | 21k coins | -44% | +10.5% |
-| Melchie Dumornay | 87 | D1 Arkema | 167k coins | -43.4% | -54.9% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 100k coins | -47.4% | -34.2% |
+| Ricardo Carvalho | 89 | Liga Portugal | 61k coins | -47% | +1.7% |
+| Rayan Cherki | 87 | Premier League | 71k coins | -45.8% | -52.7% |
+| Hidetoshi Nakata | 88 | Serie A TIM | 22k coins | -45.6% | -44.9% |
+| Loïc Badé | 88 | Bundesliga | 28k coins | -45% | +39.2% |
 | Giorgio Chiellini | 88 | Icons | 111k coins | -42.5% | -3.5% |
-| Kim Little | 87 | Barclays WSL | 28k coins | -41.8% | -7.6% |
-| Sam Kerr | 88 | Barclays WSL | 21k coins | -40.3% | -49.1% |
-| Nico O'Reilly | 88 | Premier League | 28k coins | -40% | -46.6% |
-| David Beckham | 89 | Icons | 102k coins | -40% | -32% |
+| Moisés Caicedo | 88 | Premier League | 26k coins | -40.3% | -51.8% |
+| Riyad Mahrez | 87 | ROSHN Saudi League | 100k coins | -39.7% | -41.5% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 25k coins | -38.1% | -1% |
+| Ahmed Hegazi | 87 | Brasileirão | 22k coins | -37.8% | 0% |
 
 
 ### Análise das baixas
 
-- **Victor Osimhen (88)** caiu **-46.9%** em 24h, a **38k coins** (faixa do dia: 38k–69k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Santi Cazorla (87)** caiu **-47.4%** em 24h, a **100k coins** (faixa do dia: 100k–190k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Nerea Nevado (89)** caiu **-46.9%** em 24h, a **21k coins** (faixa do dia: 13k–40k). Está em linha com a média de 7 dias (-0%). O modelo vê **estabilização** no curto prazo.
+- **Ricardo Carvalho (89)** caiu **-47%** em 24h, a **61k coins** (faixa do dia: 60k–115k). Está -41% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Marc Bartra (87)** caiu **-46.8%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -37% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Rayan Cherki (87)** caiu **-45.8%** em 24h, a **71k coins** (faixa do dia: 71k–150k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,7 +86,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Uli Hoeneß | 88 | 23k coins | 24k coins | 80% |
+| Uli Hoeneß | 88 | 16k coins | 16k coins | 80% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -97,16 +97,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Igor Jesus (87, Premier League), com +56.9% em 24h, a 20k coins no PC.
+Ahmetcan Kaplan (88, Eredivisie), com +58.3% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**  
-Victor Osimhen (88), -46.9% em 24h, a 38k coins.
+Santi Cazorla (87), -47.4% em 24h, a 100k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 23k coins.
+Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 262 cartas em alta contra 267 em queda (média 3.13%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 259 cartas em alta contra 266 em queda (média 4.16%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
