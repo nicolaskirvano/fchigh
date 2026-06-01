@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:39:01.000Z
+pubDatetime: 2026-06-01T01:39:01.000Z
 title: "Cartas 87-89 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Can Bozdoğan (87), -44% em 24h, a 24k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lilian Thuram (88) — 95% de probabilidade de alta, a 235k coins."
+    a: "Pelo modelo FutQuant, Koke (88) — 95% de probabilidade de alta, a 47k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 275 cartas em alta contra 347 em queda (média 2.02%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 278 cartas em alta contra 344 em queda (média 1.79%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **275 subiram** e **347 caíram**, com variação média de **2.02%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **278 subiram** e **344 caíram**, com variação média de **1.79%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Laura Georges (89) **+57.6%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-44%**
 
@@ -35,13 +35,13 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Laura Georges | 89 | D1 Arkema | 34k coins | +57.6% | +59.5% |
-| Zé Roberto | 87 | Bundesliga | 104k coins | +52.9% | +56.4% |
 | Filip Kostić | 88 | Serie A TIM | 30k coins | +47.5% | +59.5% |
 | Serhou Guirassy | 89 | Bundesliga | 90k coins | +46.7% | +42.1% |
 | Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 859k coins | +45.6% | +27.1% |
 | Pedro Neto | 88 | Premier League | 144k coins | +44.7% | +26.3% |
 | Moleiro | 88 | LALIGA EA SPORTS | 22k coins | +44.3% | +46.7% |
 | Dominik Szoboszlai | 87 | Premier League | 137k coins | +43.5% | -9.3% |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 34k coins | +41.7% | +32% |
 | Kenan Yıldız | 88 | Serie A TIM | 306k coins | +41% | +12.9% |
 | Bruno Fernandes | 88 | Premier League | 28k coins | +40% | -13.8% |
 
@@ -50,9 +50,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Laura Georges (89)** subiu **+57.6%** em 24h, a **34k coins** (faixa do dia: 19k–36k). Está +63% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Zé Roberto (87)** subiu **+52.9%** em 24h, a **104k coins** (faixa do dia: 68k–114k). Está +43% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (73% de chance de subir mais).
-
 - **Filip Kostić (88)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está +53% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+
+- **Serhou Guirassy (89)** subiu **+46.7%** em 24h, a **90k coins** (faixa do dia: 56k–90k). Está +42% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (68% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -66,9 +66,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Nick Woltemade | 87 | Premier League | 60k coins | -37.5% | -36.8% |
 | Finn Azaz | 88 | EFL Championship | 24k coins | -36.6% | -16.4% |
 | Vincent Kompany | 88 | Premier League | 44k coins | -35.8% | -34.3% |
-| Robert Pirès | 89 | Icons | 66k coins | -33.2% | -21.6% |
 | Scott McTominay | 87 | Serie A TIM | 45k coins | -29.7% | -62.5% |
 | Trinity Rodman | 87 | NWSL | 240k coins | -29.4% | +2.6% |
+| Rayan Cherki | 87 | Premier League | 98k coins | -29% | -18.3% |
 
 
 ### Análise das baixas
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Lilian Thuram | 88 | 235k coins | 279k coins | 95% |
-| Dunga | 87 | 68k coins | 92k coins | 95% |
-| João Neves | 88 | 167k coins | 192k coins | 95% |
+| Koke | 88 | 47k coins | 54k coins | 95% |
+| Petr Čech | 89 | 116k coins | 145k coins | 95% |
 | Aurélien Tchouaméni | 87 | 49k coins | 58k coins | 95% |
 | Lewis Miley | 89 | 30k coins | 35k coins | 95% |
-| Koke | 88 | 47k coins | 54k coins | 95% |
 | Javier Zanetti | 89 | 68k coins | 79k coins | 95% |
-| Fabio Cannavaro | 89 | 92k coins | 107k coins | 95% |
+| Alphonso Davies | 89 | 118k coins | 159k coins | 95% |
+| Ferland Mendy | 87 | 106k coins | 126k coins | 95% |
+| Frank Lampard | 87 | 95k coins | 128k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Sven Ulreich | 87 | 28k coins | -15.6% |
-| Morata | 87 | 26k coins | -15.5% |
-| Mikael Ishak | 87 | 42k coins | -24% |
-| Maxence Lacroix | 87 | 136k coins | -29.2% |
-| António Silva | 87 | 40k coins | -17.5% |
-| Bartosz Kapustka | 87 | 29k coins | -34.2% |
 | Keita Baldé | 88 | 27k coins | -17.3% |
-| Nuno Tavares | 87 | 47k coins | -24.1% |
+| Benjamin Pavard | 88 | 17k coins | -29.2% |
+| Emmanuel Petit | 87 | 100k coins | -17.5% |
+| Jade Le Guilly | 89 | 24k coins | -21.3% |
+| Can Uzun | 89 | 31k coins | -29% |
+| Michał Skóraś | 88 | 18k coins | -29.1% |
+| Alex Freeman | 88 | 15k coins | -29.2% |
+| Allegra Poljak | 87 | 16k coins | -15.7% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -126,10 +126,10 @@ Laura Georges (89, D1 Arkema), com +57.6% em 24h, a 34k coins no Console (PS).
 Can Bozdoğan (87), -44% em 24h, a 24k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lilian Thuram (88) — 95% de probabilidade de alta, a 235k coins.
+Pelo modelo FutQuant, Koke (88) — 95% de probabilidade de alta, a 47k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 275 cartas em alta contra 347 em queda (média 2.02%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 278 cartas em alta contra 344 em queda (média 1.79%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
