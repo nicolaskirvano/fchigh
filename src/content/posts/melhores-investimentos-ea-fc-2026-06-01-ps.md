@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:39:01.000Z
+pubDatetime: 2026-06-01T13:39:01.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -41,11 +41,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Caroline Weir | 89 | Liga F | 30k coins | +23.7% | +55.8% | 5% |
 | Joshua Kimmich | 89 | Bundesliga | 140k coins | +25% | +55.6% | 27% |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 236k coins | +18% | +52.3% | 95% |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 39k coins | +11.4% | +50% | 5% |
 | Claudio Marchisio | 88 | Serie A TIM | 155k coins | +15.7% | +47.6% | 16% |
 | Jonathan Tah | 88 | Bundesliga | 26k coins | +20.4% | +47.2% | 28% |
 | Marcos Acuña | 89 | LPF | 25k coins | +4.2% | +47.1% | 5% |
 | Juan Mata | 88 | A-League | 56k coins | +13.8% | +47% | 27% |
-| Kingsley Coman | 87 | ROSHN Saudi League | 68k coins | +19.5% | +46.7% | 50% |
 
 
 ## 📈 Análise dos destaques
