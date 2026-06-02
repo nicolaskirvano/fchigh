@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T22:39:01.000Z
+pubDatetime: 2026-06-02T01:39:01.000Z
 title: "Cartas 87-89 no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
