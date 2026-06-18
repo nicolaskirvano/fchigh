@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:11:45.000Z
+pubDatetime: 2026-06-18T22:39:22.000Z
 title: "Cartas 87-89 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Rudi Völler (89, Bundesliga), com +53.3% em 24h, a 22k coins no Console (PS)."
+    a: "Anthony Nwakaeme (87, Trendyol Süper Lig), com +59.7% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Mallory Swanson (88), -37.5% em 24h, a 91k coins."
+    a: "Larissa Mühlhaus (87), -43.3% em 24h, a 40k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Petr Čech (89) — 95% de probabilidade de alta, a 125k coins."
+    a: "Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 31k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 262 cartas em alta contra 261 em queda (média 0.96%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 239 cartas em alta contra 296 em queda (média -0.84%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas na faixa 87-89 para Console PS apresenta um cenário lateral sem direção clara hoje, 18/06/2026, com 262 altas e 261 quedas registradas nas últimas 24 horas. A média de variação ficou em apenas 0.96%, indicando uma estabilização temporária onde a volatilidade é baixa e os movimentos são mais contidos.
+O mercado de cartas 87-89 em consoles opera de forma lateral hoje, sem uma direção clara definida para os traders. Com 239 altas contra 296 quedas e uma média negativa de -0.84% nas últimas 24h, o ambiente exige cautela e seleção criteriosa de ativos.
 
-> 🟢 **Maior alta:** Rudi Völler (89) **+53.3%** · 🔴 **Maior baixa:** Mallory Swanson (88) **-37.5%**
+> 🟢 **Maior alta:** Anthony Nwakaeme (87) **+59.7%** · 🔴 **Maior baixa:** Larissa Mühlhaus (87) **-43.3%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rudi Völler | 89 | Bundesliga | 22k coins | +53.3% | +53.3% |
-| Jay-Jay Okocha | 88 | Premier League | 98k coins | +52% | +58.3% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 27k coins | +50% | -18.2% |
-| Robert Lewandowski | 88 | LALIGA EA SPORTS | 431k coins | +47.1% | +121% |
-| Emmanuel Petit | 87 | Icons | 132k coins | +42.4% | +41.6% |
-| Can Uzun | 89 | Bundesliga | 80k coins | +40.4% | +1.3% |
-| Eli Junior Kroupi | 89 | Premier League | 66k coins | +39.5% | +85.6% |
-| Aleksandar Pavlović | 89 | Bundesliga | 47k coins | +39% | +24.3% |
-| Cole Palmer | 88 | Premier League | 469k coins | +38.6% | +67.3% |
-| Luis Díaz | 89 | Bundesliga | 152k coins | +38% | +21.1% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 30k coins | +59.7% | -12.9% |
+| Jay-Jay Okocha | 88 | Premier League | 92k coins | +50.8% | +47.2% |
+| Rúben Neves | 87 | ROSHN Saudi League | 31k coins | +50% | +27.7% |
+| Timo Werner | 87 | Bundesliga | 57k coins | +49.6% | +31.4% |
+| Cole Palmer | 88 | Premier League | 502k coins | +47% | +67.5% |
+| David Beckham | 88 | Icons | 174k coins | +45% | +24.3% |
+| Robert Lewandowski | 88 | LALIGA EA SPORTS | 400k coins | +36.7% | +113.8% |
+| Lindsey Heaps | 88 | D1 Arkema | 52k coins | +33.8% | +157.5% |
+| Callum McGregor | 87 | Scottish Premiership | 194k coins | +30.2% | +7.8% |
+| Debinha | 89 | NWSL | 90k coins | +29.1% | +40.4% |
 
 
-As maiores altas foram lideradas por Rudi Völler (89), que subiu 53.3% para 22k coins, seguido de perto por Jay-Jay Okocha (88) com 52% de alta a 98k coins. Anthony Nwakaeme (87) também se destaca com 50% de crescimento a 27k coins, enquanto nomes pesados como Robert Lewandowski (88) e Emmanuel Petit (87) registraram altas de 47.1% e 42.4%, respectivamente.
+Anthony Nwakaeme lidera as altas com 59.7%, seguido por Jay-Jay Okocha (50.8%) e Rúben Neves (50%), que apresenta probabilidade de alta de 95%. Timo Werner (49.6%) e Cole Palmer (47%) também se destacam na lista de valorização, indicando interesse específico em certos perfis.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mallory Swanson | 88 | NWSL | 91k coins | -37.5% | -19.6% |
-| Larissa Mühlhaus | 87 | GPFBL | 42k coins | -37.3% | -10.6% |
-| Daniele De Rossi | 87 | Serie A TIM | 21k coins | -37% | +51.8% |
-| Ramires | 88 | Premier League | 340k coins | -36.5% | -2.8% |
-| Roy Keane | 88 | Icons | 270k coins | -31.8% | +17.9% |
-| Sydney Leroux | 88 | NWSL | 33k coins | -30.7% | -14.2% |
-| Sócrates | 89 | Icons | 102k coins | -29.8% | +16.5% |
-| Dominik Szoboszlai | 87 | Premier League | 80k coins | -26.4% | +6% |
-| Nadiem Amiri | 88 | Bundesliga | 27k coins | -25.8% | +34.2% |
-| Pavel Nedvěd | 89 | Icons | 174k coins | -24.2% | -0.6% |
+| Larissa Mühlhaus | 87 | GPFBL | 40k coins | -43.3% | -20% |
+| Ane Azkona | 88 | Liga F | 42k coins | -36% | -47.8% |
+| Ricardo Carvalho | 88 | Liga Portugal | 22k coins | -34.1% | -10.8% |
+| Kasper Høgh | 87 | Eliteserien | 80k coins | -33.8% | +43.2% |
+| Anthony Gordon | 88 | Premier League | 198k coins | -32.9% | -29.3% |
+| Sydney Leroux | 88 | NWSL | 26k coins | -31.8% | -15.5% |
+| Ramires | 88 | Premier League | 378k coins | -30.2% | +7% |
+| Sócrates | 89 | Icons | 110k coins | -27.2% | +22.9% |
+| Narcis Ilaș | 87 | SUPERLIGA | 24k coins | -27.1% | -18.5% |
+| Dominik Szoboszlai | 87 | Premier League | 108k coins | -26.4% | +4.6% |
 
 
-Na ponta das quedas, Mallory Swanson (88) despencou 37.5% para 91k coins, acompanhado por Larissa Mühlhaus (87) com -37.3% a 42k coins. Cartas icônicas como Ramires (88) e Roy Keane (88) sofreram quedas significativas de 36.5% e 31.8%, respectivamente, refletindo uma saída de capital de investidores nestes ativos específicos.
+Larissa Mühlhaus sofreu a maior queda com -43.3%, enquanto Ane Azkona (-36%) e Ricardo Carvalho (-34.1%) registraram desvalorizações significativas. Kasper Høgh (-33.8%) e Anthony Gordon (-32.9%) completam o quadro de perdas, sugerindo venda de pressão em ativos de médio e alto custo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Petr Čech | 89 | 125k coins | 156k coins | 95% |
-| Rúben Neves | 87 | 28k coins | 37k coins | 95% |
-| Fernando Torres | 87 | 116k coins | 133k coins | 95% |
-| Caroline Weir | 87 | 31k coins | 37k coins | 95% |
-| Quaresma | 88 | 141k coins | 174k coins | 95% |
+| Rúben Neves | 87 | 31k coins | 40k coins | 95% |
+| Murillo | 87 | 118k coins | 151k coins | 95% |
+| Caroline Weir | 87 | 30k coins | 35k coins | 95% |
+| Nico Williams | 89 | 172k coins | 221k coins | 95% |
+| Lewis Miley | 89 | 42k coins | 50k coins | 95% |
 | Roman Yaremchuk | 89 | 34k coins | 46k coins | 95% |
-| Pavel Nedvěd | 89 | 174k coins | 200k coins | 95% |
-| Lewis Miley | 89 | 48k coins | 56k coins | 95% |
+| Jaap Stam | 89 | 102k coins | 117k coins | 95% |
+| Anthony Gordon | 87 | 35k coins | 43k coins | 95% |
 
 
-O modelo projeta alta probabilidade de valorização (95%) para diversas cartas, incluindo Petr Čech (89) a 125k coins e Rúben Neves (87) a 28k coins. Outras apostas fortes do algoritmo são Fernando Torres (87), Quaresma (88) e Pavel Nedvěd (89), que também exibem 95% de chance de alta nos próximos movimentos de mercado.
+O modelo projeta alta com 95% de probabilidade para Rúben Neves, Murillo, Caroline Weir, Nico Williams, Lewis Miley, Roman Yaremchuk, Jaap Stam e Anthony Gordon. Esses ativos são indicados para compra com expectativa de valorização futura, aproveitando a confiança do algoritmo.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Vicky López | 87 | 36k coins | -24% |
-| Bremer | 87 | 38k coins | -17.5% |
-| Nicolas Pépé | 88 | 26k coins | -21.4% |
-| Martin Ødegaard | 88 | 45k coins | -16.8% |
-| Jawad El Yamiq | 87 | 38k coins | -16.7% |
-| Mateus Mané | 88 | 46k coins | -15.7% |
-| Aleksandar Pavlović | 89 | 47k coins | -15.6% |
-| Marek Hamšík | 89 | 43k coins | -16.7% |
+| Alyssa Naeher | 88 | 35k coins | -21.4% |
+| Irene Paredes | 88 | 32k coins | -34.2% |
+| Bernardo Silva | 87 | 60k coins | -24.1% |
+| Jens Petter Hauge | 88 | 50k coins | -24% |
+| Sven Ulreich | 87 | 54k coins | -15.6% |
+| Ian Maatsen | 89 | 40k coins | -21.4% |
+| Mikkel Damsgaard | 87 | 32k coins | -15.6% |
+| Marc Guéhi | 88 | 45k coins | -15.6% |
 
 
 ## 🎯 A estratégia do dia
-Dada a natureza lateral do mercado, a estratégia mais segura é segurar ativos de longo prazo e evitar compras impulsivas nas altas recentes sem confirmação de tendência. Aproveite as quedas em cartas com alta probabilidade de retorno, como as listadas na previsão, para acumular moedas com menor risco de perda.
+Diante do mercado lateral, o foco deve ser na compra seletiva das cartas com alta probabilidade de valorização, como Neves e Nico Williams. Evite expor capital excessivo em ativos em queda livre como Mühlhaus e Azkona, priorizando operações de curto prazo nos ativos previstos para alta.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -114,16 +114,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Rudi Völler (89, Bundesliga), com +53.3% em 24h, a 22k coins no Console (PS).
+Anthony Nwakaeme (87, Trendyol Süper Lig), com +59.7% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Mallory Swanson (88), -37.5% em 24h, a 91k coins.
+Larissa Mühlhaus (87), -43.3% em 24h, a 40k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Petr Čech (89) — 95% de probabilidade de alta, a 125k coins.
+Pelo modelo FutQuant, Rúben Neves (87) — 95% de probabilidade de alta, a 31k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 262 cartas em alta contra 261 em queda (média 0.96%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 239 cartas em alta contra 296 em queda (média -0.84%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
