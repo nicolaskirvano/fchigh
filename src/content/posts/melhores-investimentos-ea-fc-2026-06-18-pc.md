@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:28:21.000Z
+pubDatetime: 2026-06-18T19:39:19.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
