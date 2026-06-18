@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:39:21.000Z
+pubDatetime: 2026-06-18T20:12:59.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,19 +29,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +1.9% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | +18.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | +9.1% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 3k coins | -29.2% |
 | Alexander Isak | 88 | ST | Premier League | 6k coins | +115.4% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -5.9% |
-| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 12k coins | -12.7% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 14k coins | -9.6% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -9.8% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 12k coins | +9.1% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 14k coins | 0% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +100% |
 | Jules Koundé | 87 | RB | LALIGA EA SPORTS | 4k coins | +200% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +6.8% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +9.1% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +6.7% |
-| Louisa Necib | 87 | LM | D1 Arkema | 13k coins | +15.9% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +7.4% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
 | Rui Costa | 87 | CAM | Serie A TIM | 15k coins | -9.2% |
 
 
@@ -49,13 +48,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins**
 
 - **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Alexander Isak (88, ST)** da Premier League, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -65,8 +64,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📊 Nossa metodologia em 30 segundos
+Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
 
 
 ## ❓ Perguntas frequentes
