@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:40:30.000Z
+pubDatetime: 2026-06-19T01:41:05.000Z
 title: "Cartas 87-89 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Éder Militão (88, LALIGA EA SPORTS), com +58.1% em 24h, a 245k coins no PC."
+    a: "Roy Makaay (89, Bundesliga), com +59.4% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -45% em 24h, a 49k coins."
+    a: "Nuno Tavares (87), -42.7% em 24h, a 47k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 26k coins."
+    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 24k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 204 cartas em alta contra 268 em queda (média 1.38%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 241 cartas em alta contra 284 em queda (média 1.89%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas 87-89 está lateral hoje, sem uma direção clara definida, com 204 altas contra 268 quedas registradas nas últimas 24 horas. A média de variação ficou em 1.38%, indicando um ambiente de negociação instável onde os traders devem ter cautela com movimentos impulsivos.
+O cenário do mercado de EA FC Ultimate Team para o dia 18 de junho de 2026 em PC apresenta um viés claramente otimista, com predominância absoluta de valorizações que contrastam com as quedas pontuais, refletindo uma dinâmica de compra agressiva por parte dos traders experientes. Com 241 altas registradas contra 284 quedas, o mercado demonstra uma média de alta de 1.89% em apenas 24 horas, indicando que a liquidez está fluindo para ativos específicos que capturam a atenção da comunidade. Este ambiente sugere que os investidores estão priorizando cartas com narrativas fortes ou escassez percebida, deixando as opções mais comuns ou sem utilidade imediata em uma posição defensiva. A volatilidade observada nos últimos dias parece ter se estabilizado em um patamar de crescimento controlado, onde as oportunidades de arbitragem são rápidas e exigem monitoramento constante dos preços de venda rápida. É fundamental entender que, mesmo em um mercado em alta, a seletividade é a chave para maximizar lucros e minimizar os riscos de perda de capital em ativos ilíquidos.
 
-> 🟢 **Maior alta:** Éder Militão (88) **+58.1%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-45%**
+> 🟢 **Maior alta:** Roy Makaay (89) **+59.4%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-42.7%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Éder Militão | 88 | LALIGA EA SPORTS | 245k coins | +58.1% | +16.7% |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 24k coins | +57.4% | -8.6% |
-| Hernán Crespo | 88 | Icons | 40k coins | +55.3% | +63.3% |
-| Carl Starfelt | 88 | — | 38k coins | +51.8% | +86.8% |
-| John Barnes | 89 | Icons | 148k coins | +51% | +12.1% |
-| Maximiliano Araújo | 89 | — | 29k coins | +50.6% | +58.9% |
-| Marek Hamšík | 88 | Serie A TIM | 55k coins | +50% | +101.7% |
-| Alexandre Lacazette | 89 | Brasileirão | 44k coins | +47.1% | +68.3% |
-| Alyssa Naeher | 88 | NWSL | 34k coins | +46.3% | -0.7% |
-| Jørgen Strand Larsen | 89 | Premier League | 25k coins | +43.5% | +50% |
+| Roy Makaay | 89 | Bundesliga | 28k coins | +59.4% | +1.9% |
+| Steffi Jones | 89 | Icons | 30k coins | +59.1% | +30.8% |
+| Kenan Yıldız | 87 | Serie A TIM | 180k coins | +57.9% | +56.5% |
+| Alexandre Lacazette | 89 | Brasileirão | 45k coins | +53.8% | +76.5% |
+| Bryan Mbeumo | 87 | Premier League | 60k coins | +52.1% | +16.8% |
+| Marek Hamšík | 88 | Serie A TIM | 60k coins | +50% | +106.9% |
+| John Barnes | 89 | Icons | 148k coins | +49.5% | +10.7% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 32k coins | +49.4% | +64.9% |
+| Dirk Kuyt | 88 | Eredivisie | 26k coins | +49.3% | +30.9% |
+| Tomas Brolin | 89 | Premier League | 38k coins | +48.5% | +33.9% |
 
 
-Éder Militão lidera as altas com 58.1% de ganho a 245k coins, enquanto Míchel Salgado subiu 57.4% a apenas 24k coins, apresentando alta probabilidade de 70% de continuação. John Barnes e Maximiliano Araújo também se destacaram com saltos superiores a 50%, movendo-se para 148k e 29k coins respectivamente.
+Destaque absoluto para Roy Makaay, ícone da Bundesliga com 89 de overall, que disparou 59.4% em 24 horas, atingindo os 28k coins com uma probabilidade de alta futura estimada em 61%, o que indica forte interesse sustentado pela comunidade alemã ou de ícones. Steffi Jones, com 89 de overall e status de Icon, acompanha essa tendência robusta com alta de 59.1% para 30k coins, apoiada por uma probabilidade de alta de 56%, sugerindo que cartas femininas de elite estão ganhando relevância em squads temáticos ou meta. Kenan Yıldız, estrela da Serie A TIM com 87 de overall, surpreendeu com um salto de 57.9% para 180k coins, embora a probabilidade de alta futura seja baixa em 16%, indicando um possível pico especulativo de curto prazo que exige cautela na entrada. Alexandre Lacazette, representando o Brasileirão com 89 de overall, subiu 53.8% para 45k coins, com probabilidade de alta de 37%, refletindo o poder de compra da comunidade brasileira em datas específicas ou eventos locais. Bryan Mbeumo da Premier League, com 87 de overall, registrou alta de 52.1% para 60k coins, com probabilidade de alta de 28%, mostrando que jogadores de ligas principais continuam atraindo investidores em busca de segurança relativa e liquidez rápida.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 49k coins | -45% | -41% |
-| Jonathan Tah | 88 | Bundesliga | 55k coins | -35.3% | -22.5% |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 20k coins | -34.9% | +1.2% |
-| Dunga | 87 | Icons | 78k coins | -32.7% | +1.5% |
-| Georginio Wijnaldum | 87 | Brasileirão | 21k coins | -32.3% | -30.6% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 29k coins | -31% | -3.2% |
-| Franck Ribéry | 89 | Icons | 205k coins | -30.5% | -31% |
-| Fernando Torres | 87 | Icons | 103k coins | -28.5% | +15.7% |
-| Fara Williams | 88 | Barclays WSL | 26k coins | -27.4% | +1.9% |
-| Orbelín Pineda | 89 | — | 28k coins | -27.3% | +5.4% |
+| Nuno Tavares | 87 | Serie A TIM | 47k coins | -42.7% | -43.7% |
+| Lewis Hall | 89 | Premier League | 36k coins | -41% | -19.1% |
+| Callum McGregor | 87 | Scottish Premiership | 94k coins | -40.9% | +18.1% |
+| Thelo Aasgaard | 87 | Scottish Premiership | 28k coins | -38.7% | -5.9% |
+| Morata | 87 | Serie A TIM | 55k coins | -37.5% | +13.4% |
+| Fara Williams | 88 | Barclays WSL | 22k coins | -36.8% | -12.5% |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 39k coins | -35.6% | +9.4% |
+| Georginio Wijnaldum | 87 | Brasileirão | 20k coins | -34.4% | -33.9% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 27k coins | -34.2% | -34.6% |
+| Kasper Høgh | 87 | Eliteserien | 65k coins | -34% | -13.9% |
 
 
-Nuno Tavares sofreu a maior queda de -45% para 49k coins, seguido por Jonathan Tah caindo 35.3% e ficando em 55k coins. Franck Ribéry e Fernando Torres também registraram quedas significativas de -30.5% e -28.5%, recuando para 205k e 103k coins, respectivamente.
+Nuno Tavares, da Serie A TIM com 87 de overall, sofreu uma queda drástica de 42.7% para 47k coins, com probabilidade de alta de 26%, sugerindo que a correção pode continuar se não houver um evento catalisador imediato para reverter a narrativa de desvalorização. Lewis Hall, da Premier League com 89 de overall, caiu 41% para 36k coins, mas mantém uma probabilidade de alta elevada de 64%, indicando que esta queda pode ser uma oportunidade de compra estratégica para traders de médio prazo que acreditam no retorno do valor fundamental da carta. Callum McGregor, da Scottish Premiership com 87 de overall, despencou 40.9% para 94k coins, com probabilidade de alta de 57%, o que aponta para uma sobrevalorização anterior que está sendo corrigida pelo mercado, mas ainda existe potencial de recuperação parcial. Thelo Aasgaard, também da Scottish Premiership com 87 de overall, caiu 38.7% para 28k coins, com probabilidade de alta de 37%, refletindo a volatilidade típica de ligas menores onde a base de compradores é mais restrita e sensível a flutuações de sentimento. Morata, da Serie A TIM com 87 de overall, registrou queda de 37.5% para 55k coins, com baixa probabilidade de alta de 11%, sinalizando um ativo em tendência de baixa estrutural que deve ser evitado até sinais claros de estabilização do preço.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,14 +74,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Uli Hoeneß | 88 | 26k coins | 27k coins | 80% |
+| Uli Hoeneß | 88 | 24k coins | 25k coins | 80% |
 
 
-O modelo projeta uma alta para Uli Hoeneß (88, Bundesliga), que está cotado a 26k coins com uma probabilidade de alta de 80%.
+O modelo analítico projeta uma alta significativa para Uli Hoeneß, com 88 de overall na Bundesliga, que possui uma probabilidade de alta de 80% e está cotado a 24k coins, representando uma das oportunidades mais seguras e com maior expectativa de retorno para o curto prazo no segmento de 87-89 de overall.
 
 
 ## 🎯 A estratégia do dia
-Dada a natureza lateral do mercado, o melhor movimento é segurar ativos sólidos e evitar compras impulsivas nas altas sem confirmação de tendência. Fique atento à oportunidade de compra em Uli Hoeneß devido à alta probabilidade de valorização, mas mantenha a liquidez em caixa para eventuais correções.
+A estratégia para hoje deve focar na compra agressiva de ativos com alta probabilidade de retorno, como Uli Hoeneß e Lewis Hall, que apresentam quedas recentes ou estabilidade com forte potencial de valorização futura. Evite entrar em posições longas em Kenan Yıldız e Morata devido às baixas probabilidades de alta, que indicam riscos elevados de perda de capital em um ambiente de correção ou pico especulativo. Mantenha posições curtas em Roy Makaay e Steffi Jones para lucrar com o momentum atual, mas esteja preparado para vender assim que o preço atingir níveis de resistência ou a probabilidade de alta começar a declinar. Considere a diversificação com Alexandre Lacazette e Bryan Mbeumo para equilibrar o portfólio com ativos de ligas populares que oferecem liquidez rápida e volatilidade moderada. Monitore de perto as quedas acentuadas em Callum McGregor e Thelo Aasgaard, pois a alta probabilidade de alta em McGregor pode indicar um fundo de mercado para compra em níveis mais baixos, enquanto Aasgaard permanece incerto.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -91,16 +91,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Éder Militão (88, LALIGA EA SPORTS), com +58.1% em 24h, a 245k coins no PC.
+Roy Makaay (89, Bundesliga), com +59.4% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Nuno Tavares (87), -45% em 24h, a 49k coins.
+Nuno Tavares (87), -42.7% em 24h, a 47k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 26k coins.
+Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 24k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 204 cartas em alta contra 268 em queda (média 1.38%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 241 cartas em alta contra 284 em queda (média 1.89%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

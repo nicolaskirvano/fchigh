@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:39:45.000Z
+pubDatetime: 2026-06-19T01:40:21.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 47k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Morata (87, Serie A TIM) lidera, com +84.8% em 7 dias a 42k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,15 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+89.3% em 7 dias** a 47k coins.
+> 🔝 **Destaque:** Morata (87) acumula **+84.8% em 7 dias** a 42k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário de EA FC Ultimate Team para consoles PlayStation, datado de 18/06/2026, o mercado das cartas de overall 87 a 89 apresenta oportunidades distintas baseadas na volatilidade dos últimos sete dias. Entre as opções mais promissoras, Maya Le Tissier (88, Barclays WSL) destaca-se com uma alta de 19,5% em 24 horas, cotada a 47k coins. Com uma probabilidade de alta de 95%, ela representa o investimento mais seguro do grupo. Nwankwo Kanu (87, Premier League) também chama atenção, subindo 16,2% em 24h a 45k coins, sustentado por uma probabilidade de alta de 59%, o que indica um potencial sólido de valorização contínua no curto prazo.
+O mercado de EA FC Ultimate Team em consoles PlayStation, analisado na data de 18 de junho de 2026, apresenta uma dinâmica interessante para investidores que buscam oportunidades em cartas com ratings entre 87 e 89. Ao observar a tendência de valorização dos últimos sete dias, destaca-se uma clara divisão entre ativos de baixo risco com alta probabilidade de crescimento e ativos de alto risco com potencial de retorno explosivo. A análise foca exclusivamente nos dados disponíveis, identificando quais cartas oferecem as melhores condições de entrada com base na performance recente de 24 horas e nas probabilidades estatísticas de continuidade da alta.
 
-Outras cartas mostram movimentos relevantes, embora com riscos variados. Adam Wharton (88, Premier League) acompanha a performance de Le Tissier com alta de 19,5% em 24h, valendo 37k coins, mas sua probabilidade de alta é de apenas 8%, sugerindo cautela. Mario Lemina (89, Trendyol Süper Lig) registrou 6,4% em 24h a 100k coins, com probabilidade de alta de 44%, posicionando-se como uma opção intermediária. Já Francisco Conceição (89, Serie A TIM) e João Moutinho (88, Liga Portugal) tiveram aumentos de 11,8% e 10,1% respectivamente, mas ambas possuem probabilidade de alta de apenas 5%, indicando que os picos atuais podem ser efêmeros.
+Entre as opções mais conservadoras e seguras, Bastian Schweinsteiger (89, Icons) e Kim Little (87, Barclays WSL) se destacam imediatamente. Schweinsteiger, valendo 147 mil coins, registrou um aumento de 13,1% em apenas 24 horas e possui uma probabilidade de alta de 95%. Isso indica uma estabilidade excepcional no topo do mercado, tornando-o um porto seguro para quem deseja proteger capital enquanto obtém ganhos consistentes. Da mesma forma, Kim Little, a uma fração do preço com 26 mil coins, também exibe 95% de probabilidade de alta, apesar de seu crescimento de 24 horas ser mais modesto, com apenas 8%. Esses dois ativos sugerem que a demanda por ícones e jogadoras de elite feminina permanece robusta e previsível.
 
-Para investidores mais conservadores ou buscando entry-level, as opções de menor custo requerem análise precisa. Georginio Wijnaldum (87, Brasileirão) e Jawad El Yamiq (87, LaLiga Hypermotion) subiram 5% e 10,8% em 24h, valendo 25k e 34k coins, mas com probabilidade de alta de 5%. Ilias Akhomach (88, LALIGA EA SPORTS) subiu 4,2% a 35k coins, com probabilidade de alta de 8%. Por fim, Julian Quiñones (87, ROSHN Saudi League) teve alta mínima de 1% a 95k coins, com probabilidade de 23%. Considerando apenas a tendência de valorização, Le Tissier e Kanu oferecem o equilíbrio mais racional entre risco e retorno potencial no momento.
+Antoine Griezmann (87, LALIGA EA SPORTS) surge como a estrela de maior potencial de curto prazo entre as cartas de 87. Com um impressionante salto de 36,7% em 24 horas, atingindo 42 mil coins, ele combina uma performance agressiva com uma probabilidade de alta de 95%. Essa combinação é rara e sugere que a carta pode estar em fase de pico de demanda, possivelmente devido a eventos do jogo ou promoções específicas da LaLiga. Para investidores dispostos a assumir riscos moderados, Griezmann oferece uma das relações risco-retorno mais atraídas do dia, sendo uma entrada obrigatória para carteiras equilibradas.
+
+Na faixa de 89, Javier Mascherano (LALIGA EA SPORTS) e Estefanía Banini (Liga F) merecem atenção por seus movimentos distintos. Mascherano, a 66 mil coins, subiu 23,7% em 24 horas com uma probabilidade de alta de 50%, indicando um momento de indecisão do mercado que pode resultar em volatilidade. Por outro lado, Estefanía Banini, valendo apenas 22 mil coins, impressiona com um aumento de 30,4% em 24 horas, embora sua probabilidade de alta seja de apenas 27%. Isso sugere um movimento especulativo de curto prazo, ideal para operações rápidas ("quick flips") onde o investidor busca lucrar com o impulso imediato antes de uma possível correção.
+
+Para os investidores mais arriscados, cartas como Morata (87, Serie A TIM) e Jens Petter Hauge (88, Eliteserien) oferecem oportunidades de alto risco. Morata subiu 23,2% para 42 mil coins, mas com apenas 5% de probabilidade de alta, indicando que o preço pode estar inflado temporariamente. Hauge, a 48 mil coins, com 13,1% de alta e 5% de probabilidade, segue lógica similar. Entrar nessas cartas requer timing preciso, pois a tendência de alta parece insustentável a longo prazo, sendo mais adequado para quem monitora o mercado em tempo real para vender no topo da volatilidade.
+
+Finalmente, Nwankwo Kanu (87, Premier League) e Francisco Conceição (89, Serie A TIM) representam casos de cautela. Kanu, a 45 mil coins, teve alta de 18,4% com 59% de probabilidade, mostrando um meio-termo interessante. Já Conceição, a 75 mil coins, subiu 11% com apenas 5% de probabilidade de alta, sinalizando fraqueza na continuidade do movimento. Julian Quiñones (87), apesar de estar a 101 mil coins, mostra apenas 1% de alta e 23% de probabilidade, sendo a menos atrativa para entrada imediata. Em resumo, a estratégia ideal hoje foca em Griezmann e Schweinsteiger para segurança, e Banini para operações ágeis de curto prazo.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -39,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maya Le Tissier | 88 | Barclays WSL | 47k coins | +19.5% | +89.3% | 95% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 100k coins | +6.4% | +85.2% | 44% |
-| Ilias Akhomach | 88 | LALIGA EA SPORTS | 35k coins | +4.2% | +80.5% | 8% |
-| Nwankwo Kanu | 87 | Premier League | 45k coins | +16.2% | +75.5% | 59% |
-| João Moutinho | 88 | Liga Portugal | 104k coins | +10.1% | +74.4% | 5% |
-| Georginio Wijnaldum | 87 | Brasileirão | 25k coins | +5% | +70.3% | 5% |
-| Julian Quiñones | 87 | ROSHN Saudi League | 95k coins | +1% | +69.5% | 23% |
-| Francisco Conceição | 89 | Serie A TIM | 76k coins | +11.8% | +64.3% | 5% |
-| Jawad El Yamiq | 87 | LaLiga Hypermotion | 34k coins | +10.8% | +63.6% | 5% |
-| Adam Wharton | 88 | Premier League | 37k coins | +19.5% | +61.5% | 8% |
-| Gervinho | 87 | Serie A TIM | 119k coins | +27% | +61.1% | 95% |
-| Hanna Lundkvist | 87 | Barclays WSL | 42k coins | +1.2% | +60.4% | 39% |
-| Ada Hegerberg | 87 | D1 Arkema | 36k coins | +17.7% | +55.3% | 5% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | +17.9% | +53.5% | 50% |
-| Frank Rijkaard | 89 | Icons | 130k coins | +16.5% | +53.1% | 60% |
+| Morata | 87 | Serie A TIM | 42k coins | +23.2% | +84.8% | 5% |
+| Kim Little | 87 | Barclays WSL | 26k coins | +8% | +80% | 95% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 42k coins | +36.7% | +76.8% | 95% |
+| Nwankwo Kanu | 87 | Premier League | 45k coins | +18.4% | +73.1% | 59% |
+| Jens Petter Hauge | 88 | Eliteserien | 48k coins | +13.1% | +72.7% | 5% |
+| Bastian Schweinsteiger | 89 | Icons | 147k coins | +13.1% | +62.4% | 95% |
+| Francisco Conceição | 89 | Serie A TIM | 75k coins | +11% | +62.4% | 5% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 66k coins | +23.7% | +62.1% | 50% |
+| Estefanía Banini | 89 | Liga F | 22k coins | +30.4% | +60.7% | 27% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 101k coins | +1% | +60.3% | 23% |
+| Manaka Matsukubo | 89 | NWSL | 34k coins | +20.7% | +59.1% | 50% |
+| Zico | 87 | Icons | 159k coins | +22.6% | +58.4% | 8% |
+| Mateo Chávez | 89 | — | 78k coins | +7.5% | +57.8% | 44% |
+| Antonio Di Natale | 88 | Serie A TIM | 93k coins | +20% | +54.8% | 8% |
+| Ada Hegerberg | 87 | D1 Arkema | 36k coins | +15.3% | +52.1% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Maya Le Tissier (88)** — 47k coins, **+89.3% em 7 dias** (+19.5% em 24h). Preço +58% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Morata (87)** — 42k coins, **+84.8% em 7 dias** (+23.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Mario Lemina (89)** — 100k coins, **+85.2% em 7 dias** (+6.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kim Little (87)** — 26k coins, **+80% em 7 dias** (+8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ilias Akhomach (88)** — 35k coins, **+80.5% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Antoine Griezmann (87)** — 42k coins, **+76.8% em 7 dias** (+36.7% em 24h). Preço em linha com a média de 7 dias (+7%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Nwankwo Kanu (87)** — 45k coins, **+75.5% em 7 dias** (+16.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nwankwo Kanu (87)** — 45k coins, **+73.1% em 7 dias** (+18.4% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **João Moutinho (88)** — 104k coins, **+74.4% em 7 dias** (+10.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Jens Petter Hauge (88)** — 48k coins, **+72.7% em 7 dias** (+13.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -84,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 47k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Morata (87, Serie A TIM) lidera, com +84.8% em 7 dias a 42k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
