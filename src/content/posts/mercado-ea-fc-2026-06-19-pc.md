@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:40:50.000Z
+pubDatetime: 2026-06-19T22:43:38.000Z
 title: "Cartas 87-89 no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC."
+    a: "Fara Williams (88, Barclays WSL), com +58.4% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Wesley (88), -46.7% em 24h, a 75k coins."
+    a: "Robert Pirès (89), -49.7% em 24h, a 41k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 26k coins."
+    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 15k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 185 cartas em alta contra 266 em queda (média -1.56%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 193 cartas em alta contra 276 em queda (média -2.72%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de cartas na faixa de 87 a 89 de rating em PC apresenta um cenário predominantemente deflacionário hoje, 19 de junho de 2026, com um sentimento claramente vendedor que impacta a maioria dos ativos negociados. A análise dos fluxos de negociação revela uma assimetria significativa, com 266 cartas registrando quedas de preço contra apenas 185 altas, resultando em uma média de variação negativa de 1,56% nas últimas 24 horas. Esse ambiente hostil para o trading de curto prazo exige cautela extrema, pois a liquidez está sendo drenada por vendedores impulsionados pela percepção de desvalorização contínua ou pela necessidade de coins para outras campanhas. O tom do dia é de oportunidade seletiva para compradores de alta convicção, mas de risco elevado para aqueles que tentam reverter tendências sem suporte técnico sólido. A volatilidade extrema em ativos específicos cria distorções momentâneas que podem ser exploradas, mas a regra geral permanece de precaução diante da pressão vendedora predominante.
+O mercado de cartas na faixa de rating 87-89 para PC apresenta um cenário de forte pressão vendedora neste dia 19 de junho de 2026, onde a psicologia de quem busca liquidez imediata parece ter dominado as negociações ao longo das últimas 24 horas. Com uma média negativa de -2.72% no segmento, observamos um desequilíbrio claro na oferta e demanda, evidenciado pelo fato de que 276 jogadores sofreram quedas de preço enquanto apenas 193 registraram altas, criando um ambiente hostil para investidores que buscam ganhos rápidos sem análise técnica profunda. Este clima de cautela extrema sugere que muitos traders estão realizando lucros ou cortando perdas antes de eventos de fim de semana, gerando volatilidade artificial em ativos que historicamente deveriam manter estabilidade maior. A predominância de quedas indica que o mercado está precificando incertezas futuras, possivelmente relacionadas a atualizações de jogo ou promoções de fim de ciclo, o que exige que os participantes estejam extremamente atentos aos fundamentos reais de cada carta em vez de seguir o fluxo emocional da maioria. Entender essa dinâmica de 'clima vendedor' é crucial para identificar oportunidades de compra em ativos de qualidade que foram despejados por pânico, permitindo que traders mais experientes aproveitem a desvalorização temporária de ícones e estrelas consolidadas.
 
-> 🟢 **Maior alta:** Javier Mascherano (89) **+51.9%** · 🔴 **Maior baixa:** Wesley (88) **-46.7%**
+> 🟢 **Maior alta:** Fara Williams (88) **+58.4%** · 🔴 **Maior baixa:** Robert Pirès (89) **-49.7%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 100k coins | +51.9% | +42.1% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 120k coins | +50.9% | 0% |
-| Lauren James | 89 | Barclays WSL | 189k coins | +50% | -1% |
-| Henrik Larsson | 88 | Icons | 100k coins | +49.2% | +294% |
-| Jaedyn Shaw | 89 | NWSL | 42k coins | +48.7% | +104.9% |
-| Kenan Yıldız | 87 | Serie A TIM | 140k coins | +41.4% | +44.6% |
-| Cody Gakpo | 89 | Premier League | 157k coins | +39.2% | +19.3% |
-| Rubén García | 87 | LALIGA EA SPORTS | 25k coins | +36.4% | -24.5% |
-| Tomas Brolin | 89 | Premier League | 35k coins | +33% | +45.4% |
-| Morata | 87 | Serie A TIM | 84k coins | +33% | +77.3% |
+| Fara Williams | 88 | Barclays WSL | 40k coins | +58.4% | +61.6% |
+| Henrik Larsson | 88 | Icons | 98k coins | +52.7% | +268.2% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 100k coins | +51.9% | +34.5% |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 120k coins | +50.9% | +9.1% |
+| Laura Georges | 89 | D1 Arkema | 30k coins | +50.7% | +23.6% |
+| Serhou Guirassy | 89 | Bundesliga | 120k coins | +50.6% | +21.4% |
+| Ricardo Carvalho | 88 | Liga Portugal | 30k coins | +48.1% | +51.9% |
+| Rocío Gálvez | 88 | Liga F | 34k coins | +44.7% | +58.1% |
+| Rúben Neves | 87 | ROSHN Saudi League | 32k coins | +44.4% | +3.2% |
+| Georginio Wijnaldum | 87 | Brasileirão | 30k coins | +42.9% | -3.2% |
 
 
-Entre os poucos ativos que conseguiram defiar a gravidade do mercado, Javier Mascherano (89, LALIGA EA SPORTS) lidera o ranking com uma impressionante alta de 51,9% em 24 horas, atingindo 100k coins, sustentado por uma probabilidade de alta de 70% que sugere forte demanda institucional ou de squads.紧随其后的是 Marc-André ter Stegen (89, LALIGA EA SPORTS), que subiu 50,9% para 120k coins, com uma probabilidade de alta de 58%, indicando que a valorização é menos consolidada, mas ainda assim robusta o suficiente para atrair compradores de última hora. Lauren James (89, Barclays WSL) também se destaca com alta de 50% para 189k coins, embora sua probabilidade de alta de apenas 36% aponte para uma possível correção iminente ou flutuação especulativa sem lastro fundamentalista sólido. Henrik Larsson (88, Icons) registrou alta de 49,2% para 100k coins, com probabilidade de alta de 50%, equilibrando risco e retorno em um ativo icônico que costuma ter flutuações baseadas em eventos de nostalgia ou squads temáticos. Jaedyn Shaw (89, NWSL) completou o top 5 com alta de 48,7% para 42k coins, mas sua baixa probabilidade de alta de 33% alerta traders para a fragilidade desse movimento, sugerindo que a valorização pode ser efêmera e driven por volume baixo.
+Entre os poucos ativos que conseguiram se valorizar contra a maré descendente, destaca-se Fara Williams, com uma impressionante alta de 58.4% em 24 horas, atingindo 40k coins, um movimento impulsionado pela sua probabilidade de alta de 49% que atraiu compradores especulativos buscando exposição em ligas femininas com menor liquidez. Henrique Larsson também se firmou como um pilar de valorização no setor de Icons, subindo 52.7% para 98k coins, com uma probabilidade de alta de 50% que valida a tese de que ícones suecos continuam a ter demanda estrutural em times de alto orçamento que buscam eficiência de chemistry. Javier Mascherano apresentou um desempenho robusto com alta de 51.9% a 100k coins, e sua probabilidade de alta de 70% sugere que o mercado reconhece a escassez de volantes de elite com este perfil defensivo e físico, tornando-o um ativo de segura para compilações de times argentinos ou europeus de elite. Marc-André ter Stegen seguiu a tendência de valorização dos goleiros premium com 50.9% de ganho a 120k coins, apoiado por uma probabilidade de alta de 58%, indicando que a demanda por defesas de alto nível continua a superar a oferta disponível no mercado livre. Laura Georges, apesar de ter uma probabilidade de alta menor de apenas 20%, registrou um aumento de 50.7% a 30k coins, demonstrando como ativos de menor custo podem sofrer movimentos bruscos de compra quando há fluxo especulativo buscando alavancagem rápida em cartas de rating 89 da D1 Arkema.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wesley | 88 | Serie A TIM | 75k coins | -46.7% | -46.3% |
-| Robert Pirès | 89 | Icons | 44k coins | -46.1% | -30.2% |
-| Franck Ribéry | 88 | Icons | 90k coins | -43.2% | -26.9% |
-| Marek Hamšík | 89 | Serie A TIM | 30k coins | -39.7% | -18.6% |
-| Steve McManaman | 89 | Premier League | 46k coins | -39.1% | -35.3% |
-| Davor Šuker | 89 | Icons | 24k coins | -38.8% | -36.7% |
-| Mary Fowler | 87 | Barclays Women’s Super League | 23k coins | -38.6% | -17.5% |
-| Bruno Fernandes | 88 | Premier League | 59k coins | -38.5% | -8.9% |
-| Nicolas Pépé | 88 | LALIGA EA SPORTS | 20k coins | -37.5% | -27.2% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 60k coins | -36.7% | -28.6% |
+| Robert Pirès | 89 | Icons | 41k coins | -49.7% | -35.5% |
+| Steven Gerrard | 89 | Icons | 37k coins | -49.7% | -24.5% |
+| Koke | 88 | LALIGA EA SPORTS | 50k coins | -47.4% | -30.9% |
+| Neymar Jr | 87 | ROSHN Saudi League | 30k coins | -44.8% | -75.3% |
+| Steffi Jones | 89 | Icons | 20k coins | -42.9% | -13% |
+| Rasheedat Ajibade | 89 | D1 Arkema | 30k coins | -38.8% | -33.8% |
+| Loïc Badé | 88 | Bundesliga | 24k coins | -38.2% | -40.4% |
+| Jobe Bellingham | 89 | Bundesliga | 290k coins | -37.7% | -3.9% |
+| Dominik Szoboszlai | 87 | Premier League | 84k coins | -37.7% | -37.7% |
+| Cha Bum Kun | 88 | Icons | 125k coins | -36.2% | +6.7% |
 
 
-O lado das quedas é onde a pressão vendedora se faz mais evidente, com Wesley (88, Serie A TIM) sofrendo uma devastadora queda de 46,7% para 75k coins, apesar de manter uma probabilidade de alta de 58%, o que pode indicar um fundo técnico próximo ou uma venda forçada de longo prazo. Robert Pirès (89, Icons) também despenhou 46,1% para 44k coins, sendo particularmente interessante pois sua alta probabilidade de alta de 73% sugere que a queda atual é uma oportunidade de compra agressiva para traders que acreditam na revalorização de ícones clássicos. Franck Ribéry (88, Icons) caiu 43,2% para 90k coins, com probabilidade de alta de 42%, refletindo um mercado indeciso sobre o futuro imediato deste ativo, onde a falta de compra ativa está depreciando o preço rapidamente. Marek Hamšík (89, Serie A TIM) registrou queda de 39,7% para 30k coins, mas sua probabilidade de alta de 67% indica que a desvalorização pode ser temporária, possivelmente devido a uma saturação momentânea de ofertas ou vendas em lote. Steve McManaman (89, Premier League) caiu 39,1% para 46k coins, com a maior probabilidade de alta do grupo de baixas (77%), sinalizando fortemente que o ativo está subvalorizado e que a tendência de queda pode estar esgotada, atraindo compradores de valor.
+O lado oposto do espectro revela uma sangria significativa de valor em ativos de alta prestígio, liderada por Robert Pirès e Steven Gerrard, ambos com quedas drásticas de 49.7% em 24 horas, caindo para 41k e 37k coins respectivamente, o que reflete uma correção violenta em Icons que perderam o suporte de compradores institucionais. A queda acentuada de Koke, com -47.4% a 50k coins, sinaliza que meias de times espanhóis estão enfrentando resistência de preço, especialmente com uma probabilidade de alta de apenas 46% que desestimula a acumulação por parte de traders conservadores. Neymar Jr, embora seja um nome icônico, sofreu uma queda de -44.8% a 30k coins, e sua probabilidade de alta de 0% confirma que o ativo perdeu toda a confiança do mercado, tornando-se um ativo de risco extremo que deve ser evitado por qualquer estratégia de investimento sério. Steffi Jones, outro Icon feminino, recuou 42.9% para 20k coins, mostrando que mesmo cartas com probabilidade de alta de 56% não estão imunes à pressão vendedora generalizada que afeta o segmento de rating 89. Rasheedat Ajibade e Loïc Badé completam o cenário negativo com quedas de -38.8% e -38.2% respectivamente, a 30k e 24k coins, indicando que defensores e atacantes de ligas secundárias ou emergentes estão sendo liquidados em massa para liberar capital para investimentos em ativos mais seguros.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,14 +74,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Uli Hoeneß | 88 | 26k coins | 27k coins | 80% |
+| Uli Hoeneß | 88 | 15k coins | 16k coins | 80% |
 
 
-O modelo preditivo identifica Uli Hoeneß (88, Bundesliga) como o ativo com maior potencial de valorização no curto prazo, atribuindo-lhe uma probabilidade de alta de 80% enquanto cotado a 26k coins, o que representa uma oportunidade de baixo risco relativo em um mercado de baixa, sugerindo que a carta está subpreçada em relação à sua demanda histórica e potencial de uso em squads temáticos ou de liga.
+O modelo analítico projeta uma oportunidade isolada de valorização em Uli Hoeneß, uma carta de rating 88 da Bundesliga com preço atual de 15k coins, que apresenta a maior probabilidade de alta do dia com 80%, sugerindo que o ativo está subvalorizado em relação ao seu potencial de demanda futura.
 
 
 ## 🎯 Conclusão do dia
-A estratégia do dia deve focar na compra seletiva de ativos com alta probabilidade de valorização e queda recente significativa, como Robert Pirès e Steve McManaman, evitando-se a perseguição às altas especulativas de baixa probabilidade como Lauren James e Jaedyn Shaw. Recomenda-se segurar ativos icônicos com suporte técnico forte e evitar a venda em pânico de cartas com alta probabilidade de alta, pois o mercado vendedor tende a criar fundos falsos que são rapidamente revertidos por compradores institucionais. A compra de Uli Hoeneß a 26k coins oferece uma entrada de baixo risco para portfólio diversificado, enquanto a venda de ativos como Wesley deve ser evitada a menos que haja necessidade imediata de liquidez, dado o potencial de recuperação. O timing ideal para operar é durante os horários de pico de negociação, quando a liquidez aumenta e permite entrar e sair de posições com menor slippage, aproveitando a volatilidade extrema de ativos como Mascherano e ter Stegen apenas para trades de muito curto prazo. Em resumo, o dia exige paciência e disciplina, priorizando a qualidade da probabilidade sobre a magnitude da variação de preço para evitar armadilhas de mercado em um ambiente predominantemente deflacionário.
+A estratégia do dia deve focar na acumulação seletiva de ativos de alta probabilidade de recuperação, como Javier Mascherano e Rocío Gálvez, que combinam altas percentuais significativas com probabilidades de alta superiores a 70%, indicando força de compra estrutural e não apenas especulação momentânea. É fundamental evitar a compra apressada de ativos em queda livre como Neymar Jr e Robert Pirès, pois suas probabilidades de alta próximas de zero ou a queda abrupta sugerem que o suporte de preço ainda não foi estabelecido, expondo o trader a riscos de desvalorização contínua. Investidores devem considerar a venda de posições em ativos de alta volatilidade como Fara Williams e Laura Georges se os preços atingirem alvos de curto prazo, já que a probabilidade de alta menor pode indicar exaustão de compradores em níveis elevados. A manutenção de posições em Marc-André ter Stegen e Serhou Guirassy é recomendada para o médio prazo, dado que suas probabilidades de alta de 58% e 24% respectivamente, somadas aos preços elevados de 120k, indicam que são ativos de reserva de valor em vez de alvos de trading rápido. O timing ideal para entradas é no fechamento do dia, quando a pressão vendedora tende a diminuir e os preços de ativos fundamentais como Uli Hoeneß podem se estabilizar, permitindo compras mais seguras com margem de lucro maior para os próximos ciclos de mercado.
 
 
 ## 🔍 Como apuramos os preços
@@ -91,16 +91,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC.
+Fara Williams (88, Barclays WSL), com +58.4% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**  
-Wesley (88), -46.7% em 24h, a 75k coins.
+Robert Pirès (89), -49.7% em 24h, a 41k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 26k coins.
+Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 15k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 185 cartas em alta contra 266 em queda (média -1.56%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 193 cartas em alta contra 276 em queda (média -2.72%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
