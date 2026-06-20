@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:45:14.000Z
+pubDatetime: 2026-06-20T01:41:31.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +85.4% em 7 dias a 44k coins no PC, e o modelo dá 42% de chance de seguir subindo."
+    a: "Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC, e o modelo dá 50% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+85.4% em 7 dias** a 44k coins.
+> 🔝 **Destaque:** Andrea Barzagli (87) acumula **+88.5% em 7 dias** a 24k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do EA FC Ultimate Team para PC, datado de 19 de junho de 2026, a análise de cartas com rating entre 87 e 89 revela uma janela estratégica para investimentos de curto prazo. Com base na tendência de valorização observada nos últimos sete dias, o mercado apresenta uma distribuição clara de oportunidades, onde a combinação entre percentual de alta nas últimas 24 horas e a probabilidade projetada de continuação da tendência define os ativos mais atrativos. A volatilidade recente exige foco em perfis que unam crescimento consistente e margem de segurança estatística, evitando especulação sem lastro nos indicadores disponíveis.
+A análise do mercado de EA FC Ultimate Team em PC, datada de 19 de junho de 2026, revela um cenário dinâmico para as cartas de ratings entre 87 e 89, onde a volatilidade recente dita as oportunidades de investimento. Ao examinar as tendências de valorização nos últimos sete dias, com foco específico no desempenho das últimas 24 horas, identificamos ativos que apresentam não apenas crescimento de preço, mas também probabilidades estatísticas favoráveis para continuidade da alta. O objetivo é selecionar cartas que oferecem o melhor equilíbrio entre risco e retorno, priorizando aquelas com maior probabilidade de alta e ganhos percentuais consistentes, evitando especulações baseadas em dados inexistentes ou fora do escopo fornecido.
 
-Dentre as opções mais sólidas, Dominik Szoboszlai (87, Premier League) se destaca com um salto de 24,2% em 24 horas e a maior probabilidade de alta do grupo, 68%, comercializado a 236 mil coins. Apesar do preço elevado, a segurança estatística justifica a entrada para quem busca estabilidade. Paralelamente, Nadine Keßler (89, GPFBL) apresenta o segundo maior percentual de alta, 34,1%, com probabilidade de 56% e preço acessível de 22 mil coins, oferecendo excelente relação risco-retorno. Gilberto Silva (87, Premier League) e Junior Messias (87, Serie A TIM) completam o trio de destaque, com altas de 37,1% e 37,8% respectivamente, probabilidades de 54% e 51%, e valores de 20 mil e 28 mil coins, respectivamente, indicando forte momentum de compra no mercado.
+Entre as opções mais promissoras, Dominik Szoboszlai se destaca como o líder absoluto em termos de momentum. Com uma valorização impressionante de 25,5% em apenas 24 horas, sua carta de rating 87 da Premier League atingiu a marca de 236k coins. O que torna este ativo particularmente interessante para o investidor é a probabilidade de alta de 68%, a segunda mais alta do grupo analisado. Esse conjunto de dados sugere uma forte demanda de mercado, possivelmente impulsionada por atualizações de meta ou escassez de supply, consolidando Szoboszlai como uma aposta de alta confiança dentro da faixa de preço premium.
 
-Para carteiras com orçamento intermediário, Amar Dedić (88, s/liga) e Fábio Vieira (87, Bundesliga) merecem atenção. Dedić acumulou 17,5% de valorização em 24 horas, com probabilidade de alta de 54% e preço de 34 mil coins, enquanto Vieira registrou 21,2% de crescimento, mesma probabilidade de 54% e cotação de 30 mil coins. Ambos operam em faixas de preço equilibradas e exibem indicadores técnicos alinhados, sugerindo continuidade na tendência. Aleksandar Stanković (87, 1A Pro League), a 137 mil coins, oferece um patamar mais premium com 14,2% de alta e probabilidade de 44%, servindo como opção de diversificação para investidores que priorizam ativos de maior capitalização.
+No segmento de investimento de baixo custo, Mohamed Salah surge como uma oportunidade única, apesar de sua probabilidade de alta ser moderada. A carta de rating 89 da Premier League registrou o maior percentual de crescimento em 24 horas, com 32,9%, posicionando-se a apenas 24k coins. Embora a probabilidade de continuação da alta seja de apenas 22%, o baixo preço de entrada e o rating superior tornam Salah um ativo de alto retorno potencial para estratégias de giro rápido, onde o volume de transações pode compensar a menor probabilidade estatística de sustentação de preço a longo prazo.
 
-É fundamental observar que nem todas as cartas em alta apresentam o mesmo nível de confiança estatística. Jade Le Guilly (89, D1 Arkema), apesar do rating elevado, exibe apenas 6% de alta em 24 horas e probabilidade de 42%, a 44 mil coins,
+Para quem busca equilíbrio entre preço acessível e probabilidade robusta, Marek Hamšík é uma escolha sólida. Sua carta de rating 89 da Serie A TIM apreciou 2,8% em 24 horas, caindo para 56k coins, mas carrega a maior probabilidade de alta do conjunto, com 67%. Essa combinação indica um mercado estável e em tendência de fundo ascendente, ideal para investidores que preferem minimizar riscos em detrimento de ganhos explosivos imediatos. A consistência histórica implícita nessa alta probabilidade sugere que Hamšík pode ser uma reserva de valor confiável nos próximos ciclos de mercado.
+
+Outros ativos merecem atenção por suas características específicas. Juan Mata (88, A-League) apresenta uma valorização de 18,9% e uma probabilidade de alta de 57% a 54k coins, oferecendo um meio-termo atrativo. Andrea Barzagli (87, Serie A TIM) também se destaca com 11,4% de alta e 50% de probabilidade a 24k coins, sendo uma excelente opção de entrada barata com chances razoáveis de lucratividade. Já Kelechi Iheanacho (87, Scottish Premiership), apesar do baixo crescimento de 1,7%, possui uma probabilidade de alta de 59% a 30k coins, indicando um potencial de correção de preço para cima em um horizonte ligeiramente mais longo.
+
+Por fim, cartas como Cláudio Braga (87, Scottish Premiership) com 9,1% de alta e 38% de probabilidade, e Pierre Lees-Melou (87, Ligue 1 McDonald's) com 16% de alta e 48% de probabilidade, oferecem alternativas diversificadas. Morata (87, Serie A TIM) e Jack McGlynn (87, MLS) apresentam probabilidades mais baixas (11% e 17%, respectivamente), sugerindo que suas altas recentes podem ser correções de curto prazo. Portanto, as melhores entradas hoje são Szoboszlai pela força do momentum, Hamšík pela segurança estatística e Salah pela alavancagem de preço baixo com rating alto, sempre considerando a volatilidade inerente ao mercado de 19/06/2026.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 89 | D1 Arkema | 44k coins | +6% | +85.4% | 42% |
-| Dominik Szoboszlai | 87 | Premier League | 236k coins | +24.2% | +80.2% | 68% |
-| Amar Dedić | 88 | — | 34k coins | +17.5% | +72% | 54% |
-| Mohamed Salah | 89 | Premier League | 24k coins | +17.5% | +67.9% | 22% |
-| Aleksandar Stanković | 87 | 1A Pro League | 137k coins | +14.2% | +65.1% | 44% |
-| Nadine Keßler | 89 | GPFBL | 22k coins | +34.1% | +63.9% | 56% |
-| Gilberto Silva | 87 | Premier League | 20k coins | +37.1% | +60.4% | 54% |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 22k coins | +6.7% | +58.9% | 54% |
-| Junior Messias | 87 | Serie A TIM | 28k coins | +37.8% | +54.8% | 51% |
-| Fábio Vieira | 87 | Bundesliga | 30k coins | +21.2% | +53.8% | 54% |
-| Joelle Wedemeyer | 89 | GPFBL | 24k coins | +12% | +51.4% | 18% |
-| Pernille Harder | 87 | GPFBL | 34k coins | +9.7% | +51.1% | 23% |
-| Croix Bethune | 87 | NWSL | 42k coins | +7.8% | +49.5% | 25% |
-| Bruno Fernandes | 88 | Premier League | 60k coins | +7.3% | +49.4% | 29% |
-| Benedict Hollerbach | 87 | Bundesliga | 27k coins | +17.9% | +47.4% | 66% |
+| Andrea Barzagli | 87 | Serie A TIM | 24k coins | +11.4% | +88.5% | 50% |
+| Morata | 87 | Serie A TIM | 64k coins | +8.3% | +88.4% | 11% |
+| Juan Mata | 88 | A-League | 54k coins | +18.9% | +76% | 57% |
+| Kelechi Iheanacho | 87 | Scottish Premiership | 30k coins | +1.7% | +75% | 59% |
+| Marek Hamšík | 89 | Serie A TIM | 56k coins | +2.8% | +69.7% | 67% |
+| Cláudio Braga | 87 | Scottish Premiership | 30k coins | +9.1% | +69% | 38% |
+| Dominik Szoboszlai | 87 | Premier League | 236k coins | +25.5% | +68.6% | 68% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 28k coins | +16% | +68.1% | 48% |
+| Mohamed Salah | 89 | Premier League | 24k coins | +32.9% | +66.1% | 22% |
+| Jack McGlynn | 87 | MLS | 30k coins | +3.6% | +65.2% | 17% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 30k coins | +14.4% | +63% | 71% |
+| Eduardo Quaresma | 88 | Liga Portugal | 49k coins | +11.4% | +57.3% | 59% |
+| Aleksandar Stanković | 87 | 1A Pro League | 127k coins | +17.1% | +56.6% | 44% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 76k coins | +11.7% | +55.3% | 58% |
+| Leah Williamson | 88 | Barclays WSL | 50k coins | +27.6% | +54.3% | 18% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Le Guilly (89)** — 44k coins, **+85.4% em 7 dias** (+6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Barzagli (87)** — 24k coins, **+88.5% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Dominik Szoboszlai (87)** — 236k coins, **+80.2% em 7 dias** (+24.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Morata (87)** — 64k coins, **+88.4% em 7 dias** (+8.3% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Amar Dedić (88)** — 34k coins, **+72% em 7 dias** (+17.5% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Juan Mata (88)** — 54k coins, **+76% em 7 dias** (+18.9% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mohamed Salah (89)** — 24k coins, **+67.9% em 7 dias** (+17.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kelechi Iheanacho (87)** — 30k coins, **+75% em 7 dias** (+1.7% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Aleksandar Stanković (87)** — 137k coins, **+65.1% em 7 dias** (+14.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marek Hamšík (89)** — 56k coins, **+69.7% em 7 dias** (+2.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +90,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Jade Le Guilly (89, D1 Arkema) lidera, com +85.4% em 7 dias a 44k coins no PC, e o modelo dá 42% de chance de seguir subindo.
+Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC, e o modelo dá 50% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
