@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:41:20.000Z
+pubDatetime: 2026-06-20T19:41:28.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Jill Scott (87, Barclays WSL) lidera, com +79.4% em 7 dias a 46k coins no PC, e o modelo dá 32% de chance de seguir subindo."
+    a: "Andreia Jacinto (88, Liga F) lidera, com +85.7% em 7 dias a 32k coins no PC, e o modelo dá 58% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jill Scott (87) acumula **+79.4% em 7 dias** a 46k coins.
+> 🔝 **Destaque:** Andreia Jacinto (88) acumula **+85.7% em 7 dias** a 32k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário atual do mercado de EA FC Ultimate Team em PC, datado de 20/06/2026, a análise das cartas com rating entre 87 e 89 revela oportunidades distintas baseadas na tendência de valorização dos últimos sete dias. A volatilidade do mercado exige atenção aos indicadores de curto prazo, onde a variação de 24 horas e a probabilidade de alta futura servem como bússola para investidores cautelosos. Entre os destaques imediatos, Jill Scott (87, Barclays WSL) apresenta um movimento agressivo, com alta de 30,7% em 24 horas e uma probabilidade de alta de 32%, cotada a 46k coins. Essa carta feminina da liga inglesa demonstra momentum forte, sugerindo que a demanda por suas estatísticas específicas está em ascensão, embora o risco seja moderado devido à probabilidade de continuidade do crescimento.
+Ao analisar o mercado de EA FC Ultimate Team para o dia 20 de junho de 2026, o foco nas cartas de rating 87 a 89 revela oportunidades distintas, dependendo da tolerância ao risco e do capital disponível do investidor. A tendência de valorização dos últimos sete dias destaca uma polarização interessante: enquanto algumas jogadoras femininas apresentam saltos percentuais agressivos em curto prazo, os ícones masculinos clássicos mostram uma probabilidade de alta mais consistente, embora com volatilidade diária menor. Para quem busca entradas seguras, a análise deve priorizar não apenas o aumento percentual imediato, mas a probabilidade estatística de que a tendência se mantenha, evitando compras no topo de picos efêmeros.
 
-Paralelamente, Leah Williamson (88, Barclays WSL) exibe performance semelhante em termos de variação diária, com 31,6% de alta em 24 horas, posicionada a 50k coins. No entanto, sua probabilidade de alta futura é de apenas 18%, o que indica que o pico de valorização pode estar próximo ou que o mercado está saturado momentaneamente. Para investidores de curto prazo, Williamson pode ser uma boa opção para lucros rápidos antes de uma possível correção, mas carece da segurança de uma tendência de longo prazo robusta. A comparação entre Scott e Williamson mostra como cartas da mesma liga podem ter perfis de risco diferentes, exigindo que o jogador escolha entre o potencial de crescimento (Scott) e a liquidez imediata (Williamson).
+Entre as opções de menor custo, Andreia Jacinto (88, Liga F) e Sonia Bompastor (88, D1 Arkema) merecem atenção. Jacinto subiu 11,1% em 24 horas para 32 mil coins, com uma alta probabilidade de alta de 58%. Esse equilíbrio entre risco e recompensa a torna uma entrada atrativa para portfólios diversificados. Já Bompastor, a 30 mil coins, registrou alta de 13,2% com probabilidade de 38%. Embora a probabilidade seja moderada, o baixo ponto de entrada permite um teste de mercado com pouco capital exposto, servindo como uma aposta de curto prazo em ligas menores que frequentemente oscilam.
 
-Ao migrar para o elenco masculino e cartas de maior valor, Dominik Szoboszlai (87, Premier League) destaca-se como uma das apostas mais seguras para valorização contínua. Com alta de 13,9% em 24 horas e uma impressionante probabilidade de alta de 68%, a carta cotada a 237k coins oferece um equilíbrio ideal entre risco e retorno. A alta probabilidade sugere que a tendência é estrutural e não apenas especulativa, tornando Szoboslazi um ativo de "entrada" recomendado para portfólios que buscam estabilidade com crescimento moderado. Sua posição na Premier League, ligada a eventos constantes do jogo, sustenta essa demanda constante.
+No segmento intermediário, a destaque é Jill Scott (87, Barclays WSL), que impressiona com alta de 33,6% em 24 horas, atingindo 42 mil coins. No entanto, sua probabilidade de alta é de apenas 32%, o que sinaliza cautela; pode ser um pico momentâneo. Por outro lado, Selina Cerci (87, GPFBL) oferece um cenário mais robusto com 36% de alta e probabilidade de 29%, a 30 mil coins. Ambas as jogadoras da GPFBL e WSL mostram volume, mas a probabilidade baixa sugere que investidores devem aguardar correções ou usar ordens limitadas, pois a sustentabilidade da alta não é garantida estatisticamente.
 
-Outro candidato sólido é Tara McKeown (89, NWSL), que combinou alta de 17,8% em 24 horas com 58% de probabilidade de alta, a um preço acessível de 31k coins. Essa carta oferece uma relação custo-benefício atrativa, permitindo entrada com baixo capital inicial e potencial de multiplicação. A liga NWSL tem ganhado destaque, e McKeown, como figura central, beneficia-se dessa atenção. Da mesma forma, Andrea Barzagli (87, Serie A TIM), com 8% de alta em 24h e 50% de probabilidade, a 27k coins, representa uma opção de baixo risco para quem prefere cartas de defesa com histórico de valorização consistente, embora seu retorno absoluto seja menor devido ao preço base.
+Trinity Rodman (88, NWSL) e Cora Zicai (88, GPFBL) representam o topo de entrada para o gênero feminino. Rodman, a 150 mil coins, subiu 32,4% com probabilidade de 44%, enquanto Zicai, a 86 mil, cresceu 11,8% com probabilidade de 59%. Zicai parece ser a escolha mais racional para investimento médio-longo prazo devido à maior probabilidade de continuidade da tendência, mesmo com menor volatilidade diária. Rodman, apesar do preço elevado, atrai quem busca liquidez rápida, mas o risco de correção é significativamente maior.
 
-Para investidores dispostos a assumir riscos maiores em busca de retornos elevados em cartas de elite, Wesley Sneijder (89, Serie A TIM) e Mohamed Salah (89, Premier League) merecem análise separada. Sneijder, a 250k coins, tem alta modesta de 4,2% em 24h, mas probabilidade de alta de 65%, indicando um crescimento lento mas muito provável. Já Salah, a 23k coins, tem alta de 11,9% mas apenas 22% de probabilidade de alta, sugerindo que seu valor baixo pode estar sujeito a flutuações bruscas. Em resumo, as cartas que valem entrada imediata são Szoboszlai e McKeown pela combinação de probabilidade alta e variação positiva, enquanto Jill Scott oferece oportunidade de curto prazo. Cartas como Sneijder são para acumulação pacientemente, e Williamson para venda rápida.
+Para investidores com maior capital, as cartas masculinas oferecem estabilidade. Steve McManaman (89, Premier League) é a aposta mais forte: subiu 15,1% para 54 mil coins, com a maior probabilidade de alta do grupo (77%). Essa consistência estatística o torna o ativo mais seguro para entrada imediata. Granit Xhaka (89, Premier League), a 75 mil coins, também se destaca com alta de 28,2% e probabilidade de 63%. A combinação de alta volatilidade positiva e probabilidade sólida sugere que Xhaka pode superar McManaman em ganhos percentuais no curto prazo, embora com risco ligeiramente superior.
+
+Por fim, os ícones Wesley Sneijder (89) e Aleksandar Stanković (87) atendem a perfis específicos. Sneijder, a 245 mil coins, tem alta modesta de 2,1%, mas a probabilidade de alta de 65% indica uma valorização lenta e constante, ideal para holdings. Stanković, a 139 mil, com 6,9% de alta e 44% de probabilidade, é uma opção intermediária. Em resumo, para entrada hoje, Steve McManaman e Granit Xhaka oferecem o melhor equilíbrio de risco-retorno, enquanto Zicai e Jacinto são as melhores opções de baixo custo com probabilidade favorável.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jill Scott | 87 | Barclays WSL | 46k coins | +30.7% | +79.4% | 32% |
-| Leah Williamson | 88 | Barclays WSL | 50k coins | +31.6% | +77% | 18% |
-| Dominik Szoboszlai | 87 | Premier League | 237k coins | +13.9% | +69.3% | 68% |
-| Tara McKeown | 89 | NWSL | 31k coins | +17.8% | +68% | 58% |
-| Wesley Sneijder | 89 | Serie A TIM | 250k coins | +4.2% | +67.8% | 65% |
-| Kerolin Nicoli | 89 | Barclays WSL | 55k coins | +8.1% | +61.1% | 44% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 70k coins | +6.9% | +60.7% | 45% |
-| Mohamed Salah | 89 | Premier League | 23k coins | +11.9% | +59.3% | 22% |
-| Andrea Barzagli | 87 | Serie A TIM | 27k coins | +8% | +58.8% | 50% |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 34k coins | +8.9% | +58.8% | 23% |
-| Juan Mata | 88 | A-League | 53k coins | +7.5% | +56.2% | 57% |
-| Rasmus Højlund | 87 | Serie A TIM | 35k coins | +6.1% | +53.8% | 38% |
-| Fábio Vieira | 87 | Bundesliga | 30k coins | +7.3% | +49.4% | 54% |
-| Rayan Cherki | 87 | Premier League | 100k coins | +9.3% | +49.3% | 18% |
-| Cha Bum Kun | 88 | Icons | 149k coins | +4.1% | +49.2% | 70% |
+| Andreia Jacinto | 88 | Liga F | 32k coins | +11.1% | +85.7% | 58% |
+| Granit Xhaka | 89 | Premier League | 75k coins | +28.2% | +75.4% | 63% |
+| Jill Scott | 87 | Barclays WSL | 42k coins | +33.6% | +75% | 32% |
+| Selina Cerci | 87 | GPFBL | 30k coins | +36% | +69.6% | 29% |
+| Trinity Rodman | 88 | NWSL | 150k coins | +32.4% | +66.1% | 44% |
+| Cora Zicai | 88 | GPFBL | 86k coins | +11.8% | +65.8% | 59% |
+| Wesley Sneijder | 89 | Serie A TIM | 245k coins | +2.1% | +64.4% | 65% |
+| Aleksandar Stanković | 87 | 1A Pro League | 139k coins | +6.9% | +61.6% | 44% |
+| Sonia Bompastor | 88 | D1 Arkema | 30k coins | +13.2% | +55.8% | 38% |
+| Steve McManaman | 89 | Premier League | 54k coins | +15.1% | +52.9% | 77% |
+| Christian Günter | 88 | Bundesliga | 38k coins | +20.3% | +51% | 25% |
+| Ricardo Pepi | 87 | Eredivisie | 44k coins | +30.6% | +49.6% | 42% |
+| Miguel Ángel Merentiel | 88 | LPF | 58k coins | +13.2% | +46.5% | 43% |
+| Matheus Dias | 87 | Liga Portugal | 30k coins | +18.9% | +44.8% | 77% |
+| Sydney Leroux | 88 | NWSL | 50k coins | +10.5% | +43.9% | 48% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jill Scott (87)** — 46k coins, **+79.4% em 7 dias** (+30.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 32k coins, **+85.7% em 7 dias** (+11.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Leah Williamson (88)** — 50k coins, **+77% em 7 dias** (+31.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Granit Xhaka (89)** — 75k coins, **+75.4% em 7 dias** (+28.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Dominik Szoboszlai (87)** — 237k coins, **+69.3% em 7 dias** (+13.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (87)** — 42k coins, **+75% em 7 dias** (+33.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Tara McKeown (89)** — 31k coins, **+68% em 7 dias** (+17.8% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Selina Cerci (87)** — 30k coins, **+69.6% em 7 dias** (+36% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Wesley Sneijder (89)** — 250k coins, **+67.8% em 7 dias** (+4.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Trinity Rodman (88)** — 150k coins, **+66.1% em 7 dias** (+32.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +90,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Jill Scott (87, Barclays WSL) lidera, com +79.4% em 7 dias a 46k coins no PC, e o modelo dá 32% de chance de seguir subindo.
+Andreia Jacinto (88, Liga F) lidera, com +85.7% em 7 dias a 32k coins no PC, e o modelo dá 58% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
