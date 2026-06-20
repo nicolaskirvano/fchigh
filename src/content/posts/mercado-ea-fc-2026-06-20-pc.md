@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:41:03.000Z
+pubDatetime: 2026-06-20T22:42:50.000Z
 title: "Cartas 87-89 no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Jaden Philogene (87, EFL Championship), com +56.1% em 24h, a 24k coins no PC."
+    a: "Hidetoshi Nakata (89, Serie A TIM), com +60% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Trent Alexander-Arnold (87), -50% em 24h, a 300k coins."
+    a: "James McClean (87), -47.4% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 181 cartas em alta contra 272 em queda (média -2.65%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 203 cartas em alta contra 274 em queda (média 0.18%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O cenário do mercado de EA FC Ultimate Team para o dia 20 de junho de 2026 apresenta uma dinâmica extremamente hostil para os traders despreparados, caracterizada por um sentimento de pressão avassaladora onde as quedas de preço dominam amplamente a agenda de negociações. Com um saldo negativo expressivo que registra 272 quedas contra apenas 181 altas, o mercado demonstra uma média de desvalorização de -2.65% em apenas 24 horas, indicando uma liquidez em retração e uma relutância dos usuários em comprar ativos a preços premium. Este ambiente de cautela extrema exige que os analistas foquem em oportunidades de compra seletiva em ativos que sofreram correções severas, enquanto se evitam as compras impulsivas em cartas que estão subindo por motivos especulativos de curto prazo sem suporte fundamental sólido. A volatilidade observada neste segmento de cartas 87-89 reflete uma fase de consolidação de preços pós-eventos, onde os traders estão liquidando posições de risco para garantir lucros ou minimizar perdas em meio à incerteza das próximas atualizações do jogo. Portanto, a estratégia do dia deve ser predominantemente defensiva, aproveitando as quedas acentuadas em ícones e jogadores de elite para acumular ativos de longo prazo, enquanto se observa com ceticismo as altas repentinas que carecem de volume sustentável para manter os novos patamares de preço.
+O mercado de cartas na faixa de 87 a 89 para PC apresenta um cenário de extrema volatilidade e indefinição neste dia 20 de junho de 2026, caracterizado por uma ausência clara de tendência dominante que exige cautela máxima dos traders. Com um balanço de 203 altas contra 274 quedas nas últimas 24 horas, a média de variação de apenas 0.18% indica um ambiente de negociação lateral onde os movimentos bruscos são mais reflexos de liquidez pontual do que de fundamentos estruturais. Esta dispersão nos dados sugere que o volume de negociação está fragmentado entre diversas ligas e tipos de cartas, impedindo a formação de um consenso de preço que possa sustentar altas ou baixas generalizadas. O trader experiente deve interpretar este momento não como uma oportunidade de ganhos fáceis, mas como um período de reprecificação onde a paciência e a análise individual de cada ativo são cruciais para evitar perdas desnecessárias. A falta de um direcionamento claro no sentimento geral do mercado significa que as decisões devem ser tomadas com base em métricas específicas de cada jogador, ignorando ruídos de curto prazo que podem se inverter rapidamente.
 
-> 🟢 **Maior alta:** Jaden Philogene (87) **+56.1%** · 🔴 **Maior baixa:** Trent Alexander-Arnold (87) **-50%**
+> 🟢 **Maior alta:** Hidetoshi Nakata (89) **+60%** · 🔴 **Maior baixa:** James McClean (87) **-47.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaden Philogene | 87 | EFL Championship | 24k coins | +56.1% | -2.8% |
-| Rubén García | 87 | LALIGA EA SPORTS | 39k coins | +56% | +50% |
-| Leah Williamson | 88 | Barclays WSL | 45k coins | +50.4% | +77% |
-| Paul Onuachu | 88 | Trendyol Süper Lig | 54k coins | +50% | +45% |
-| Antonio Nusa | 89 | Bundesliga | 74k coins | +46.1% | +6.4% |
-| Kenny Dalglish | 89 | Icons | 134k coins | +41.8% | -0.7% |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 23k coins | +40.3% | -9.6% |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 49k coins | +39.3% | +19.6% |
-| Pernille Harder | 89 | GPFBL | 101k coins | +38.7% | +3% |
-| Narcis Ilaș | 87 | SUPERLIGA | 30k coins | +38.4% | +8.2% |
+| Hidetoshi Nakata | 89 | Serie A TIM | 28k coins | +60% | -2.6% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 32k coins | +60% | +34.7% |
+| Scott McTominay | 87 | Serie A TIM | 94k coins | +57.7% | -4.7% |
+| Can Uzun | 89 | Bundesliga | 110k coins | +57.1% | 0% |
+| Kenny Dalglish | 89 | Icons | 120k coins | +50.9% | -8.4% |
+| Hidetoshi Nakata | 87 | Serie A TIM | 28k coins | +50% | +1.8% |
+| Nico Williams | 87 | LALIGA EA SPORTS | 499k coins | +49.1% | -7.2% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 129k coins | +47.2% | +3.4% |
+| Trinity Rodman | 88 | NWSL | 92k coins | +43.2% | +93.9% |
+| João Cancelo | 87 | ROSHN Saudi League | 100k coins | +42.9% | +13.6% |
 
 
-Entre as poucas exceções à regra de queda, destacam-se movimentos especulativos intensos liderados por Jaden Philogene, cuja carta de 87 rating da EFL Championship disparou 56.1% em 24 horas, atingindo a marca de 24k coins com uma probabilidade de alta de 50%, sugerindo uma corrida de compra baseada em rumores de desempenho ou inclusão em promoções futuras. Rubén García também apresenta um comportamento agressivo no mercado, com sua carta de 87 rating da LALIGA EA SPORTS subindo 56% para 39k coins, impulsionado por uma alta probabilidade de continuidade de alta de 58%, o que indica forte confiança dos traders na sustentabilidade desse preço. No segmento feminino, Leah Williamson se destaca com um aumento de 50.4% para 45k coins em sua carta de 88 rating da Barclays WSL, embora a probabilidade de alta de apenas 18% sinalize que esse movimento pode ser efêmero e propenso a correções rápidas. Paul Onuachu, da Trendyol Süper Lig, registra uma alta de 50% para 54k coins em sua carta de 88 rating, com uma probabilidade de alta de 47%, mostrando que o mercado está buscando valor em ligas menores onde a oferta de cartas é mais restrita. Antonio Nusa completa o grupo de destaque com uma alta de 46.1% para 74k coins em sua carta de 89 rating da Bundesliga, porém a probabilidade de alta de 34% alerta para a possibilidade de saturação de compradores neste nível de preço.
+Entre os ativos que demonstraram força relativa, destacam-se Hidetoshi Nakata (89, Serie A TIM) e Gonçalo Guedes (89, LALIGA EA SPORTS), ambos registrando impressionantes altas de 60% em 24h, com Nakata cotado a 28k coins e Guedes a 32k coins, movimentos impulsionados por uma probabilidade de alta de 21% e 28% respectivamente, indicando uma acumulação seletiva. Scott McTominay (87, Serie A TIM) também se firmou com alta de 57.7% para 94k coins, apoiado por uma robusta probabilidade de alta de 59%, sugerindo que o mercado está prestando atenção especial à sua utilidade em squads específicos da Serie A. Can Uzun (89, Bundesliga) subiu 57.1% atingindo 110k coins com 54% de probabilidade de alta, enquanto Kenny Dalglish (89, Icons) registrou alta de 50.9% para 120k coins, também com 54% de probabilidade, mostrando que ícones e jogadores de ligas menores estão sendo alvos de compras estratégicas. Hidetoshi Nakata (87, Serie A TIM) completou o quadro de altas com 50% de variação para 28k coins e 48% de probabilidade, reforçando a tese de que cartas de baixo custo estão sendo usadas como alavancagem. Nico Williams (87, LALIGA EA SPORTS) apresentou alta de 49.1% para 499k coins, mas com baixa probabilidade de alta de 22%, indicando possível resistência de venda em patamares mais altos, e Jean-Mattéo Bahoya (89, Bundesliga) subiu 47.2% para 129k coins com 28% de probabilidade, completando um cenário onde a diversificação de ligas é evidente nos ganhos.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 300k coins | -50% | -1.6% |
-| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 29k coins | -49.6% | -40% |
-| Samuel Eto'o | 89 | Icons | 195k coins | -48.8% | -34.1% |
-| Koke | 88 | LALIGA EA SPORTS | 36k coins | -47.4% | -25% |
-| Lauren James | 89 | Barclays WSL | 95k coins | -47.2% | -47.2% |
-| Taylor Flint | 88 | NWSL | 219k coins | -42.4% | 0% |
-| Johan Cruyff | 87 | Icons | 260k coins | -42.4% | -34.5% |
-| Mateo Chávez | 89 | — | 38k coins | -40% | -40.9% |
-| Ian Maatsen | 89 | Premier League | 28k coins | -39.6% | -14.4% |
-| Gareth Bale | 88 | Icons | 999k coins | -39.1% | -49% |
+| James McClean | 87 | EFL Championship | 20k coins | -47.4% | -15.6% |
+| Kevin De Bruyne | 88 | Serie A TIM | 200k coins | -45.2% | -45.4% |
+| Jaedyn Shaw | 89 | NWSL | 27k coins | -44.3% | -45.4% |
+| Mateo Chávez | 89 | — | 37k coins | -43.5% | -43.9% |
+| Marek Hamšík | 89 | Serie A TIM | 32k coins | -43.3% | +5.8% |
+| John Barnes | 89 | Icons | 86k coins | -42.7% | -2.3% |
+| Xavi Simons | 88 | Premier League | 30k coins | -40% | -23.6% |
+| Thelo Aasgaard | 87 | Scottish Premiership | 25k coins | -40% | -26.1% |
+| Samuel Eto'o | 89 | Icons | 186k coins | -39.8% | -39.8% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 32k coins | -39.2% | -20.5% |
 
 
-As quedas massivas no mercado são lideradas por Trent Alexander-Arnold, cuja carta de 87 rating da LALIGA EA SPORTS sofreu um colapso de 50% para 300k coins, com uma probabilidade de alta de apenas 4%, indicando que o mercado rejeitou totalmente o preço anterior e que a tendência de baixa é quase certa a curto prazo. Pierre-Emerick Aubameyang também despenca, com sua carta de 89 rating da Ligue 1 McDonald's caindo 49.6% para 29k coins, embora a probabilidade de alta de 26% sugira que pode haver uma leve estabilização ou recuperação parcial nos próximos dias devido ao preço atrativo. Samuel Eto'o, um ícone com carta de 89 rating, registra uma queda de 48.8% para 195k coins, mas sua probabilidade de alta de 56% é um sinal claro de que os traders de longo prazo estão acumulando essa oportunidade de compra em um ativo histórico que tende a valorizar com o tempo. Koke, da LALIGA EA SPORTS, vê sua carta de 88 rating cair 47.4% para 36k coins, com uma probabilidade de alta de 46%, sugerindo que o mercado está encontrando um novo fundo de preço após uma correção severa. Lauren James, com carta de 89 rating da Barclays WSL, desvaloriza 47.2% para 95k coins, e sua probabilidade de alta de 36% indica que a recuperação será lenta e dependente de novos catalisadores de mercado.
+No outro extremo, James McClean (87, EFL Championship) sofreu a maior queda de -47.4% em 24h, caindo para 20k coins com probabilidade de alta de 47%, sinalizando uma saída massiva de investidores que buscavam lucros rápidos em ativos de baixo valor. Kevin De Bruyne (88, Serie A TIM) despencou -45.2% para 200k coins, com apenas 13% de probabilidade de alta, o que indica uma perda significativa de confiança no ativo e um risco elevado de continuidade da queda no curto prazo. Jaedyn Shaw (89, NWSL) caiu -44.3% para 27k coins com 33% de probabilidade de alta, enquanto Mateo Chávez (89, s/liga) registrou queda de -43.5% para 37k coins com 42% de probabilidade, demonstrando que cartas sem liga ou de ligas menores estão sendo liquidadas sem muita resistência de compradores. Marek Hamšík (89, Serie A TIM) caiu -43.3% para 32k coins, mas mantém uma alta probabilidade de alta de 67%, sugerindo que esta pode ser uma oportunidade de compra de contrarianismo para traders arriscados. John Barnes (89, Icons) despencou -42.7% para 86k coins com 65% de probabilidade de alta, indicando que a queda pode ser uma correção técnica em vez de uma tendência de fundo, e Xavi Simons (88, Premier League) caiu -40% para 30k coins com 50% de probabilidade, completando um quadro de vendas generalizadas em ativos de médio e alto valor.
 
 
 ## 🎯 O que fazer hoje
-A estratégia do dia deve focar em acumular ativos de alta probabilidade de valorização futura, como Samuel Eto'o e Rubén García, aproveitando as quedas acentuadas ou as altas iniciais com margem de segurança. Evite comprar cartas com probabilidade de alta baixa e preços inflacionados, como Leah Williamson e Antonio Nusa, pois o risco de correção imediata é elevado e o custo de oportunidade é grande. Traders conservadores devem ficar de lado e aguardar a estabilização do mercado, enquanto os agressivos podem buscar lucros rápidos revendendo as cartas que sofreram quedas extremas, como Trent Alexander-Arnold, se houver alguma recuperação momentânea. O timing é crucial: compre no fundo das quedas quando a probabilidade de alta começa a subir acima de 40%, e venda nas pontas das altas quando a probabilidade de alta cai abaixo de 30%. Mantenha uma reserva de coins para aproveitar oportunidades de última hora, pois a volatilidade pode criar brechas de arbitragem rápidas entre o mercado livre e as ofertas do mercado.
+A estratégia para hoje deve focar na compra seletiva de ativos com alta probabilidade de reversão, como Marek Hamšík e John Barnes, que apesar das quedas recentes mantêm probabilidades de alta superiores a 65%, oferecendo um risco-recompensa atrativo para traders de curto prazo. É fundamental evitar a perseguição às altas de ativos como Gonçalo Guedes e Hidetoshi Nakata (89), pois suas baixas probabilidades de alta sugerem que os preços podem estar sobrevalorizados temporariamente e sujeitos a correções imediatas. Traders conservadores devem permanecer em caixa ou reduzir posições em ativos de alta volatilidade como Kevin De Bruyne, cuja baixa probabilidade de alta de 13% indica um ambiente hostil para a manutenção de posições longas. A diversificação entre ligas como Serie A TIM e Bundesliga parece ser a chave para mitigar riscos, já que os movimentos estão dispersos e não seguem um padrão único de mercado. Recomenda-se monitorar de perto Scott McTominay e Can Uzun, que combinam altas significativas com probabilidades de alta robustas, potencialmente indicando tendências sustentáveis que podem ser aproveitadas para lucros de swing trading. A paciência é essencial neste dia de sentimento indefinido, onde a disciplina para não entrar em FOMO e a coragem para comprar no medo são as únicas ferramentas que garantirão a preservação do capital.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Jaden Philogene (87, EFL Championship), com +56.1% em 24h, a 24k coins no PC.
+Hidetoshi Nakata (89, Serie A TIM), com +60% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Trent Alexander-Arnold (87), -50% em 24h, a 300k coins.
+James McClean (87), -47.4% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 181 cartas em alta contra 272 em queda (média -2.65%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 203 cartas em alta contra 274 em queda (média 0.18%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:40:19.000Z
+pubDatetime: 2026-06-20T22:40:15.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -46.3% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -45.2% |
 | Mapi León | 89 | CB | Liga F | 2k coins | -46.3% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -45.2% |
-| Alisson | 89 | GK | Premier League | 3k coins | -31.2% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Ian Rush | 89 | ST | — | 12k coins | -14.3% |
-| Andrej Kramarić | 89 | CAM | Bundesliga | 12k coins | -15.5% |
-| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 12k coins | -50% |
-| Sonia Bompastor | 89 | LB | — | 12k coins | -18.5% |
-| Ian Wright | 89 | ST | — | 12k coins | -11.7% |
-| Thijs Dallinga | 89 | ST | — | 12k coins | 0% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +8.3% |
-| Peer Koopmeiners | 89 | CDM | — | 13k coins | -19.7% |
-| Birgit Prinz | 89 | ST | — | 13k coins | -1.9% |
-| Aleix García | 89 | CM | Bundesliga | 13k coins | 0% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -45% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -46.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -50% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -41.5% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -52% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -45.5% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -42.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -61.9% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -43.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -47.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -45.8% |
+| Alisson | 89 | GK | Premier League | 3k coins | -39.6% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 3k coins | -43.1% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alisson (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
