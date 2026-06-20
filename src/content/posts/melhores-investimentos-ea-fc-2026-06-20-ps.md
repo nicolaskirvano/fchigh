@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:40:17.000Z
+pubDatetime: 2026-06-20T16:40:07.000Z
 title: "Melhores investimentos em Cartas 87-89 no EA FC (20/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Keven Schlotterbeck (89, Bundesliga) lidera, com +70.3% em 7 dias a 27k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Thelo Aasgaard (87, Scottish Premiership) lidera, com +87.5% em 7 dias a 39k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Keven Schlotterbeck (89) acumula **+70.3% em 7 dias** a 27k coins.
+> 🔝 **Destaque:** Thelo Aasgaard (87) acumula **+87.5% em 7 dias** a 39k coins.
 
 
 ## 🧠 A leitura do dia
-Ao analisar o mercado do EA FC Ultimate Team para consoles PlayStation na data de 20 de junho de 2026, o foco recai sobre cartas com ratings entre 87 e 89 que apresentam uma tendência de valorização nos últimos sete dias. A volatilidade do mercado exige uma leitura precisa dos indicadores de curto prazo, especificamente o percentual de alta nas últimas 24 horas e a probabilidade estatística de continuidade dessa ascensão. Entre os ativos listados, algumas cartas se destacam não apenas pelo volume de subidas recentes, mas pela combinação de preço de entrada acessível e alta probabilidade de valorização futura, criando oportunidades tangíveis para investidores que buscam retorno rápido sem expor capital excessivo.
+Ao analisarmos o mercado de EA FC Ultimate Team no console PlayStation nesta data, 20 de junho de 2026, observamos uma dinâmica interessante nas cartas de rating entre 87 e 89. O foco principal da nossa análise reside na tendência de valorização dos últimos sete dias, identificando oportunidades concretas para investimento com base em dados reais de variação de preço e probabilidade estatística de alta. Entre as opções disponíveis, destacam-se jogadores que apresentam não apenas crescimento significativo em 24 horas, mas também uma probabilidade robusta de continuidade dessa tendência, oferecendo segurança relativa para quem busca rentabilizar suas moedas.
 
-O destaque absoluto para entrada imediata é Olivier Giroud, uma carta de 89 rating da Ligue 1 McDonald's. Atualmente cotada a 29k coins, ela registrou um impressionante aumento de 32% em apenas 24 horas. O que torna Giroud extremamente atrativo é a probabilidade de alta de 95%, o maior índice da lista. Essa combinação de um preço de entrada relativamente baixo e uma quase certeza estatística de continuidade na valorização o torna o ativo mais seguro para novos investimentos hoje. Para quem busca minimizar riscos enquanto captura ganhos significativos em curto prazo, Giroud representa a escolha lógica, equilibrando custo e potencial de retorno de forma superior aos demais.
+A liderança absoluta em termos de potencial de entrada segura recai sobre Thelo Aasgaard. Com um rating de 87 e atuando na Scottish Premiership, a jogadora registrou um aumento impressionante de 14,5% em apenas 24 horas. Atualmente cotada a 39k coins, a probabilidade de alta é classificada como alta, atingindo 95%. Esse indicador estatístico sugere uma forte demanda imediata, possivelmente impulsionada por eventos específicos da liga ou necessidades de squads temáticos, tornando-a uma das escolhas mais sólidas para entrada rápida no mercado atual.
 
-Outra opção robusta é Louisa Necib, com 88 rating da D1 Arkema, negociada a 26k coins. Com uma alta de 19,8% nas últimas 24 horas e uma probabilidade de alta de 65%, Necib oferece um perfil de risco-recompensa muito interessante. Seu preço de entrada é competitivo, permitindo que os investidores construam portfólios diversificados sem comprometer grandes somas. A probabilidade superior a 60% indica uma força de compra consistente no mercado, sugerindo que a tendência de alta tem bases sólidas e não é apenas um movimento especulativo isolado.
+Paralelamente, Kim Little merece atenção especial. Também com 87 de rating, mas representando a Barclays WSL, a jogadora subiu 10,1% nas últimas 24 horas, com preço fixado em 28k coins. Assim como Aasgaard, Little apresenta uma probabilidade de alta de 95%. A combinação de um preço de entrada mais acessível e uma taxa de sucesso estatística idêntica à da concorrente escocesa posiciona Little como uma alternativa de baixo risco, ideal para investidores que preferem diversificar com ativos de menor valor nominal, mas com alta liquidez e confiança no mercado feminino.
 
-Estefanía Banini, uma atacante de 89 rating da Liga F, também merece atenção estratégica. Cotada a 24k coins, ela subiu 31,1% em 24 horas e possui uma probabilidade de alta de 27%. Embora a probabilidade seja menor que a de Giroud ou Necib, o preço de entrada é um dos mais baixos da lista, o que aumenta o percentual de lucro potencial caso a valorização se mantenha. Banini serve como uma aposta de maior risco, mas com alto retorno potencial, ideal para investidores dispostos a assumir mais incertezas em troca de ganhos proporcionais maiores sobre o capital investido.
+Para os investidores dispostos a assumir riscos maiores em busca de retornos proporcionais, Sadio Mané se destaca de forma contundente. O atacante, agora com 88 de rating e jogando na ROSHN Saudi League, disparou 32,8% em 24 horas. Apesar do preço elevado de 140k coins, a probabilidade de alta permanece em 95%. Essa volatilidade extrema, aliada à alta confiança estatística, indica um movimento de mercado agressivo, possivelmente relacionado a promoções de conteúdo ou meta shifts que favorecem jogadores de ataque de ligas emergentes, tornando-o um ativo de alto risco, mas com indicadores técnicos muito favoráveis.
 
-Para investidores com maior capital disponível, Claudio Marchisio (88 rating, Serie A TIM) e Mario Lemina (89 rating, Trendyol Süper Lig) apresentam dados robustos. Marchisio, a 182k coins, teve alta de 33,8% com 16% de probabilidade, enquanto Lemina, a 114k coins, subiu 11,4% com 44% de probabilidade. Embora os preços sejam elevados, a alta probabilidade de Lemina sugere estabilidade, enquanto Marchisio oferece volatilidade. Por fim, cartas como Keven Schlotterbeck (89, 27k coins) e Mateo Chávez (89, 78k coins) mostram altas significativas, mas suas probabilidades de alta (5% e 44%, respectivamente) exigem cautela, sendo recomendadas apenas para traders experientes capazes de operar em janelas temporais muito curtas.
+Outras opções dignas de menção incluem Matheus Dias (87, Liga Portugal), que exibe a maior porcentagem de alta em 24 horas com 40%, embora a probabilidade de alta seja de apenas 50% a 27k coins, o que exige cautela. Louisa Necib (88, D1 Arkema) oferece um meio-termo com 18,8% de alta e 65% de probabilidade a 28k coins. Por outro lado, cartas como Peter Crouch (87, Premier League) e Olivier Giroud (88, Ligue 1 McDonald's) apresentam baixíssimas taxas de variação em 24h (2,1% e 2,7%, respectivamente) e probabilidades de alta moderadas a baixas, sugerindo que, apesar dos preços altos (147k e 115k), o momento não é ideal para entrada imediata nesses ativos específicos.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Keven Schlotterbeck | 89 | Bundesliga | 27k coins | +21.1% | +70.3% | 5% |
-| Eduardo Quaresma | 88 | Liga Portugal | 43k coins | +1.5% | +65.6% | 35% |
-| Mateo Chávez | 89 | — | 78k coins | +10.7% | +64% | 44% |
-| Claudio Marchisio | 88 | Serie A TIM | 182k coins | +33.8% | +58.3% | 16% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 114k coins | +11.4% | +54.9% | 44% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 29k coins | +32% | +52.4% | 95% |
-| Louisa Necib | 88 | D1 Arkema | 26k coins | +19.8% | +51.3% | 65% |
-| Estefanía Banini | 89 | Liga F | 24k coins | +31.1% | +49.2% | 27% |
-| Nadine Keßler | 89 | GPFBL | 18k coins | +25.4% | +47.4% | 5% |
-| Pedrinho | 88 | — | 30k coins | +11.3% | +45.9% | 5% |
-| Alexandra Popp | 89 | GPFBL | 36k coins | +39.4% | +45% | 60% |
-| Aaron Wan-Bissaka | 89 | Premier League | 54k coins | +3.8% | +42.5% | 5% |
-| Kristin Kögel | 89 | GPFBL | 22k coins | +3.8% | +38.3% | 23% |
-| Grace Clinton | 87 | Barclays WSL | 16k coins | +27.8% | +38% | 8% |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 225k coins | +14.6% | +35.1% | 23% |
+| Thelo Aasgaard | 87 | Scottish Premiership | 39k coins | +14.5% | +87.5% | 95% |
+| Kim Little | 87 | Barclays WSL | 28k coins | +10.1% | +87.5% | 95% |
+| Sadio Mané | 88 | ROSHN Saudi League | 140k coins | +32.8% | +73.5% | 95% |
+| Louisa Necib | 88 | D1 Arkema | 28k coins | +18.8% | +70.1% | 65% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 115k coins | +2.7% | +65.5% | 33% |
+| Mateo Chávez | 89 | — | 79k coins | +12.1% | +58% | 44% |
+| Matheus Dias | 87 | Liga Portugal | 27k coins | +40% | +55.6% | 50% |
+| Can Bozdoğan | 87 | Eredivisie | 18k coins | +6.4% | +51.5% | 50% |
+| Peter Crouch | 87 | Premier League | 147k coins | +2.1% | +49% | 68% |
+| Claudio Marchisio | 88 | Serie A TIM | 182k coins | +24.3% | +47% | 16% |
+| Keven Schlotterbeck | 89 | Bundesliga | 25k coins | +11.4% | +46.3% | 5% |
+| Lucy Bronze | 88 | Barclays WSL | 60k coins | +8.3% | +45.3% | 44% |
+| Estefanía Banini | 89 | Liga F | 22k coins | +1.1% | +44.3% | 27% |
+| Kristin Kögel | 89 | GPFBL | 20k coins | +14.3% | +40.4% | 23% |
+| Aaron Wan-Bissaka | 89 | Premier League | 57k coins | +13.5% | +40% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Keven Schlotterbeck (89)** — 27k coins, **+70.3% em 7 dias** (+21.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Thelo Aasgaard (87)** — 39k coins, **+87.5% em 7 dias** (+14.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Eduardo Quaresma (88)** — 43k coins, **+65.6% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kim Little (87)** — 28k coins, **+87.5% em 7 dias** (+10.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mateo Chávez (89)** — 78k coins, **+64% em 7 dias** (+10.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sadio Mané (88)** — 140k coins, **+73.5% em 7 dias** (+32.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Claudio Marchisio (88)** — 182k coins, **+58.3% em 7 dias** (+33.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Louisa Necib (88)** — 28k coins, **+70.1% em 7 dias** (+18.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mario Lemina (89)** — 114k coins, **+54.9% em 7 dias** (+11.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Olivier Giroud (88)** — 115k coins, **+65.5% em 7 dias** (+2.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Keven Schlotterbeck (89, Bundesliga) lidera, com +70.3% em 7 dias a 27k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Thelo Aasgaard (87, Scottish Premiership) lidera, com +87.5% em 7 dias a 39k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:40:19.000Z
+pubDatetime: 2026-06-20T16:40:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alisson | 89 | GK | Premier League | 4k coins | -19.1% |
-| Sophia Wilson | 89 | ST | NWSL | 7k coins | +36.2% |
-| Ian Rush | 89 | ST | — | 12k coins | -11.1% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.3% |
-| Birgit Prinz | 89 | ST | — | 12k coins | -5.8% |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -20.6% |
+| Alisson | 89 | GK | Premier League | 4k coins | -22.9% |
+| Sophia Wilson | 89 | ST | NWSL | 5k coins | +21.3% |
+| Virgil van Dijk | 89 | CB | Premier League | 9k coins | -22.7% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Birgit Prinz | 89 | ST | — | 12k coins | -7.5% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -16.7% |
+| Ian Rush | 89 | ST | — | 12k coins | -5.5% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +2.1% |
-| Thijs Dallinga | 89 | ST | — | 13k coins | -5.6% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | 0% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | -7.1% |
-| Maximiliano Araújo | 89 | LM | — | 15k coins | 0% |
-| Debinha | 88 | CAM | NWSL | 2k coins | -44.8% |
-| Lionel Messi | 88 | RW | MLS | 3k coins | +170% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +6.1% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 14k coins | -7.1% |
+| Tara McKeown | 89 | CB | NWSL | 15k coins | -17% |
+| Debinha | 88 | CAM | NWSL | 2k coins | -41.4% |
 | Guro Reiten | 88 | LM | Barclays WSL | 6k coins | -25% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -2.1% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12k coins | +2.2% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 12k coins | +2.2% |
 
 
 ## 📈 Destaques
 
 - **Alisson (89, GK)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sophia Wilson (89, ST)** da NWSL, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Sophia Wilson (89, ST)** da NWSL, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ian Rush (89, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Virgil van Dijk (89, CB)** da Premier League, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
