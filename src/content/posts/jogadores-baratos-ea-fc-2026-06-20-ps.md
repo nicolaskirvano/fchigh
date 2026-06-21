@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:40:15.000Z
+pubDatetime: 2026-06-21T01:40:39.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Lautaro Martínez (89, Serie A Enilive) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Lautaro Martínez (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -45.2% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -46.3% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -45% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -46.5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -50% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -41.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -52% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -45.5% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -42.9% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -61.9% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -43.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -47.7% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -45.8% |
-| Alisson | 89 | GK | Premier League | 3k coins | -39.6% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3k coins | -43.1% |
+| Lautaro Martínez | 89 | ST | Serie A Enilive | 2k coins | -16.7% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -45% |
+| Alisson | 89 | GK | Premier League | 2k coins | -43.8% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -44.7% |
+| Marc-André ter Stegen | 89 | GK | LALIGA EA SPORTS | 3k coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -42% |
+| Sophia Wilson | 89 | ST | NWSL | 5k coins | +2.1% |
+| Virgil van Dijk | 89 | CB | Premier League | 7k coins | -26% |
+| Maximiliano Araújo | 89 | LM | — | 11k coins | -20% |
+| Jamie Carragher | 89 | CB | — | 12k coins | -26.5% |
+| Johanna Kaneryd | 89 | RM | — | 12k coins | -14.8% |
+| Ian Wright | 89 | ST | — | 12k coins | -19.3% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -2.1% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -20.3% |
+| Ian Rush | 89 | ST | — | 12k coins | -14.3% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lautaro Martínez (89, ST)** da Serie A Enilive, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marc-André ter Stegen (89, GK)** da LALIGA EA SPORTS, a apenas **3k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Lautaro Martínez (89, Serie A Enilive) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

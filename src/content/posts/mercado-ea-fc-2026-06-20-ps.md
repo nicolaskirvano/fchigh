@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:39:47.000Z
+pubDatetime: 2026-06-21T01:40:00.000Z
 title: "Cartas 87-89 no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Maicon (88, Serie A TIM), com +59.5% em 24h, a 62k coins no Console (PS)."
+    a: "Charles De Ketelaere (89, Serie A TIM), com +58.3% em 24h, a 27k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Zé Roberto (87), -46.4% em 24h, a 35k coins."
+    a: "João Neves (88), -46.5% em 24h, a 85k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 73k coins."
+    a: "Pelo modelo FutQuant, Aurélien Tchouaméni (87) — 95% de probabilidade de alta, a 70k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 223 cartas em alta contra 291 em queda (média -0.35%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 243 cartas em alta contra 258 em queda (média 0.81%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de cartas 87-89 em console apresenta um cenário de extrema volatilidade e indefinição hoje, 20 de junho de 2026, marcado por uma ausência clara de tendência dominante que exige atenção redobrada dos traders. Com um balanço de 223 altas contra 291 quedas e uma média negativa de -0.35% nas últimas 24 horas, o ambiente sugere um momento de redistribuição de capital onde oportunidades pontuais se sobressaem a movimentos estruturais amplos. A dispersão nos dados indica que não há um setor único ditando o fluxo, mas sim nichos específicos reagindo a eventos isolados ou ajustes de inventário de grandes jogadores. Esta neutralidade aparente mascara, na verdade, uma alta rotatividade de ativos onde a velocidade de execução pode ser mais crítica do que a direção geral do mercado. O trader experiente deve interpretar esses números não como um sinal de inatividade, mas como um campo minado onde a seletividade é a única estratégia viável para preservar e expandir o capital.
+O mercado de cartas entre 87 e 89 no console PlayStation encontra-se em um estado de extrema volatilidade e indefinição nesta terça-feira, 20 de junho de 2026, refletindo um ambiente onde a falta de uma tendência dominante clara cria oportunidades assim como riscos significativos para os traders mais experientes. Com um balanço quase equilibrado de 243 altas contra 258 quedas nas últimas 24 horas, a média geral de variação de apenas 0,81% indica que a maioria dos ativos está em uma zona de consolidção lateral, onde a liquidez é o fator determinante para qualquer movimento expressivo de preço. Essa neutralidade estatística sugere que os investidores devem estar em alta vigilância, pois a ausência de um catalisador macroeconômico forte, como grandes eventos de Ultimate Team ou promoções massivas, faz com que as flutuações sejam impulsionadas principalmente por ações de mercado específicas e movimentos de bots de arbitragem. O tom do dia exige uma abordagem cirúrgica, focada em identificar discrepâncias temporárias entre oferta e demanda, já que a probabilidade de erros de precificação é maior em ambientes sem direcionamento claro. Traders que buscam lucros rápidos devem priorizar ativos com alta probabilidade de correção para cima, enquanto aqueles com perfil mais conservador devem evitar expor capital excessivo em ativos que já sofreram quedas bruscas sem suporte técnico claro.
 
-> 🟢 **Maior alta:** Maicon (88) **+59.5%** · 🔴 **Maior baixa:** Zé Roberto (87) **-46.4%**
+> 🟢 **Maior alta:** Charles De Ketelaere (89) **+58.3%** · 🔴 **Maior baixa:** João Neves (88) **-46.5%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maicon | 88 | Serie A TIM | 62k coins | +59.5% | +18.2% |
-| Jade Le Guilly | 89 | D1 Arkema | 40k coins | +58% | +3.9% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 44k coins | +55.8% | -4.1% |
-| Jay-Jay Okocha | 88 | Premier League | 40k coins | +52.2% | -33.2% |
-| Tara McKeown | 89 | NWSL | 21k coins | +51.7% | +17.3% |
-| Dávid Hancko | 89 | LALIGA EA SPORTS | 27k coins | +51.4% | -31.9% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 38k coins | +50% | +96.2% |
-| Jairzinho | 89 | Icons | 350k coins | +49.4% | -20.4% |
-| Matheus Cunha | 87 | Premier League | 100k coins | +48.5% | +19.9% |
-| Alex Scott | 89 | Barclays WSL | 80k coins | +48.5% | +132.3% |
+| Charles De Ketelaere | 89 | Serie A TIM | 27k coins | +58.3% | +16.3% |
+| Jorge Campos | 87 | MLS | 22k coins | +57.4% | -31.4% |
+| Jamal Musiala | 89 | Bundesliga | 349k coins | +56.4% | 0% |
+| Robin van Persie | 88 | Icons | 121k coins | +55.2% | +0.8% |
+| Naomie Feller | 88 | — | 27k coins | +55% | +29.2% |
+| Cora Zicai | 88 | GPFBL | 68k coins | +53.4% | +206.8% |
+| Jobe Bellingham | 89 | Bundesliga | 267k coins | +50.8% | +45.3% |
+| Gabriel | 89 | Premier League | 94k coins | +48.1% | -20% |
+| Tara McKeown | 89 | NWSL | 25k coins | +47.3% | +8% |
+| Martin Ødegaard | 87 | Premier League | 91k coins | +46% | -20.7% |
 
 
-Entre as altas mais expressivas, Maicon (88, Serie A TIM) lidera com um impressionante aumento de 59.5% em 24 horas, atingindo 62k coins, um movimento apoiado por uma probabilidade de alta de 95% que sugere forte demanda sustentada. Jade Le Guilly (89, D1 Arkema) também desponta com alta de 58% para 40k coins, embora sua probabilidade de continuidade seja baixa em apenas 5%, indicando um possível pico especulativo de curto prazo. Abdoulaye Doucouré (87, ROSHN Saudi League) sobe 55.8% para 44k coins com 28% de chance de alta, refletindo talvez uma reação tardia a notícias de desempenho ou disponibilidade. Jay-Jay Okocha (88, Premier League) registra 52.2% de alta para 40k coins, mas com apenas 5% de probabilidade de alta, o que alerta para um risco imediato de reversão. Tara McKeown (89, NWSL) alcança 51.7% de alta para 21k coins com 39% de probabilidade, mostrando uma base de suporte mais robusta que seus pares em valor absoluto, enquanto Dávid Hancko (89, LALIGA EA SPORTS) sobe 51.4% para 27k coins com 50% de chance, equilibrando risco e recompensa.
+Entre as maiores altas do dia, destaca-se o desempenho notável de Charles De Ketelaere, cuja carta de 89 de Serie A TIM disparou impressionantes 58,3% em 24 horas, atingindo a marca de 27 mil moedas, embora a probabilidade de continuidade dessa alta seja baixa, estimada em apenas 5%, o que indica uma possível exaustão de compradores a curto prazo. Jorge Campos, um ativo de 87 da MLS, também apresentou um movimento vigoroso de 57,4% para 22 mil moedas, mas diferentemente de De Ketelaere, possui uma robusta probabilidade de alta de 63%, sugerindo que há fundamentos técnicos ou de escassez sustentando essa valorização contínua no mercado secundário. No segmento de alta gama, Jamal Musiala, com 89 de overall da Bundesliga, subiu 56,4% para um preço exorbitante de 349 mil moedas, movendo-se com uma probabilidade de alta de 28%, o que aponta para uma liquidez restrita onde grandes jogadores influenciam o preço com volumes menores de transações. Robin van Persie, o icônico 88 de Icons, registrou alta de 55,2% para 121 mil moedas com uma altíssima probabilidade de 95% de continuidade, tornando-se um dos ativos mais confiáveis para trading de longo prazo devido à sua natureza de item de coleção e escassez natural. Naomie Feller, outra carta de 88 sem liga específica, acompanhou a tendência com alta de 55% para 27 mil moedas e 95% de probabilidade de alta, enquanto Cora Zicai (88, GPFBL) subiu 53,4% para 68 mil moedas com 74% de chance de seguir subindo, indicando um setor feminino com forte momentum de compra que não deve ser ignorado pelos analistas de mercado.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Zé Roberto | 87 | Bundesliga | 35k coins | -46.4% | -59.8% |
-| Ramires | 88 | Premier League | 171k coins | -46.2% | -50% |
-| Kevin De Bruyne | 88 | Serie A TIM | 90k coins | -46.1% | -37% |
-| Lukas Klostermann | 88 | Bundesliga | 131k coins | -45% | +4.8% |
-| Maicon | 89 | Serie A TIM | 115k coins | -43.9% | -34.3% |
-| Pavel Nedvěd | 89 | Icons | 124k coins | -41.2% | -45.5% |
-| David Beckham | 89 | Icons | 30k coins | -40% | -83.2% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 62k coins | -35.5% | -48.8% |
-| Luis Díaz | 87 | Bundesliga | 64k coins | -35.2% | -51.5% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 84k coins | -34.8% | -7.2% |
+| João Neves | 88 | Ligue 1 McDonald's | 85k coins | -46.5% | -23.4% |
+| Koke | 88 | LALIGA EA SPORTS | 23k coins | -45.5% | -49.2% |
+| Pavel Nedvěd | 89 | Icons | 119k coins | -44.9% | -47.6% |
+| Billy Gilmour | 87 | Serie A TIM | 20k coins | -43.2% | -64.1% |
+| Kelechi Iheanacho | 87 | Scottish Premiership | 28k coins | -42.2% | -48.1% |
+| Lukas Klostermann | 88 | Bundesliga | 121k coins | -41.3% | -6.2% |
+| Kevin De Bruyne | 88 | Serie A TIM | 106k coins | -37.6% | -29.3% |
+| Marcelo | 89 | Icons | 48k coins | -34.2% | -82.6% |
+| Kaká | 89 | Icons | 94k coins | -32.1% | -34.9% |
+| Bremer | 88 | Serie A TIM | 108k coins | -31.9% | -15.5% |
 
 
-No outro extremo, Zé Roberto (87, Bundesliga) despencou 46.4% em 24 horas para 35k coins, um movimento drástico que, curiosamente, mantém uma alta probabilidade de alta de 73%, sugerindo uma venda em pânico que pode ser revertida rapidamente. Ramires (88, Premier League) também sofreu uma queda brutal de 46.2% para 171k coins, com 68% de probabilidade de alta, indicando que o preço atual pode ser um fundo temporário atraente para quem busca entradas de risco controlado. Kevin De Bruyne (88, Serie A TIM) caiu 46.1% para 90k coins, mas a probabilidade de alta de 93% é um sinal extremamente forte de que o mercado está superajustando para baixo e correção é iminente. Lukas Klostermann (88, Bundesliga) perdeu 45% para 131k coins com 50% de chance de alta, representando uma zona de incerteza onde o suporte pode ou não segurar. Maicon (89, Serie A TIM) teve uma queda de 43.9% para 115k coins com baixa probabilidade de alta de 23%, o que indica fragilidade estrutural no preço e risco de continuidade da baixa, enquanto Pavel Nedvěd (89, Icons) caiu 41.2% para 124k coins com 95% de chance de alta, sendo talvez a melhor oportunidade de compra entre as quedas devido à força do suporte estatístico.
+Do outro lado do espectro, as quedas foram igualmente dramáticas, lideradas por João Neves, cuja carta de 88 da Ligue 1 McDonald's desvalorizou 46,5% em 24 horas para 85 mil moedas, apesar de ainda manter uma probabilidade de alta de 38%, o que sugere que o ativo pode estar encontrando um suporte técnico e potencialmente revertendo a tendência de baixa a curto prazo. Koke, o meio-campista de 88 da LALIGA EA SPORTS, caiu 45,5% para 23 mil moedas, mas surpreendentemente apresenta uma probabilidade de alta de 95%, indicando que a queda pode ter sido um movimento especulativo de venda em massa que já esgotou sua pressão vendedora, criando uma oportunidade de compra de risco calculado. Pavel Nedvěd, o lendário 89 de Icons, registrou queda de 44,9% para 119 mil moedas com 95% de probabilidade de alta, reforçando a tese de que ícones tendem a ter fundos de compra robustos que rapidamente absorvem quedas excessivas causadas por liquidez temporária. Billy Gilmour (87, Serie A TIM) despencou 43,2% para 20 mil moedas com probabilidade de alta de 53%, mostrando uma volatilidade típica de cartas de ligas menores onde a base de usuários é menor e mais suscetível a manipulações de preço. Kelechi Iheanacho, de 87 da Scottish Premiership, caiu 42,2% para 28 mil moedas, mas com apenas 8% de probabilidade de alta, sinalizando um ativo em franco desinteresse do mercado que deve ser evitado até que haja sinais claros de estabilização ou nova demanda.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Frank Rijkaard | 87 | 73k coins | 87k coins | 95% |
-| Jaap Stam | 89 | 94k coins | 108k coins | 95% |
-| Bastian Schweinsteiger | 89 | 68k coins | 84k coins | 95% |
-| Mario Götze | 88 | 72k coins | 92k coins | 95% |
-| Alphonso Davies | 89 | 62k coins | 84k coins | 95% |
+| Aurélien Tchouaméni | 87 | 70k coins | 83k coins | 95% |
 | Kelly Smith | 89 | 68k coins | 84k coins | 95% |
-| Julián Alvarez | 88 | 84k coins | 107k coins | 95% |
-| Kouadio Manu Koné | 88 | 98k coins | 116k coins | 95% |
+| Mario Götze | 88 | 67k coins | 85k coins | 95% |
+| Timo Werner | 87 | 56k coins | 69k coins | 95% |
+| Frank Rijkaard | 87 | 80k coins | 94k coins | 95% |
+| Murillo | 87 | 96k coins | 124k coins | 95% |
+| Jaap Stam | 89 | 95k coins | 109k coins | 95% |
+| Kouadio Manu Koné | 88 | 92k coins | 110k coins | 95% |
 
 
-O modelo projeta altas significativas para Frank Rijkaard (87, Icons) a 73k coins com 95% de probabilidade de alta, indicando uma compra segura baseada em dados históricos de valorização. Jaap Stam (89, Premier League) é outro ativo com 95% de chance de alta, cotado a 94k coins, sugerindo forte acumulação silenciosa no mercado antes de um movimento visível. Bastian Schweinsteiger (89, Icons) aparece com 95% de probabilidade de alta a 68k coins, reforçando a tendência de valorização de ícones clássicos neste momento específico do ciclo de mercado. Mario Götze (88, Bundesliga) também tem 95% de chance de alta a 72k coins, aproveitando possivelmente a escassez de opções de meio-campo de alto custo-benefício. Alphonso Davies (89, Bundesliga) é projetado para alta com 95% de probabilidade a 62k coins, um ativo líquido que tende a reagir bem a qualquer movimento de volume no mercado. Kelly Smith (89, Icons) mantém 95% de chance de alta a 68k coins, oferecendo diversificação para carteiras focadas em mulheres e ícones. Julián Alvarez (88, LALIGA EA SPORTS) tem 95% de probabilidade de alta a 84k coins, refletindo a constante busca por atacantes de qualidade em ligas populares. Kouadio Manu Koné (88, Serie A TIM) completa a lista com 95% de chance de alta a 98k coins, sugerindo uma oportunidade de nicho com alto potencial de retorno para traders especializados.
+O modelo preditivo identifica um conjunto de ativos com altíssima probabilidade de valorização, todos com 95% de chance de alta, oferecendo um roteiro claro para estratégias de acumulação. Aurélien Tchouaméni, de 87 da LALIGA EA SPORTS, é projetado para subir a partir de 70 mil moedas, representando uma entrada segura em meio-campistas de elite com boa liquidez. Kelly Smith, a ícone de 89, tem previsão de alta para 68 mil moedas, aproveitando a tendência de valorização de cartas femininas icônicas que têm ganhado destaque nos times SBC e de competição. Mario Götze (88, Bundesliga) e Timo Werner (87, Bundesliga) também aparecem com 95% de probabilidade, projetados para 67 mil e 56 mil moedas respectivamente, sugerindo um movimento sincronizado no mercado alemão que pode ser explorado através de pacotes de compra. Frank Rijkaard (87, Icons) é outro destaque com previsão para 80 mil moedas, consolidando a força do setor de ícones. Murillo (87, Premier League), Jaap Stam (89, Premier League) e Kouadio Manu Koné (88, Serie A TIM) completam a lista com projeções para 96 mil, 95 mil e 92 mil moedas respectivamente, todos com a mesma alta confiança estatística, indicando uma janela de oportunidade clara para traders que desejam posicionar-se antes da valorização efetiva.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Cristian Manea | 88 | 40k coins | -34.2% |
-| Dominic Solanke | 87 | 32k coins | -17.2% |
-| Alyssa Naeher | 88 | 30k coins | -21.4% |
-| Scott McTominay | 87 | 66k coins | -17.5% |
-| Aaron Wan-Bissaka | 89 | 40k coins | -15.6% |
-| Jens Petter Hauge | 88 | 30k coins | -24% |
-| Irene Paredes | 88 | 39k coins | -34.2% |
-| Leah Williamson | 88 | 38k coins | -23.8% |
+| Gustav Isaksen | 87 | 32k coins | -17.3% |
+| Ricardo Pepi | 87 | 36k coins | -17.5% |
+| Nuno Tavares | 87 | 31k coins | -24.1% |
+| Karim Benzema | 88 | 40k coins | -34.2% |
+| Vicky López | 87 | 38k coins | -24% |
+| Bremer | 87 | 36k coins | -17.5% |
+| Musab Al Juwair | 87 | 38k coins | -23.8% |
+| Alex Freeman | 88 | 40k coins | -29.2% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia do dia deve focar agressivamente na compra de ativos com quedas extremas mas alta probabilidade de reversão, como Kevin De Bruyne (88) e Pavel Nedvěd (89), que oferecem margens de segurança estatística robustas para flippers rápidos. É crucial evitar a perseguição às altas de ativos como Jade Le Guilly (89) e Jay-Jay Okocha (88), cujas baixas probabilidades de continuidade de alta indicam armadilhas para compradores tardios. O trader deve priorizar a entrada nas previsões de alta com 95% de probabilidade, especialmente em Frank Rijkaard (87) e Jaap Stam (89), onde o risco é minimizado pela consistência dos dados do modelo. Manter uma reserva de liquidez é essencial dado o sentimento indefinido do mercado, permitindo aproveitar oportunidades de última hora que surgirem da volatilidade intradiária. A venda de ativos que já acumularam altas significativas sem suporte probabilístico, como Thelo Aasgaard (87), deve ser executada imediatamente para realizar lucros antes de potenciais correções. O equilíbrio entre compra de quedas com forte suporte e venda de altas sem fundamento estatístico é a chave para navegar este dia de mercado caótico e sem tendência clara.
+A estratégia ideal para hoje é focar na compra seletiva de ativos com alta probabilidade de correção para cima, como Koke, Pavel Nedvěd e Robin van Persie, que apesar das quedas recentes, possuem 95% de chance de alta, oferecendo uma margem de segurança estatística significativa para traders de curto prazo. Deve-se evitar agressivamente Kelechi Iheanacho e Charles De Ketelaere, pois as baixas probabilidades de alta de 8% e 5% respectivamente indicam que a fase de valorização pode estar encerrada ou que o ativo está em tendência de desvalorização prolongada. Recomenda-se segurar as cartas do segmento de previsões, especialmente Aurélien Tchouaméni e Kelly Smith, pois a convergência de alta probabilidade (95%) e preços acessíveis cria um cenário de assimetria favorável para lucros futuros. Traders devem monitorar de perto Jorge Campos e Cora Zicai, pois a combinação de altas recentes e probabilidades elevadas de continuidade sugere que esses ativos podem servir como alavancas de portfólio, gerando retornos rápidos enquanto o mercado geral permanece indefinido. O timing é crucial: compre as quedas dos ícones e estrelas estabelecidas no início do ciclo de negociação e realize lucros nas altas extremas de jogadores de ligas menores antes da possível correção estatística.
 
 
 ## ⚙️ A engine por tras deste post
@@ -114,16 +114,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Maicon (88, Serie A TIM), com +59.5% em 24h, a 62k coins no Console (PS).
+Charles De Ketelaere (89, Serie A TIM), com +58.3% em 24h, a 27k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Zé Roberto (87), -46.4% em 24h, a 35k coins.
+João Neves (88), -46.5% em 24h, a 85k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 73k coins.
+Pelo modelo FutQuant, Aurélien Tchouaméni (87) — 95% de probabilidade de alta, a 70k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 223 cartas em alta contra 291 em queda (média -0.35%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 243 cartas em alta contra 258 em queda (média 0.81%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
