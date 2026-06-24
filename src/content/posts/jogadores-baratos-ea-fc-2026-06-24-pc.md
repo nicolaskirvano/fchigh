@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T13:39:09.000Z
+pubDatetime: 2026-06-24T16:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 89 | ST | Barclays WSL | 4k coins | -32.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 4k coins | -35.6% |
-| Mapi León | 89 | CB | Liga F | 4k coins | -38.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -47.3% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -37.1% |
-| Mariona | 89 | CM | Barclays WSL | 4k coins | -37.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -40.6% |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -36.1% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 4k coins | -42.5% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | -35.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | -35.6% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | -27.4% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 5k coins | -33.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6k coins | -36.4% |
-| Alisson | 89 | GK | Premier League | 6k coins | -11% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 4k coins | -35.5% |
+| Mapi León | 89 | CB | Liga F | 4k coins | -37.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | -40.3% |
+| Mariona | 89 | CM | Barclays WSL | 4k coins | -38.1% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4k coins | -40% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -35.5% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | -41% |
+| Patri Guijarro | 89 | CDM | Liga F | 4k coins | -36.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -46.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4k coins | -39.7% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 4k coins | -35.1% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 5k coins | -36% |
+| Alisson | 89 | GK | Premier League | 5k coins | -28.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -29.4% |
+| Birgit Prinz | 89 | ST | — | 11k coins | -23.9% |
 
 
 ## 📈 Destaques
 
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
