@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T13:39:09.000Z
+pubDatetime: 2026-06-26T16:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | +21.9% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -2.5% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | +29% |
-| Alessia Russo | 89 | ST | Barclays WSL | 4k coins | +5.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | -4.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 4k coins | +11.1% |
-| Mariona | 89 | CM | Barclays WSL | 4k coins | -2.4% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | -4.3% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 4k coins | -2.3% |
-| Alisson | 89 | GK | Premier League | 5k coins | +9.1% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | +43.3% |
+| Mapi León | 89 | CB | Liga F | 4k coins | +51.7% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 4k coins | +4.8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4k coins | +53.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | +9.8% |
+| Mariona | 89 | CM | Barclays WSL | 4k coins | +10% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +45.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +12.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 5k coins | +67.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5k coins | +51.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +40% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 5k coins | +51.7% |
+| Alisson | 89 | GK | Premier League | 5k coins | +50% |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 5k coins | +66.7% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | -5.6% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -8.2% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4k coins**
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **4k coins**
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4k coins**
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins**
 
 
 ## Por que estas cartas?
