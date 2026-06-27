@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T19:39:05.000Z
+pubDatetime: 2026-06-27T22:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -20.8% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -13% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -13% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -17.2% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -16.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -20% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -12% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -3.8% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3k coins | -8.3% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -47% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +86.2% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -6.2% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -15.3% |
-| Tara McKeown | 89 | CB | NWSL | 12k coins | -40% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -62.1% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +82.8% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -32.2% |
+| Birgit Prinz | 89 | ST | — | 11k coins | -2% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.1% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -10.9% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2.1% |
+| Sonia Bompastor | 89 | LB | — | 12k coins | -3.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -26.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Johanna Kaneryd | 89 | RM | — | 12k coins | -2% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | -10% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13k coins | -50.9% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -5.6% |
+| Katie McCabe | 89 | LB | Barclays WSL | 13k coins | -17.5% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Birgit Prinz (89, ST)** da —, a apenas **11k coins**
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
