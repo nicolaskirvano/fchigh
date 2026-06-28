@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T16:39:09.000Z
+pubDatetime: 2026-06-28T19:39:10.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +74.3% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Sonia Bompastor | 89 | LB | — | 13k coins | -15% |
-| Jack Harrison | 89 | RM | — | 14k coins | -22.2% |
-| Jaelin Howell | 89 | CDM | NWSL | 14k coins | -32.3% |
-| Mariona | 89 | CAM | Barclays WSL | 15k coins | -3.3% |
-| Roy Makaay | 89 | ST | Bundesliga | 15k coins | -3.2% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -23.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +65.7% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | 0% |
+| Thijs Dallinga | 89 | ST | — | 12k coins | +8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -32.5% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +15.6% |
+| Davor Šuker | 89 | ST | Icons | 14k coins | -6.7% |
+| Patrick Kluivert | 89 | ST | — | 14k coins | +5.5% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -18.4% |
+| Ian Rush | 89 | ST | — | 15k coins | -1.6% |
+| Roy Makaay | 89 | ST | Bundesliga | 15k coins | -4.8% |
 | Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -10.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | +4.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -10.2% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +8.9% |
-| Mohammed Noor | 88 | CAM | ROSHN Saudi League | 12k coins | -18.2% |
-| Carles Puyol | 88 | CB | — | 13k coins | -1.9% |
-| DaMarcus Beasley | 88 | LM | MLS | 13k coins | -18.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -12% |
+| Ole Gunnar Solskjær | 88 | ST | Premier League | 13k coins | -27.6% |
+| Alessandro Nesta | 88 | CB | — | 14k coins | -28.1% |
 
 
 ## 📈 Destaques
 
 - **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Thijs Dallinga (89, ST)** da —, a apenas **12k coins**
 
-- **Jack Harrison (89, RM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jaelin Howell (89, CDM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
