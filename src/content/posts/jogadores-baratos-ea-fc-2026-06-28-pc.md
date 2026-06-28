@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T19:39:10.000Z
+pubDatetime: 2026-06-28T22:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +65.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +55.6% |
 | Celia Šašić | 89 | ST | GPFBL | 11k coins | 0% |
-| Thijs Dallinga | 89 | ST | — | 12k coins | +8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -32.5% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +15.6% |
-| Davor Šuker | 89 | ST | Icons | 14k coins | -6.7% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
+| Sonia Bompastor | 89 | LB | — | 13k coins | -18.3% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +2% |
+| Davor Šuker | 89 | ST | Icons | 13k coins | -10.3% |
+| Tomas Brolin | 89 | ST | Premier League | 14k coins | -51.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -27.3% |
+| Mariona | 89 | CAM | Barclays WSL | 14k coins | +17% |
+| Sebastian Nanasi | 89 | LM | — | 14k coins | +13.7% |
 | Patrick Kluivert | 89 | ST | — | 14k coins | +5.5% |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -18.4% |
-| Ian Rush | 89 | ST | — | 15k coins | -1.6% |
-| Roy Makaay | 89 | ST | Bundesliga | 15k coins | -4.8% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -10.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -12% |
-| Ole Gunnar Solskjær | 88 | ST | Premier League | 13k coins | -27.6% |
-| Alessandro Nesta | 88 | CB | — | 14k coins | -28.1% |
+| Jaedyn Shaw | 89 | CAM | NWSL | 15k coins | -46.4% |
+| Jamie Carragher | 89 | CB | — | 15k coins | +12.3% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | -63.6% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -6.4% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
-- **Thijs Dallinga (89, ST)** da —, a apenas **12k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sonia Bompastor (89, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
 
 ## Por que estas cartas?
