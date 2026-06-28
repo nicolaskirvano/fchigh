@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T13:39:09.000Z
+pubDatetime: 2026-06-28T16:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +97% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | 0% |
-| Patrick Kluivert | 89 | ST | — | 11k coins | -16.7% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.2% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +6.7% |
-| Birgit Prinz | 89 | ST | — | 12k coins | +3.6% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
-| Sonia Bompastor | 89 | LB | — | 12k coins | -3.4% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 14k coins | -42.2% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 14k coins | -22.4% |
-| Jamie Carragher | 89 | CB | — | 14k coins | +3.3% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -23.7% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +35.6% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +13.6% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +74.3% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
+| Sonia Bompastor | 89 | LB | — | 13k coins | -15% |
+| Jack Harrison | 89 | RM | — | 14k coins | -22.2% |
+| Jaelin Howell | 89 | CDM | NWSL | 14k coins | -32.3% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | -3.3% |
+| Roy Makaay | 89 | ST | Bundesliga | 15k coins | -3.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -23.7% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -10.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | +4.5% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -10.2% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +8.9% |
+| Mohammed Noor | 88 | CAM | ROSHN Saudi League | 12k coins | -18.2% |
+| Carles Puyol | 88 | CB | — | 13k coins | -1.9% |
+| DaMarcus Beasley | 88 | LM | MLS | 13k coins | -18.8% |
 
 
 ## 📈 Destaques
 
 - **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Patrick Kluivert (89, ST)** da —, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sonia Bompastor (89, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Jack Harrison (89, RM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
+- **Jaelin Howell (89, CDM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
