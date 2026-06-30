@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T13:39:05.000Z
+pubDatetime: 2026-06-30T16:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +54.3% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -10.9% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -5.9% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -16.9% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -3.8% |
-| Birgit Prinz | 89 | ST | — | 13k coins | +8.5% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -17.7% |
-| Ian Rush | 89 | ST | — | 13k coins | +2% |
-| Patrick Kluivert | 89 | ST | — | 13k coins | -3.7% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -16.7% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | 0% |
+| Birgit Prinz | 89 | ST | — | 13k coins | +10.9% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -16.4% |
 | Ian Wright | 89 | ST | — | 13k coins | +4% |
-| Jess Park | 89 | CM | Barclays WSL | 13k coins | -35% |
+| Jess Park | 89 | CM | Barclays WSL | 13k coins | -32.5% |
+| Ian Rush | 89 | ST | — | 13k coins | +2% |
+| Patrick Kluivert | 89 | ST | — | 13k coins | 0% |
 | Thijs Dallinga | 89 | ST | — | 13k coins | +17.8% |
-| Jamie Carragher | 89 | CB | — | 14k coins | +5.9% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -6.9% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
