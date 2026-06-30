@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:39:09.000Z
+pubDatetime: 2026-06-30T19:39:10.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | -59% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -56.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -53.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -51.3% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -57.5% |
 | Alisson | 89 | GK | Premier League | 2k coins | -60.4% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -52.4% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -52.4% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 2k coins | -45% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -50.9% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -56.8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -54.5% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 2k coins | -46.3% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -51.8% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -16.7% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +62.5% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +58.5% |
 | Vini Jr. | 89 | LW | LALIGA EA SPORTS | 9k coins | -37.9% |
 | Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +15.6% |
 | Diego Luna | 89 | LM | MLS | 13k coins | -18.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +15.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -17.9% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
