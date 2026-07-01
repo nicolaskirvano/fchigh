@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:39:05.000Z
+pubDatetime: 2026-07-01T01:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Alisson | 89 | GK | Premier League | 2k coins | -60% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 2k coins | -57.9% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -71.4% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -42.6% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +45.9% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11k coins | -33.8% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +42.1% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11k coins | -31.7% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
 | Steffi Jones | 89 | CB | Icons | 12k coins | -71.1% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Jack Harrison | 89 | RM | — | 12k coins | -7.8% |
-| Aleix García | 89 | CM | Bundesliga | 12k coins | -5.9% |
+| Jack Harrison | 89 | RM | — | 12k coins | -6% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -12.7% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -16.9% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -23.1% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | +4.2% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -19% |
-| Birgit Prinz | 89 | ST | — | 13k coins | +6.2% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | +8.7% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -24.2% |
 
 
 ## 📈 Destaques
 
 - **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
