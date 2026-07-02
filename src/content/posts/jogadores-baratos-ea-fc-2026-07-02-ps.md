@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T10:39:05.000Z
+pubDatetime: 2026-07-02T13:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -44.1% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +63.2% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -4.1% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -47.1% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 7k coins | +76.3% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | -9.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -2.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -4.2% |
+| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -5.9% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -25% |
-| Jack Harrison | 89 | RM | — | 12k coins | -4% |
-| Keira Walsh | 89 | CDM | Barclays WSL | 12k coins | -2% |
-| Johanna Kaneryd | 89 | RM | — | 12k coins | -5.8% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 12k coins | -28.6% |
-| Lukáš Haraslín | 89 | LW | Česká Liga | 12k coins | -33.3% |
-| Ian Wright | 89 | ST | — | 13k coins | -16.1% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2.1% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -21.9% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -8.9% |
+| Patrick Kluivert | 89 | ST | — | 13k coins | -7.3% |
+| Birgit Prinz | 89 | ST | — | 13k coins | 0% |
+| Johanna Kaneryd | 89 | RM | — | 13k coins | 0% |
+| Ian Rush | 89 | ST | — | 13k coins | 0% |
 | Mariona | 89 | CAM | Barclays WSL | 13k coins | +6% |
-| Sonia Bompastor | 89 | LB | — | 13k coins | +2% |
 
 
 ## 📈 Destaques
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 
 ## Por que estas cartas?
