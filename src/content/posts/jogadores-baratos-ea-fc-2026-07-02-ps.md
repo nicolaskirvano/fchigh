@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T16:39:05.000Z
+pubDatetime: 2026-07-02T19:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -41.2% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +63.2% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -25% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -4.2% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -11.1% |
-| Ian Rush | 89 | ST | — | 12k coins | -5.8% |
-| Sonia Bompastor | 89 | LB | — | 12k coins | +2% |
-| Patrick Kluivert | 89 | ST | — | 12k coins | -10.7% |
-| Kristin Kögel | 89 | LM | GPFBL | 12k coins | -46.4% |
-| Rasheedat Ajibade | 89 | RM | D1 Arkema | 12k coins | -27.8% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 12k coins | -33.3% |
-| Birgit Prinz | 89 | ST | — | 13k coins | +4% |
-| Ian Wright | 89 | ST | — | 13k coins | -11.3% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -44.1% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 2k coins | -48.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 2k coins | -56.9% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -39.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -6.2% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | -16.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -29.7% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -4.2% |
+| Johanna Kaneryd | 89 | RM | — | 12k coins | -9.6% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2.1% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 12k coins | -30.6% |
+| Ian Rush | 89 | ST | — | 12k coins | -7.7% |
+| Sonia Bompastor | 89 | LB | — | 12k coins | -4% |
+| Thijs Dallinga | 89 | ST | — | 12k coins | -5.7% |
+| Birgit Prinz | 89 | ST | — | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 
 ## Por que estas cartas?
