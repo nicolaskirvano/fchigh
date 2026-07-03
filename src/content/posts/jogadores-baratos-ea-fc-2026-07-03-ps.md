@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:39:05.000Z
+pubDatetime: 2026-07-03T16:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Federico Valverde (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 4k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Federico Valverde (89) por apenas 4k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -12.1% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3k coins | -35.6% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -42.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -41.7% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 8k coins | +85.4% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -35% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 7k coins | +73.8% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.1% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -23.3% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -21.7% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -29.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | 0% |
-| Ian Rush | 89 | ST | — | 13k coins | +9.6% |
+| Sebastian Nanasi | 89 | LM | — | 12k coins | -17.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -6.1% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -18.6% |
+| Birgit Prinz | 89 | ST | — | 13k coins | 0% |
+| Ian Rush | 89 | ST | — | 13k coins | +1.9% |
 | Thijs Dallinga | 89 | ST | — | 13k coins | 0% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | +8% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 13k coins | +1.9% |
+| Sonia Bompastor | 89 | LB | — | 13k coins | +10.4% |
+| Mariona | 89 | CAM | Barclays WSL | 14k coins | +4% |
 
 
 ## 📈 Destaques
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
+
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Federico Valverde (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 4k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
