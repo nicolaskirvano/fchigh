@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:39:05.000Z
+pubDatetime: 2026-07-04T13:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | -20.8% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -12% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -8.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -8% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -4.2% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -17.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -16% |
+| Mapi León | 89 | CB | Liga F | 2k coins | 0% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -8.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -11.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -17.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -8.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -4.2% |
 | Mariona | 89 | CM | Barclays WSL | 2k coins | -14.8% |
-| Alisson | 89 | GK | Premier League | 3k coins | -22.2% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +13.3% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 4k coins | +11.1% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -30.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -11.1% |
+| Alisson | 89 | GK | Premier League | 3k coins | -19.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +16.7% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | -12.2% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 4k coins | +22.2% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
