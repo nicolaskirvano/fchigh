@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:39:09.000Z
+pubDatetime: 2026-07-05T22:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +163.2% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +107.7% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +123.1% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +130.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +133.3% |
-| Alisson | 89 | GK | Premier League | 3k coins | +130.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +107.1% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 3k coins | +180% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +87.5% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +141.7% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +121.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +54.5% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -43.3% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +26.9% |
-| Rudi Völler | 89 | ST | Bundesliga | 11k coins | 0% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +108.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +92.3% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +100% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | +100% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | +58.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +100% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +92.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +85.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +85.7% |
+| Alisson | 89 | GK | Premier League | 3k coins | +80% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +86.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +100% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -48.2% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +45.5% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +13.8% |
 
 
 ## 📈 Destaques
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
