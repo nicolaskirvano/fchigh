@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:39:09.000Z
+pubDatetime: 2026-07-07T22:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | -9.7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +20.8% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +7.7% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +15.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +11.5% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +20.8% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -46.7% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 4k coins | +26.7% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -15% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Birgit Prinz | 89 | ST | — | 12k coins | -7.1% |
-| Ian Rush | 89 | ST | — | 12k coins | -4.8% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +5.8% |
-| Maximiliano Araújo | 89 | LM | — | 15k coins | -37.2% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3k coins | +3.6% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +38.1% |
+| Mapi León | 89 | CB | Liga F | 3k coins | +81.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +25% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +34.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +29.2% |
+| Alisson | 89 | GK | Premier League | 3k coins | +24% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +29.2% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +15.4% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -45% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +47.8% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +47.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +25.8% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | +65.5% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -18.8% |
 
 
 ## 📈 Destaques
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3k coins**
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

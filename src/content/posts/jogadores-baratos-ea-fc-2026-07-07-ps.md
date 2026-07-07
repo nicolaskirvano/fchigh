@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:39:05.000Z
+pubDatetime: 2026-07-07T22:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +4.8% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +20% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +69.2% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +15% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +142.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +80% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +20% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +14.3% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +36.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +9.5% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -29.3% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +6.5% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4k coins | -33.3% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 6k coins | +108.3% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -26.8% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +12.8% |
-| Caroline Weir | 89 | CAM | Liga F | 12k coins | -32.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +13.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +25% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +31.6% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +23.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +30% |
+| Alisson | 89 | GK | Premier League | 3k coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -31.7% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +38.1% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -46.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +50% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +9.7% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | +100% |
 
 
 ## 📈 Destaques
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins**
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
