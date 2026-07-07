@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T22:39:05.000Z
+pubDatetime: 2026-07-07T01:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +110.5% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +100% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +61.5% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +144.4% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +83.3% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +155.6% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +76.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +144.4% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | +91.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +64.3% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +91.7% |
-| Alisson | 89 | GK | Premier League | 2k coins | +50% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +78.6% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +78.6% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +91.7% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +71.4% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +64.3% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +78.6% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -44.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +50% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +12.9% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | +218.8% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 9k coins | -20% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +3.2% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 6k coins | +250% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -21.3% |
 
 
 ## 📈 Destaques
 
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
