@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T22:39:05.000Z
+pubDatetime: 2026-07-09T01:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +83.3% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +57.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +57.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +66.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +66.7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +73.3% |
-| Alisson | 89 | GK | Premier League | 3k coins | +55.6% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +75% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +25% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -47.5% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +135.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +35.7% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +121.1% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +84.6% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +71.4% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +76.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +85.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +78.6% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +100% |
+| Alisson | 89 | GK | Premier League | 3k coins | +75% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -45.9% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | +161.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +164.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +33.3% |
 | Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | +155% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 9k coins | -26.9% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +8.7% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -12.2% |
+| Johanna Kaneryd | 89 | RM | — | 12k coins | -3.8% |
 
 
 ## 📈 Destaques
 
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
