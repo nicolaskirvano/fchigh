@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:39:05.000Z
+pubDatetime: 2026-07-10T13:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | -6.2% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -5.6% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +6.2% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +5.9% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +12.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -5.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -5.3% |
-| Alisson | 89 | GK | Premier League | 2k coins | 0% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -67.1% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -5.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -11.1% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -11.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | 0% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -9.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -9.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +5.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | +11.1% |
+| Alisson | 89 | GK | Premier League | 2k coins | -8.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | -60.8% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -19.4% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +110% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | +96.3% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -2.1% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +14.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +114.3% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 5k coins | +85.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | +38.5% |
 
 
 ## 📈 Destaques
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins**
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
