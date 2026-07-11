@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T16:39:09.000Z
+pubDatetime: 2026-07-11T19:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -13.6% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -25% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +104.2% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 6k coins | +5% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +20% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +22.2% |
-| Birgit Prinz | 89 | ST | — | 15k coins | -1.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +22.7% |
-| Armindo Sieb | 88 | ST | — | 15k coins | -1.5% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -8.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -22.7% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -29.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -24% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -28% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -20.8% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -33.3% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -16% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +82.6% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 6k coins | -6.3% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | 0% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +2.2% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | +22.2% |
+| Birgit Prinz | 89 | ST | — | 15k coins | -3.3% |
+| Bruno Guimarães | 89 | CM | Premier League | 15k coins | -37.5% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | +13.3% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **6k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
