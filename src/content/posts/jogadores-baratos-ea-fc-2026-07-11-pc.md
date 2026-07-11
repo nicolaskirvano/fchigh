@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:39:09.000Z
+pubDatetime: 2026-07-11T13:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 5k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Lamine Yamal (89) por apenas 5k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -28% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +75% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +100% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -10% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -11.8% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +19.6% |
-| Birgit Prinz | 89 | ST | — | 15k coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 15k coins | +7.3% |
-| Guro Reiten | 88 | LM | Barclays WSL | 3k coins | -13.3% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +22.2% |
+| Birgit Prinz | 89 | ST | — | 15k coins | -1.7% |
 | Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -8.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +20.5% |
-| Mario Gomez | 88 | ST | Bundesliga | 15k coins | +34.1% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11k coins | -15.4% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 11k coins | +9.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 13k coins | +4.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 14k coins | +31.8% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | 0% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -4.2% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +10.4% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +6% |
+| Gilberto Silva | 87 | CDM | Premier League | 14k coins | -30.6% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Birgit Prinz (89, ST)** da —, a apenas **15k coins**
+
+- **Jari Litmanen (88, CAM)** da Eredivisie, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC.
+Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 5k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
