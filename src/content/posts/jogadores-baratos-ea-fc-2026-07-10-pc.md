@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T22:39:09.000Z
+pubDatetime: 2026-07-11T01:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -13.6% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -8.3% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -4.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -12.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -16% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -14.8% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2k coins | -8.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -8.3% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2k coins | -36.1% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -17.2% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -3.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +80% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -18.2% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -6.9% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +87.5% |
 | Celia Šašić | 89 | ST | GPFBL | 11k coins | -2.2% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -7.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
+| Sonia Bompastor | 89 | LB | — | 13k coins | -9.2% |
+| Birgit Prinz | 89 | ST | — | 15k coins | 0% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 11k coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -9.4% |
+| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +22.7% |
+| Maika Hamano | 88 | CAM | Barclays WSL | 14k coins | -33.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 15k coins | +34.1% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | +13.6% |
 
 
 ## 📈 Destaques
 
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
