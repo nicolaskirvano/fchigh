@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T22:39:09.000Z
+pubDatetime: 2026-07-12T01:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Alisson (89, Premier League) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Patri Guijarro (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Alisson (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -29.2% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -33.3% |
-| Alisson | 89 | GK | Premier League | 2k coins | -28% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -26.9% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +70.8% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 5k coins | -8.3% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -8.2% |
+| Alisson | 89 | GK | Premier League | 2k coins | -32% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -34.6% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 5k coins | -12.9% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -11.8% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -10% |
-| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -12% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 12k coins | +41.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +17.8% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 14k coins | -40.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -8.2% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | +2.1% |
+| Rudi Völler | 89 | ST | Bundesliga | 14k coins | +33.3% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -3.1% |
+| Birgit Prinz | 89 | ST | — | 15k coins | -1.7% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | -8.8% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 12k coins | +4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +15.9% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 13k coins | -41.3% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -46.6% |
 
 
 ## 📈 Destaques
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 2k coins no PC.
+Alisson (89, Premier League) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
