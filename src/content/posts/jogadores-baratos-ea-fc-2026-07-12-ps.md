@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T22:39:05.000Z
+pubDatetime: 2026-07-13T01:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +83.3% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 5k coins | -57.2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -14.8% |
-| Sonia Bompastor | 89 | LB | — | 12k coins | -16.9% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | 0% |
-| Johanna Kaneryd | 89 | RM | — | 12k coins | -3.8% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -9.4% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -12.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | +2% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.2% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 13k coins | -28.2% |
-| Rayane Messi | 89 | LM | Brasileirão | 13k coins | +28.3% |
-| Estefanía Banini | 89 | CM | Liga F | 13k coins | -3.6% |
-| Giovane | 89 | CAM | Serie A TIM | 13k coins | -17.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +54.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -16.7% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -4.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
+| Sonia Bompastor | 89 | LB | — | 12k coins | -11.9% |
+| Rayane Messi | 89 | LM | Brasileirão | 13k coins | -3.8% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -3.8% |
+| Thijs Dallinga | 89 | ST | — | 13k coins | -10% |
+| Birgit Prinz | 89 | ST | — | 13k coins | -1.9% |
+| Johanna Kaneryd | 89 | RM | — | 13k coins | +3.8% |
+| Rasheedat Ajibade | 89 | RM | D1 Arkema | 14k coins | -29.1% |
+| Ian Rush | 89 | ST | — | 14k coins | 0% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +8.8% |
 
 
 ## 📈 Destaques
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Sonia Bompastor (89, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
