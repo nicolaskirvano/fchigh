@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T13:39:09.000Z
+pubDatetime: 2026-07-14T16:39:09.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (14/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -32.1% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2k coins | -29.4% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -17.9% |
 | Raphinha | 89 | LM | LALIGA EA SPORTS | 2k coins | -36.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -20% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -15.6% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +96.2% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 7k coins | -16% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -25% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -2.2% |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -10.6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +8.7% |
-| Rudi Völler | 89 | ST | Bundesliga | 15k coins | +9.1% |
-| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 11k coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | -4.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +2.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -4% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -11.1% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +4.3% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2k coins | -29.4% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -8% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -7.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | 0% |
+| Alisson | 89 | GK | Premier League | 2k coins | -20.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -14.8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -10.7% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -12.9% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -10% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +80.8% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
 
 
 ## Por que estas cartas?
