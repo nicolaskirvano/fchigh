@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:39:18.000Z
-title: "Melhores investimentos em Cartas 87-89 no EA FC (16/07/2026): análise e previsões — PC"
+pubDatetime: 2026-07-16T23:58:50.000Z
+title: "Investimentos EA FC: Cartas 87-89 em 16/07 — PC"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +82.4% em 7 dias a 32k coins no PC."
+    a: "Lucy Bronze (88, Barclays WSL) lidera, com +88.5% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
+Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Fabián Ruiz (88) acumula **+82.4% em 7 dias** a 32k coins.
+> 🔝 **Destaque:** Lucy Bronze (88) acumula **+88.5% em 7 dias** a 230k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+15.4% em 24h** e **+57.7% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 32k coins | +6.3% | +82.4% | 0% |
-| Denzel Dumfries | 89 | Serie A TIM | 58k coins | +9.1% | +72.7% | 0% |
-| Vanessa Gilles | 87 | GPFBL | 32k coins | +27.6% | +67.5% | 0% |
-| Rocío Gálvez | 88 | Liga F | 32k coins | +9.2% | +62.5% | 0% |
-| Granit Xhaka | 89 | Premier League | 54k coins | +14.1% | +59.1% | 12% |
-| Mingueza | 88 | LALIGA EA SPORTS | 26k coins | +20.9% | +57.1% | 0% |
-| Alexis Mac Allister | 89 | Premier League | 45k coins | +17.6% | +55.2% | 28% |
-| Kelly Smith | 89 | Icons | 104k coins | +10.1% | +54.1% | 0% |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 16k coins | +9.2% | +51.1% | 31% |
-| David Beckham | 89 | Icons | 72k coins | +7.2% | +51% | 0% |
-| Hristo Stoichkov | 89 | Icons | 124k coins | +27.6% | +48.8% | 0% |
-| Declan Rice | 89 | Premier League | 99k coins | +3.7% | +46.7% | 0% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 29k coins | +14.7% | +46.2% | 0% |
-| Éderson | 87 | Serie A TIM | 54k coins | +3.8% | +45.3% | 21% |
-| Firas Al Birekan | 89 | ROSHN Saudi League | 46k coins | +29.1% | +44.7% | 0% |
+| Lucy Bronze | 88 | Barclays WSL | 230k coins | +15.6% | +88.5% | Esticada |
+| Pavel Nedvěd | 88 | Icons | 116k coins | +12.7% | +86.5% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 130k coins | +12.1% | +85.7% | Esticada |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 31k coins | +2.4% | +75.7% | Esticada |
+| Lilly Reale | 89 | NWSL | 34k coins | +39.8% | +71.2% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 57k coins | +4.5% | +65.5% | Esticada |
+| Vanessa Gilles | 87 | GPFBL | 29k coins | +28% | +60% | Esticada |
+| Granit Xhaka | 89 | Premier League | 54k coins | +16.1% | +57.7% | Momentum moderado |
+| Hristo Stoichkov | 89 | Icons | 119k coins | +33.7% | +55% | Esticada |
+| Éder Militão | 88 | LALIGA EA SPORTS | 181k coins | +11.1% | +54.5% | Momentum moderado |
+| Uli Hoeneß | 88 | Bundesliga | 26k coins | +39.5% | +51.4% | Esticada |
+| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +14.3% | +50.7% | Momentum moderado |
+| Rocío Gálvez | 88 | Liga F | 30k coins | +15.4% | +50% | Momentum moderado |
+| Vincent Kompany | 88 | Premier League | 21k coins | +19.5% | +48.4% | Momentum moderado |
+| David Beckham | 89 | Icons | 74k coins | +5% | +47% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Fabián Ruiz (88)** — 32k coins, **+82.4% em 7 dias** (+6.3% em 24h). Preço em linha com a média de 7 dias (-5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denzel Dumfries (89)** — 58k coins, **+72.7% em 7 dias** (+9.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pavel Nedvěd (88)** — 116k coins, **+86.5% em 7 dias** (+12.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vanessa Gilles (87)** — 32k coins, **+67.5% em 7 dias** (+27.6% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bastian Schweinsteiger (88)** — 130k coins, **+85.7% em 7 dias** (+12.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rocío Gálvez (88)** — 32k coins, **+62.5% em 7 dias** (+9.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fabián Ruiz (88)** — 31k coins, **+75.7% em 7 dias** (+2.4% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (89)** — 54k coins, **+59.1% em 7 dias** (+14.1% em 24h). Preço em linha com a média de 7 dias (+6%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Lilly Reale (89)** — 34k coins, **+71.2% em 7 dias** (+39.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -76,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +82.4% em 7 dias a 32k coins no PC.
+Lucy Bronze (88, Barclays WSL) lidera, com +88.5% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Cartas 87-89 em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Mercado EA FC em 16/07: Cartas 87-89 — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
