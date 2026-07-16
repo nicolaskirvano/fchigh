@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fchigh.pages.dev/",
     title: "Cartas 87 a 89",
     description:
-      "Precos e mercado das cartas 87-89 do EA FC Ultimate Team, todos os dias.",
+      "preços e mercado das cartas 87-89 do EA FC Ultimate Team, todos os dias.",
     author: "Cartas 87 a 89",
-    profile: "https://fchigh.pages.dev/",
+    profile: "https://fchigh.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Cartas 87 a 89",
