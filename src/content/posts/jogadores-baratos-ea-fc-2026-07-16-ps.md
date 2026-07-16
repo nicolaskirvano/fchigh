@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T16:39:05.000Z
+pubDatetime: 2026-07-16T19:39:05.000Z
 title: "Jogadores baratos de Cartas 87-89 no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +28.6% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +26.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +5.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +21.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +16.7% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | 0% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3k coins | +34.8% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3k coins | -35.2% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +48% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +23.3% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 9k coins | -6.3% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -4.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.2% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | +42.9% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +60% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +32% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +17.2% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7k coins | +67.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -2% |
+| Johanna Kaneryd | 89 | RM | — | 13k coins | -3.6% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +6.2% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | +20.4% |
+| Jack Harrison | 89 | RM | — | 14k coins | -28.4% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +23.1% |
+| Kristin Kögel | 89 | LM | GPFBL | 14k coins | -3.3% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
