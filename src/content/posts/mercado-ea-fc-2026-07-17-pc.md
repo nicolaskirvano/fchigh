@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:39:17.000Z
+pubDatetime: 2026-07-17T17:20:14.000Z
 title: "Mercado EA FC em 17/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Davor Šuker (89, Icons), com +59.6% em 24h, a 35k coins no PC."
+    a: "Giovane (89, Serie A TIM), com +58% em 24h, a 35k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Junior Messias (87), -48.1% em 24h, a 21k coins."
+    a: "Junior Messias (87), -47.8% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 257 cartas em alta contra 292 em queda (média 1.7%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 250 cartas em alta contra 292 em queda (média 1.04%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **17/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **257 em alta** e **292 em queda**, média de **1.7%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **17/07/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **250 em alta** e **292 em queda**, média de **1.04%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Davor Šuker (89) **+59.6%** · 🔴 **Maior baixa:** Junior Messias (87) **-48.1%**
+> 🟢 **Maior alta:** Giovane (89) **+58%** · 🔴 **Maior baixa:** Junior Messias (87) **-47.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,65 +35,69 @@ Panorama de **17/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 638 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.1% entre as cartas que se moveram; o universo observado reúne 635 cartas.
+- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Davor Šuker | 89 | Icons | 35k coins | +59.6% | +59.6% |
+| Giovane | 89 | Serie A TIM | 35k coins | +58% | +58% |
 | Juan Mata | 88 | A-League | 94k coins | +57.5% | +97.9% |
+| Keira Walsh | 89 | Barclays WSL | 29k coins | +55.6% | +45.8% |
+| Keven Schlotterbeck | 89 | Bundesliga | 30k coins | +55% | +55% |
+| Tara McKeown | 89 | NWSL | 25k coins | +54.1% | +70.1% |
+| Lúcio | 89 | Serie A TIM | 105k coins | +53.3% | +25% |
+| Ko Itakura | 88 | Eredivisie | 30k coins | +53.2% | +49.4% |
+| Davor Šuker | 89 | Icons | 35k coins | +53.2% | +53.2% |
 | Rose Lavelle | 88 | NWSL | 64k coins | +52.9% | +126.1% |
 | Franck Ribéry | 89 | Icons | 400k coins | +52.1% | +73.2% |
-| Luany | 88 | Liga F | 40k coins | +51.4% | +30.3% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 55k coins | +51% | +93% |
-| Katie McCabe | 89 | Barclays WSL | 22k coins | +50.8% | +27.1% |
-| Giovane | 89 | Serie A TIM | 35k coins | +50% | +50% |
-| Michelle Cooper | 87 | NWSL | 24k coins | +50% | +20% |
-| Rudi Völler | 89 | Bundesliga | 25k coins | +48.6% | +57.6% |
 
 
 ### Análise das altas
 
-- **Davor Šuker (89)** subiu **+59.6%** em 24h, a **35k coins** (faixa do dia: 17.250–38k). Está +46% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Juan Mata (88)** subiu **+57.5%** em 24h, a **94k coins** (faixa do dia: 60k–94k). Está +56% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+<!-- projection-note:v1 -->
+> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rose Lavelle (88)** subiu **+52.9%** em 24h, a **64k coins** (faixa do dia: 42k–65k). Está +32% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Giovane (89)** subiu **+58%** em 24h, a **35k coins** (faixa do dia: 28k–35k). Está +57% acima da média de 7 dias (aquecida).
+
+- **Juan Mata (88)** subiu **+57.5%** em 24h, a **94k coins** (faixa do dia: 60k–94k). Está +56% acima da média de 7 dias (aquecida).
+
+- **Keira Walsh (89)** subiu **+55.6%** em 24h, a **29k coins** (faixa do dia: 19.000–35k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Junior Messias | 87 | Serie A TIM | 21k coins | -48.1% | -46.1% |
-| Hristo Stoichkov | 89 | Icons | 84k coins | -46.9% | -10.5% |
+| Junior Messias | 87 | Serie A TIM | 21k coins | -47.8% | -46.1% |
 | Jaden Philogene | 87 | EFL Championship | 20k coins | -45.9% | -26.6% |
-| Jerzy Dudek | 87 | Premier League | 38k coins | -45.9% | -36.7% |
-| Antonio Di Natale | 88 | Serie A TIM | 47k coins | -43.8% | +40% |
-| Carl Starfelt | 88 | — | 21k coins | -43.3% | -8.6% |
+| Ada Hegerberg | 88 | Frauen-Bundesliga | 39k coins | -44.3% | -8.2% |
+| Antonio Di Natale | 88 | Serie A TIM | 47k coins | -44% | +39.3% |
+| Sven Ulreich | 87 | Bundesliga | 48k coins | -43% | -46.9% |
 | Francesco Totti | 89 | Icons | 400k coins | -42.9% | -28.4% |
-| Sven Ulreich | 87 | Bundesliga | 21k coins | -42.6% | -46.9% |
 | Sakina Karchaoui | 89 | — | 40k coins | -42.1% | -25% |
-| Nick Woltemade | 87 | Premier League | 28k coins | -41.2% | -57.1% |
+| Nick Woltemade | 87 | Premier League | 28k coins | -41.2% | -55.1% |
+| Steven Gerrard | 88 | Icons | 108k coins | -39% | -16.9% |
+| Marcus Pedersen | 89 | Serie A TIM | 39k coins | -38.7% | -24.4% |
 
 
 ### Análise das baixas
 
-- **Junior Messias (87)** caiu **-48.1%** em 24h, a **21k coins** (faixa do dia: 21k–40k). Está -37% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Junior Messias (87)** caiu **-47.8%** em 24h, a **21k coins** (faixa do dia: 21k–40k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Hristo Stoichkov (89)** caiu **-46.9%** em 24h, a **84k coins** (faixa do dia: 84k–157k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Jaden Philogene (87)** caiu **-45.9%** em 24h, a **20k coins** (faixa do dia: 12.500–37k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Jaden Philogene (87)** caiu **-45.9%** em 24h, a **20k coins** (faixa do dia: 12.500–37k). Está -38% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ada Hegerberg (88)** caiu **-44.3%** em 24h, a **39k coins** (faixa do dia: 39k–70k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Davor Šuker já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Giovane já avançou 58% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Junior Messias recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Junior Messias recuou -47.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,20 +108,20 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Davor Šuker (89, Icons), com +59.6% em 24h, a 35k coins no PC.
+**Qual foi a maior alta do EA FC hoje (17/07/2026)?**
+Giovane (89, Serie A TIM), com +58% em 24h, a 35k coins no PC.
 
-**E a maior queda do dia?**  
-Junior Messias (87), -48.1% em 24h, a 21k coins.
+**E a maior queda do dia?**
+Junior Messias (87), -47.8% em 24h, a 21k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 257 cartas em alta contra 292 em queda (média 1.7%).
+**O mercado do EA FC está em alta ou baixa hoje?**
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 250 cartas em alta contra 292 em queda (média 1.04%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
