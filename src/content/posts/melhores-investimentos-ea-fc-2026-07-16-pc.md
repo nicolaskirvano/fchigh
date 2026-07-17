@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:58:50.000Z
+pubDatetime: 2026-07-17T01:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 16/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+57.7% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.0% em 24h** e **+61.3% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lucy Bronze | 88 | Barclays WSL | 230k coins | +15.6% | +88.5% | Esticada |
-| Pavel Nedvěd | 88 | Icons | 116k coins | +12.7% | +86.5% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 130k coins | +12.1% | +85.7% | Esticada |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 31k coins | +2.4% | +75.7% | Esticada |
-| Lilly Reale | 89 | NWSL | 34k coins | +39.8% | +71.2% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 57k coins | +4.5% | +65.5% | Esticada |
-| Vanessa Gilles | 87 | GPFBL | 29k coins | +28% | +60% | Esticada |
-| Granit Xhaka | 89 | Premier League | 54k coins | +16.1% | +57.7% | Momentum moderado |
-| Hristo Stoichkov | 89 | Icons | 119k coins | +33.7% | +55% | Esticada |
-| Éder Militão | 88 | LALIGA EA SPORTS | 181k coins | +11.1% | +54.5% | Momentum moderado |
-| Uli Hoeneß | 88 | Bundesliga | 26k coins | +39.5% | +51.4% | Esticada |
-| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +14.3% | +50.7% | Momentum moderado |
-| Rocío Gálvez | 88 | Liga F | 30k coins | +15.4% | +50% | Momentum moderado |
-| Vincent Kompany | 88 | Premier League | 21k coins | +19.5% | +48.4% | Momentum moderado |
-| David Beckham | 89 | Icons | 74k coins | +5% | +47% | Momentum moderado |
+| Koke | 88 | LALIGA EA SPORTS | 115k coins | +19.2% | +87.3% | Esticada |
+| Pavel Nedvěd | 88 | Icons | 121k coins | +12% | +82% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +9.1% | +73.9% | Esticada |
+| Paul Onuachu | 88 | Trendyol Süper Lig | 60k coins | +29.2% | +72.2% | Esticada |
+| Fernando Morientes | 89 | LALIGA EA SPORTS | 20k coins | +8.8% | +70.6% | Esticada |
+| Václav Černý | 87 | Trendyol Süper Lig | 45k coins | +24.3% | +62.7% | Esticada |
+| Vivianne Miedema | 89 | Barclays WSL | 50k coins | +5.8% | +61.3% | Esticada |
+| Alexander Sørloth | 89 | LALIGA EA SPORTS | 160k coins | +3.3% | +58% | Momentum moderado |
+| Marcelo | 89 | Icons | 142k coins | +6.7% | +57.4% | Momentum moderado |
+| Diego Luna | 89 | MLS | 30k coins | +40% | +56.6% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 156k coins | +4% | +56% | Momentum moderado |
+| Mario Kempes | 88 | — | 153k coins | +10.7% | +55.8% | Momentum moderado |
+| Granit Xhaka | 89 | Premier League | 50k coins | +17.1% | +54.7% | Momentum moderado |
+| Lilian Thuram | 89 | — | 64k coins | +24% | +53.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pavel Nedvěd (88)** — 116k coins, **+86.5% em 7 dias** (+12.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Koke (88)** — 115k coins, **+87.3% em 7 dias** (+19.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (88)** — 130k coins, **+85.7% em 7 dias** (+12.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pavel Nedvěd (88)** — 121k coins, **+82% em 7 dias** (+12% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabián Ruiz (88)** — 31k coins, **+75.7% em 7 dias** (+2.4% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 60k coins, **+73.9% em 7 dias** (+9.1% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilly Reale (89)** — 34k coins, **+71.2% em 7 dias** (+39.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Onuachu (88)** — 60k coins, **+72.2% em 7 dias** (+29.2% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
