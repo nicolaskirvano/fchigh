@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Cartas 87 a 89"
 pubDatetime: 2026-06-19T01:39:51.000Z
-title: "Cartas 87-89 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas 87-89 no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Jill Scott (87, Barclays WSL), com +50% em 24h, a 30k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Kasper Høgh (87), -47.2% em 24h, a 65k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Robin van Persie (88) — 95% de probabilidade de alta, a 81k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 252 cartas em alta contra 300 em queda (média -0.71%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Jill Scott liderou as altas e Kasper Høgh as baixas em Cartas 87-89. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Jill Scott** registrou o maior movimento de 24h (+50,0%), enquanto **Kasper Høgh** marcou o menor (-47,2%). A distância entre os extremos foi de **97,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 87-89 no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas na faixa de 87-89 para consoles apresenta uma dinâmica lateral complexa nesta segunda-feira, 18 de junho de 2026, caracterizada por uma ausência de direção clara que exige extrema cautela dos traders experientes. Com um balanço de 252 altas contra 300 quedas e uma média negativa de -0.71% nas últimas 24 horas, a volatilidade está fragmentada, indicando que os movimentos não são sustentados por uma narrativa macroeconômica forte, mas sim por flutuações micro de oferta e demanda específicas de cada ativo. O tom do dia é de indecisão estrutural, onde a maioria dos ativos permanece estagnada enquanto bolsões pontuais de liquidez criam oportunidades de arbitragem de curto prazo para quem domina os gráficos de volume. A probabilidade de alta generalizada é baixa, forçando os analistas a focarem em disparates individuais de preço em vez de tendências de mercado amplas, um cenário que pune a impulsividade e recompensa a paciência estratégica. Operar neste ambiente requer a leitura fina dos níveis de suporte e resistência, pois qualquer movimento brusco tende a ser corrigido rapidamente pela falta de convicção dos compradores institucionais.
 
@@ -68,7 +71,7 @@ Entre os ativos em alta, Jill Scott se destaca com um salto vertiginoso de 50% p
 Na outra ponta do espectro, Kasper Høgh sofreu a maior queda com -47.2% caindo para 65k coins, um movimento severo com probabilidade de alta de apenas 5%, indicando uma venda massiva de inventário que pode continuar pressionando o preço para baixo. Larissa Mühlhaus caiu 45.3% para 40k coins com probabilidade de alta de 50%, sugerindo uma estabilização potencial após a sangria de preços, enquanto Sydney Leroux perdeu 43.2% atingindo 29k coins, mas sua alta probabilidade de 80% sinaliza que este fundo pode ser uma oportunidade de compra agressiva para traders de swing. Anthony Gordon, com uma queda de 34.7% para 190k coins e probabilidade de 33%, reflete a volatilidade típica de cartas de alto custo onde pequenas variações percentuais representam grandes volumes financeiros. Amaiur Sarriegi caiu 34.4% para 40k coins com probabilidade de alta de 93%, o que aponta fortemente para uma correção injustificada e uma oportunidade clara de reversão de tendência no curto prazo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -84,7 +87,7 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | Ederson | 87 | 60k coins | 69k coins | 95% |
 
 
-O modelo projeta altas significativas para Robin van Persie (88, Icons) a 81k coins com probabilidade de 95%, Iván Córdoba (88, Serie A TIM) a 94k coins com probabilidade de 95%, e James Milner (88, Premier League) a 78k coins com probabilidade de 95%, indicando uma forte acumulação de ativos icônicos e veteranos de ligas tradicionais. Aurélien Tchouaméni (87, LALIGA EA SPORTS) é projetado para subir para 65k coins com probabilidade de 95%, enquanto Mario Götze (88, Bundesliga) deve atingir 66k coins com a mesma alta probabilidade, sugerindo uma rotatividade saudável no mercado de meio-campistas de elite. Timo Werner (87, Bundesliga) é esperado em 60k coins com probabilidade de 95%, e Santi Cazorla (87, LALIGA EA SPORTS) em 68k coins com probabilidade de 95%, consolidando uma tese de compra em meio-campistas espanhóis e alemães de alta utilidade. Ederson (87, Trendyol Süper Lig) completa a lista com previsão de alta para 60k coins e probabilidade de 95%, mostrando que goleiros de ligas secundárias estão sendo valorizados pela escassez de opções competitivas na faixa de preço.
+Naquele snapshot, o modelo projetava altas significativas para Robin van Persie (88, Icons) a 81k coins com probabilidade de 95%, Iván Córdoba (88, Serie A TIM) a 94k coins com probabilidade de 95%, e James Milner (88, Premier League) a 78k coins com probabilidade de 95%, indicando uma forte acumulação de ativos icônicos e veteranos de ligas tradicionais. Aurélien Tchouaméni (87, LALIGA EA SPORTS) é projetado para subir para 65k coins com probabilidade de 95%, enquanto Mario Götze (88, Bundesliga) deve atingir 66k coins com a mesma alta probabilidade, sugerindo uma rotatividade saudável no mercado de meio-campistas de elite. Timo Werner (87, Bundesliga) é esperado em 60k coins com probabilidade de 95%, e Santi Cazorla (87, LALIGA EA SPORTS) em 68k coins com probabilidade de 95%, consolidando uma tese de compra em meio-campistas espanhóis e alemães de alta utilidade. Ederson (87, Trendyol Süper Lig) completa a lista com previsão de alta para 60k coins e probabilidade de 95%, mostrando que goleiros de ligas secundárias estão sendo valorizados pela escassez de opções competitivas na faixa de preço.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -113,19 +116,19 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Jill Scott (87, Barclays WSL), com +50% em 24h, a 30k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Kasper Høgh (87), -47.2% em 24h, a 65k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Robin van Persie (88) — 95% de probabilidade de alta, a 81k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Robin van Persie (88) — 95% de probabilidade de alta, a 81k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 252 cartas em alta contra 300 em queda (média -0.71%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 252 cartas em alta contra 300 em queda (média -0.71%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 87-89 baratos no EA FC em 18/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-18-ps/)
+- [Momentum de Cartas 87-89 no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

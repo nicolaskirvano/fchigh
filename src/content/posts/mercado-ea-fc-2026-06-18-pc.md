@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Cartas 87 a 89"
 pubDatetime: 2026-06-19T01:41:05.000Z
-title: "Cartas 87-89 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Cartas 87-89 no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Roy Makaay (89, Bundesliga), com +59.4% em 24h, a 28k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -42.7% em 24h, a 47k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 24k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 241 cartas em alta contra 284 em queda (média 1.89%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Roy Makaay liderou as altas e Nuno Tavares as baixas em Cartas 87-89. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Roy Makaay** registrou o maior movimento de 24h (+59,4%), enquanto **Nuno Tavares** marcou o menor (-42,7%). A distância entre os extremos foi de **102,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+7,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 87-89 no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado de EA FC Ultimate Team para o dia 18 de junho de 2026 em PC apresenta um viés claramente otimista, com predominância absoluta de valorizações que contrastam com as quedas pontuais, refletindo uma dinâmica de compra agressiva por parte dos traders experientes. Com 241 altas registradas contra 284 quedas, o mercado demonstra uma média de alta de 1.89% em apenas 24 horas, indicando que a liquidez está fluindo para ativos específicos que capturam a atenção da comunidade. Este ambiente sugere que os investidores estão priorizando cartas com narrativas fortes ou escassez percebida, deixando as opções mais comuns ou sem utilidade imediata em uma posição defensiva. A volatilidade observada nos últimos dias parece ter se estabilizado em um patamar de crescimento controlado, onde as oportunidades de arbitragem são rápidas e exigem monitoramento constante dos preços de venda rápida. É fundamental entender que, mesmo em um mercado em alta, a seletividade é a chave para maximizar lucros e minimizar os riscos de perda de capital em ativos ilíquidos.
 
@@ -68,7 +71,7 @@ Destaque absoluto para Roy Makaay, ícone da Bundesliga com 89 de overall, que d
 Nuno Tavares, da Serie A TIM com 87 de overall, sofreu uma queda drástica de 42.7% para 47k coins, com probabilidade de alta de 26%, sugerindo que a correção pode continuar se não houver um evento catalisador imediato para reverter a narrativa de desvalorização. Lewis Hall, da Premier League com 89 de overall, caiu 41% para 36k coins, mas mantém uma probabilidade de alta elevada de 64%, indicando que esta queda pode ser uma oportunidade de compra estratégica para traders de médio prazo que acreditam no retorno do valor fundamental da carta. Callum McGregor, da Scottish Premiership com 87 de overall, despencou 40.9% para 94k coins, com probabilidade de alta de 57%, o que aponta para uma sobrevalorização anterior que está sendo corrigida pelo mercado, mas ainda existe potencial de recuperação parcial. Thelo Aasgaard, também da Scottish Premiership com 87 de overall, caiu 38.7% para 28k coins, com probabilidade de alta de 37%, refletindo a volatilidade típica de ligas menores onde a base de compradores é mais restrita e sensível a flutuações de sentimento. Morata, da Serie A TIM com 87 de overall, registrou queda de 37.5% para 55k coins, com baixa probabilidade de alta de 11%, sinalizando um ativo em tendência de baixa estrutural que deve ser evitado até sinais claros de estabilização do preço.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -90,19 +93,19 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Roy Makaay (89, Bundesliga), com +59.4% em 24h, a 28k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Nuno Tavares (87), -42.7% em 24h, a 47k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 24k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Uli Hoeneß (88) — 80% de probabilidade de alta, a 24k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 241 cartas em alta contra 284 em queda (média 1.89%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 241 cartas em alta contra 284 em queda (média 1.89%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -111,3 +114,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 87-89 baratos no EA FC em 18/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-18-pc/)
+- [Momentum de Cartas 87-89 no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

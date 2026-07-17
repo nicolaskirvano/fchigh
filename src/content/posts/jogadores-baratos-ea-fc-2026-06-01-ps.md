@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Cartas 87 a 89"
 pubDatetime: 2026-06-02T01:39:01.000Z
-title: "Jogadores baratos de Cartas 87-89 no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
+title: "Cartas 87-89 baratos no EA FC em 01/06 — PS"
 draft: false
 featured: false
 tags:
@@ -9,15 +9,22 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
-faq:
-  - q: "Qual o melhor jogador barato do EA FC hoje (01/06/2026)?"
-    a: "Khadija Shaw (89, Barclays WSL) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
-  - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
-    a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
-  - q: "Esses preços são reais?"
-    a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
+description: "Em 01/06/2026 no PS, Khadija Shaw liderou a seleção de Cartas 87-89 por 6.000 coins. Compare 15 cartas, OVR, preço, 7d e gráfico."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 01/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Entre 15 opções, **Khadija Shaw** tinha o menor preço (6.000 coins). O maior OVR era de **Khadija Shaw** (89), por 6.000 coins.
+
+O preço mediano do recorte foi **6.000 coins** e 1 cartas vinham de queda em 7d. Todas estavam estritamente abaixo de 15.000 coins. OVR é só um filtro inicial; função, atributos, PlayStyles e química precisam ser conferidos antes de montar o time.
+
+![Gráfico de preço em coins para os destaques de Cartas 87-89 baratos no EA FC em 01/06 — PS](/charts/jogadores-baratos-ea-fc-2026-06-01-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
@@ -50,21 +57,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **6k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins** — já **valorizando**, o que indicava procura crescente naquele recorte.
 
 - **Alisson (89, GK)** da Premier League, a apenas **6k coins**
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **6k coins**
 
-- **Mapi León (89, CB)** da Liga F, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **6k coins** — já **valorizando**, o que indicava procura crescente naquele recorte.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **OVR 83+** ajuda a filtrar, mas não garante desempenho: compare atributos, PlayStyles, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Cartas 87-89 no EA FC em 01/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-01-ps/)
+- [Cartas 87-89 no EA FC em 01/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-01-ps/)
+- [Cartas 87-89 baratos no EA FC em 16/07 — PS](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
 ## 📐 Como o FutQuant gera estes dados
 Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
@@ -72,13 +87,13 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 
 ## ❓ Perguntas frequentes
 
-**Qual o melhor jogador barato do EA FC hoje (01/06/2026)?**  
+**Qual era o destaque barato do EA FC em 01/06/2026?**
 Khadija Shaw (89, Barclays WSL) aparece como melhor custo-benefício, a 6k coins no Console (PS).
 
-**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
-Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
+**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**
+Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. Este arquivo preserva o recorte daquela data; consulte as análises recentes para preços atuais.
 
-**Esses preços são reais?**  
+**Esses preços são reais?**
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
