@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:20:04.000Z
+pubDatetime: 2026-07-17T19:39:07.000Z
 title: "Mercado EA FC em 17/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Sydney Leroux (88, NWSL), com +60% em 24h, a 55k coins no Console (PS)."
+    a: "Sakina Karchaoui (88, D1 Arkema), com +60% em 24h, a 80k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tim Cahill (89), -41.9% em 24h, a 32k coins."
+    a: "Marco Carnesecchi (87), -40% em 24h, a 36k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 258 cartas em alta contra 247 em queda (média 3.63%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 193 cartas em alta contra 303 em queda (média -1.56%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **258 em alta** e **247 em queda**, média de **3.63%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **17/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **193 em alta** e **303 em queda**, média de **-1.56%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Sydney Leroux (88) **+60%** · 🔴 **Maior baixa:** Tim Cahill (89) **-41.9%**
+> 🟢 **Maior alta:** Sakina Karchaoui (88) **+60%** · 🔴 **Maior baixa:** Marco Carnesecchi (87) **-40%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.1% entre as cartas que se moveram; o universo observado reúne 576 cartas.
-- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.9% entre as cartas que se moveram; o universo observado reúne 554 cartas.
+- **Concentração:** Serie A TIM aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sydney Leroux | 88 | NWSL | 55k coins | +60% | +34.8% |
-| Aleksandar Pavlović | 89 | Bundesliga | 28k coins | +56% | +21.3% |
-| Jade Le Guilly | 89 | D1 Arkema | 27k coins | +55% | +39.3% |
-| Granit Xhaka | 89 | Premier League | 70k coins | +53.8% | +44.3% |
-| Dante | 88 | Ligue 1 McDonald's | 30k coins | +53.7% | +106.6% |
-| Diego Luna | 89 | MLS | 30k coins | +52.5% | +13% |
-| Croix Bethune | 89 | NWSL | 39k coins | +48.1% | +75% |
-| Estefanía Banini | 89 | Liga F | 28k coins | +47.1% | +33.3% |
-| Alphonso Davies | 89 | Bundesliga | 58k coins | +45.9% | +23.4% |
-| Joe Cole | 87 | Premier League | 20k coins | +45.8% | +7.5% |
+| Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +60% | +81.8% |
+| Riley Tiernan | 88 | NWSL | 32k coins | +59.3% | +92.5% |
+| Charles De Ketelaere | 88 | Serie A TIM | 142k coins | +55.6% | +75% |
+| Donyell Malen | 89 | Serie A TIM | 70k coins | +55.6% | +44.3% |
+| Iván Córdoba | 87 | Serie A TIM | 22k coins | +45.9% | +45.9% |
+| Eberechi Eze | 88 | Premier League | 64k coins | +45.5% | +14.3% |
+| Rachel Williams | 89 | Barclays WSL | 48k coins | +44.5% | +20.7% |
+| Bremer | 87 | Serie A TIM | 50k coins | +41.9% | +34.1% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 63k coins | +41.5% | -4.8% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 365k coins | +41.5% | +46% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Sydney Leroux (88)** subiu **+60%** em 24h, a **55k coins** (faixa do dia: 18.500–92k). Está +20% acima da média de 7 dias (aquecida).
+- **Sakina Karchaoui (88)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 50k–80k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Aleksandar Pavlović (89)** subiu **+56%** em 24h, a **28k coins** (faixa do dia: 20k–38k). Está +25% acima da média de 7 dias (aquecida).
+- **Riley Tiernan (88)** subiu **+59.3%** em 24h, a **32k coins** (faixa do dia: 13.250–37k). Está +55% acima da média de 7 dias (aquecida).
 
-- **Jade Le Guilly (89)** subiu **+55%** em 24h, a **27k coins** (faixa do dia: 16.250–37k). Está +8% acima da média de 7 dias (aquecida).
+- **Charles De Ketelaere (88)** subiu **+55.6%** em 24h, a **142k coins** (faixa do dia: 94k–163k). Está +65% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tim Cahill | 89 | Premier League | 32k coins | -41.9% | -36.8% |
-| Eduardo Quaresma | 88 | Liga Portugal | 21k coins | -41.3% | -47.6% |
-| Joe Cole | 88 | Premier League | 210k coins | -40.7% | -23.6% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 33k coins | -37.3% | +6.7% |
-| Manaka Matsukubo | 89 | NWSL | 26k coins | -34.9% | +34.9% |
-| Anatoliy Trubin | 88 | Liga Portugal | 248k coins | -32.8% | -3.4% |
-| Lewis Hall | 89 | Premier League | 139k coins | -32% | +10.5% |
-| Ramires | 88 | Premier League | 224k coins | -30% | -25% |
-| Mathilde Bourdieu | 87 | D1 Arkema | 34k coins | -29.7% | -3.6% |
-| Mateus Mané | 88 | Premier League | 38k coins | -28.3% | -10.6% |
+| Marco Carnesecchi | 87 | Serie A TIM | 36k coins | -40% | -14.3% |
+| Pedro Neto | 88 | Premier League | 40k coins | -37.6% | -34.6% |
+| Daniele De Rossi | 87 | Serie A TIM | 21k coins | -37.5% | 0% |
+| Estêvão | 88 | Premier League | 72k coins | -35.8% | 0% |
+| Marc Guéhi | 88 | Premier League | 29k coins | -33.6% | -15.5% |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 111k coins | -33.1% | +25.7% |
+| Andrej Kramarić | 87 | Bundesliga | 39k coins | -31.6% | +4% |
+| Tariq Lamptey | 89 | — | 30k coins | -31.4% | -3.2% |
+| Julián Alvarez | 89 | LALIGA EA SPORTS | 168k coins | -27.1% | +15.1% |
+| João Félix | 87 | ROSHN Saudi League | 45k coins | -25% | -15.2% |
 
 
 ### Análise das baixas
 
-- **Tim Cahill (89)** caiu **-41.9%** em 24h, a **32k coins** (faixa do dia: 30k–52k). Está -37% abaixo da média de 7 dias (descontada).
+- **Marco Carnesecchi (87)** caiu **-40%** em 24h, a **36k coins** (faixa do dia: 35k–59k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Eduardo Quaresma (88)** caiu **-41.3%** em 24h, a **21k coins** (faixa do dia: 20k–38k). Está -25% abaixo da média de 7 dias (descontada).
+- **Pedro Neto (88)** caiu **-37.6%** em 24h, a **40k coins** (faixa do dia: 39k–70k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Joe Cole (88)** caiu **-40.7%** em 24h, a **210k coins** (faixa do dia: 210k–354k). Está -28% abaixo da média de 7 dias (descontada).
+- **Daniele De Rossi (87)** caiu **-37.5%** em 24h, a **21k coins** (faixa do dia: 19.500–35k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Sydney Leroux já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Sakina Karchaoui já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tim Cahill recuou -41.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marco Carnesecchi recuou -40%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Sydney Leroux (88, NWSL), com +60% em 24h, a 55k coins no Console (PS).
+Sakina Karchaoui (88, D1 Arkema), com +60% em 24h, a 80k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tim Cahill (89), -41.9% em 24h, a 32k coins.
+Marco Carnesecchi (87), -40% em 24h, a 36k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 258 cartas em alta contra 247 em queda (média 3.63%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 193 cartas em alta contra 303 em queda (média -1.56%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
