@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:39:07.000Z
+pubDatetime: 2026-07-17T13:39:07.000Z
 title: "Mercado EA FC em 17/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Matheus Cunha (87, Premier League), com +57% em 24h, a 134k coins no Console (PS)."
+    a: "Granit Xhaka (89, Premier League), com +52.5% em 24h, a 76k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rachel Williams (89), -47.4% em 24h, a 25k coins."
+    a: "John Barnes (89), -46.3% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 289 cartas em alta contra 267 em queda (média 4.63%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 287 cartas em alta contra 264 em queda (média 4.7%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **289 em alta** e **267 em queda**, média de **4.63%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **287 em alta** e **264 em queda**, média de **4.7%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Matheus Cunha (87) **+57%** · 🔴 **Maior baixa:** Rachel Williams (89) **-47.4%**
+> 🟢 **Maior alta:** Granit Xhaka (89) **+52.5%** · 🔴 **Maior baixa:** John Barnes (89) **-46.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.0% entre as cartas que se moveram; o universo observado reúne 594 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.1% entre as cartas que se moveram; o universo observado reúne 621 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matheus Cunha | 87 | Premier League | 134k coins | +57% | +159.5% |
-| Chloe Kelly | 88 | Barclays WSL | 120k coins | +55.8% | +93.5% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 61k coins | +53.1% | +38.8% |
-| Selina Cerci | 87 | GPFBL | 24k coins | +50.6% | -3.3% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 599k coins | +50.1% | +42.3% |
-| Giovane | 89 | Serie A TIM | 28k coins | +50% | +93.5% |
-| Fran Kirby | 88 | — | 70k coins | +48.7% | +27.6% |
-| Iván Córdoba | 87 | Serie A TIM | 21k coins | +48.3% | +53.6% |
-| Alphonso Davies | 89 | Bundesliga | 58k coins | +46.8% | +20.8% |
-| Taylor Flint | 88 | NWSL | 187k coins | +43.8% | +133.8% |
+| Granit Xhaka | 89 | Premier League | 76k coins | +52.5% | +57.3% |
+| Marquinhos | 88 | Ligue 1 McDonald's | 50k coins | +51.5% | +27.4% |
+| Dominik Szoboszlai | 87 | Premier League | 75k coins | +48.7% | +79.7% |
+| Vanessa Fudalla | 88 | GPFBL | 40k coins | +48.3% | +47.1% |
+| Fran Kirby | 88 | — | 68k coins | +47.8% | +30.8% |
+| João Neves | 88 | Ligue 1 McDonald's | 48k coins | +47% | +2.6% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 600k coins | +46.3% | +40.8% |
+| Matheus Cunha | 87 | Premier League | 154k coins | +45.3% | +104% |
+| Taylor Flint | 88 | NWSL | 180k coins | +44.4% | +123.8% |
+| Karim Benzema | 88 | ROSHN Saudi League | 130k coins | +44.2% | +38.5% |
 
 
 ### Análise das altas
 
-- **Matheus Cunha (87)** subiu **+57%** em 24h, a **134k coins** (faixa do dia: 95k–157k). Está +47% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Granit Xhaka (89)** subiu **+52.5%** em 24h, a **76k coins** (faixa do dia: 42k–76k). Está +50% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Chloe Kelly (88)** subiu **+55.8%** em 24h, a **120k coins** (faixa do dia: 68k–137k). Está +48% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Marquinhos (88)** subiu **+51.5%** em 24h, a **50k coins** (faixa do dia: 30k–72k). Está +27% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Marquinhos (88)** subiu **+53.1%** em 24h, a **61k coins** (faixa do dia: 30k–72k). Está +55% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Dominik Szoboszlai (87)** subiu **+48.7%** em 24h, a **75k coins** (faixa do dia: 56k–110k). Está -8% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rachel Williams | 89 | Barclays WSL | 25k coins | -47.4% | -38.4% |
-| Viktor Gyökeres | 88 | — | 51k coins | -47.2% | +14.4% |
-| Eberechi Eze | 87 | Premier League | 52k coins | -41.6% | -38.1% |
-| Rayan Cherki | 87 | Premier League | 65k coins | -39.8% | -56.8% |
-| Lautaro Martínez | 89 | Serie A TIM | 68k coins | -38.2% | -9.3% |
-| Dirk Kuyt | 88 | Eredivisie | 20k coins | -36% | -5.9% |
-| Jerzy Dudek | 87 | Premier League | 40k coins | -35.3% | -23.1% |
-| Joe Cole | 88 | Premier League | 242k coins | -34.1% | -12% |
-| Pavel Nedvěd | 88 | Icons | 76k coins | -33.2% | -3.1% |
-| Peter Crouch | 87 | Premier League | 150k coins | -31.8% | -20.6% |
+| John Barnes | 89 | Icons | 40k coins | -46.3% | -26.2% |
+| Andrej Kramarić | 87 | Bundesliga | 35k coins | -45.8% | -6.6% |
+| Riley Tiernan | 88 | NWSL | 22k coins | -45.1% | -20% |
+| Sveindís Jane Jónsdóttir | 88 | — | 58k coins | -40.9% | +8% |
+| Lautaro Martínez | 89 | Serie A TIM | 62k coins | -40.5% | -7.1% |
+| Pavel Nedvěd | 88 | Icons | 66k coins | -39.6% | -14.7% |
+| Mateus Mané | 88 | Premier League | 34k coins | -35.4% | -19.4% |
+| Joe Cole | 88 | Premier League | 237k coins | -35% | -13.8% |
+| Callum McGregor | 87 | Scottish Premiership | 165k coins | -33.2% | -6.6% |
+| Marco Carnesecchi | 87 | Serie A TIM | 44k coins | -32.5% | +12.6% |
 
 
 ### Análise das baixas
 
-- **Rachel Williams (89)** caiu **-47.4%** em 24h, a **25k coins** (faixa do dia: 25k–58k). Está -38% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **John Barnes (89)** caiu **-46.3%** em 24h, a **40k coins** (faixa do dia: 40k–74k). Está -26% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Viktor Gyökeres (88)** caiu **-47.2%** em 24h, a **51k coins** (faixa do dia: 46k–100k). Está -14% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Andrej Kramarić (87)** caiu **-45.8%** em 24h, a **35k coins** (faixa do dia: 35k–66k). Está -15% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Eberechi Eze (87)** caiu **-41.6%** em 24h, a **52k coins** (faixa do dia: 36k–70k). Está -12% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Riley Tiernan (88)** caiu **-45.1%** em 24h, a **22k coins** (faixa do dia: 13.500–26k). Está +9% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Matheus Cunha já avançou 57% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Granit Xhaka já avançou 52.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rachel Williams recuou -47.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** John Barnes recuou -46.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Matheus Cunha (87, Premier League), com +57% em 24h, a 134k coins no Console (PS).
+Granit Xhaka (89, Premier League), com +52.5% em 24h, a 76k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Rachel Williams (89), -47.4% em 24h, a 25k coins.
+John Barnes (89), -46.3% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 289 cartas em alta contra 267 em queda (média 4.63%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 287 cartas em alta contra 264 em queda (média 4.7%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
