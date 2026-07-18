@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:39:16.000Z
+pubDatetime: 2026-07-18T22:39:17.000Z
 title: "Mercado EA FC em 18/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Robin van Persie (88, Icons), com +59% em 24h, a 154k coins no PC."
+    a: "Jade Le Guilly (89, D1 Arkema), com +57.4% em 24h, a 42k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Naomi Girma (87), -50% em 24h, a 42k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 237 cartas em alta contra 276 em queda (média -0.04%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 244 cartas em alta contra 279 em queda (média 1.1%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem direção clara: **237 cartas subiram** e **276 caíram** (80+ acima de 5k coins), variação média de **-0.04%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem direção clara: **244 cartas subiram** e **279 caíram** (80+ acima de 5k coins), variação média de **1.1%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Robin van Persie (88) **+59%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
+> 🟢 **Maior alta:** Jade Le Guilly (89) **+57.4%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.2% entre as cartas que se moveram; o universo observado reúne 596 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.7% entre as cartas que se moveram; o universo observado reúne 595 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Robin van Persie | 88 | Icons | 154k coins | +59% | +43.2% |
-| Jaden Philogene | 87 | EFL Championship | 30k coins | +57.5% | -16% |
-| Wilson Odobert | 87 | Premier League | 42k coins | +55.9% | +40.7% |
-| Iván Zamorano | 89 | LALIGA EA SPORTS | 55k coins | +53.8% | +38.4% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 47k coins | +53.7% | +96.9% |
-| Sissi | 88 | Icons | 75k coins | +51.5% | +13.6% |
-| Petr Čech | 88 | Icons | 116k coins | +48.8% | +24.3% |
-| Johan Bakayoko | 88 | Bundesliga | 35k coins | +48.4% | +10.2% |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 74k coins | +48% | +2.8% |
-| Lucy Bronze | 88 | Barclays WSL | 219k coins | +47.7% | +76% |
+| Jade Le Guilly | 89 | D1 Arkema | 42k coins | +57.4% | +23.2% |
+| Hidetoshi Nakata | 87 | Serie A TIM | 20k coins | +56.9% | +81.8% |
+| Diego Forlán | 88 | LALIGA EA SPORTS | 38k coins | +55.6% | +32.6% |
+| Robin Roefs | 87 | Premier League | 30k coins | +55.4% | -8.5% |
+| Václav Černý | 87 | Trendyol Süper Lig | 39k coins | +54.8% | +31.9% |
+| Marek Hamšík | 87 | Serie A TIM | 27k coins | +52.9% | +101.9% |
+| Ian Wright | 89 | — | 24k coins | +52.3% | +20.7% |
+| Amaiur Sarriegi | 88 | Liga F | 76k coins | +48.6% | +4% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 74k coins | +48% | +10.4% |
+| Sara Holmgaard | 88 | — | 22k coins | +47.8% | +100% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Robin van Persie (88)** subiu **+59%** em 24h, a **154k coins** (faixa do dia: 113k–208k). Está em linha com a média de 7 dias (+3%).
+- **Jade Le Guilly (89)** subiu **+57.4%** em 24h, a **42k coins** (faixa do dia: 24k–42k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Jaden Philogene (87)** subiu **+57.5%** em 24h, a **30k coins** (faixa do dia: 20k–38k). Está em linha com a média de 7 dias (-6%).
+- **Hidetoshi Nakata (87)** subiu **+56.9%** em 24h, a **20k coins** (faixa do dia: 11.000–30k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Wilson Odobert (87)** subiu **+55.9%** em 24h, a **42k coins** (faixa do dia: 20k–50k). Está +21% acima da média de 7 dias (aquecida).
+- **Diego Forlán (88)** subiu **+55.6%** em 24h, a **38k coins** (faixa do dia: 27k–42k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Naomi Girma | 87 | Barclays WSL | 42k coins | -50% | -47.5% |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 25k coins | -47.9% | -16.1% |
-| Eberechi Eze | 88 | Premier League | 38k coins | -46.1% | -29% |
-| Chloe Kelly | 88 | Barclays WSL | 95k coins | -45.7% | -30.1% |
-| Kelechi Iheanacho | 87 | Scottish Premiership | 33k coins | -45% | +43.5% |
-| Frank Rijkaard | 87 | Icons | 86k coins | -44.7% | +21.4% |
-| Iván Córdoba | 88 | Serie A TIM | 100k coins | -44.4% | -43.5% |
-| Emiliano Martínez | 88 | Premier League | 41k coins | -42.2% | -17.8% |
-| Marcelo | 89 | Icons | 76k coins | -41.2% | -19.9% |
-| David Raya | 88 | Premier League | 24k coins | -40.8% | -38.4% |
+| Naomi Girma | 87 | Barclays WSL | 42k coins | -50% | -24.8% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 50k coins | -45.1% | -65.9% |
+| Julia Grosso | 88 | NWSL | 24k coins | -44.5% | -60.3% |
+| Rubén García | 87 | LALIGA EA SPORTS | 26k coins | -42.1% | +47.2% |
+| Ilias Akhomach | 88 | LALIGA EA SPORTS | 38k coins | -40.9% | -17% |
+| Pedrinho | 88 | — | 26k coins | -40.7% | -19.7% |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 38k coins | -39.5% | -29.2% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 46k coins | -38.3% | -11.5% |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 145k coins | -38% | -41.8% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 35k coins | -37.9% | -30.5% |
 
 
 ### Análise das baixas
 
 - **Naomi Girma (87)** caiu **-50%** em 24h, a **42k coins** (faixa do dia: 42k–85k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Bartosz Kapustka (87)** caiu **-47.9%** em 24h, a **25k coins** (faixa do dia: 25k–53k). Está -32% abaixo da média de 7 dias (descontada).
+- **Aurélien Tchouaméni (87)** caiu **-45.1%** em 24h, a **50k coins** (faixa do dia: 50k–96k). Está -65% abaixo da média de 7 dias (descontada).
 
-- **Eberechi Eze (88)** caiu **-46.1%** em 24h, a **38k coins** (faixa do dia: 38k–95k). Está -40% abaixo da média de 7 dias (descontada).
+- **Julia Grosso (88)** caiu **-44.5%** em 24h, a **24k coins** (faixa do dia: 24k–43k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Robin van Persie já avançou 59% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jade Le Guilly já avançou 57.4% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Naomi Girma recuou -50%; confirme estabilização e liquidez.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Robin van Persie (88, Icons), com +59% em 24h, a 154k coins no PC.
+Jade Le Guilly (89, D1 Arkema), com +57.4% em 24h, a 42k coins no PC.
 
 **E a maior queda do dia?**
 Naomi Girma (87), -50% em 24h, a 42k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 237 cartas em alta contra 276 em queda (média -0.04%).
+Hoje o mercado está lateral — sem direção clara, com 244 cartas em alta contra 279 em queda (média 1.1%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
