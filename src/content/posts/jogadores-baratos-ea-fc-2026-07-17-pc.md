@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:39:19.000Z
+pubDatetime: 2026-07-18T01:39:20.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 17/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 5.423 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 3.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 3.813 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 3.500 a 4.900 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 3.500 coins | +33.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.500 coins | +39.3% |
-| Harry Kane | 89 | ST | Bundesliga | 3.600 coins | +37.9% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 3.600 coins | +38.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.600 coins | +30% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.800 coins | +16.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.800 coins | +37.9% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.800 coins | +20.7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3.800 coins | +26.7% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 4.000 coins | +2.6% |
-| Mariona | 89 | CM | Barclays WSL | 4.200 coins | +20% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.200 coins | +42.9% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 9.200 coins | +5% |
-| Celia Šašić | 89 | ST | GPFBL | 12.250 coins | -2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.500 coins | -11.3% |
+| Mapi León | 89 | CB | Liga F | 3.500 coins | +28.6% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.500 coins | +32.1% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 3.600 coins | +39.3% |
+| Mariona | 89 | CM | Barclays WSL | 3.600 coins | +30% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.600 coins | +21.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.600 coins | +31% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.700 coins | +31% |
+| Harry Kane | 89 | ST | Bundesliga | 3.800 coins | +37.9% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.800 coins | +36.7% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.800 coins | +31% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.900 coins | +31% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.900 coins | +31% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 3.900 coins | +5.6% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.100 coins | +38.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.900 coins | +47.1% |
 
 
 ## 📈 Destaques
@@ -63,9 +63,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
 - **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Vitinha (89, CM) por 3.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 3.600 coins é a referência de rating deste recorte.
+- **Ataque:** Khadija Shaw (89, ST) por 3.600 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
