@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:39:18.000Z
+pubDatetime: 2026-07-18T16:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 18/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.6% em 24h** e **+63.0% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.8% em 24h** e **+59.2% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 89 | Premier League | 96k coins | +1.6% | +84.6% | Esticada |
-| Manaka Matsukubo | 89 | NWSL | 49k coins | +5.8% | +83.3% | Esticada |
-| Davor Šuker | 89 | Icons | 32k coins | +4.6% | +80.3% | Esticada |
-| Antonio Di Natale | 88 | Serie A TIM | 64k coins | +36.8% | +75.7% | Esticada |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 18.000 coins | +37.5% | +71.1% | Esticada |
-| Estefanía Banini | 89 | Liga F | 29k coins | +24.5% | +64.8% | Esticada |
-| Dirk Kuyt | 88 | Eredivisie | 32k coins | +40% | +64.2% | Esticada |
-| Steffi Jones | 89 | Icons | 32k coins | +17.9% | +63% | Esticada |
-| Ann-Katrin Berger | 88 | NWSL | 47k coins | +26.8% | +60.2% | Esticada |
-| Declan Rice | 89 | Premier League | 95k coins | +20.2% | +58.1% | Esticada |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 39k coins | +5.4% | +57% | Momentum moderado |
-| Denzel Dumfries | 89 | Serie A TIM | 50k coins | +8.7% | +56.2% | Momentum moderado |
-| Julian Brandt | 87 | Bundesliga | 29k coins | +6.4% | +56% | Momentum moderado |
-| Vanessa Fudalla | 88 | GPFBL | 94k coins | +11.1% | +54.5% | Momentum moderado |
-| Paula Fernández | 88 | — | 58k coins | +17.6% | +52.9% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 96k coins | +6.1% | +84.6% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 199k coins | +5.3% | +80.9% | Esticada |
+| Bruno Fernandes | 88 | Premier League | 170k coins | +5.9% | +80% | Esticada |
+| Iván Córdoba | 88 | Serie A TIM | 96k coins | +2.1% | +72.6% | Esticada |
+| James Milner | 88 | Premier League | 55k coins | +4.8% | +67.9% | Esticada |
+| Marie Katoto | 89 | Frauen-Bundesliga | 120k coins | +4% | +62.5% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 24k coins | +28.7% | +60.9% | Esticada |
+| Estefanía Banini | 89 | Liga F | 28k coins | +18.9% | +59.2% | Momentum moderado |
+| Ann-Katrin Berger | 88 | NWSL | 46k coins | +25.5% | +58.5% | Esticada |
+| Steffi Jones | 89 | Icons | 32k coins | +14.3% | +58% | Momentum moderado |
+| Sakina Karchaoui | 88 | D1 Arkema | 82k coins | +35.2% | +54.2% | Esticada |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 35k coins | +10.1% | +51.5% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 24k coins | +29.7% | +50% | Esticada |
+| Antonio Di Natale | 88 | Serie A TIM | 66k coins | +25.9% | +49.7% | Esticada |
+| Trinity Rodman | 87 | NWSL | 148k coins | +13.8% | +48.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Declan Rice (89)** — 96k coins, **+84.6% em 7 dias** (+1.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 96k coins, **+84.6% em 7 dias** (+6.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manaka Matsukubo (89)** — 49k coins, **+83.3% em 7 dias** (+5.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Dybala (88)** — 199k coins, **+80.9% em 7 dias** (+5.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Davor Šuker (89)** — 32k coins, **+80.3% em 7 dias** (+4.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Fernandes (88)** — 170k coins, **+80% em 7 dias** (+5.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Antonio Di Natale (88)** — 64k coins, **+75.7% em 7 dias** (+36.8% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (88)** — 96k coins, **+72.6% em 7 dias** (+2.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Pierre Papin (89)** — 18.000 coins, **+71.1% em 7 dias** (+37.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Milner (88)** — 55k coins, **+67.9% em 7 dias** (+4.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:39:09.000Z
+pubDatetime: 2026-07-18T16:39:08.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Daniele De Rossi (87, Serie A TIM) lidera, com +87.1% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Olivier Giroud (88, Ligue 1 McDonald's) lidera, com +83.2% em 7 dias a 240k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Daniele De Rossi (87) acumula **+87.1% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Olivier Giroud (88) acumula **+83.2% em 7 dias** a 240k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.2% em 24h** e **+64.1% em 7 dias**.
-- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.5% em 24h** e **+68.6% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 87 | Serie A TIM | 29k coins | +5.5% | +87.1% | Esticada |
-| Igor Jesus | 87 | Premier League | 39k coins | +5.4% | +85.7% | Esticada |
-| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +14% | +75.4% | Esticada |
-| Ewa Pajor | 89 | Liga F | 198k coins | +7.2% | +73.3% | Esticada |
-| Hanna Lundkvist | 87 | Barclays WSL | 54k coins | +2.8% | +73.2% | Esticada |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 233k coins | +2.6% | +70.1% | Esticada |
-| Aya Miyama | 87 | Icons | 26k coins | +3.8% | +68.8% | Esticada |
-| Jaedyn Shaw | 89 | NWSL | 31k coins | +7.1% | +64.1% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 27k coins | +14.9% | +63.6% | Esticada |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 237k coins | +31.7% | +62.3% | Esticada |
-| Dominik Szoboszlai | 87 | Premier League | 99k coins | +19.3% | +62.3% | Esticada |
-| Alexandre Lacazette | 89 | Brasileirão | 28k coins | +1.8% | +56.9% | Momentum moderado |
-| Nadine Keßler | 89 | GPFBL | 26k coins | +10.5% | +56.7% | Momentum moderado |
-| Tara McKeown | 89 | NWSL | 26k coins | +31.6% | +55.2% | Esticada |
-| Rasheedat Ajibade | 89 | D1 Arkema | 23k coins | +36% | +52.2% | Esticada |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 240k coins | +9.1% | +83.2% | Esticada |
+| Jade Le Guilly | 89 | D1 Arkema | 32k coins | +18.5% | +80.3% | Esticada |
+| Joshua Zirkzee | 87 | Premier League | 31k coins | +24% | +77.1% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 90k coins | +27.8% | +76.9% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 28k coins | +34.5% | +76.6% | Esticada |
+| Marcos Acuña | 89 | LPF | 114k coins | +6.7% | +70.8% | Esticada |
+| Emilie Haavi | 87 | Calcio A Femminile | 27k coins | +27.9% | +69.2% | Esticada |
+| Charles De Ketelaere | 88 | Serie A TIM | 161k coins | +3.9% | +68.6% | Esticada |
+| Steffi Jones | 89 | Icons | 31k coins | +35.7% | +67.6% | Esticada |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 60k coins | +2.6% | +63.3% | Esticada |
+| Dominik Szoboszlai | 87 | Premier League | 97k coins | +9% | +59% | Momentum moderado |
+| Debinha | 89 | NWSL | 139k coins | +32.4% | +57.1% | Esticada |
+| Vanessa Gilles | 87 | GPFBL | 22k coins | +24.3% | +55.4% | Esticada |
+| Antonio Di Natale | 88 | Serie A TIM | 40k coins | +4.3% | +55.3% | Momentum moderado |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 30k coins | +8.6% | +55.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Daniele De Rossi (87)** — 29k coins, **+87.1% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivier Giroud (88)** — 240k coins, **+83.2% em 7 dias** (+9.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Igor Jesus (87)** — 39k coins, **+85.7% em 7 dias** (+5.4% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jade Le Guilly (89)** — 32k coins, **+80.3% em 7 dias** (+18.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emilie Haavi (87)** — 28k coins, **+75.4% em 7 dias** (+14% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Zirkzee (87)** — 31k coins, **+77.1% em 7 dias** (+24% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ewa Pajor (89)** — 198k coins, **+73.3% em 7 dias** (+7.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 90k coins, **+76.9% em 7 dias** (+27.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hanna Lundkvist (87)** — 54k coins, **+73.2% em 7 dias** (+2.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (87)** — 28k coins, **+76.6% em 7 dias** (+34.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Daniele De Rossi (87, Serie A TIM) lidera, com +87.1% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Olivier Giroud (88, Ligue 1 McDonald's) lidera, com +83.2% em 7 dias a 240k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

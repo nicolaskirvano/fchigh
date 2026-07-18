@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:39:07.000Z
+pubDatetime: 2026-07-18T16:39:07.000Z
 title: "Mercado EA FC em 18/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Mathilde Bourdieu (87, D1 Arkema), com +59.4% em 24h, a 55k coins no Console (PS)."
+    a: "Nwankwo Kanu (87, Premier League), com +60% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Aurélien Tchouaméni (87), -47.5% em 24h, a 41k coins."
+    a: "Matheus Dias (87), -49.4% em 24h, a 28k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 184 cartas em alta contra 324 em queda (média -3.82%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 212 cartas em alta contra 281 em queda (média -2.36%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **184 cartas subiram** e **324 caíram** (80+ acima de 5k coins), variação média de **-3.82%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **212 cartas subiram** e **281 caíram** (80+ acima de 5k coins), variação média de **-2.36%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Mathilde Bourdieu (87) **+59.4%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (87) **-47.5%**
+> 🟢 **Maior alta:** Nwankwo Kanu (87) **+60%** · 🔴 **Maior baixa:** Matheus Dias (87) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **em baix
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.2% entre as cartas que se moveram; o universo observado reúne 569 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.0% entre as cartas que se moveram; o universo observado reúne 529 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mathilde Bourdieu | 87 | D1 Arkema | 55k coins | +59.4% | +33.3% |
-| Joe Cole | 88 | Premier League | 209k coins | +55.3% | +43.8% |
-| Sonia Bompastor | 88 | D1 Arkema | 23k coins | +50.8% | +45.9% |
-| Félix Correia | 89 | Ligue 1 McDonald's | 26k coins | +49.3% | +58.2% |
-| Mateo Chávez | 89 | — | 70k coins | +45.8% | +55.6% |
-| Tim Cahill | 89 | Premier League | 49k coins | +44.3% | +29.5% |
-| Anatoliy Trubin | 88 | Liga Portugal | 310k coins | +44.1% | +20.5% |
-| Kasper Høgh | 87 | Eliteserien | 69k coins | +40.1% | -1.4% |
-| Jerzy Dudek | 87 | Premier League | 50k coins | +38.2% | +150% |
-| Richard Ríos | 87 | Liga Portugal | 419k coins | +36.8% | +107.4% |
+| Nwankwo Kanu | 87 | Premier League | 30k coins | +60% | -2.8% |
+| Vanessa Fudalla | 88 | GPFBL | 44k coins | +56.7% | +97.9% |
+| David Alaba | 87 | LALIGA EA SPORTS | 26k coins | +51.3% | +22.9% |
+| Alexis Mac Allister | 89 | Premier League | 20k coins | +51% | +119.7% |
+| Rose Lavelle | 89 | NWSL | 54k coins | +49.3% | 0% |
+| Mats Deijl | 88 | Eredivisie | 21k coins | +49.2% | +54.4% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 37k coins | +42.9% | +50.9% |
+| Martín Cauteruccio | 87 | Libertadores | 28k coins | +42.5% | +17.5% |
+| Kim Little | 87 | Barclays WSL | 28k coins | +40% | +5.7% |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 55k coins | +37.5% | +27.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **em baix
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mathilde Bourdieu (87)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 33k–55k). Está +34% acima da média de 7 dias (aquecida).
+- **Nwankwo Kanu (87)** subiu **+60%** em 24h, a **30k coins** (faixa do dia: 15.250–30k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Joe Cole (88)** subiu **+55.3%** em 24h, a **209k coins** (faixa do dia: 142k–368k). Está -27% abaixo da média de 7 dias (descontada).
+- **Vanessa Fudalla (88)** subiu **+56.7%** em 24h, a **44k coins** (faixa do dia: 30k–50k). Está +40% acima da média de 7 dias (aquecida).
 
-- **Sonia Bompastor (88)** subiu **+50.8%** em 24h, a **23k coins** (faixa do dia: 13.000–23k). Está +18% acima da média de 7 dias (aquecida).
+- **David Alaba (87)** subiu **+51.3%** em 24h, a **26k coins** (faixa do dia: 16.000–35k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 41k coins | -47.5% | -37% |
-| Kelechi Iheanacho | 87 | Scottish Premiership | 34k coins | -45.1% | -14.1% |
-| Antonio Di Natale | 88 | Serie A TIM | 40k coins | -44.9% | -19.1% |
-| Wesley | 88 | Serie A TIM | 59k coins | -44% | -18.8% |
-| Iván Córdoba | 88 | Serie A TIM | 72k coins | -42.2% | -14.1% |
-| Tijjani Reijnders | 87 | Premier League | 56k coins | -41.5% | +34.5% |
-| Francisco Conceição | 89 | Serie A TIM | 43k coins | -39.9% | -26.6% |
-| Martin Ødegaard | 88 | Premier League | 72k coins | -38.8% | -15.9% |
-| Charles De Ketelaere | 89 | Serie A TIM | 22k coins | -38.5% | -36.2% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 25k coins | -37.9% | +4.8% |
+| Matheus Dias | 87 | Liga Portugal | 28k coins | -49.4% | +52.5% |
+| Francisco Conceição | 89 | Serie A TIM | 34k coins | -48.5% | -45.7% |
+| Florian Wirtz | 89 | Premier League | 158k coins | -47.3% | +43.6% |
+| Lauren James | 89 | Barclays WSL | 44k coins | -45.5% | -39.6% |
+| Diogo Dalot | 87 | Premier League | 66k coins | -41.9% | +15.6% |
+| Ederson | 87 | Trendyol Süper Lig | 44k coins | -41.9% | -34.2% |
+| Morgan Rogers | 87 | Premier League | 42k coins | -37.1% | -10% |
+| Marquinhos | 88 | Ligue 1 McDonald's | 30k coins | -34.8% | -10.4% |
+| Aaron Wan-Bissaka | 89 | Premier League | 29k coins | -33.7% | -17.1% |
+| Linda Caicedo | 87 | Liga F | 21k coins | -33.1% | -23.4% |
 
 
 ### Análise das baixas
 
-- **Aurélien Tchouaméni (87)** caiu **-47.5%** em 24h, a **41k coins** (faixa do dia: 39k–96k). Está -54% abaixo da média de 7 dias (descontada).
+- **Matheus Dias (87)** caiu **-49.4%** em 24h, a **28k coins** (faixa do dia: 19.750–43k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Kelechi Iheanacho (87)** caiu **-45.1%** em 24h, a **34k coins** (faixa do dia: 31k–70k). Está -32% abaixo da média de 7 dias (descontada).
+- **Francisco Conceição (89)** caiu **-48.5%** em 24h, a **34k coins** (faixa do dia: 33k–109k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Antonio Di Natale (88)** caiu **-44.9%** em 24h, a **40k coins** (faixa do dia: 36k–84k). Está -30% abaixo da média de 7 dias (descontada).
+- **Florian Wirtz (89)** caiu **-47.3%** em 24h, a **158k coins** (faixa do dia: 115k–289k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mathilde Bourdieu já avançou 59.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nwankwo Kanu já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aurélien Tchouaméni recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Matheus Dias recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Mathilde Bourdieu (87, D1 Arkema), com +59.4% em 24h, a 55k coins no Console (PS).
+Nwankwo Kanu (87, Premier League), com +60% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**
-Aurélien Tchouaméni (87), -47.5% em 24h, a 41k coins.
+Matheus Dias (87), -49.4% em 24h, a 28k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 184 cartas em alta contra 324 em queda (média -3.82%).
+Hoje o mercado está em baixa — predominam as quedas, com 212 cartas em alta contra 281 em queda (média -2.36%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
