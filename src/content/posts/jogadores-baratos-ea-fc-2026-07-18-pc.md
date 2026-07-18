@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:39:19.000Z
+pubDatetime: 2026-07-18T19:39:19.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 18/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2.600 coins no PC."
+    a: "Khadija Shaw (89, Barclays WSL) aparece como melhor custo-benefício, a 2.900 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mapi León (89) por apenas 2.600 coins.
+> 💰 **Melhor pechincha:** Khadija Shaw (89) por apenas 2.900 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 18/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-18-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 5.940 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 2.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.353 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 2.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2.600 coins | +20% |
-| Mariona | 89 | CM | Barclays WSL | 3.000 coins | +12.9% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.400 coins | +13.3% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.400 coins | +12.9% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.500 coins | +5.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.600 coins | +16.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.700 coins | +2.6% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.700 coins | +12.9% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4.000 coins | +2.9% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4.000 coins | -2.8% |
-| Harry Kane | 89 | ST | Bundesliga | 4.200 coins | -2.5% |
-| Celia Šašić | 89 | ST | GPFBL | 11.750 coins | 0% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12.000 coins | +4.3% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12.250 coins | -5.7% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +29.8% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2.900 coins | -8.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.000 coins | -10.3% |
+| Mariona | 89 | CM | Barclays WSL | 3.000 coins | -11.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3.000 coins | -11.1% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.600 coins | -5.1% |
+| Harry Kane | 89 | ST | Bundesliga | 4.300 coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 12.000 coins | -4.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12.000 coins | +6.7% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 14.250 coins | +3.3% |
+| Kristin Kögel | 89 | LM | GPFBL | 14.250 coins | +1.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.750 coins | -4.8% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 12.000 coins | -14.3% |
+| Diego Milito | 88 | ST | Serie A TIM | 13.000 coins | 0% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.500 coins | +9.3% |
+| DaMarcus Beasley | 88 | LM | MLS | 14.750 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 2.600 coins é a referência de rating deste recorte.
+- **Defesa:** Achraf Hakimi (89, RB) por 3.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Mariona (89, CM) por 3.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alessia Russo (89, ST) por 3.400 coins é a referência de rating deste recorte.
+- **Ataque:** Khadija Shaw (89, ST) por 2.900 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +105,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2.600 coins no PC.
+Khadija Shaw (89, Barclays WSL) aparece como melhor custo-benefício, a 2.900 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
