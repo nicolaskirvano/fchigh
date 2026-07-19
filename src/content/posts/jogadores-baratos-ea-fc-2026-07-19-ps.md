@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:39:10.000Z
+pubDatetime: 2026-07-19T16:39:10.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 11.250 coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 19/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-19-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.050 coins.
-- **Posição mais frequente:** CAM, com 5 cartas.
-- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.807 coins.
+- **Posição mais frequente:** ST, com 6 cartas.
+- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 11.250 coins | +3.8% |
-| Mariona | 89 | CAM | Barclays WSL | 12.500 coins | -10.7% |
-| Aleix García | 89 | CM | Bundesliga | 13.000 coins | -6.3% |
-| Celia Šašić | 89 | ST | GPFBL | 13.000 coins | -1.9% |
-| Sebastian Nanasi | 89 | LM | — | 13.750 coins | -5.2% |
-| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 14.250 coins | -10.8% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.500 coins | +1.8% |
-| Yuito Suzuki | 89 | CAM | — | 14.500 coins | -4.5% |
-| Rayane Messi | 89 | LM | Brasileirão | 14.500 coins | +8.3% |
-| Andrej Kramarić | 89 | CAM | Bundesliga | 14.500 coins | -2.8% |
-| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 11.750 coins | -9.3% |
-| Jorge Campos | 88 | ST | MLS | 11.750 coins | -12.1% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.000 coins | +6.7% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 12.250 coins | +8.5% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12.250 coins | -7.4% |
+| Harry Kane | 89 | ST | Bundesliga | 2.000 coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2.600 coins | -12.1% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12.250 coins | -7.1% |
+| Johanna Kaneryd | 89 | RM | — | 12.500 coins | +6.7% |
+| Patrick Kluivert | 89 | ST | — | 13.000 coins | -6.2% |
+| Sebastian Nanasi | 89 | LM | — | 13.500 coins | -6.9% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 13.750 coins | -4.3% |
+| Mariona | 89 | CAM | Barclays WSL | 13.750 coins | -1.8% |
+| Birgit Prinz | 89 | ST | — | 13.750 coins | +7% |
+| Celia Šašić | 89 | ST | GPFBL | 13.750 coins | -1.8% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 14.000 coins | -12.5% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.500 coins | +5.6% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 14.500 coins | -3.2% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11.500 coins | -6% |
+| Simone Laudehr | 88 | CM | GPFBL | 11.750 coins | -5.8% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **11.250 coins**
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **13.000 coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12.250 coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **13.000 coins**
+- **Johanna Kaneryd (89, RM)** da —, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sebastian Nanasi (89, LM)** da —, a apenas **13.750 coins**
+- **Patrick Kluivert (89, ST)** da —, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 11.250 coins é a referência de rating deste recorte.
+- **Defesa:** Achraf Hakimi (89, RB) por 2.600 coins é a referência de rating deste recorte.
 
-- **Meio:** Mariona (89, CAM) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Johanna Kaneryd (89, RM) por 12.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Celia Šašić (89, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 2.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

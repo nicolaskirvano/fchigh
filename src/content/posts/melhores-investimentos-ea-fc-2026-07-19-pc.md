@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:39:18.000Z
+pubDatetime: 2026-07-19T16:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Gabriel (89, Premier League) lidera, com +89% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pablo Aimar (88, LALIGA EA SPORTS) lidera, com +85% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gabriel (89) acumula **+89% em 7 dias** a 160k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pablo Aimar (88) acumula **+85% em 7 dias** a 37k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+25.0% em 24h** e **+69.5% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+23.1% em 24h** e **+69.5% em 7 dias**.
+- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gabriel | 89 | Premier League | 160k coins | +35% | +89% | Esticada |
-| Hugo Sánchez | 89 | Icons | 186k coins | +27.3% | +85.4% | Esticada |
-| Charles De Ketelaere | 88 | Serie A TIM | 103k coins | +20% | +84.2% | Esticada |
-| Igor Paixão | 87 | Ligue 1 McDonald's | 74k coins | +25% | +78.6% | Esticada |
-| Tarciane | 88 | D1 Arkema | 50k coins | +25% | +75.4% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 65k coins | +35.4% | +71.1% | Esticada |
-| Declan Rice | 89 | Premier League | 111k coins | +17.9% | +69.7% | Esticada |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 37k coins | +6.5% | +85% | Esticada |
+| Grimaldo | 87 | Bundesliga | 23k coins | +13.2% | +83.9% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 62k coins | +35.2% | +78.3% | Esticada |
+| Tarciane | 88 | D1 Arkema | 50k coins | +22% | +75.4% | Esticada |
+| Hugo Sánchez | 89 | Icons | 174k coins | +33.6% | +73.8% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 157k coins | +33.3% | +73% | Esticada |
+| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 19.000 coins | +28.3% | +71.1% | Esticada |
 | Ada Hegerberg | 88 | Frauen-Bundesliga | 70k coins | +37.6% | +69.5% | Esticada |
-| Sakina Karchaoui | 89 | — | 70k coins | +7.7% | +63.7% | Esticada |
+| Eric Cantona | 89 | Icons | 200k coins | +4.2% | +69.5% | Esticada |
+| Charles De Ketelaere | 88 | Serie A TIM | 100k coins | +15.4% | +68.3% | Esticada |
+| Kenan Yıldız | 88 | Serie A TIM | 225k coins | +21.6% | +66.7% | Esticada |
+| Ane Azkona | 88 | Liga F | 68k coins | +23.1% | +66.5% | Esticada |
+| Claudio Marchisio | 87 | Serie A TIM | 27k coins | +30.7% | +64.3% | Esticada |
 | Nadine Keßler | 89 | GPFBL | 28k coins | +33.7% | +63.2% | Esticada |
-| Johanna Kaneryd | 89 | — | 23k coins | +32.4% | +62.1% | Esticada |
-| Alex Scott | 89 | Barclays WSL | 72k coins | +2.6% | +54.4% | Momentum moderado |
-| Claudio Marchisio | 87 | Serie A TIM | 30k coins | +9.2% | +52.9% | Momentum moderado |
-| Zico | 87 | Icons | 129k coins | +17.3% | +51.8% | Momentum moderado |
-| Capdevila | 87 | LALIGA EA SPORTS | 22k coins | +6% | +50.8% | Momentum moderado |
+| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +8.3% | +62.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Gabriel (89)** — 160k coins, **+89% em 7 dias** (+35% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Aimar (88)** — 37k coins, **+85% em 7 dias** (+6.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Sánchez (89)** — 186k coins, **+85.4% em 7 dias** (+27.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (87)** — 23k coins, **+83.9% em 7 dias** (+13.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charles De Ketelaere (88)** — 103k coins, **+84.2% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 62k coins, **+78.3% em 7 dias** (+35.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Igor Paixão (87)** — 74k coins, **+78.6% em 7 dias** (+25% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tarciane (88)** — 50k coins, **+75.4% em 7 dias** (+22% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tarciane (88)** — 50k coins, **+75.4% em 7 dias** (+25% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Sánchez (89)** — 174k coins, **+73.8% em 7 dias** (+33.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Gabriel (89, Premier League) lidera, com +89% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pablo Aimar (88, LALIGA EA SPORTS) lidera, com +85% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
