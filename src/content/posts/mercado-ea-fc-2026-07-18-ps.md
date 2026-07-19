@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:39:07.000Z
+pubDatetime: 2026-07-19T01:39:07.000Z
 title: "Mercado EA FC em 18/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Richard Ríos (88, Liga Portugal), com +59.2% em 24h, a 234k coins no Console (PS)."
+    a: "Dávid Hancko (89, LALIGA EA SPORTS), com +59.8% em 24h, a 29k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Malik Tillman (88), -48.2% em 24h, a 135k coins."
+    a: "Juan Mata (88), -45% em 24h, a 33k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 255 cartas em alta contra 248 em queda (média 1.1%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 230 cartas em alta contra 275 em queda (média 1.42%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **255 cartas subiram** e **248 caíram** (80+ acima de 5k coins), variação média de **1.1%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **230 cartas subiram** e **275 caíram** (80+ acima de 5k coins), variação média de **1.42%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Richard Ríos (88) **+59.2%** · 🔴 **Maior baixa:** Malik Tillman (88) **-48.2%**
+> 🟢 **Maior alta:** Dávid Hancko (89) **+59.8%** · 🔴 **Maior baixa:** Juan Mata (88) **-45%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.7% entre as cartas que se moveram; o universo observado reúne 545 cartas.
-- **Concentração:** Barclays WSL aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 567 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Richard Ríos | 88 | Liga Portugal | 234k coins | +59.2% | -2.5% |
-| Giada Greggi | 87 | Calcio A Femminile | 27k coins | +58% | +62.7% |
-| Emily van Egmond | 88 | Barclays WSL | 159k coins | +55.9% | +35.9% |
-| Lucy Bronze | 88 | Barclays WSL | 111k coins | +55.2% | +202% |
-| Ko Itakura | 88 | Eredivisie | 21k coins | +53.7% | -5.7% |
-| Julia Grosso | 88 | NWSL | 58k coins | +51.9% | +125% |
-| Laura Georges | 89 | D1 Arkema | 30k coins | +50.6% | +38.4% |
-| Jorge Campos | 87 | MLS | 22k coins | +50% | +41.2% |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +47.5% | +42.6% |
-| Leah Williamson | 88 | Barclays WSL | 70k coins | +47.2% | +53.5% |
+| Dávid Hancko | 89 | LALIGA EA SPORTS | 29k coins | +59.8% | +59.8% |
+| Tomáš Rosický | 89 | Bundesliga | 25k coins | +58.3% | -0.9% |
+| Géraldine Reuteler | 87 | GPFBL | 44k coins | +54.9% | +43.8% |
+| João Neves | 88 | Ligue 1 McDonald's | 30k coins | +53.8% | +11.1% |
+| Antonio Di Natale | 88 | Serie A TIM | 73k coins | +52.9% | +50.3% |
+| John Arne Riise | 88 | Premier League | 47k coins | +51.2% | +57.5% |
+| Lewis Miley | 89 | Premier League | 44k coins | +50.8% | +33.6% |
+| Rose Lavelle | 89 | NWSL | 90k coins | +49.2% | +64.2% |
+| Sonia Bompastor | 88 | D1 Arkema | 24k coins | +48.5% | +46.3% |
+| Lauren James | 87 | Barclays WSL | 260k coins | +45.8% | +14.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Richard Ríos (88)** subiu **+59.2%** em 24h, a **234k coins** (faixa do dia: 142k–234k). Está em linha com a média de 7 dias (+6%).
+- **Dávid Hancko (89)** subiu **+59.8%** em 24h, a **29k coins** (faixa do dia: 16.000–33k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Giada Greggi (87)** subiu **+58%** em 24h, a **27k coins** (faixa do dia: 15.750–35k). Está +37% acima da média de 7 dias (aquecida).
+- **Tomáš Rosický (89)** subiu **+58.3%** em 24h, a **25k coins** (faixa do dia: 14.375–28k). Está em linha com a média de 7 dias (-3%).
 
-- **Emily van Egmond (88)** subiu **+55.9%** em 24h, a **159k coins** (faixa do dia: 101k–159k). Está +27% acima da média de 7 dias (aquecida).
+- **Géraldine Reuteler (87)** subiu **+54.9%** em 24h, a **44k coins** (faixa do dia: 36k–56k). Está em linha com a média de 7 dias (+7%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Malik Tillman | 88 | Bundesliga | 135k coins | -48.2% | -36.9% |
-| João Moutinho | 88 | Liga Portugal | 145k coins | -44.2% | +21.5% |
-| Adam Wharton | 88 | Premier League | 28k coins | -38.7% | -16.8% |
-| Matthias Ginter | 88 | Bundesliga | 24k coins | -38.2% | -30.4% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 34k coins | -36.4% | -52.7% |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 220k coins | -35.8% | -3.1% |
-| Pernille Harder | 87 | GPFBL | 37k coins | -35.3% | -16.2% |
-| Wesley Sneijder | 89 | Serie A TIM | 25k coins | -35% | -42.2% |
-| Francisco Conceição | 89 | Serie A TIM | 32k coins | -35% | -51.9% |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 22k coins | -34.4% | -10% |
+| Juan Mata | 88 | A-League | 33k coins | -45% | +2.3% |
+| Estêvão | 88 | Premier League | 60k coins | -44.5% | -48.3% |
+| Vanessa Fudalla | 88 | GPFBL | 30k coins | -39.1% | +14.3% |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 45k coins | -38.8% | +4.6% |
+| Wesley Sneijder | 89 | Serie A TIM | 25k coins | -38.6% | -67.4% |
+| Moisés Caicedo | 88 | Premier League | 37k coins | -37.9% | -3.1% |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 176k coins | -37.6% | +4% |
+| Elliot Anderson | 89 | Premier League | 110k coins | -36.4% | -3.5% |
+| Francisco Conceição | 89 | Serie A TIM | 36k coins | -36.4% | -45.1% |
+| Daniele De Rossi | 89 | Serie A TIM | 156k coins | -35.8% | +10.6% |
 
 
 ### Análise das baixas
 
-- **Malik Tillman (88)** caiu **-48.2%** em 24h, a **135k coins** (faixa do dia: 93k–199k). Está -29% abaixo da média de 7 dias (descontada).
+- **Juan Mata (88)** caiu **-45%** em 24h, a **33k coins** (faixa do dia: 31k–60k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **João Moutinho (88)** caiu **-44.2%** em 24h, a **145k coins** (faixa do dia: 130k–239k). Está em linha com a média de 7 dias (+5%).
+- **Estêvão (88)** caiu **-44.5%** em 24h, a **60k coins** (faixa do dia: 38k–82k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Adam Wharton (88)** caiu **-38.7%** em 24h, a **28k coins** (faixa do dia: 18.000–34k). Está em linha com a média de 7 dias (-4%).
+- **Vanessa Fudalla (88)** caiu **-39.1%** em 24h, a **30k coins** (faixa do dia: 29k–50k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Richard Ríos já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Dávid Hancko já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Malik Tillman recuou -48.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Juan Mata recuou -45%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Richard Ríos (88, Liga Portugal), com +59.2% em 24h, a 234k coins no Console (PS).
+Dávid Hancko (89, LALIGA EA SPORTS), com +59.8% em 24h, a 29k coins no Console (PS).
 
 **E a maior queda do dia?**
-Malik Tillman (88), -48.2% em 24h, a 135k coins.
+Juan Mata (88), -45% em 24h, a 33k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 255 cartas em alta contra 248 em queda (média 1.1%).
+Hoje o mercado está lateral — sem direção clara, com 230 cartas em alta contra 275 em queda (média 1.42%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

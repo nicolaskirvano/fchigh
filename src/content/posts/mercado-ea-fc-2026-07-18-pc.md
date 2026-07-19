@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:39:17.000Z
+pubDatetime: 2026-07-19T01:39:17.000Z
 title: "Mercado EA FC em 18/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Jade Le Guilly (89, D1 Arkema), com +57.4% em 24h, a 42k coins no PC."
+    a: "Gervinho (87, Serie A TIM), com +57.5% em 24h, a 115k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Naomi Girma (87), -50% em 24h, a 42k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 244 cartas em alta contra 279 em queda (média 1.1%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 247 cartas em alta contra 278 em queda (média 2.96%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem direção clara: **244 cartas subiram** e **279 caíram** (80+ acima de 5k coins), variação média de **1.1%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **18/07/2026** no PC com mercado **em alta** — predominam as valorizações: **247 cartas subiram** e **278 caíram** (80+ acima de 5k coins), variação média de **2.96%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jade Le Guilly (89) **+57.4%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
+> 🟢 **Maior alta:** Gervinho (87) **+57.5%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.7% entre as cartas que se moveram; o universo observado reúne 595 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.0% entre as cartas que se moveram; o universo observado reúne 597 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 89 | D1 Arkema | 42k coins | +57.4% | +23.2% |
-| Hidetoshi Nakata | 87 | Serie A TIM | 20k coins | +56.9% | +81.8% |
-| Diego Forlán | 88 | LALIGA EA SPORTS | 38k coins | +55.6% | +32.6% |
-| Robin Roefs | 87 | Premier League | 30k coins | +55.4% | -8.5% |
-| Václav Černý | 87 | Trendyol Süper Lig | 39k coins | +54.8% | +31.9% |
-| Marek Hamšík | 87 | Serie A TIM | 27k coins | +52.9% | +101.9% |
-| Ian Wright | 89 | — | 24k coins | +52.3% | +20.7% |
-| Amaiur Sarriegi | 88 | Liga F | 76k coins | +48.6% | +4% |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 74k coins | +48% | +10.4% |
-| Sara Holmgaard | 88 | — | 22k coins | +47.8% | +100% |
+| Gervinho | 87 | Serie A TIM | 115k coins | +57.5% | -2.5% |
+| Dávid Hancko | 89 | LALIGA EA SPORTS | 55k coins | +57.1% | +51.7% |
+| Rudi Völler | 89 | Bundesliga | 24k coins | +57.1% | +94.1% |
+| Mingueza | 88 | LALIGA EA SPORTS | 35k coins | +55.6% | +66.7% |
+| Firas Al Birekan | 89 | ROSHN Saudi League | 74k coins | +53.6% | +54.4% |
+| Rose Lavelle | 89 | NWSL | 62k coins | +53.6% | +37.2% |
+| Maxence Lacroix | 87 | Premier League | 127k coins | +53.3% | +31.3% |
+| Marc Guéhi | 88 | Premier League | 36k coins | +51% | +45% |
+| Klara Bühl | 88 | GPFBL | 64k coins | +50.6% | -3.8% |
+| Omar Marmoush | 87 | Premier League | 98k coins | +50% | +21.1% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jade Le Guilly (89)** subiu **+57.4%** em 24h, a **42k coins** (faixa do dia: 24k–42k). Está +48% acima da média de 7 dias (aquecida).
+- **Gervinho (87)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 50k–130k). Está em linha com a média de 7 dias (+8%).
 
-- **Hidetoshi Nakata (87)** subiu **+56.9%** em 24h, a **20k coins** (faixa do dia: 11.000–30k). Está +28% acima da média de 7 dias (aquecida).
+- **Dávid Hancko (89)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 32k–65k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Diego Forlán (88)** subiu **+55.6%** em 24h, a **38k coins** (faixa do dia: 27k–42k). Está em linha com a média de 7 dias (+6%).
+- **Rudi Völler (89)** subiu **+57.1%** em 24h, a **24k coins** (faixa do dia: 11.250–30k). Está +42% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -73,29 +73,29 @@ O mercado do **EA FC** abre **18/07/2026** no PC com mercado **lateral** — sem
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Naomi Girma | 87 | Barclays WSL | 42k coins | -50% | -24.8% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 50k coins | -45.1% | -65.9% |
-| Julia Grosso | 88 | NWSL | 24k coins | -44.5% | -60.3% |
-| Rubén García | 87 | LALIGA EA SPORTS | 26k coins | -42.1% | +47.2% |
-| Ilias Akhomach | 88 | LALIGA EA SPORTS | 38k coins | -40.9% | -17% |
-| Pedrinho | 88 | — | 26k coins | -40.7% | -19.7% |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 38k coins | -39.5% | -29.2% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 46k coins | -38.3% | -11.5% |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 145k coins | -38% | -41.8% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 35k coins | -37.9% | -30.5% |
+| Matheus Dias | 87 | Liga Portugal | 23k coins | -49.2% | +16.1% |
+| Lewis Hall | 89 | Premier League | 35k coins | -47.8% | -34.5% |
+| Declan Rice | 89 | Premier League | 48k coins | -47.1% | -18.5% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 145k coins | -45.6% | -31.6% |
+| Lautaro Martínez | 89 | Serie A TIM | 45k coins | -44.1% | -39.2% |
+| Ilias Akhomach | 88 | LALIGA EA SPORTS | 37k coins | -43.9% | -23.3% |
+| Rubén García | 87 | LALIGA EA SPORTS | 25k coins | -43.6% | +45.7% |
+| Ramy Bensebaini | 87 | — | 40k coins | -42.9% | -11.1% |
+| Rose Lavelle | 88 | NWSL | 50k coins | -42.6% | -30.5% |
 
 
 ### Análise das baixas
 
 - **Naomi Girma (87)** caiu **-50%** em 24h, a **42k coins** (faixa do dia: 42k–85k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Aurélien Tchouaméni (87)** caiu **-45.1%** em 24h, a **50k coins** (faixa do dia: 50k–96k). Está -65% abaixo da média de 7 dias (descontada).
+- **Matheus Dias (87)** caiu **-49.2%** em 24h, a **23k coins** (faixa do dia: 17.750–52k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Julia Grosso (88)** caiu **-44.5%** em 24h, a **24k coins** (faixa do dia: 24k–43k). Está -40% abaixo da média de 7 dias (descontada).
+- **Lewis Hall (89)** caiu **-47.8%** em 24h, a **35k coins** (faixa do dia: 29k–66k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jade Le Guilly já avançou 57.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gervinho já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Naomi Girma recuou -50%; confirme estabilização e liquidez.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Jade Le Guilly (89, D1 Arkema), com +57.4% em 24h, a 42k coins no PC.
+Gervinho (87, Serie A TIM), com +57.5% em 24h, a 115k coins no PC.
 
 **E a maior queda do dia?**
 Naomi Girma (87), -50% em 24h, a 42k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 244 cartas em alta contra 279 em queda (média 1.1%).
+Hoje o mercado está em alta — predominam as valorizações, com 247 cartas em alta contra 278 em queda (média 2.96%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

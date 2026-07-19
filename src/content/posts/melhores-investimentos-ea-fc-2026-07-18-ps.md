@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:39:09.000Z
+pubDatetime: 2026-07-19T01:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Chloe Kelly (88, Barclays WSL) lidera, com +74.9% em 7 dias a 109k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Taylor Flint (88, NWSL) lidera, com +88.5% em 7 dias a 147k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chloe Kelly (88) acumula **+74.9% em 7 dias** a 109k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Taylor Flint (88) acumula **+88.5% em 7 dias** a 147k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.9% em 24h** e **+64.0% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.9% em 24h** e **+64.7% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chloe Kelly | 88 | Barclays WSL | 109k coins | +17.6% | +74.9% | Esticada |
-| Jade Le Guilly | 89 | D1 Arkema | 24k coins | +5.4% | +74.6% | Esticada |
-| James Milner | 88 | Premier League | 124k coins | +11.7% | +67.9% | Esticada |
-| Emilie Haavi | 87 | Calcio A Femminile | 26k coins | +18.7% | +66.2% | Esticada |
-| Vanessa Gilles | 87 | GPFBL | 21k coins | +4.6% | +65.5% | Esticada |
-| Matheus Cunha | 87 | Premier League | 85k coins | +2.2% | +65.2% | Esticada |
-| Carlos Tévez | 88 | Premier League | 34k coins | +17.9% | +65% | Esticada |
-| Bryan Mbeumo | 87 | Premier League | 42k coins | +29.1% | +64% | Esticada |
-| Estefanía Banini | 89 | Liga F | 25k coins | +39.2% | +63.5% | Esticada |
-| Jaedyn Shaw | 89 | NWSL | 25k coins | +14.4% | +60.9% | Esticada |
-| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | +18.4% | +57.9% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 167k coins | +1.3% | +57.5% | Momentum moderado |
-| Nico Williams | 89 | LALIGA EA SPORTS | 131k coins | +15.9% | +55.3% | Momentum moderado |
-| Tara McKeown | 89 | NWSL | 26k coins | +16.9% | +55.2% | Momentum moderado |
-| Klara Bühl | 89 | GPFBL | 28k coins | +6.6% | +54.8% | Momentum moderado |
+| Taylor Flint | 88 | NWSL | 147k coins | +33.6% | +88.5% | Esticada |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 78k coins | +6.5% | +79.7% | Esticada |
+| Carlos Tévez | 88 | Premier League | 34k coins | +17.5% | +78.7% | Esticada |
+| Rayan Cherki | 87 | Premier League | 87k coins | +30.4% | +78.2% | Esticada |
+| Dante | 88 | Ligue 1 McDonald's | 25k coins | +4.7% | +76.2% | Esticada |
+| Mingueza | 88 | LALIGA EA SPORTS | 22k coins | +31.4% | +70.4% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 67k coins | +3.1% | +65.4% | Esticada |
+| Pascal Groß | 87 | Premier League | 26k coins | +17.9% | +64.7% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 50k coins | +14.9% | +63.9% | Esticada |
+| Roy Makaay | 89 | Bundesliga | 24k coins | +5.3% | +63.9% | Esticada |
+| João Pedro | 89 | Premier League | 220k coins | +27.7% | +63.3% | Esticada |
+| Julie Foudy | 88 | Icons | 27k coins | +29.4% | +61.8% | Esticada |
+| Mateo Chávez | 89 | — | 70k coins | +27.3% | +60.9% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 100k coins | +30% | +60% | Esticada |
+| Sissi | 88 | Icons | 72k coins | +6.6% | +57.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Chloe Kelly (88)** — 109k coins, **+74.9% em 7 dias** (+17.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Taylor Flint (88)** — 147k coins, **+88.5% em 7 dias** (+33.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Le Guilly (89)** — 24k coins, **+74.6% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Sara (89)** — 78k coins, **+79.7% em 7 dias** (+6.5% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Milner (88)** — 124k coins, **+67.9% em 7 dias** (+11.7% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Tévez (88)** — 34k coins, **+78.7% em 7 dias** (+17.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emilie Haavi (87)** — 26k coins, **+66.2% em 7 dias** (+18.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rayan Cherki (87)** — 87k coins, **+78.2% em 7 dias** (+30.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vanessa Gilles (87)** — 21k coins, **+65.5% em 7 dias** (+4.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dante (88)** — 25k coins, **+76.2% em 7 dias** (+4.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Chloe Kelly (88, Barclays WSL) lidera, com +74.9% em 7 dias a 109k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Taylor Flint (88, NWSL) lidera, com +88.5% em 7 dias a 147k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:39:10.000Z
+pubDatetime: 2026-07-19T01:39:10.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 18/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.600 coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.300 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2.600 coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2.300 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 18/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-18-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.223 coins.
-- **Posição mais frequente:** ST, com 8 cartas.
-- **Faixa real:** 2.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.273 coins.
+- **Posição mais frequente:** ST, com 7 cartas.
+- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2.600 coins | -6.2% |
-| Harry Kane | 89 | ST | Bundesliga | 3.500 coins | +12.1% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.500 coins | +12.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.250 coins | -3.6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13.500 coins | +3.8% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13.500 coins | +44.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13.750 coins | +9.1% |
-| Celia Šašić | 89 | ST | GPFBL | 13.750 coins | +1.9% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.000 coins | -5.1% |
-| Birgit Prinz | 89 | ST | — | 14.250 coins | +5.4% |
-| Kristin Kögel | 89 | LM | GPFBL | 14.250 coins | -8.1% |
-| Andrej Kramarić | 89 | CAM | Bundesliga | 14.500 coins | -13.4% |
-| Maximiliano Araújo | 89 | LM | — | 14.500 coins | -1.6% |
-| Simone Laudehr | 88 | CM | GPFBL | 12.750 coins | +16.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | +8.3% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2.300 coins | -13.3% |
+| Harry Kane | 89 | ST | Bundesliga | 3.400 coins | 0% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12.500 coins | -5.7% |
+| Celia Šašić | 89 | ST | GPFBL | 12.500 coins | -7.4% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.000 coins | -13.3% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.500 coins | -12.3% |
+| Mariona | 89 | CAM | Barclays WSL | 14.000 coins | +3.2% |
+| Sonia Bompastor | 89 | LB | — | 14.000 coins | -7.1% |
+| Birgit Prinz | 89 | ST | — | 14.250 coins | -5% |
+| Kristin Kögel | 89 | LM | GPFBL | 14.500 coins | -3.3% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 14.750 coins | -6.8% |
+| Guro Reiten | 88 | LM | Barclays WSL | 2.900 coins | +16.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 11.750 coins | +4.3% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12.750 coins | -5.6% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 13.000 coins | +4% |
 
 
 ## 📈 Destaques
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.500 coins**
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.250 coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12.500 coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13.500 coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Achraf Hakimi (89, RB) por 2.600 coins é a referência de rating deste recorte.
+- **Defesa:** Achraf Hakimi (89, RB) por 2.300 coins é a referência de rating deste recorte.
 
-- **Meio:** Kristin Kögel (89, LM) por 14.250 coins é a referência de rating deste recorte.
+- **Meio:** Mariona (89, CAM) por 14.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 3.500 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 3.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +105,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.600 coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.300 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
