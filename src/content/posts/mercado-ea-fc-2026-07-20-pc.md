@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:39:16.000Z
+pubDatetime: 2026-07-20T16:39:16.000Z
 title: "Mercado EA FC em 20/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Hernán Crespo (88, Icons), com +60% em 24h, a 58k coins no PC."
+    a: "Shelina Zadorsky (87, Barclays WSL), com +59.7% em 24h, a 95k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marek Hamšík (88), -49.5% em 24h, a 50k coins."
+    a: "Nick Woltemade (87), -48.7% em 24h, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 259 cartas em alta contra 269 em queda (média 4.02%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 262 cartas em alta contra 264 em queda (média 4.17%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**20/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **259 subiram**, **269 caíram** (80+ e 5k+ coins), média de **4.02%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**20/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **262 subiram**, **264 caíram** (80+ e 5k+ coins), média de **4.17%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Hernán Crespo (88) **+60%** · 🔴 **Maior baixa:** Marek Hamšík (88) **-49.5%**
+> 🟢 **Maior alta:** Shelina Zadorsky (87) **+59.7%** · 🔴 **Maior baixa:** Nick Woltemade (87) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.1% entre as cartas que se moveram; o universo observado reúne 603 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.8% entre as cartas que se moveram; o universo observado reúne 600 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hernán Crespo | 88 | Icons | 58k coins | +60% | +45% |
 | Shelina Zadorsky | 87 | Barclays WSL | 95k coins | +59.7% | +40.7% |
-| Frank Lampard | 87 | Icons | 125k coins | +57.6% | -7.1% |
-| Marcos Acuña | 89 | LPF | 130k coins | +55.7% | +36.8% |
-| Jill Scott | 87 | Barclays WSL | 43k coins | +55.7% | +38.8% |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 30k coins | +53.8% | +7.1% |
-| Antonio Di Natale | 88 | Serie A TIM | 90k coins | +53.8% | +25% |
+| Moisés Caicedo | 88 | Premier League | 68k coins | +59.3% | +18.5% |
+| Peter Crouch | 87 | Premier League | 270k coins | +58.8% | — |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 76k coins | +58.8% | -9.4% |
+| Ferdi Kadıoğlu | 87 | — | 52k coins | +56.4% | +50.7% |
+| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 29k coins | +55.4% | +35.3% |
+| Hernán Crespo | 88 | Icons | 51k coins | +53.6% | +32.5% |
 | Santi Cazorla | 87 | LALIGA EA SPORTS | 75k coins | +53.1% | +7.9% |
-| Lionel Messi | 88 | MLS | 543k coins | +50.4% | -7.7% |
-| Ferdi Kadıoğlu | 87 | — | 50k coins | +50% | +59.7% |
+| Santiago Mouriño | 87 | LALIGA EA SPORTS | 55k coins | +52.8% | +37.5% |
+| Chloe Kelly | 88 | Barclays WSL | 100k coins | +52.7% | +17.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Hernán Crespo (88)** subiu **+60%** em 24h, a **58k coins** (faixa do dia: 32k–60k). Está +39% acima da média de 7 dias (aquecida).
+- **Shelina Zadorsky (87)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 60k–95k). Está +69% acima da média de 7 dias (aquecida).
 
-- **Shelina Zadorsky (87)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 60k–95k). Está +71% acima da média de 7 dias (aquecida).
+- **Moisés Caicedo (88)** subiu **+59.3%** em 24h, a **68k coins** (faixa do dia: 33k–74k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Frank Lampard (87)** subiu **+57.6%** em 24h, a **125k coins** (faixa do dia: 66k–130k). Está +12% acima da média de 7 dias (aquecida).
+- **Peter Crouch (87)** subiu **+58.8%** em 24h, a **270k coins** (faixa do dia: 56k–270k). Está +58% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 50k coins | -49.5% | -30.3% |
-| Emilio Butragueño | 89 | Icons | 82k coins | -47.8% | -7.2% |
-| Julio César Enciso | 87 | Ligue 1 McDonald's | 21k coins | -47.7% | -64.5% |
-| Julia Grosso | 88 | NWSL | 36k coins | -47.5% | +13.1% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 24k coins | -47.2% | -34.2% |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 222k coins | -43.1% | -14.9% |
-| Sócrates | 89 | Icons | 90k coins | -41.7% | -29.6% |
-| Declan Rice | 89 | Premier League | 68k coins | -37.7% | -22.2% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 121k coins | -36.3% | -24.4% |
-| Declan Rice | 89 | Premier League | 61k coins | -34.9% | -26.5% |
+| Nick Woltemade | 87 | Premier League | 38k coins | -48.7% | -36.6% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 40k coins | -48.4% | -19.4% |
+| Elliot Anderson | 89 | Premier League | 86k coins | -45.2% | -38.6% |
+| Emilio Butragueño | 89 | Icons | 85k coins | -45.1% | -18.3% |
+| Klara Bühl | 88 | GPFBL | 35k coins | -44.9% | -11.9% |
+| Seko Fofana | 87 | — | 39k coins | -44.3% | -14.8% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 34k coins | -43.8% | -45.2% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 32k coins | -43.3% | -68.9% |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 222k coins | -41.3% | -14.9% |
+| António Silva | 87 | Liga Portugal | 24k coins | -40.3% | -68.3% |
 
 
 ### Análise das baixas
 
-- **Marek Hamšík (88)** caiu **-49.5%** em 24h, a **50k coins** (faixa do dia: 50k–100k). Está -38% abaixo da média de 7 dias (descontada).
+- **Nick Woltemade (87)** caiu **-48.7%** em 24h, a **38k coins** (faixa do dia: 27k–77k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Emilio Butragueño (89)** caiu **-47.8%** em 24h, a **82k coins** (faixa do dia: 75k–161k). Está -30% abaixo da média de 7 dias (descontada).
+- **Nahuel Molina (87)** caiu **-48.4%** em 24h, a **40k coins** (faixa do dia: 40k–80k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Julio César Enciso (87)** caiu **-47.7%** em 24h, a **21k coins** (faixa do dia: 19.000–48k). Está -51% abaixo da média de 7 dias (descontada).
+- **Elliot Anderson (89)** caiu **-45.2%** em 24h, a **86k coins** (faixa do dia: 86k–170k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Hernán Crespo já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Shelina Zadorsky já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marek Hamšík recuou -49.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nick Woltemade recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Hernán Crespo (88, Icons), com +60% em 24h, a 58k coins no PC.
+Shelina Zadorsky (87, Barclays WSL), com +59.7% em 24h, a 95k coins no PC.
 
 **E a maior queda do dia?**
-Marek Hamšík (88), -49.5% em 24h, a 50k coins.
+Nick Woltemade (87), -48.7% em 24h, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 259 cartas em alta contra 269 em queda (média 4.02%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 262 cartas em alta contra 264 em queda (média 4.17%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
