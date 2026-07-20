@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:39:08.000Z
+pubDatetime: 2026-07-20T19:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Estefanía Banini (89, Liga F) lidera, com +83.1% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nwankwo Kanu (87, Premier League) lidera, com +55.3% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Estefanía Banini (89) acumula **+83.1% em 7 dias** a 21k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nwankwo Kanu (87) acumula **+55.3% em 7 dias** a 34k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+58.9% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.1% em 24h** e **+42.3% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | Liga F | 21k coins | +20% | +83.1% | Esticada |
-| João Moutinho | 88 | Liga Portugal | 188k coins | +29.7% | +74.1% | Esticada |
-| Juan Mata | 88 | A-League | 56k coins | +38.8% | +70.8% | Esticada |
-| Ahmed Hegazi | 87 | Brasileirão | 78k coins | +22.1% | +70.2% | Esticada |
-| Hidetoshi Nakata | 88 | Serie A TIM | 26k coins | +13.3% | +64.5% | Esticada |
-| Cora Zicai | 88 | GPFBL | 103k coins | +11% | +64.3% | Esticada |
-| Nwankwo Kanu | 87 | Premier League | 38k coins | +4.2% | +59.6% | Momentum moderado |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 58k coins | +7.4% | +58.9% | Momentum moderado |
-| Christian Günter | 88 | Bundesliga | 32k coins | +12.4% | +58.8% | Momentum moderado |
-| Cláudio Braga | 87 | Scottish Premiership | 19.750 coins | +2% | +57.8% | Momentum moderado |
-| Luany | 88 | Liga F | 33k coins | +12.6% | +55.8% | Momentum moderado |
-| Nerea Nevado | 89 | Liga F | 28k coins | +2.9% | +52.2% | Momentum moderado |
-| Igor Thiago | 89 | Premier League | 40k coins | +19.5% | +47.2% | Momentum moderado |
-| Croix Bethune | 87 | NWSL | 20k coins | +14.3% | +45.5% | Momentum moderado |
-| Hamari Traoré | 87 | Ligue 1 McDonald's | 16.000 coins | +23.5% | +44.8% | Esticada |
+| Nwankwo Kanu | 87 | Premier League | 34k coins | +5% | +55.3% | Momentum moderado |
+| Lucy Bronze | 88 | Barclays WSL | 57k coins | +1.5% | +55% | Momentum moderado |
+| Roy Makaay | 89 | Bundesliga | 17.250 coins | +31.9% | +51.7% | Esticada |
+| Estefanía Banini | 89 | Liga F | 21k coins | +1.1% | +50.8% | Momentum moderado |
+| Beth Mead | 88 | Barclays WSL | 95k coins | +21% | +49.6% | Esticada |
+| Santiago Castro | 87 | Serie A TIM | 21k coins | +25.8% | +48.2% | Esticada |
+| Christian Günter | 88 | Bundesliga | 29k coins | +10.1% | +44.6% | Momentum moderado |
+| Finn Azaz | 88 | EFL Championship | 56k coins | +13.3% | +42.3% | Momentum moderado |
+| Hidetoshi Nakata | 89 | Serie A TIM | 18.500 coins | +33.3% | +40.4% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 152k coins | +14.1% | +40% | Momentum moderado |
+| Nico Schlotterbeck | 87 | Bundesliga | 54k coins | +35.2% | +37.6% | Esticada |
+| Sadio Mané | 88 | ROSHN Saudi League | 148k coins | +17.6% | +37.5% | Momentum moderado |
+| Sócrates | 89 | Icons | 118k coins | +7.1% | +37.1% | Momentum moderado |
+| Kieffer Moore | 88 | EFL Championship | 52k coins | +31.9% | +36.7% | Esticada |
+| Hanna Lundkvist | 87 | Barclays WSL | 30k coins | +12.6% | +36.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Estefanía Banini (89)** — 21k coins, **+83.1% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nwankwo Kanu (87)** — 34k coins, **+55.3% em 7 dias** (+5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 188k coins, **+74.1% em 7 dias** (+29.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 57k coins, **+55% em 7 dias** (+1.5% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Mata (88)** — 56k coins, **+70.8% em 7 dias** (+38.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roy Makaay (89)** — 17.250 coins, **+51.7% em 7 dias** (+31.9% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmed Hegazi (87)** — 78k coins, **+70.2% em 7 dias** (+22.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 21k coins, **+50.8% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hidetoshi Nakata (88)** — 26k coins, **+64.5% em 7 dias** (+13.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 95k coins, **+49.6% em 7 dias** (+21% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Estefanía Banini (89, Liga F) lidera, com +83.1% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nwankwo Kanu (87, Premier League) lidera, com +55.3% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
