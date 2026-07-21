@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:39:18.000Z
+pubDatetime: 2026-07-21T19:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Rasmus Højlund (87, Serie A TIM) lidera, com +82.5% em 7 dias a 72k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jaden Philogene (87, EFL Championship) lidera, com +84.6% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rasmus Højlund (87) acumula **+82.5% em 7 dias** a 72k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jaden Philogene (87) acumula **+84.6% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.7% em 24h** e **+74.6% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+21.6% em 24h** e **+62.9% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rasmus Højlund | 87 | Serie A TIM | 72k coins | +12.3% | +82.5% | Esticada |
-| Georgia Stanway | 88 | Liga F | 58k coins | +23.8% | +80.6% | Esticada |
-| Scott McTominay | 87 | Serie A TIM | 119k coins | +9.2% | +80.3% | Esticada |
-| Diego Milito | 88 | Serie A TIM | 19.750 coins | +20% | +77.3% | Esticada |
-| Amar Dedić | 88 | — | 44k coins | +29.4% | +76% | Esticada |
-| Cesc Fàbregas | 88 | Premier League | 22k coins | +17.3% | +76% | Esticada |
-| Bruno Guimarães | 89 | Premier League | 35k coins | +17.6% | +75% | Esticada |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 26k coins | +15.7% | +74.6% | Esticada |
-| Sveindís Jane Jónsdóttir | 88 | — | 120k coins | +26.3% | +71.4% | Esticada |
-| Aya Miyama | 87 | Icons | 33k coins | +7.3% | +70.5% | Esticada |
-| Joshua Zirkzee | 87 | Premier League | 42k coins | +11.8% | +70% | Esticada |
-| Géraldine Reuteler | 87 | GPFBL | 70k coins | +1.4% | +69.9% | Esticada |
-| Trinity Rodman | 88 | NWSL | 200k coins | +16.3% | +69.5% | Esticada |
-| Nwankwo Kanu | 87 | Premier League | 45k coins | +7.1% | +68.2% | Esticada |
-| Matheus Dias | 87 | Liga Portugal | 50k coins | +6.4% | +65.3% | Esticada |
+| Jaden Philogene | 87 | EFL Championship | 60k coins | +12.1% | +84.6% | Esticada |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 26k coins | +21.6% | +81.4% | Esticada |
+| Rasmus Højlund | 87 | Serie A TIM | 70k coins | +8.5% | +76.2% | Esticada |
+| João Pedro | 87 | Premier League | 70k coins | +35.1% | +71.4% | Esticada |
+| Sveindís Jane Jónsdóttir | 88 | — | 119k coins | +26.3% | +70.2% | Esticada |
+| Hanna Lundkvist | 87 | Barclays WSL | 65k coins | +25% | +66.7% | Esticada |
+| Firas Al Birekan | 89 | ROSHN Saudi League | 58k coins | +4.5% | +63.6% | Esticada |
+| Amar Dedić | 88 | — | 42k coins | +25.7% | +62.9% | Esticada |
+| Dunga | 87 | Icons | 190k coins | +17.1% | +60.6% | Esticada |
+| Giovane | 89 | Serie A TIM | 31k coins | +35.1% | +58.8% | Esticada |
+| Cesc Fàbregas | 88 | Premier League | 19.500 coins | +23.4% | +58% | Esticada |
+| Bruno Guimarães | 89 | Premier League | 28k coins | +6.8% | +56.2% | Momentum moderado |
+| Joshua Zirkzee | 87 | Premier League | 40k coins | +11.8% | +56% | Momentum moderado |
+| Diego Milito | 88 | Serie A TIM | 16.750 coins | +6.2% | +54.5% | Momentum moderado |
+| Cha Bum Kun | 88 | Icons | 230k coins | +24.3% | +52.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Rasmus Højlund (87)** — 72k coins, **+82.5% em 7 dias** (+12.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 60k coins, **+84.6% em 7 dias** (+12.1% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georgia Stanway (88)** — 58k coins, **+80.6% em 7 dias** (+23.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Míchel Salgado (87)** — 26k coins, **+81.4% em 7 dias** (+21.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Scott McTominay (87)** — 119k coins, **+80.3% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rasmus Højlund (87)** — 70k coins, **+76.2% em 7 dias** (+8.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Milito (88)** — 19.750 coins, **+77.3% em 7 dias** (+20% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Pedro (87)** — 70k coins, **+71.4% em 7 dias** (+35.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Amar Dedić (88)** — 44k coins, **+76% em 7 dias** (+29.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sveindís Jane Jónsdóttir (88)** — 119k coins, **+70.2% em 7 dias** (+26.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Rasmus Højlund (87, Serie A TIM) lidera, com +82.5% em 7 dias a 72k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jaden Philogene (87, EFL Championship) lidera, com +84.6% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
