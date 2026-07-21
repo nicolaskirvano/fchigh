@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:39:07.000Z
+pubDatetime: 2026-07-21T16:39:07.000Z
 title: "Mercado EA FC em 21/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Theo Hernández (88, ROSHN Saudi League), com +58.3% em 24h, a 94k coins no Console (PS)."
+    a: "Mamadou Sangaré (87, Ligue 1 McDonald's), com +60% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alex Scott (89), -44% em 24h, a 28k coins."
+    a: "Rayan Cherki (87), -45.6% em 24h, a 47k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 259 cartas em alta contra 275 em queda (média 2.49%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 271 cartas em alta contra 258 em queda (média 2.35%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **259 subiram** e **275 caíram**, com variação média de **2.49%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **271 subiram** e **258 caíram**, com variação média de **2.35%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Theo Hernández (88) **+58.3%** · 🔴 **Maior baixa:** Alex Scott (89) **-44%**
+> 🟢 **Maior alta:** Mamadou Sangaré (87) **+60%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-45.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-21-ps.svg)
 
@@ -35,24 +35,24 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 597 cartas.
-- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.2% entre as cartas que se moveram; o universo observado reúne 573 cartas.
+- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Theo Hernández | 88 | ROSHN Saudi League | 94k coins | +58.3% | -5% |
-| Philipp Lahm | 89 | Icons | 118k coins | +54.8% | +71.4% |
-| Ramires | 88 | Premier League | 260k coins | +53.6% | +25.6% |
-| Paulo Dybala | 88 | Serie A TIM | 170k coins | +51.8% | +44.2% |
-| Nadine Keßler | 89 | GPFBL | 25k coins | +51.5% | +11.1% |
-| Cole Palmer | 88 | Premier League | 690k coins | +51.3% | +86.1% |
-| Lewis Hall | 89 | Premier League | 70k coins | +50.9% | +50.9% |
-| Kelechi Iheanacho | 87 | Scottish Premiership | 45k coins | +47.9% | +10.2% |
-| Carlos Tévez | 89 | Premier League | 395k coins | +47.6% | +2.6% |
-| Vivianne Miedema | 89 | Barclays WSL | 22k coins | +47.5% | +14.5% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 24k coins | +60% | +54.8% |
+| Paul Onuachu | 88 | Trendyol Süper Lig | 53k coins | +59.4% | -6.7% |
+| Xavi Simons | 88 | Premier League | 40k coins | +57.4% | -5.1% |
+| Billy Gilmour | 87 | Serie A TIM | 38k coins | +55.1% | +4.8% |
+| Theo Hernández | 88 | ROSHN Saudi League | 86k coins | +50.8% | -9% |
+| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 570k coins | +50.4% | +48.1% |
+| Géraldine Reuteler | 87 | GPFBL | 45k coins | +50% | +23.5% |
+| Wesley | 88 | Serie A TIM | 88k coins | +46.8% | +38.9% |
+| Federico Dimarco | 87 | Serie A TIM | 52k coins | +44.6% | +9.2% |
+| Filip Kostić | 88 | Serie A TIM | 27k coins | +43.4% | +32.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Theo Hernández (88)** subiu **+58.3%** em 24h, a **94k coins** (faixa do dia: 55k–116k). Está em linha com a média de 7 dias (-1%).
+- **Mamadou Sangaré (87)** subiu **+60%** em 24h, a **24k coins** (faixa do dia: 14.000–37k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Philipp Lahm (89)** subiu **+54.8%** em 24h, a **118k coins** (faixa do dia: 68k–140k). Está +52% acima da média de 7 dias (aquecida).
+- **Paul Onuachu (88)** subiu **+59.4%** em 24h, a **53k coins** (faixa do dia: 22k–59k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Ramires (88)** subiu **+53.6%** em 24h, a **260k coins** (faixa do dia: 210k–290k). Está +28% acima da média de 7 dias (aquecida).
+- **Xavi Simons (88)** subiu **+57.4%** em 24h, a **40k coins** (faixa do dia: 17.500–50k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alex Scott | 89 | Barclays WSL | 28k coins | -44% | -34.1% |
-| Joe Cole | 88 | Premier League | 126k coins | -43.8% | -51.9% |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 46k coins | -42.5% | -8% |
-| Donyell Malen | 89 | Serie A TIM | 33k coins | -42.5% | -20.1% |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 20k coins | -42.4% | +15.3% |
-| Rayan Cherki | 87 | Premier League | 46k coins | -38.2% | -56.7% |
-| Ashley Sanchez | 87 | NWSL | 34k coins | -37.8% | 0% |
-| Casemiro | 89 | Premier League | 227k coins | -36.1% | -39.8% |
-| Malik Tillman | 88 | Bundesliga | 129k coins | -35.3% | -14.2% |
-| Julian Araujo | 89 | Scottish Premiership | 150k coins | -33.6% | -19.8% |
+| Rayan Cherki | 87 | Premier League | 47k coins | -45.6% | -62.8% |
+| Bruno Fernandes | 88 | Premier League | 62k coins | -39.4% | -27.6% |
+| Junior Messias | 87 | Serie A TIM | 26k coins | -38.5% | +41.2% |
+| Ashley Sanchez | 87 | NWSL | 34k coins | -37.6% | -1.4% |
+| Bryan Mbeumo | 87 | Premier League | 24k coins | -37.5% | -47.8% |
+| Nico Schlotterbeck | 87 | Bundesliga | 35k coins | -36.4% | -20.5% |
+| Lucy Bronze | 88 | Barclays WSL | 50k coins | -35.8% | +28.4% |
+| Steffi Jones | 89 | Icons | 28k coins | -34.3% | -0.9% |
+| Linda Caicedo | 87 | Liga F | 42k coins | -33.1% | -20.2% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 195k coins | -31.7% | -33.1% |
 
 
 ### Análise das baixas
 
-- **Alex Scott (89)** caiu **-44%** em 24h, a **28k coins** (faixa do dia: 20k–65k). Está -34% abaixo da média de 7 dias (descontada).
+- **Rayan Cherki (87)** caiu **-45.6%** em 24h, a **47k coins** (faixa do dia: 40k–76k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Joe Cole (88)** caiu **-43.8%** em 24h, a **126k coins** (faixa do dia: 120k–290k). Está -48% abaixo da média de 7 dias (descontada).
+- **Bruno Fernandes (88)** caiu **-39.4%** em 24h, a **62k coins** (faixa do dia: 60k–140k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Ada Hegerberg (88)** caiu **-42.5%** em 24h, a **46k coins** (faixa do dia: 46k–85k). Está -28% abaixo da média de 7 dias (descontada).
+- **Junior Messias (87)** caiu **-38.5%** em 24h, a **26k coins** (faixa do dia: 19.500–38k). Está em linha com a média de 7 dias (-8%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Theo Hernández já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mamadou Sangaré já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alex Scott recuou -44%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rayan Cherki recuou -45.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Theo Hernández (88, ROSHN Saudi League), com +58.3% em 24h, a 94k coins no Console (PS).
+Mamadou Sangaré (87, Ligue 1 McDonald's), com +60% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**
-Alex Scott (89), -44% em 24h, a 28k coins.
+Rayan Cherki (87), -45.6% em 24h, a 47k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 259 cartas em alta contra 275 em queda (média 2.49%).
+Hoje o mercado está em alta — predominam as valorizações, com 271 cartas em alta contra 258 em queda (média 2.35%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
