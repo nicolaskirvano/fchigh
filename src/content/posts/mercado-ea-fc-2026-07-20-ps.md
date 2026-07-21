@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:39:07.000Z
+pubDatetime: 2026-07-21T01:39:07.000Z
 title: "Mercado EA FC em 20/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Musab Al Juwair (87, ROSHN Saudi League), com +59.7% em 24h, a 28k coins no Console (PS)."
+    a: "Kevin Schade (88, Premier League), com +59% em 24h, a 27k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Leah Williamson (88), -49.3% em 24h, a 44k coins."
+    a: "Anatoliy Trubin (88), -49.4% em 24h, a 182k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 222 cartas em alta contra 295 em queda (média -1.09%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 226 cartas em alta contra 283 em queda (média -0.02%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**20/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **222 subiram**, **295 caíram** (80+ e 5k+ coins), média de **-1.09%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**20/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **226 subiram**, **283 caíram** (80+ e 5k+ coins), média de **-0.02%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Musab Al Juwair (87) **+59.7%** · 🔴 **Maior baixa:** Leah Williamson (88) **-49.3%**
+> 🟢 **Maior alta:** Kevin Schade (88) **+59%** · 🔴 **Maior baixa:** Anatoliy Trubin (88) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**20/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 547 cartas.
-- **Concentração:** Barclays WSL aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.4% entre as cartas que se moveram; o universo observado reúne 568 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 28k coins | +59.7% | +27.4% |
-| Jill Scott | 87 | Barclays WSL | 22k coins | +54.3% | +8% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 43k coins | +52.1% | +52.1% |
-| Henrik Larsson | 88 | Icons | 269k coins | +49.4% | +226.1% |
-| Davor Šuker | 89 | Icons | 23k coins | +46.8% | +26.4% |
-| Cora Zicai | 88 | GPFBL | 99k coins | +46.8% | +70% |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 75k coins | +46.1% | +3.5% |
-| Jorge Campos | 88 | MLS | 21k coins | +45.8% | +13.2% |
-| Can Uzun | 89 | Bundesliga | 90k coins | +44% | +20% |
-| Julia Grosso | 88 | NWSL | 34k coins | +43.8% | -42% |
+| Kevin Schade | 88 | Premier League | 27k coins | +59% | +18.1% |
+| Ederson | 87 | Trendyol Süper Lig | 56k coins | +55.7% | -13.4% |
+| Lukáš Haraslín | 89 | Česká Liga | 24k coins | +55.6% | +42% |
+| Croix Bethune | 89 | NWSL | 37k coins | +54.7% | +65.2% |
+| Henrik Larsson | 88 | Icons | 270k coins | +49.4% | +136% |
+| Lewis Miley | 89 | Premier League | 49k coins | +49.3% | +47.1% |
+| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 208k coins | +48.3% | +59.8% |
+| Marina Hegering | 87 | GPFBL | 24k coins | +47.1% | +13.6% |
+| Ewa Pajor | 89 | Liga F | 220k coins | +45.7% | +58.3% |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 35k coins | +45.1% | +16.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**20/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Musab Al Juwair (87)** subiu **+59.7%** em 24h, a **28k coins** (faixa do dia: 14.000–40k). Está +9% acima da média de 7 dias (aquecida).
+- **Kevin Schade (88)** subiu **+59%** em 24h, a **27k coins** (faixa do dia: 19.000–31k). Está em linha com a média de 7 dias (+3%).
 
-- **Jill Scott (87)** subiu **+54.3%** em 24h, a **22k coins** (faixa do dia: 14.250–28k). Está em linha com a média de 7 dias (+1%).
+- **Ederson (87)** subiu **+55.7%** em 24h, a **56k coins** (faixa do dia: 38k–68k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Alidu Seidu (89)** subiu **+52.1%** em 24h, a **43k coins** (faixa do dia: 30k–85k). Está +13% acima da média de 7 dias (aquecida).
+- **Lukáš Haraslín (89)** subiu **+55.6%** em 24h, a **24k coins** (faixa do dia: 13.750–25k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leah Williamson | 88 | Barclays WSL | 44k coins | -49.3% | -25.5% |
-| John Barnes | 89 | Icons | 40k coins | -48.4% | -27.9% |
-| Wesley | 88 | Serie A TIM | 60k coins | -46.9% | +6.2% |
-| Richard Ríos | 87 | Liga Portugal | 130k coins | -43.5% | -36.6% |
-| Jens Petter Hauge | 88 | Eliteserien | 45k coins | -41.6% | -34.3% |
-| Martin Ødegaard | 88 | Premier League | 62k coins | -40.6% | -26% |
-| Lukas Klostermann | 88 | Bundesliga | 140k coins | -38.6% | -47.4% |
-| Kerolin Nicoli | 89 | Barclays WSL | 42k coins | -38.1% | +7.5% |
-| Quaresma | 88 | Trendyol Süper Lig | 209k coins | -37.6% | -14.7% |
-| Alexandra Popp | 89 | GPFBL | 42k coins | -37.4% | +42.6% |
+| Anatoliy Trubin | 88 | Liga Portugal | 182k coins | -49.4% | -31.8% |
+| Kenan Yıldız | 88 | Serie A TIM | 129k coins | -44.9% | -26.3% |
+| Sveindís Jane Jónsdóttir | 88 | — | 41k coins | -42.7% | -33.3% |
+| Mallory Swanson | 88 | NWSL | 65k coins | -40.9% | +4.8% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 55k coins | -40.8% | -16.1% |
+| Matheus Cunha | 87 | Premier League | 100k coins | -40% | +2.5% |
+| John Barnes | 89 | Icons | 39k coins | -39.1% | -25% |
+| Dominik Szoboszlai | 87 | Premier League | 63k coins | -38.8% | -35.4% |
+| Kelechi Iheanacho | 87 | Scottish Premiership | 38k coins | -37.1% | +6.3% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 20k coins | -37% | -37.5% |
 
 
 ### Análise das baixas
 
-- **Leah Williamson (88)** caiu **-49.3%** em 24h, a **44k coins** (faixa do dia: 34k–78k). Está -18% abaixo da média de 7 dias (descontada).
+- **Anatoliy Trubin (88)** caiu **-49.4%** em 24h, a **182k coins** (faixa do dia: 177k–336k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **John Barnes (89)** caiu **-48.4%** em 24h, a **40k coins** (faixa do dia: 40k–66k). Está -34% abaixo da média de 7 dias (descontada).
+- **Kenan Yıldız (88)** caiu **-44.9%** em 24h, a **129k coins** (faixa do dia: 129k–298k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Wesley (88)** caiu **-46.9%** em 24h, a **60k coins** (faixa do dia: 55k–126k). Está -25% abaixo da média de 7 dias (descontada).
+- **Sveindís Jane Jónsdóttir (88)** caiu **-42.7%** em 24h, a **41k coins** (faixa do dia: 35k–84k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Musab Al Juwair já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kevin Schade já avançou 59% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Leah Williamson recuou -49.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anatoliy Trubin recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Musab Al Juwair (87, ROSHN Saudi League), com +59.7% em 24h, a 28k coins no Console (PS).
+Kevin Schade (88, Premier League), com +59% em 24h, a 27k coins no Console (PS).
 
 **E a maior queda do dia?**
-Leah Williamson (88), -49.3% em 24h, a 44k coins.
+Anatoliy Trubin (88), -49.4% em 24h, a 182k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 222 cartas em alta contra 295 em queda (média -1.09%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 226 cartas em alta contra 283 em queda (média -0.02%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

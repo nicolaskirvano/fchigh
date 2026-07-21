@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:39:18.000Z
+pubDatetime: 2026-07-21T01:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Steven Gerrard (89, Icons) lidera, com +90% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +90% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Steven Gerrard (89) acumula **+90% em 7 dias** a 190k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+90% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+72.5% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.0% em 24h** e **+68.1% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jade Le Guilly | 89 | D1 Arkema | 48k coins | +13.8% | +90% | Esticada |
 | Steven Gerrard | 89 | Icons | 190k coins | +35.7% | +90% | Esticada |
-| Alexandre Lacazette | 89 | Brasileirão | 38k coins | +13.6% | +89.9% | Esticada |
-| Nwankwo Kanu | 87 | Premier League | 45k coins | +1.8% | +77.6% | Esticada |
-| Maicon | 88 | Serie A TIM | 110k coins | +10.6% | +76% | Esticada |
-| Nick Woltemade | 87 | Premier League | 82k coins | +23% | +73.1% | Esticada |
-| Sveindís Jane Jónsdóttir | 88 | — | 96k coins | +1.1% | +73% | Esticada |
-| Johanna Kaneryd | 89 | — | 28k coins | +27.5% | +72.9% | Esticada |
-| Nico O'Reilly | 87 | — | 70k coins | +29% | +72.5% | Esticada |
-| Igor Thiago | 89 | Premier League | 84k coins | +1.2% | +71.3% | Esticada |
-| Giovane | 89 | Serie A TIM | 35k coins | +10.6% | +70% | Esticada |
-| Trinity Rodman | 88 | NWSL | 200k coins | +33.3% | +66.7% | Esticada |
-| Andrea Barzagli | 88 | Serie A TIM | 40k coins | +26.7% | +66% | Esticada |
-| Henrik Larsson | 88 | Icons | 110k coins | +11.7% | +64.2% | Esticada |
-| Emmanuel Petit | 87 | Icons | 135k coins | +10.5% | +63.1% | Esticada |
-| Nico O'Reilly | 88 | Premier League | 60k coins | +35.1% | +61.3% | Esticada |
+| Gilberto Silva | 87 | Premier League | 32k coins | +3.2% | +85.7% | Esticada |
+| Maicon | 88 | Serie A TIM | 110k coins | +10.6% | +84.9% | Esticada |
+| Marcelo | 89 | Icons | 160k coins | +23.1% | +74.9% | Esticada |
+| Eberechi Eze | 88 | Premier League | 91k coins | +20.4% | +71% | Esticada |
+| Selma Bacha | 87 | D1 Arkema | 32k coins | +8.3% | +68.8% | Esticada |
+| Trinity Rodman | 88 | NWSL | 200k coins | +11.1% | +68.1% | Esticada |
+| Kerolin Nicoli | 89 | Barclays WSL | 113k coins | +15% | +65.5% | Esticada |
+| Bruno Guimarães | 89 | Premier League | 33k coins | +13.8% | +65% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 66k coins | +13% | +63.5% | Esticada |
+| Paul Onuachu | 88 | Trendyol Süper Lig | 60k coins | +13.5% | +62.6% | Esticada |
+| Andrea Barzagli | 87 | Serie A TIM | 26k coins | +7.3% | +60.9% | Esticada |
+| Eric Cantona | 89 | Icons | 185k coins | +3.4% | +60.9% | Esticada |
+| Emmanuel Petit | 87 | Icons | 131k coins | +10% | +57.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jade Le Guilly (89)** — 48k coins, **+90% em 7 dias** (+13.8% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexandre Lacazette (89)** — 38k coins, **+89.9% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nwankwo Kanu (87)** — 45k coins, **+77.6% em 7 dias** (+1.8% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gilberto Silva (87)** — 32k coins, **+85.7% em 7 dias** (+3.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maicon (88)** — 110k coins, **+76% em 7 dias** (+10.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
+- **Maicon (88)** — 110k coins, **+84.9% em 7 dias** (+10.6% em 24h). Preço +35% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
 
-- **Nick Woltemade (87)** — 82k coins, **+73.1% em 7 dias** (+23% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (89)** — 160k coins, **+74.9% em 7 dias** (+23.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Steven Gerrard (89, Icons) lidera, com +90% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jade Le Guilly (89, D1 Arkema) lidera, com +90% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
