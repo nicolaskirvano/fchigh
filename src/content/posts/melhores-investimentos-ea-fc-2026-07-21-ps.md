@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:39:08.000Z
+pubDatetime: 2026-07-21T13:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Tarciane (88, D1 Arkema) lidera, com +89.4% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giorgio Chiellini (89, Icons) lidera, com +88.2% em 7 dias a 140k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tarciane (88) acumula **+89.4% em 7 dias** a 44k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+88.2% em 7 dias** a 140k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.7% em 24h** e **+65.6% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.5% em 24h** e **+52.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tarciane | 88 | D1 Arkema | 44k coins | +38% | +89.4% | Esticada |
-| Ewa Pajor | 89 | Liga F | 230k coins | +19.9% | +82.2% | Esticada |
-| Selina Cerci | 87 | GPFBL | 36k coins | +25% | +81.2% | Esticada |
-| Eli Junior Kroupi | 89 | Premier League | 56k coins | +17% | +78.2% | Esticada |
-| Matheus Cunha | 87 | Premier League | 130k coins | +14.8% | +76% | Esticada |
-| Janina Minge | 88 | — | 21k coins | +39.4% | +70.4% | Esticada |
-| Hanna Lundkvist | 87 | Barclays WSL | 42k coins | +12.9% | +66% | Esticada |
-| Catarina Macario | 87 | Barclays WSL | 25k coins | +29.5% | +65.6% | Esticada |
-| Joelinton | 87 | Premier League | 115k coins | +23.7% | +61.1% | Esticada |
-| João Pedro | 87 | Premier League | 60k coins | +24% | +61% | Esticada |
-| Pedrinho | 88 | — | 28k coins | +10.1% | +60% | Esticada |
-| John Barnes | 89 | Icons | 73k coins | +29.8% | +57.4% | Esticada |
-| Marcelo | 89 | Icons | 138k coins | +25.4% | +53.4% | Esticada |
-| Melchie Dumornay | 87 | D1 Arkema | 86k coins | +21.7% | +52.6% | Esticada |
-| Laura Georges | 89 | D1 Arkema | 35k coins | +9.4% | +52.2% | Momentum moderado |
+| Giorgio Chiellini | 89 | Icons | 140k coins | +27.4% | +88.2% | Esticada |
+| Cora Zicai | 88 | GPFBL | 125k coins | +11.6% | +88% | Esticada |
+| Igor Thiago | 89 | Premier League | 58k coins | +7.5% | +87.9% | Esticada |
+| Cha Bum Kun | 88 | Icons | 161k coins | +6.5% | +66.5% | Esticada |
+| Serhou Guirassy | 88 | Bundesliga | 28k coins | +23.9% | +65.2% | Esticada |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 29k coins | +27.7% | +62.2% | Esticada |
+| Christian Eriksen | 87 | Bundesliga | 38k coins | +10.7% | +60.2% | Esticada |
+| Leah Williamson | 88 | Barclays WSL | 66k coins | +25.5% | +52% | Esticada |
+| Khéphren Thuram | 87 | Serie A TIM | 84k coins | +11.9% | +50.4% | Momentum moderado |
+| Nico Williams | 89 | LALIGA EA SPORTS | 210k coins | +16.7% | +47.9% | Momentum moderado |
+| Mario Lemina | 89 | Trendyol Süper Lig | 114k coins | +19.4% | +47.4% | Momentum moderado |
+| Rasmus Højlund | 87 | Serie A TIM | 70k coins | +32.1% | +45.8% | Esticada |
+| Trinity Rodman | 87 | NWSL | 154k coins | +14.5% | +45% | Momentum moderado |
+| Nico Williams | 89 | LALIGA EA SPORTS | 208k coins | +12.4% | +44.7% | Momentum moderado |
+| Sakina Karchaoui | 88 | D1 Arkema | 62k coins | +11.1% | +44.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tarciane (88)** — 44k coins, **+89.4% em 7 dias** (+38% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 140k coins, **+88.2% em 7 dias** (+27.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ewa Pajor (89)** — 230k coins, **+82.2% em 7 dias** (+19.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cora Zicai (88)** — 125k coins, **+88% em 7 dias** (+11.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selina Cerci (87)** — 36k coins, **+81.2% em 7 dias** (+25% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Igor Thiago (89)** — 58k coins, **+87.9% em 7 dias** (+7.5% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eli Junior Kroupi (89)** — 56k coins, **+78.2% em 7 dias** (+17% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cha Bum Kun (88)** — 161k coins, **+66.5% em 7 dias** (+6.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matheus Cunha (87)** — 130k coins, **+76% em 7 dias** (+14.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Serhou Guirassy (88)** — 28k coins, **+65.2% em 7 dias** (+23.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Tarciane (88, D1 Arkema) lidera, com +89.4% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giorgio Chiellini (89, Icons) lidera, com +88.2% em 7 dias a 140k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

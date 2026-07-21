@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:39:19.000Z
+pubDatetime: 2026-07-21T13:39:19.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 21/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3.200 coins no PC."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3.400 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 3.200 coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 3.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 21/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-21-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 3.807 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 3.200 a 4.800 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 4.280 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 3.400 a 5.300 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3.200 coins | +11.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.500 coins | -5.4% |
-| Mariona | 89 | CM | Barclays WSL | 3.600 coins | +15.2% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.600 coins | +44% |
-| Alisson | 89 | GK | Premier League | 3.600 coins | +16.1% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.700 coins | +50% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.700 coins | +5.7% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 3.800 coins | +28.6% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.800 coins | +48% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.800 coins | +52% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.900 coins | +25% |
-| Mapi León | 89 | CB | Liga F | 3.900 coins | +29.6% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.100 coins | +36.7% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 4.100 coins | +28.1% |
-| Harry Kane | 89 | ST | Bundesliga | 4.800 coins | +6.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.400 coins | +17.1% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.900 coins | +2.6% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4.100 coins | +14.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4.100 coins | +8.1% |
+| Mariona | 89 | CM | Barclays WSL | 4.100 coins | +11.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4.200 coins | +17.1% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 4.200 coins | +14.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.200 coins | +14.3% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 4.300 coins | -4.5% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.300 coins | +11.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.300 coins | +20% |
+| Alisson | 89 | GK | Premier League | 4.300 coins | +16.2% |
+| Mapi León | 89 | CB | Liga F | 4.400 coins | +22.9% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 5.100 coins | +15.9% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.300 coins | +15.9% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alisson (89, GK)** da Premier League, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Thibaut Courtois (89, GK) por 3.600 coins é a referência de rating deste recorte.
+- **Defesa:** Thibaut Courtois (89, GK) por 3.900 coins é a referência de rating deste recorte.
 
-- **Meio:** Florian Wirtz (89, CAM) por 3.200 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 3.400 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alessia Russo (89, ST) por 3.700 coins é a referência de rating deste recorte.
+- **Ataque:** Alessia Russo (89, ST) por 4.100 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3.200 coins no PC.
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3.400 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

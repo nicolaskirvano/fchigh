@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:39:16.000Z
+pubDatetime: 2026-07-21T13:39:16.000Z
 title: "Mercado EA FC em 21/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Johanna Kaneryd (89, sem liga), com +60% em 24h, a 28k coins no PC."
+    a: "Jaden Philogene (87, EFL Championship), com +60% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Javier Mascherano (88), -49.1% em 24h, a 22k coins."
+    a: "Senne Lammens (88), -50% em 24h, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 282 cartas em alta contra 263 em queda (média 6.53%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 286 cartas em alta contra 251 em queda (média 7.48%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **282 subiram** e **263 caíram**, com variação média de **6.53%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **286 subiram** e **251 caíram**, com variação média de **7.48%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Johanna Kaneryd (89) **+60%** · 🔴 **Maior baixa:** Javier Mascherano (88) **-49.1%**
+> 🟢 **Maior alta:** Jaden Philogene (87) **+60%** · 🔴 **Maior baixa:** Senne Lammens (88) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.7% entre as cartas que se moveram; o universo observado reúne 612 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 602 cartas.
+- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Johanna Kaneryd | 89 | — | 28k coins | +60% | +62.5% |
+| Jaden Philogene | 87 | EFL Championship | 50k coins | +60% | +100% |
+| Federico Dimarco | 87 | Serie A TIM | 56k coins | +60% | -2.5% |
+| Franck Ribéry | 88 | Icons | 260k coins | +59.8% | +84.9% |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 48k coins | +59.7% | +74.3% |
-| Amar Dedić | 88 | — | 50k coins | +59.4% | +121.7% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 3.10M coins | +58.1% | +61.9% |
-| Federico Dimarco | 87 | Serie A TIM | 60k coins | +58% | +3.3% |
-| Saki Kumagai | 88 | Barclays WSL | 30k coins | +57.5% | +57.5% |
-| Patrik Schick | 88 | Bundesliga | 80k coins | +56.9% | +122.2% |
-| Abdul Fatawu | 88 | EFL Championship | 23k coins | +56.7% | +14.6% |
-| Iván Zamorano | 89 | LALIGA EA SPORTS | 60k coins | +55% | +73.4% |
-| Taylor Flint | 88 | NWSL | 200k coins | +53.8% | +8.7% |
+| Andrea Barzagli | 87 | Serie A TIM | 20k coins | +58.5% | +37.7% |
+| Caroline Weir | 89 | Liga F | 39k coins | +58% | +64.6% |
+| Daniele De Rossi | 87 | Serie A TIM | 27k coins | +57.7% | +9.8% |
+| Lukáš Haraslín | 89 | Česká Liga | 23k coins | +56.7% | -15.3% |
+| Marina Hegering | 87 | GPFBL | 42k coins | +56.5% | +42% |
+| Georgia Stanway | 88 | GPFBL | 22k coins | +55% | -10.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Johanna Kaneryd (89)** subiu **+60%** em 24h, a **28k coins** (faixa do dia: 14.250–30k). Está +33% acima da média de 7 dias (aquecida).
+- **Jaden Philogene (87)** subiu **+60%** em 24h, a **50k coins** (faixa do dia: 38k–60k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Fabián Ruiz (88)** subiu **+59.7%** em 24h, a **48k coins** (faixa do dia: 18.750–48k). Está +53% acima da média de 7 dias (aquecida).
+- **Federico Dimarco (87)** subiu **+60%** em 24h, a **56k coins** (faixa do dia: 32k–68k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Amar Dedić (88)** subiu **+59.4%** em 24h, a **50k coins** (faixa do dia: 32k–57k). Está +45% acima da média de 7 dias (aquecida).
+- **Franck Ribéry (88)** subiu **+59.8%** em 24h, a **260k coins** (faixa do dia: 169k–270k). Está +51% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 22k coins | -49.1% | -34.9% |
-| Václav Černý | 87 | Trendyol Süper Lig | 24k coins | -48.9% | -34.7% |
-| Rasmus Højlund | 87 | Serie A TIM | 23k coins | -46.5% | -39.3% |
-| Frank Rijkaard | 87 | Icons | 66k coins | -46.3% | -49.6% |
-| Steven Gerrard | 88 | Icons | 94k coins | -45.3% | -24.2% |
+| Senne Lammens | 88 | Premier League | 45k coins | -50% | -35.7% |
+| Steven Gerrard | 88 | Icons | 76k coins | -48.9% | -30.4% |
+| Iván Córdoba | 88 | Serie A TIM | 38k coins | -47% | -53.2% |
 | Iñaki Williams | 87 | LALIGA EA SPORTS | 499k coins | -44.5% | +21.1% |
-| Wouter Burger | 87 | Bundesliga | 102k coins | -44.2% | -17.2% |
 | Linda Caicedo | 87 | Liga F | 45k coins | -44.1% | -22.2% |
-| Moisés Caicedo | 88 | Premier League | 40k coins | -44% | -13.9% |
-| Hernán Crespo | 88 | Icons | 34k coins | -43.3% | -11.1% |
+| Cody Gakpo | 89 | Premier League | 137k coins | -42.9% | +14.2% |
+| David Beckham | 88 | Icons | 100k coins | -41.5% | +7.9% |
+| Abdul Fatawu | 88 | EFL Championship | 25k coins | -41.1% | +21.9% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | -41% | -25.8% |
+| Ian Wright | 87 | Icons | 88k coins | -40.5% | +27.3% |
 
 
 ### Análise das baixas
 
-- **Javier Mascherano (88)** caiu **-49.1%** em 24h, a **22k coins** (faixa do dia: 12.250–29k). Está em linha com a média de 7 dias (+6%).
+- **Senne Lammens (88)** caiu **-50%** em 24h, a **45k coins** (faixa do dia: 41k–90k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Václav Černý (87)** caiu **-48.9%** em 24h, a **24k coins** (faixa do dia: 24k–45k). Está -41% abaixo da média de 7 dias (descontada).
+- **Steven Gerrard (88)** caiu **-48.9%** em 24h, a **76k coins** (faixa do dia: 67k–176k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Rasmus Højlund (87)** caiu **-46.5%** em 24h, a **23k coins** (faixa do dia: 23k–42k). Está -19% abaixo da média de 7 dias (descontada).
+- **Iván Córdoba (88)** caiu **-47%** em 24h, a **38k coins** (faixa do dia: 38k–120k). Está -51% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Johanna Kaneryd já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jaden Philogene já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Javier Mascherano recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Senne Lammens recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Johanna Kaneryd (89, sem liga), com +60% em 24h, a 28k coins no PC.
+Jaden Philogene (87, EFL Championship), com +60% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Javier Mascherano (88), -49.1% em 24h, a 22k coins.
+Senne Lammens (88), -50% em 24h, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 282 cartas em alta contra 263 em queda (média 6.53%).
+Hoje o mercado está em alta — predominam as valorizações, com 286 cartas em alta contra 251 em queda (média 7.48%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
