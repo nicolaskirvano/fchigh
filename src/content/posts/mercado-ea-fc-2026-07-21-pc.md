@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:39:16.000Z
+pubDatetime: 2026-07-22T01:39:17.000Z
 title: "Mercado EA FC em 21/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Eli Junior Kroupi (89, Premier League), com +59.6% em 24h, a 41k coins no PC."
+    a: "Jens Petter Hauge (88, Eliteserien), com +56.9% em 24h, a 112k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Irene Paredes (88), -48.1% em 24h, a 36k coins."
+    a: "Hernán Crespo (88), -49.7% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 239 cartas em alta contra 286 em queda (média 0.57%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 219 cartas em alta contra 309 em queda (média -1.58%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **239 subiram** e **286 caíram**, com variação média de **0.57%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **219 subiram** e **309 caíram**, com variação média de **-1.58%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Eli Junior Kroupi (89) **+59.6%** · 🔴 **Maior baixa:** Irene Paredes (88) **-48.1%**
+> 🟢 **Maior alta:** Jens Petter Hauge (88) **+56.9%** · 🔴 **Maior baixa:** Hernán Crespo (88) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 585 cartas.
-- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.5% entre as cartas que se moveram; o universo observado reúne 591 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eli Junior Kroupi | 89 | Premier League | 41k coins | +59.6% | +16.7% |
-| Uli Hoeneß | 88 | Bundesliga | 26k coins | +58.8% | +36.7% |
-| Ché Adams | 89 | Serie A TIM | 62k coins | +58.8% | +50.3% |
-| Federico Dimarco | 87 | Serie A TIM | 50k coins | +55.2% | -12.6% |
-| Andreia Jacinto | 88 | Liga F | 27k coins | +55.1% | +62.1% |
-| Jens Petter Hauge | 88 | Eliteserien | 116k coins | +51.6% | +16% |
-| Mario Kempes | 88 | — | 90k coins | +51.5% | +13% |
-| Jess Park | 89 | Barclays WSL | 28k coins | +51.2% | +26% |
-| Roy Makaay | 87 | Bundesliga | 23k coins | +50% | +50% |
-| Caroline Weir | 87 | Liga F | 50k coins | +49.4% | +35.5% |
+| Jens Petter Hauge | 88 | Eliteserien | 112k coins | +56.9% | +23.1% |
+| Morgan Rogers | 87 | Premier League | 147k coins | +55.8% | +97.3% |
+| Lewis Miley | 89 | Premier League | 64k coins | +53.3% | +16.4% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 65k coins | +53.1% | +42.6% |
+| Gervinho | 87 | Serie A TIM | 130k coins | +52.9% | +3.2% |
+| Antonio Nusa | 89 | Bundesliga | 75k coins | +51.5% | -45.7% |
+| Sandro Tonali | 87 | Premier League | 55k coins | +49.7% | +23.6% |
+| Sara Holmgaard | 88 | — | 26k coins | +48.6% | +55.1% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 31k coins | +47.6% | +31.9% |
+| Sven Ulreich | 87 | Bundesliga | 22k coins | +46% | -30.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Eli Junior Kroupi (89)** subiu **+59.6%** em 24h, a **41k coins** (faixa do dia: 28k–70k). Está -18% abaixo da média de 7 dias (descontada).
+- **Jens Petter Hauge (88)** subiu **+56.9%** em 24h, a **112k coins** (faixa do dia: 76k–120k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Uli Hoeneß (88)** subiu **+58.8%** em 24h, a **26k coins** (faixa do dia: 15.000–29k). Está +17% acima da média de 7 dias (aquecida).
+- **Morgan Rogers (87)** subiu **+55.8%** em 24h, a **147k coins** (faixa do dia: 95k–150k). Está +65% acima da média de 7 dias (aquecida).
 
-- **Ché Adams (89)** subiu **+58.8%** em 24h, a **62k coins** (faixa do dia: 31k–90k). Está +14% acima da média de 7 dias (aquecida).
+- **Lewis Miley (89)** subiu **+53.3%** em 24h, a **64k coins** (faixa do dia: 34k–65k). Está +27% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Irene Paredes | 88 | Liga F | 36k coins | -48.1% | -40.1% |
-| Sydney Leroux | 88 | NWSL | 24k coins | -47.6% | -49% |
-| Claudio Marchisio | 88 | Serie A TIM | 211k coins | -46.8% | -55.2% |
-| Steven Gerrard | 88 | Icons | 78k coins | -46.6% | -47.7% |
-| Christian Eriksen | 87 | Bundesliga | 36k coins | -46.2% | -62.4% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 122k coins | -43.5% | -39% |
-| Igor Thiago | 89 | Premier League | 48k coins | -43.5% | -9% |
-| Jan Oblak | 89 | LALIGA EA SPORTS | 20k coins | -42.4% | -40.7% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 49k coins | -42.4% | -16.9% |
-| Julian Araujo | 89 | Scottish Premiership | 84k coins | -42.3% | -42.3% |
+| Hernán Crespo | 88 | Icons | 20k coins | -49.7% | -45.9% |
+| Edwin van der Sar | 88 | Icons | 105k coins | -49.7% | -55.6% |
+| Matthias Ginter | 88 | Bundesliga | 54k coins | -49.1% | -19.4% |
+| Igor Thiago | 89 | Premier League | 40k coins | -47.4% | -25.2% |
+| Bruno Fernandes | 88 | Premier League | 122k coins | -47% | -18.7% |
+| Claudio Marchisio | 88 | Serie A TIM | 206k coins | -46.6% | -55% |
+| Rose Lavelle | 89 | NWSL | 36k coins | -46.4% | -25% |
+| Christian Eriksen | 87 | Bundesliga | 35k coins | -45.8% | -57.8% |
+| João Neves | 88 | Ligue 1 McDonald's | 132k coins | -44.8% | -28.6% |
+| Wilson Odobert | 87 | Premier League | 20k coins | -44.4% | -48.1% |
 
 
 ### Análise das baixas
 
-- **Irene Paredes (88)** caiu **-48.1%** em 24h, a **36k coins** (faixa do dia: 28k–54k). Está -24% abaixo da média de 7 dias (descontada).
+- **Hernán Crespo (88)** caiu **-49.7%** em 24h, a **20k coins** (faixa do dia: 20k–39k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Sydney Leroux (88)** caiu **-47.6%** em 24h, a **24k coins** (faixa do dia: 24k–47k). Está -47% abaixo da média de 7 dias (descontada).
+- **Edwin van der Sar (88)** caiu **-49.7%** em 24h, a **105k coins** (faixa do dia: 80k–159k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Claudio Marchisio (88)** caiu **-46.8%** em 24h, a **211k coins** (faixa do dia: 176k–395k). Está -44% abaixo da média de 7 dias (descontada).
+- **Matthias Ginter (88)** caiu **-49.1%** em 24h, a **54k coins** (faixa do dia: 42k–110k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Eli Junior Kroupi já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jens Petter Hauge já avançou 56.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Irene Paredes recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Hernán Crespo recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Eli Junior Kroupi (89, Premier League), com +59.6% em 24h, a 41k coins no PC.
+Jens Petter Hauge (88, Eliteserien), com +56.9% em 24h, a 112k coins no PC.
 
 **E a maior queda do dia?**
-Irene Paredes (88), -48.1% em 24h, a 36k coins.
+Hernán Crespo (88), -49.7% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 239 cartas em alta contra 286 em queda (média 0.57%).
+Hoje o mercado está em baixa — predominam as quedas, com 219 cartas em alta contra 309 em queda (média -1.58%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
