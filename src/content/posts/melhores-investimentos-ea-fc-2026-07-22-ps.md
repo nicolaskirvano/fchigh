@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:39:09.000Z
+pubDatetime: 2026-07-22T16:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Estefanía Banini (89, Liga F) lidera, com +78.3% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Diego Luna (89, MLS) lidera, com +87.3% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Estefanía Banini (89) acumula **+78.3% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Diego Luna (89) acumula **+87.3% em 7 dias** a 33k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.0% em 24h** e **+42.9% em 7 dias**.
+- A mediana é de **+22.8% em 24h** e **+34.8% em 7 dias**.
 - **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | Liga F | 26k coins | +33.8% | +78.3% | Esticada |
-| Tijjani Reijnders | 87 | Premier League | 72k coins | +37% | +78.3% | Esticada |
-| Tijjani Reijnders | 87 | Premier League | 92k coins | +7.4% | +70.9% | Esticada |
-| Mary Fowler | 87 | Barclays Women’s Super League | 32k coins | +26.7% | +62% | Esticada |
-| Rose Lavelle | 89 | NWSL | 80k coins | +16.9% | +60.5% | Esticada |
-| Diego Luna | 89 | MLS | 30k coins | +7.1% | +55.8% | Momentum moderado |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 58k coins | +36.7% | +51.2% | Esticada |
-| Abdul Fatawu | 88 | EFL Championship | 38k coins | +8.3% | +42.9% | Momentum moderado |
-| Ashley Sanchez | 88 | NWSL | 58k coins | +25.1% | +42.7% | Esticada |
-| Dante | 88 | Ligue 1 McDonald's | 26k coins | +10.6% | +42.5% | Momentum moderado |
-| Fara Williams | 88 | Barclays WSL | 69k coins | +2.2% | +42.3% | Momentum moderado |
-| Vanessa Fudalla | 88 | GPFBL | 33k coins | +28.3% | +41.3% | Esticada |
-| Finn Azaz | 88 | EFL Championship | 44k coins | +9.4% | +36.4% | Momentum moderado |
-| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 38k coins | +24.2% | +35.1% | Esticada |
-| Matheus Dias | 87 | Liga Portugal | 26k coins | +17% | +34.1% | Momentum moderado |
+| Diego Luna | 89 | MLS | 33k coins | +26.7% | +87.3% | Esticada |
+| Bruno Guimarães | 89 | Premier League | 31k coins | +14.8% | +65.3% | Esticada |
+| Estefanía Banini | 89 | Liga F | 22k coins | +23.8% | +65% | Esticada |
+| Mary Fowler | 87 | Barclays Women’s Super League | 30k coins | +22.8% | +57% | Esticada |
+| Cesc Fàbregas | 88 | Premier League | 20k coins | +18.8% | +40.7% | Momentum moderado |
+| Marek Hamšík | 87 | Serie A TIM | 21k coins | +31.2% | +40% | Esticada |
+| Kasper Høgh | 87 | Eliteserien | 89k coins | +1.7% | +37.4% | Momentum moderado |
+| Joelle Wedemeyer | 89 | GPFBL | 23k coins | +1.1% | +34.8% | Momentum moderado |
+| Mika Godts | 87 | Eredivisie | 32k coins | +28.6% | +33.3% | Esticada |
+| Sadio Mané | 87 | — | 40k coins | +35.1% | +33.3% | Esticada |
+| Kevin De Bruyne | 88 | Serie A TIM | 139k coins | +7.7% | +32.1% | Momentum moderado |
+| Ona Batlle | 88 | — | 47k coins | +32% | +30.3% | Esticada |
+| Klara Bühl | 87 | GPFBL | 52k coins | +34.1% | +27.2% | Esticada |
+| Hidetoshi Nakata | 89 | Serie A TIM | 19.500 coins | +11% | +26.6% | Momentum moderado |
+| Jade Le Guilly | 89 | D1 Arkema | 18.750 coins | +14.6% | +25.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Estefanía Banini (89)** — 26k coins, **+78.3% em 7 dias** (+33.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diego Luna (89)** — 33k coins, **+87.3% em 7 dias** (+26.7% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (87)** — 72k coins, **+78.3% em 7 dias** (+37% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Guimarães (89)** — 31k coins, **+65.3% em 7 dias** (+14.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (87)** — 92k coins, **+70.9% em 7 dias** (+7.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 22k coins, **+65% em 7 dias** (+23.8% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mary Fowler (87)** — 32k coins, **+62% em 7 dias** (+26.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mary Fowler (87)** — 30k coins, **+57% em 7 dias** (+22.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 80k coins, **+60.5% em 7 dias** (+16.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cesc Fàbregas (88)** — 20k coins, **+40.7% em 7 dias** (+18.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Estefanía Banini (89, Liga F) lidera, com +78.3% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Diego Luna (89, MLS) lidera, com +87.3% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
