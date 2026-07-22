@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:39:18.000Z
+pubDatetime: 2026-07-22T13:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Victor Osimhen (88, Trendyol Süper Lig) lidera, com +88.2% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Victor Osimhen (88, Trendyol Süper Lig) lidera, com +89.3% em 7 dias a 156k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Victor Osimhen (88) acumula **+88.2% em 7 dias** a 160k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Victor Osimhen (88) acumula **+89.3% em 7 dias** a 156k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.6% em 24h** e **+57.4% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.2% em 24h** e **+60.6% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 160k coins | +20.5% | +88.2% | Esticada |
-| Nwankwo Kanu | 87 | Premier League | 50k coins | +11.1% | +86.9% | Esticada |
-| João Pedro | 87 | Premier League | 72k coins | +6.4% | +80.6% | Esticada |
-| Andreia Jacinto | 88 | Liga F | 26k coins | +35.1% | +73.3% | Esticada |
-| Juan Román Riquelme | 88 | Icons | 138k coins | +6.9% | +64.5% | Esticada |
-| Rose Lavelle | 88 | NWSL | 60k coins | +26.7% | +61.3% | Esticada |
-| Lilian Thuram | 89 | — | 76k coins | +6.2% | +60.4% | Esticada |
-| Serhou Guirassy | 88 | Bundesliga | 55k coins | +38.8% | +57.4% | Esticada |
-| Dominic Solanke | 87 | Premier League | 60k coins | +3.8% | +56.8% | Momentum moderado |
-| Oscar Bobb | 88 | Premier League | 24k coins | +36.2% | +56.7% | Esticada |
-| Laura Freigang | 87 | — | 56k coins | +18.9% | +55.9% | Momentum moderado |
-| Marcos Acuña | 89 | LPF | 160k coins | +21.2% | +55.3% | Esticada |
-| Marcus Pedersen | 89 | Serie A TIM | 61k coins | +5.3% | +50% | Momentum moderado |
-| Jaden Philogene | 87 | EFL Championship | 48k coins | +1.6% | +50% | Momentum moderado |
-| Saki Kumagai | 88 | Barclays WSL | 35k coins | +18.6% | +48.9% | Momentum moderado |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 156k coins | +21.2% | +89.3% | Esticada |
+| Nwankwo Kanu | 87 | Premier League | 49k coins | +11.1% | +86.9% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +1.4% | +86.7% | Esticada |
+| Harry Kewell | 87 | Premier League | 21k coins | +32.4% | +63.6% | Esticada |
+| Iván Zamorano | 89 | LALIGA EA SPORTS | 58k coins | +3.6% | +63.4% | Esticada |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 60k coins | +36% | +60.8% | Esticada |
+| Marcos Acuña | 89 | LPF | 160k coins | +21.2% | +60.8% | Esticada |
+| Jawad El Yamiq | 87 | LaLiga Hypermotion | 25k coins | +6% | +60.6% | Esticada |
+| Rose Lavelle | 88 | NWSL | 55k coins | +2.6% | +57.3% | Momentum moderado |
+| Steffi Jones | 89 | Icons | 36k coins | +2.8% | +56.4% | Momentum moderado |
+| Serhou Guirassy | 88 | Bundesliga | 54k coins | +35% | +53.2% | Esticada |
+| Saki Kumagai | 88 | Barclays WSL | 34k coins | +21.7% | +48.9% | Esticada |
+| Paula Fernández | 88 | — | 54k coins | +31% | +47.4% | Esticada |
+| Melchie Dumornay | 87 | D1 Arkema | 169k coins | +33.3% | +45.5% | Esticada |
+| Hidetoshi Nakata | 87 | Serie A TIM | 21k coins | +18.4% | +45.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Victor Osimhen (88)** — 160k coins, **+88.2% em 7 dias** (+20.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Victor Osimhen (88)** — 156k coins, **+89.3% em 7 dias** (+21.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nwankwo Kanu (87)** — 50k coins, **+86.9% em 7 dias** (+11.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nwankwo Kanu (87)** — 49k coins, **+86.9% em 7 dias** (+11.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Pedro (87)** — 72k coins, **+80.6% em 7 dias** (+6.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 70k coins, **+86.7% em 7 dias** (+1.4% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andreia Jacinto (88)** — 26k coins, **+73.3% em 7 dias** (+35.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Kewell (87)** — 21k coins, **+63.6% em 7 dias** (+32.4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Román Riquelme (88)** — 138k coins, **+64.5% em 7 dias** (+6.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Zamorano (89)** — 58k coins, **+63.4% em 7 dias** (+3.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Victor Osimhen (88, Trendyol Süper Lig) lidera, com +88.2% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Victor Osimhen (88, Trendyol Süper Lig) lidera, com +89.3% em 7 dias a 156k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
