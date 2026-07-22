@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:39:08.000Z
+pubDatetime: 2026-07-22T22:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Igor Thiago (89, Premier League) lidera, com +90% em 7 dias a 37k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Debinha (89, NWSL) lidera, com +84.1% em 7 dias a 116k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Igor Thiago (89) acumula **+90% em 7 dias** a 37k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Debinha (89) acumula **+84.1% em 7 dias** a 116k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.7% em 24h** e **+33.3% em 7 dias**.
+- A mediana é de **+23.2% em 24h** e **+33.3% em 7 dias**.
 - **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Igor Thiago | 89 | Premier League | 37k coins | +21.6% | +90% | Esticada |
-| Laura Georges | 89 | D1 Arkema | 34k coins | +6.1% | +75% | Esticada |
-| Debinha | 89 | NWSL | 104k coins | +18% | +63.6% | Esticada |
-| Cesc Fàbregas | 88 | Premier League | 23k coins | +31.2% | +55.6% | Esticada |
-| Ashley Sanchez | 88 | NWSL | 60k coins | +39.5% | +47.2% | Esticada |
-| Marek Hamšík | 87 | Serie A TIM | 16.000 coins | +16.9% | +38.3% | Momentum moderado |
-| Shelina Zadorsky | 87 | Barclays WSL | 26k coins | +15.6% | +33.3% | Momentum moderado |
-| Mary Fowler | 87 | Barclays Women’s Super League | 26k coins | +33.3% | +33.3% | Esticada |
-| Jørgen Strand Larsen | 89 | Premier League | 17.250 coins | +16.7% | +32.8% | Momentum moderado |
-| Kristin Kögel | 89 | GPFBL | 17.500 coins | +19.7% | +25.9% | Momentum moderado |
-| Giorgio Chiellini | 89 | Icons | 131k coins | +6.4% | +24.3% | Momentum moderado |
-| Sakina Karchaoui | 89 | — | 48k coins | +37% | +23.4% | Esticada |
-| Patrick Kluivert | 89 | — | 18.750 coins | +23.3% | +23.3% | Esticada |
-| Santiago Mouriño | 87 | LALIGA EA SPORTS | 35k coins | +34.2% | +20.5% | Esticada |
-| Dunga | 87 | Icons | 82k coins | +17.9% | +19.6% | Momentum moderado |
+| Debinha | 89 | NWSL | 116k coins | +27.5% | +84.1% | Esticada |
+| Laura Georges | 89 | D1 Arkema | 34k coins | +3% | +70% | Esticada |
+| Rose Lavelle | 89 | NWSL | 65k coins | +34.7% | +54.8% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 50k coins | +23.3% | +46.2% | Esticada |
+| Shelina Zadorsky | 87 | Barclays WSL | 26k coins | +27.7% | +45.2% | Esticada |
+| Ahmetcan Kaplan | 88 | Eredivisie | 24k coins | +14% | +42% | Momentum moderado |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 32k coins | +23.2% | +35.1% | Esticada |
+| Eberechi Eze | 87 | Premier League | 76k coins | +2.7% | +33.3% | Momentum moderado |
+| Finn Azaz | 88 | EFL Championship | 45k coins | +38.7% | +33.1% | Esticada |
+| Sócrates | 89 | Icons | 129k coins | +4% | +31.3% | Momentum moderado |
+| Lewis Miley | 89 | Premier League | 54k coins | +32.1% | +31.2% | Esticada |
+| Jay-Jay Okocha | 88 | Premier League | 45k coins | +11.5% | +27.8% | Momentum moderado |
+| Peter Crouch | 87 | Premier League | 240k coins | +32.4% | +26.4% | Esticada |
+| Selina Cerci | 87 | GPFBL | 38k coins | +8.9% | +25.6% | Momentum moderado |
+| João Moutinho | 88 | Liga Portugal | 164k coins | +4.1% | +25.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Igor Thiago (89)** — 37k coins, **+90% em 7 dias** (+21.6% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Debinha (89)** — 116k coins, **+84.1% em 7 dias** (+27.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Laura Georges (89)** — 34k coins, **+75% em 7 dias** (+6.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Laura Georges (89)** — 34k coins, **+70% em 7 dias** (+3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Debinha (89)** — 104k coins, **+63.6% em 7 dias** (+18% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 65k coins, **+54.8% em 7 dias** (+34.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cesc Fàbregas (88)** — 23k coins, **+55.6% em 7 dias** (+31.2% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 50k coins, **+46.2% em 7 dias** (+23.3% em 24h). Preço -44% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Sanchez (88)** — 60k coins, **+47.2% em 7 dias** (+39.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Shelina Zadorsky (87)** — 26k coins, **+45.2% em 7 dias** (+27.7% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Igor Thiago (89, Premier League) lidera, com +90% em 7 dias a 37k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Debinha (89, NWSL) lidera, com +84.1% em 7 dias a 116k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

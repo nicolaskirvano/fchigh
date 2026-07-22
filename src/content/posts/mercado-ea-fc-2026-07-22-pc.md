@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:39:16.000Z
+pubDatetime: 2026-07-22T22:39:17.000Z
 title: "Mercado EA FC em 22/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Nico Gonzalez (87, LALIGA EA SPORTS), com +60% em 24h, a 62k coins no PC."
+    a: "Mattia Zaccagni (87, Serie A TIM), com +60% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vivianne Miedema (89), -46.8% em 24h, a 20k coins."
+    a: "Désiré Doué (87), -50% em 24h, a 150k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 235 cartas em alta contra 267 em queda (média 6.07%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 226 cartas em alta contra 302 em queda (média 2.45%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **235 em alta** e **267 em queda**, média de **6.07%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **226 em alta** e **302 em queda**, média de **2.45%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nico Gonzalez (87) **+60%** · 🔴 **Maior baixa:** Vivianne Miedema (89) **-46.8%**
+> 🟢 **Maior alta:** Mattia Zaccagni (87) **+60%** · 🔴 **Maior baixa:** Désiré Doué (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 565 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.8% entre as cartas que se moveram; o universo observado reúne 585 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 62k coins | +60% | +57% |
-| Patrick Kluivert | 87 | Icons | 100k coins | +59.1% | +59.1% |
-| Pavel Nedvěd | 88 | Icons | 149k coins | +57.7% | +30.7% |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 60k coins | +56.2% | +28.9% |
-| Gonçalo Inácio | 89 | Liga Portugal | 219k coins | +56% | +12.8% |
-| Aleksandar Stanković | 87 | 1A Pro League | 140k coins | +55.6% | +13.1% |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 67k coins | +52.9% | +57.1% |
-| Ramy Bensebaini | 87 | — | 77k coins | +52.5% | +56.3% |
-| Tomas Brolin | 87 | Serie A TIM | 20k coins | +51.8% | +46.6% |
-| Marcelo | 89 | Icons | 119k coins | +50.9% | -13.7% |
+| Mattia Zaccagni | 87 | Serie A TIM | 24k coins | +60% | -12.7% |
+| Julia Grosso | 88 | NWSL | 48k coins | +60% | +68.4% |
+| Seko Fofana | 87 | — | 54k coins | +58.5% | +6.8% |
+| Michael Olise | 88 | Bundesliga | 1.10M coins | +56.9% | +37.1% |
+| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 390k coins | +56% | +34% |
+| Can Uzun | 89 | Bundesliga | 110k coins | +53.8% | -8.3% |
+| Kenan Yıldız | 87 | Serie A TIM | 78k coins | +51.5% | +2% |
+| Julian Araujo | 89 | Scottish Premiership | 122k coins | +49.7% | -33.5% |
+| Martin Ødegaard | 88 | Premier League | 100k coins | +47.6% | -14.7% |
+| Martin Ødegaard | 87 | Premier League | 296k coins | +47.3% | -15.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nico Gonzalez (87)** subiu **+60%** em 24h, a **62k coins** (faixa do dia: 38k–65k). Está +41% acima da média de 7 dias (aquecida).
+- **Mattia Zaccagni (87)** subiu **+60%** em 24h, a **24k coins** (faixa do dia: 15.000–27k). Está em linha com a média de 7 dias (-1%).
 
-- **Patrick Kluivert (87)** subiu **+59.1%** em 24h, a **100k coins** (faixa do dia: 66k–138k). Está em linha com a média de 7 dias (+3%).
+- **Julia Grosso (88)** subiu **+60%** em 24h, a **48k coins** (faixa do dia: 28k–69k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Pavel Nedvěd (88)** subiu **+57.7%** em 24h, a **149k coins** (faixa do dia: 91k–220k). Está +19% acima da média de 7 dias (aquecida).
+- **Seko Fofana (87)** subiu **+58.5%** em 24h, a **54k coins** (faixa do dia: 37k–80k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vivianne Miedema | 89 | Barclays WSL | 20k coins | -46.8% | -30.8% |
-| Ahmed Hegazi | 87 | Brasileirão | 46k coins | -45.3% | -49.5% |
-| Sócrates | 89 | Icons | 100k coins | -42.9% | -13.8% |
-| Alexandre Lacazette | 89 | Brasileirão | 20k coins | -42.6% | -46.9% |
-| Sissi | 88 | Icons | 54k coins | -42.6% | -25.3% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 150k coins | -50% | -52.5% |
+| Richard Ríos | 88 | Liga Portugal | 102k coins | -48.7% | -45.9% |
+| Alexandre Lacazette | 89 | Brasileirão | 39k coins | -48.6% | -51% |
+| Ahmed Hegazi | 87 | Brasileirão | 45k coins | -43.4% | -51.3% |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 42k coins | -43.2% | +10.6% |
 | Trinity Rodman | 88 | NWSL | 116k coins | -42% | -29.7% |
-| João Pedro | 87 | Premier League | 42k coins | -41% | +6.2% |
-| Firas Al Birekan | 89 | ROSHN Saudi League | 34k coins | -40.6% | -6.1% |
-| Iván Zamorano | 89 | LALIGA EA SPORTS | 64k coins | -40.3% | +4.2% |
-| Daniele De Rossi | 89 | Serie A TIM | 190k coins | -39.9% | -16.2% |
+| Petr Čech | 88 | Icons | 74k coins | -38.6% | -49% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 36k coins | -38.6% | -11.9% |
+| Tijjani Reijnders | 87 | Premier League | 101k coins | -37.8% | -12.9% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 656k coins | -37.3% | -27.1% |
 
 
 ### Análise das baixas
 
-- **Vivianne Miedema (89)** caiu **-46.8%** em 24h, a **20k coins** (faixa do dia: 20k–44k). Está -47% abaixo da média de 7 dias (descontada).
+- **Désiré Doué (87)** caiu **-50%** em 24h, a **150k coins** (faixa do dia: 94k–200k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Ahmed Hegazi (87)** caiu **-45.3%** em 24h, a **46k coins** (faixa do dia: 46k–80k). Está -44% abaixo da média de 7 dias (descontada).
+- **Richard Ríos (88)** caiu **-48.7%** em 24h, a **102k coins** (faixa do dia: 98k–195k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Sócrates (89)** caiu **-42.9%** em 24h, a **100k coins** (faixa do dia: 72k–200k). Está -18% abaixo da média de 7 dias (descontada).
+- **Alexandre Lacazette (89)** caiu **-48.6%** em 24h, a **39k coins** (faixa do dia: 19.000–55k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nico Gonzalez já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mattia Zaccagni já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vivianne Miedema recuou -46.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Nico Gonzalez (87, LALIGA EA SPORTS), com +60% em 24h, a 62k coins no PC.
+Mattia Zaccagni (87, Serie A TIM), com +60% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**
-Vivianne Miedema (89), -46.8% em 24h, a 20k coins.
+Désiré Doué (87), -50% em 24h, a 150k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 235 cartas em alta contra 267 em queda (média 6.07%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 226 cartas em alta contra 302 em queda (média 2.45%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

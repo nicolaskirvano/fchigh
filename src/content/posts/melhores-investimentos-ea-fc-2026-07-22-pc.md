@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:39:18.000Z
+pubDatetime: 2026-07-22T22:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Omar Marmoush (87, Premier League) lidera, com +65.7% em 7 dias a 136k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ilias Akhomach (88, LALIGA EA SPORTS) lidera, com +72.7% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Omar Marmoush (87) acumula **+65.7% em 7 dias** a 136k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ilias Akhomach (88) acumula **+72.7% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.0% em 24h** e **+50.0% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+26.4% em 24h** e **+48.2% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Omar Marmoush | 87 | Premier League | 136k coins | +37.3% | +65.7% | Esticada |
-| Wayne Rooney | 88 | Icons | 218k coins | +26.9% | +64.4% | Esticada |
-| David Beckham | 88 | Icons | 96k coins | +35.7% | +64.2% | Esticada |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 133k coins | +11.4% | +62.1% | Esticada |
-| Melchie Dumornay | 87 | D1 Arkema | 158k coins | +37.3% | +58.9% | Esticada |
-| Vini Jr. | 89 | LALIGA EA SPORTS | 15.000 coins | +5.3% | +51.5% | Momentum moderado |
-| Steffi Jones | 89 | Icons | 29k coins | +3.3% | +51.2% | Momentum moderado |
-| Dominic Solanke | 87 | Premier League | 66k coins | +35.7% | +50% | Esticada |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 59k coins | +38.4% | +49.7% | Esticada |
-| Lilly Reale | 89 | NWSL | 35k coins | +38.6% | +42.9% | Esticada |
-| João Neves | 88 | Ligue 1 McDonald's | 238k coins | +6.7% | +40% | Momentum moderado |
-| Malik Tillman | 88 | Bundesliga | 229k coins | +3.6% | +39.5% | Momentum moderado |
-| Louisa Necib | 87 | D1 Arkema | 15.000 coins | +14.8% | +37.3% | Momentum moderado |
-| Dominik Szoboszlai | 87 | Premier League | 240k coins | +12.2% | +35.1% | Momentum moderado |
-| Selina Cerci | 87 | GPFBL | 43k coins | +16% | +33.8% | Momentum moderado |
+| Ilias Akhomach | 88 | LALIGA EA SPORTS | 60k coins | +33.3% | +72.7% | Esticada |
+| Ane Azkona | 88 | Liga F | 94k coins | +3.3% | +60.7% | Esticada |
+| Gheorghe Hagi | 88 | Icons | 102k coins | +24.3% | +57.9% | Esticada |
+| Wayne Rooney | 88 | Icons | 210k coins | +23.5% | +55.6% | Esticada |
+| Lilly Reale | 89 | NWSL | 35k coins | +38.6% | +55.6% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 56k coins | +26.4% | +53.3% | Esticada |
+| Dominique Janssen | 89 | Barclays WSL | 33k coins | +1.5% | +49.5% | Momentum moderado |
+| Sandy Baltimore | 87 | Barclays WSL | 45k coins | +34.6% | +48.2% | Esticada |
+| Michał Skóraś | 88 | 1A Pro League | 74k coins | +30.3% | +40.9% | Esticada |
+| Patrick Kluivert | 87 | Icons | 70k coins | +39.4% | +39.4% | Esticada |
+| Dominic Solanke | 87 | Premier League | 60k coins | +39.7% | +38.9% | Esticada |
+| Ramy Bensebaini | 87 | — | 67k coins | +39.6% | +38.9% | Esticada |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 46k coins | +20.2% | +38.4% | Esticada |
+| Claudio Marchisio | 87 | Serie A TIM | 28k coins | +10.7% | +37.3% | Momentum moderado |
+| Marek Hamšík | 88 | Serie A TIM | 95k coins | +5.8% | +35.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Omar Marmoush (87)** — 136k coins, **+65.7% em 7 dias** (+37.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ilias Akhomach (88)** — 60k coins, **+72.7% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wayne Rooney (88)** — 218k coins, **+64.4% em 7 dias** (+26.9% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ane Azkona (88)** — 94k coins, **+60.7% em 7 dias** (+3.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (88)** — 96k coins, **+64.2% em 7 dias** (+35.7% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gheorghe Hagi (88)** — 102k coins, **+57.9% em 7 dias** (+24.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Victor Osimhen (88)** — 133k coins, **+62.1% em 7 dias** (+11.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wayne Rooney (88)** — 210k coins, **+55.6% em 7 dias** (+23.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Melchie Dumornay (87)** — 158k coins, **+58.9% em 7 dias** (+37.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilly Reale (89)** — 35k coins, **+55.6% em 7 dias** (+38.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Omar Marmoush (87, Premier League) lidera, com +65.7% em 7 dias a 136k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ilias Akhomach (88, LALIGA EA SPORTS) lidera, com +72.7% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
