@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:39:07.000Z
+pubDatetime: 2026-07-23T22:39:07.000Z
 title: "Mercado EA FC em 23/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Lionel Messi (89, MLS), com +57.1% em 24h, a 181k coins no Console (PS)."
+    a: "Malik Tillman (88, Bundesliga), com +58.1% em 24h, a 288k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ryan Gravenberch (87), -45.2% em 24h, a 25k coins."
+    a: "Eberechi Eze (88), -46.6% em 24h, a 52k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 195 cartas em alta contra 280 em queda (média 0.39%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 205 cartas em alta contra 280 em queda (média 0.77%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **23/07/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **195 cartas subiram** e **280 caíram** (80+ acima de 5k coins), variação média de **0.39%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **23/07/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **205 cartas subiram** e **280 caíram** (80+ acima de 5k coins), variação média de **0.77%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lionel Messi (89) **+57.1%** · 🔴 **Maior baixa:** Ryan Gravenberch (87) **-45.2%**
+> 🟢 **Maior alta:** Malik Tillman (88) **+58.1%** · 🔴 **Maior baixa:** Eberechi Eze (88) **-46.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **23/07/2026** no Console (PS) com dia **indefinido*
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.1% entre as cartas que se moveram; o universo observado reúne 511 cartas.
+- **Amplitude do dia:** 104.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.3% entre as cartas que se moveram; o universo observado reúne 514 cartas.
 - **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lionel Messi | 89 | MLS | 181k coins | +57.1% | -22.8% |
-| Klara Bühl | 89 | GPFBL | 31k coins | +56.2% | +25% |
-| Gustav Isaksen | 87 | Serie A TIM | 50k coins | +52.8% | +69.7% |
-| Vanessa Fudalla | 87 | GPFBL | 46k coins | +48.8% | +48.8% |
-| Thomas Müller | 89 | MLS | 500k coins | +48.6% | -5% |
-| Tim Cahill | 89 | Premier League | 56k coins | +48% | +32.1% |
-| Senne Lammens | 88 | Premier League | 66k coins | +47.5% | +25% |
-| Alexandra Popp | 89 | GPFBL | 26k coins | +47.2% | +45.2% |
-| João Cancelo | 87 | ROSHN Saudi League | 40k coins | +46.2% | -13.6% |
-| Dominique Janssen | 89 | Barclays WSL | 25k coins | +45.7% | +2% |
+| Malik Tillman | 88 | Bundesliga | 288k coins | +58.1% | +38.3% |
+| Linda Caicedo | 87 | Liga F | 50k coins | +57.9% | +21.8% |
+| Mohammed Noor | 88 | ROSHN Saudi League | 26k coins | +51.4% | +12.8% |
+| Sveindís Jane Jónsdóttir | 88 | — | 66k coins | +46.8% | -4.8% |
+| Edwin van der Sar | 88 | Icons | 100k coins | +43.6% | -6.1% |
+| Wilson Odobert | 87 | Premier League | 38k coins | +42.1% | -9% |
+| Michael Olise | 87 | Bundesliga | 190k coins | +40.7% | -42.4% |
+| Alan Shearer | 88 | — | 22k coins | +39.7% | +2.2% |
+| Bruno Fernandes | 89 | Premier League | 69k coins | +39.4% | -12.7% |
+| Ashley Sanchez | 88 | NWSL | 65k coins | +39.4% | +82.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **23/07/2026** no Console (PS) com dia **indefinido*
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lionel Messi (89)** subiu **+57.1%** em 24h, a **181k coins** (faixa do dia: 140k–222k). Está -17% abaixo da média de 7 dias (descontada).
+- **Malik Tillman (88)** subiu **+58.1%** em 24h, a **288k coins** (faixa do dia: 130k–436k). Está +56% acima da média de 7 dias (aquecida).
 
-- **Klara Bühl (89)** subiu **+56.2%** em 24h, a **31k coins** (faixa do dia: 19.500–32k). Está +32% acima da média de 7 dias (aquecida).
+- **Linda Caicedo (87)** subiu **+57.9%** em 24h, a **50k coins** (faixa do dia: 35k–86k). Está em linha com a média de 7 dias (-5%).
 
-- **Gustav Isaksen (87)** subiu **+52.8%** em 24h, a **50k coins** (faixa do dia: 34k–62k). Está +19% acima da média de 7 dias (aquecida).
+- **Mohammed Noor (88)** subiu **+51.4%** em 24h, a **26k coins** (faixa do dia: 15.000–32k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 87 | Premier League | 25k coins | -45.2% | -66.4% |
-| Dunga | 89 | Icons | 70k coins | -42.6% | -57.3% |
-| Selina Cerci | 87 | GPFBL | 21k coins | -41.5% | -13.1% |
-| Millie Bright | 88 | Barclays WSL | 36k coins | -39.3% | +4.4% |
-| Ewa Pajor | 89 | Liga F | 169k coins | -39.3% | -16.3% |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 84k coins | -38.8% | 0% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 38k coins | -37.1% | -15.9% |
-| Joe Cole | 88 | Premier League | 88k coins | -36.4% | -73.8% |
-| Yaya Touré | 87 | Premier League | 310k coins | -32.4% | -42.7% |
-| Eric Cantona | 89 | Icons | 74k coins | -31.5% | -46.8% |
+| Eberechi Eze | 88 | Premier League | 52k coins | -46.6% | -20.9% |
+| Casemiro | 89 | Premier League | 200k coins | -46% | -32.2% |
+| Selina Cerci | 87 | GPFBL | 20k coins | -45% | -17.2% |
+| Dunga | 89 | Icons | 95k coins | -44.5% | -58% |
+| Luis Díaz | 87 | Bundesliga | 59k coins | -43.5% | -69% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 80k coins | -42.4% | -5.9% |
+| Aya Miyama | 87 | Icons | 23k coins | -40% | -19.6% |
+| Sandro Tonali | 87 | Premier League | 35k coins | -39.8% | +2.7% |
+| Roy Keane | 88 | Icons | 349k coins | -39% | -18.8% |
+| Sakina Karchaoui | 88 | D1 Arkema | 50k coins | -38.4% | -15.1% |
 
 
 ### Análise das baixas
 
-- **Ryan Gravenberch (87)** caiu **-45.2%** em 24h, a **25k coins** (faixa do dia: 17.000–114k). Está -43% abaixo da média de 7 dias (descontada).
+- **Eberechi Eze (88)** caiu **-46.6%** em 24h, a **52k coins** (faixa do dia: 40k–82k). Está em linha com a média de 7 dias (-7%).
 
-- **Dunga (89)** caiu **-42.6%** em 24h, a **70k coins** (faixa do dia: 70k–132k). Está -46% abaixo da média de 7 dias (descontada).
+- **Casemiro (89)** caiu **-46%** em 24h, a **200k coins** (faixa do dia: 185k–420k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Selina Cerci (87)** caiu **-41.5%** em 24h, a **21k coins** (faixa do dia: 21k–47k). Está -27% abaixo da média de 7 dias (descontada).
+- **Selina Cerci (87)** caiu **-45%** em 24h, a **20k coins** (faixa do dia: 20k–47k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lionel Messi já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Malik Tillman já avançou 58.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ryan Gravenberch recuou -45.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Eberechi Eze recuou -46.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Lionel Messi (89, MLS), com +57.1% em 24h, a 181k coins no Console (PS).
+Malik Tillman (88, Bundesliga), com +58.1% em 24h, a 288k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ryan Gravenberch (87), -45.2% em 24h, a 25k coins.
+Eberechi Eze (88), -46.6% em 24h, a 52k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 195 cartas em alta contra 280 em queda (média 0.39%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 205 cartas em alta contra 280 em queda (média 0.77%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
