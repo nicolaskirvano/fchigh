@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:39:16.000Z
+pubDatetime: 2026-07-23T19:39:17.000Z
 title: "Mercado EA FC em 23/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Billy Gilmour (87, Serie A TIM), com +58.9% em 24h, a 42k coins no PC."
+    a: "Tomáš Rosický (89, Bundesliga), com +58.8% em 24h, a 25k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Miguel Ángel Merentiel (88), -48.4% em 24h, a 40k coins."
+    a: "Gonçalo Inácio (89), -48.6% em 24h, a 113k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 268 cartas em alta contra 265 em queda (média 4.62%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 269 cartas em alta contra 247 em queda (média 6.52%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **268 cartas subiram** e **265 caíram** (80+ acima de 5k coins), variação média de **4.62%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **269 cartas subiram** e **247 caíram** (80+ acima de 5k coins), variação média de **6.52%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Billy Gilmour (87) **+58.9%** · 🔴 **Maior baixa:** Miguel Ángel Merentiel (88) **-48.4%**
+> 🟢 **Maior alta:** Tomáš Rosický (89) **+58.8%** · 🔴 **Maior baixa:** Gonçalo Inácio (89) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.3% entre as cartas que se moveram; o universo observado reúne 596 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.1% entre as cartas que se moveram; o universo observado reúne 587 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Billy Gilmour | 87 | Serie A TIM | 42k coins | +58.9% | -4.5% |
-| Davide Zappacosta | 88 | Serie A TIM | 34k coins | +54.3% | +10.9% |
-| Sebastian Szymański | 87 | — | 60k coins | +51.9% | +8.1% |
-| Katie McCabe | 88 | Barclays Women’s Super League | 58k coins | +51.6% | +38.4% |
-| Naomie Feller | 88 | — | 28k coins | +50% | -55.8% |
-| Gervinho | 87 | Serie A TIM | 107k coins | +49.4% | +5.8% |
-| Mary Fowler | 87 | Barclays Women’s Super League | 24k coins | +49.2% | -57.5% |
-| Dávid Hancko | 89 | LALIGA EA SPORTS | 32k coins | +48.9% | +20.7% |
-| Vivianne Miedema | 89 | Barclays WSL | 33k coins | +48.9% | -34.5% |
-| Irene Paredes | 88 | Liga F | 47k coins | +48.6% | -8.3% |
+| Tomáš Rosický | 89 | Bundesliga | 25k coins | +58.8% | +2.9% |
+| Mallory Swanson | 88 | NWSL | 119k coins | +55.6% | -0.8% |
+| Marcos Senesi | 88 | Premier League | 36k coins | +54.2% | -56.5% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 46k coins | +52.8% | -18.5% |
+| Petr Čech | 89 | Icons | 159k coins | +51.4% | +14.4% |
+| Donyell Malen | 89 | Serie A TIM | 44k coins | +50.9% | +16.2% |
+| Sebastian Szymański | 87 | — | 56k coins | +50.6% | +8.2% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 1.05M coins | +50.2% | +10.4% |
+| Mateus Mané | 88 | Premier League | 37k coins | +50% | +14.5% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 37k coins | +50% | -25% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Billy Gilmour (87)** subiu **+58.9%** em 24h, a **42k coins** (faixa do dia: 25k–51k). Está +21% acima da média de 7 dias (aquecida).
+- **Tomáš Rosický (89)** subiu **+58.8%** em 24h, a **25k coins** (faixa do dia: 14.750–36k). Está em linha com a média de 7 dias (-8%).
 
-- **Davide Zappacosta (88)** subiu **+54.3%** em 24h, a **34k coins** (faixa do dia: 19.000–41k). Está +22% acima da média de 7 dias (aquecida).
+- **Mallory Swanson (88)** subiu **+55.6%** em 24h, a **119k coins** (faixa do dia: 72k–150k). Está em linha com a média de 7 dias (-4%).
 
-- **Sebastian Szymański (87)** subiu **+51.9%** em 24h, a **60k coins** (faixa do dia: 40k–60k). Está +29% acima da média de 7 dias (aquecida).
+- **Marcos Senesi (88)** subiu **+54.2%** em 24h, a **36k coins** (faixa do dia: 24k–106k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Miguel Ángel Merentiel | 88 | LPF | 40k coins | -48.4% | -42% |
-| Kelly Smith | 89 | Icons | 91k coins | -47.2% | -35.4% |
-| Michael Owen | 88 | Icons | 66k coins | -46.8% | 0% |
-| Jerzy Dudek | 87 | Premier League | 24k coins | -45.5% | -36.2% |
-| Ramy Bensebaini | 87 | — | 42k coins | -44.8% | -25.4% |
-| Alexander Sørloth | 89 | LALIGA EA SPORTS | 94k coins | -44.4% | -40.2% |
-| Kevin Schade | 88 | Premier League | 34k coins | -44.2% | +3.6% |
-| Pavel Nedvěd | 88 | Icons | 93k coins | -43.3% | -29.6% |
-| Patrik Schick | 88 | Bundesliga | 29k coins | -41.2% | -38.1% |
-| Patrick Kluivert | 87 | Icons | 66k coins | -41.1% | -35.3% |
+| Gonçalo Inácio | 89 | Liga Portugal | 113k coins | -48.6% | -40.5% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 21k coins | -46.2% | +12% |
+| Alexander Sørloth | 89 | LALIGA EA SPORTS | 92k coins | -45.9% | -39.9% |
+| Rui Costa | 88 | Serie A TIM | 25k coins | -45.2% | -53.5% |
+| Sakina Karchaoui | 89 | — | 39k coins | -42.6% | -39.9% |
+| Taylor Flint | 88 | NWSL | 176k coins | -41.6% | -30.5% |
+| Francesco Totti | 89 | Icons | 145k coins | -41.2% | -17.9% |
+| Ramy Bensebaini | 87 | — | 40k coins | -41% | -27.5% |
+| Cora Zicai | 88 | GPFBL | 132k coins | -39.3% | -33.5% |
+| Patrik Schick | 88 | Bundesliga | 29k coins | -39.1% | -55% |
 
 
 ### Análise das baixas
 
-- **Miguel Ángel Merentiel (88)** caiu **-48.4%** em 24h, a **40k coins** (faixa do dia: 40k–77k). Está -23% abaixo da média de 7 dias (descontada).
+- **Gonçalo Inácio (89)** caiu **-48.6%** em 24h, a **113k coins** (faixa do dia: 113k–216k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Kelly Smith (89)** caiu **-47.2%** em 24h, a **91k coins** (faixa do dia: 68k–188k). Está em linha com a média de 7 dias (-1%).
+- **Musab Al Juwair (87)** caiu **-46.2%** em 24h, a **21k coins** (faixa do dia: 18.000–41k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Michael Owen (88)** caiu **-46.8%** em 24h, a **66k coins** (faixa do dia: 66k–124k). Está em linha com a média de 7 dias (-8%).
+- **Alexander Sørloth (89)** caiu **-45.9%** em 24h, a **92k coins** (faixa do dia: 92k–170k). Está -37% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Billy Gilmour já avançou 58.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tomáš Rosický já avançou 58.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Miguel Ángel Merentiel recuou -48.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gonçalo Inácio recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Billy Gilmour (87, Serie A TIM), com +58.9% em 24h, a 42k coins no PC.
+Tomáš Rosický (89, Bundesliga), com +58.8% em 24h, a 25k coins no PC.
 
 **E a maior queda do dia?**
-Miguel Ángel Merentiel (88), -48.4% em 24h, a 40k coins.
+Gonçalo Inácio (89), -48.6% em 24h, a 113k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 268 cartas em alta contra 265 em queda (média 4.62%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 269 cartas em alta contra 247 em queda (média 6.52%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
