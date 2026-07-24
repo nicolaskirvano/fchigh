@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:39:12.000Z
+pubDatetime: 2026-07-24T19:39:11.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3.100 coins no Console (PS)."
+    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 2.600 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 3.100 coins.
+> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 2.600 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 24/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-24-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.577 coins.
-- **Posição mais frequente:** ST, com 7 cartas.
-- **Faixa real:** 3.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.773 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 2.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.100 coins | -11.4% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.300 coins | -13.2% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.500 coins | -2.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.000 coins | -4.8% |
-| Celia Šašić | 89 | ST | GPFBL | 11.500 coins | -5.8% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12.750 coins | +2% |
-| Birgit Prinz | 89 | ST | — | 12.750 coins | -3.7% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14.000 coins | 0% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14.000 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.500 coins | -3.6% |
-| Maximiliano Araújo | 89 | LM | — | 14.500 coins | -9.4% |
-| Thijs Dallinga | 89 | ST | — | 14.750 coins | +7.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 11.500 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.500 coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2.600 coins | +5.9% |
+| Sepp van den Berg | 89 | CB | Premier League | 11.250 coins | -5.6% |
+| Tomáš Rosický | 89 | CAM | Bundesliga | 11.250 coins | -10.3% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 12.750 coins | -10.9% |
+| Celia Šašić | 89 | ST | GPFBL | 13.000 coins | +7.7% |
+| Sebastian Nanasi | 89 | LM | — | 13.250 coins | +3.5% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 13.500 coins | +10% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.000 coins | +3.7% |
+| Guro Reiten | 88 | LM | Barclays WSL | 2.500 coins | -10.7% |
+| Anaële Le Moguédec | 88 | CM | D1 Arkema | 11.000 coins | +3.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 11.000 coins | -1.9% |
+| Sara Holmgaard | 88 | LB | — | 11.000 coins | -8.3% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | -13.7% |
+| Esmee Brugts | 88 | LB | Liga F | 11.000 coins | -12% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 12.500 coins | -3.8% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3.300 coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Tomáš Rosický (89, CAM)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **12.750 coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11.500 coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Thibaut Courtois (89, GK) por 3.300 coins é a referência de rating deste recorte.
+- **Defesa:** Gianluigi Donnarumma (89, GK) por 2.600 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 3.100 coins é a referência de rating deste recorte.
+- **Meio:** Tomáš Rosický (89, CAM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Celia Šašić (89, ST) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Jørgen Strand Larsen (89, ST) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3.100 coins no Console (PS).
+Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 2.600 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

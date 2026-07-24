@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:39:21.000Z
+pubDatetime: 2026-07-24T19:39:21.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 24/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 2.800 coins no PC."
+    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alessia Russo (89) por apenas 2.800 coins.
+> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 24/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-24-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.283 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.000 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 6.947 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.800 coins | -6.7% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3.600 coins | -10.5% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.800 coins | -1.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.800 coins | -9.1% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13.500 coins | +7.4% |
-| Birgit Prinz | 89 | ST | — | 13.750 coins | -8.6% |
-| Jan Oblak | 88 | GK | LALIGA EA SPORTS | 2.000 coins | +11.1% |
-| Lautaro Martínez | 88 | ST | Serie A Enilive | 2.100 coins | 0% |
-| Jari Litmanen | 88 | CAM | Eredivisie | 11.500 coins | -9.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.000 coins | -2.5% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.500 coins | -7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.500 coins | -9.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3.700 coins | -7.5% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.600 coins | -4.2% |
+| Maximiliano Araújo | 89 | LM | — | 13.750 coins | +5% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14.750 coins | 0% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.750 coins | -11.9% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.000 coins | +25% |
+| Alexander Isak | 88 | ST | Premier League | 2.000 coins | -4.8% |
+| Enzo Francescoli | 88 | CAM | LPF | 12.750 coins | +25% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 14.000 coins | +51.5% |
+| Yann Sommer | 87 | GK | Serie A Enilive | 3.000 coins | +3.6% |
+| Katie McCabe | 87 | LB | Barclays WSL | 3.500 coins | +34.5% |
 | Beth Mead | 87 | RM | — | 5.400 coins | 0% |
-| Roy Makaay | 87 | ST | Bundesliga | 11.000 coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12.250 coins | +46.3% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12.750 coins | +2% |
-| Jorge Campos | 87 | GK | MLS | 12.750 coins | +11.3% |
 
 
 ## 📈 Destaques
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.000 coins**
 
-- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **3.600 coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.500 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.500 coins**
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3.700 coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Achraf Hakimi (89, RB) por 4.800 coins é a referência de rating deste recorte.
+- **Defesa:** Gianluigi Donnarumma (89, GK) por 3.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Raphinha (89, LM) por 3.600 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (89, CAM) por 3.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alessia Russo (89, ST) por 2.800 coins é a referência de rating deste recorte.
+- **Ataque:** Vini Jr. (89, LW) por 14.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Alessia Russo (89, Barclays WSL) aparece como melhor custo-benefício, a 2.800 coins no PC.
+Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
