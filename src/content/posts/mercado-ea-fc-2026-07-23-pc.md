@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:39:17.000Z
+pubDatetime: 2026-07-24T01:39:17.000Z
 title: "Mercado EA FC em 23/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Christian Eriksen (87, Bundesliga), com +59.7% em 24h, a 119k coins no PC."
+    a: "Antoine Griezmann (87, LALIGA EA SPORTS), com +60% em 24h, a 58k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Didier Drogba (89), -50% em 24h, a 68k coins."
+    a: "Kingsley Coman (87), -50% em 24h, a 32k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 215 cartas em alta contra 260 em queda (média 5.0%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 240 cartas em alta contra 260 em queda (média 7.71%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **215 cartas subiram** e **260 caíram** (80+ acima de 5k coins), variação média de **5.0%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **240 cartas subiram** e **260 caíram** (80+ acima de 5k coins), variação média de **7.71%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Christian Eriksen (87) **+59.7%** · 🔴 **Maior baixa:** Didier Drogba (89) **-50%**
+> 🟢 **Maior alta:** Antoine Griezmann (87) **+60%** · 🔴 **Maior baixa:** Kingsley Coman (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.3% entre as cartas que se moveram; o universo observado reúne 541 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.0% entre as cartas que se moveram; o universo observado reúne 572 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Christian Eriksen | 87 | Bundesliga | 119k coins | +59.7% | +76.9% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 1.05M coins | +58.6% | +16.3% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 58k coins | +60% | +5.5% |
+| Nick Woltemade | 87 | Premier League | 95k coins | +59.7% | +113.5% |
+| David Alaba | 87 | LALIGA EA SPORTS | 30k coins | +59.5% | -22.1% |
+| Nuno Tavares | 87 | Serie A TIM | 58k coins | +59.5% | +34.9% |
+| Amaiur Sarriegi | 88 | Liga F | 92k coins | +58.6% | +75.2% |
 | Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 900k coins | +57.9% | +28.6% |
-| Fara Williams | 88 | Barclays WSL | 59k coins | +55.6% | +33.7% |
-| Anaële Le Moguédec | 88 | D1 Arkema | 23k coins | +53.2% | +31.9% |
-| Dominik Szoboszlai | 87 | Premier League | 120k coins | +50% | 0% |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 39k coins | +49.5% | +68.8% |
-| Moleiro | 88 | LALIGA EA SPORTS | 24k coins | +47.9% | +44% |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 54k coins | +45.6% | -2.7% |
-| Gabriel Martinelli | 87 | Premier League | 144k coins | +45.5% | +30.9% |
+| Fernando Torres | 87 | Icons | 250k coins | +57.2% | +61.3% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 165k coins | +56.5% | -1.1% |
+| Olivia Holdt | 87 | Barclays WSL | 25k coins | +54.7% | +54.7% |
+| Sara Holmgaard | 88 | — | 25k coins | +54.7% | +43.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Christian Eriksen (87)** subiu **+59.7%** em 24h, a **119k coins** (faixa do dia: 66k–150k). Está +57% acima da média de 7 dias (aquecida).
+- **Antoine Griezmann (87)** subiu **+60%** em 24h, a **58k coins** (faixa do dia: 46k–80k). Está em linha com a média de 7 dias (+3%).
 
-- **Rodrygo (89)** subiu **+58.6%** em 24h, a **1.05M coins** (faixa do dia: 614k–1.05M). Está +18% acima da média de 7 dias (aquecida).
+- **Nick Woltemade (87)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 42k–110k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Khvicha Kvaratskhelia (88)** subiu **+57.9%** em 24h, a **900k coins** (faixa do dia: 570k–900k). Está +28% acima da média de 7 dias (aquecida).
+- **David Alaba (87)** subiu **+59.5%** em 24h, a **30k coins** (faixa do dia: 19.750–36k). Está em linha com a média de 7 dias (-7%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Didier Drogba | 89 | Icons | 68k coins | -50% | -22% |
-| Sydney Leroux | 88 | NWSL | 42k coins | -47.8% | -23.9% |
-| Alexander Sørloth | 89 | LALIGA EA SPORTS | 90k coins | -47.1% | -40% |
-| Jens Petter Hauge | 88 | Eliteserien | 80k coins | -46.7% | -33.3% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 32k coins | -50% | -5.2% |
+| Miguel Ángel Merentiel | 88 | LPF | 30k coins | -49.6% | -54.9% |
+| Frank Lampard | 87 | Icons | 99k coins | -49.4% | -34.1% |
+| Kevin Schade | 88 | Premier League | 22k coins | -47.2% | -26.8% |
 | Nwankwo Kanu | 87 | Premier League | 27k coins | -46% | +0.9% |
-| Bruno Fernandes | 88 | Premier League | 100k coins | -44.4% | -41.9% |
-| Kaká | 89 | Icons | 180k coins | -42.1% | -33.9% |
-| Zico | 87 | Icons | 100k coins | -40.8% | -40.8% |
-| Koke | 88 | LALIGA EA SPORTS | 58k coins | -40.1% | -51.7% |
-| Daniele De Rossi | 89 | Serie A TIM | 113k coins | -39.6% | -41.8% |
+| Alexander Sørloth | 89 | LALIGA EA SPORTS | 89k coins | -44.4% | -41.5% |
+| Cora Zicai | 88 | GPFBL | 111k coins | -42.2% | -44.5% |
+| Malcom | 87 | ROSHN Saudi League | 55k coins | -40.6% | -13.3% |
+| Fran Kirby | 88 | — | 39k coins | -40% | -35% |
+| Yaya Touré | 88 | Premier League | 1.01M coins | -36.9% | -43.7% |
 
 
 ### Análise das baixas
 
-- **Didier Drogba (89)** caiu **-50%** em 24h, a **68k coins** (faixa do dia: 68k–145k). Está -37% abaixo da média de 7 dias (descontada).
+- **Kingsley Coman (87)** caiu **-50%** em 24h, a **32k coins** (faixa do dia: 32k–64k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Sydney Leroux (88)** caiu **-47.8%** em 24h, a **42k coins** (faixa do dia: 35k–80k). Está -12% abaixo da média de 7 dias (descontada).
+- **Miguel Ángel Merentiel (88)** caiu **-49.6%** em 24h, a **30k coins** (faixa do dia: 30k–55k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Alexander Sørloth (89)** caiu **-47.1%** em 24h, a **90k coins** (faixa do dia: 90k–170k). Está -37% abaixo da média de 7 dias (descontada).
+- **Frank Lampard (87)** caiu **-49.4%** em 24h, a **99k coins** (faixa do dia: 74k–140k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Christian Eriksen já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Antoine Griezmann já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Didier Drogba recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kingsley Coman recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Christian Eriksen (87, Bundesliga), com +59.7% em 24h, a 119k coins no PC.
+Antoine Griezmann (87, LALIGA EA SPORTS), com +60% em 24h, a 58k coins no PC.
 
 **E a maior queda do dia?**
-Didier Drogba (89), -50% em 24h, a 68k coins.
+Kingsley Coman (87), -50% em 24h, a 32k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 215 cartas em alta contra 260 em queda (média 5.0%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 240 cartas em alta contra 260 em queda (média 7.71%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
