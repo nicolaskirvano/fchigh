@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:39:17.000Z
+pubDatetime: 2026-07-24T13:39:19.000Z
 title: "Mercado EA FC em 24/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Estefanía Banini (89, Liga F), com +59.8% em 24h, a 34k coins no PC."
+    a: "Gianfranco Zola (87, Icons), com +59.1% em 24h, a 136k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jairzinho (89), -47.5% em 24h, a 231k coins."
+    a: "Ché Adams (89), -47.7% em 24h, a 34k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 271 cartas em alta contra 287 em queda (média 5.61%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 262 cartas em alta contra 289 em queda (média 4.4%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **24/07/2026** no PC: mercado **em alta** — predominam as valorizações. **271 valorizações** contra **287 quedas** entre as cartas relevantes, com média de **5.61%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **24/07/2026** no PC: mercado **em alta** — predominam as valorizações. **262 valorizações** contra **289 quedas** entre as cartas relevantes, com média de **4.4%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Estefanía Banini (89) **+59.8%** · 🔴 **Maior baixa:** Jairzinho (89) **-47.5%**
+> 🟢 **Maior alta:** Gianfranco Zola (87) **+59.1%** · 🔴 **Maior baixa:** Ché Adams (89) **-47.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **24/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 627 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.5% entre as cartas que se moveram; o universo observado reúne 613 cartas.
+- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | Liga F | 34k coins | +59.8% | +72.2% |
-| Nemanja Vidić | 87 | Icons | 210k coins | +59.1% | +56.7% |
-| Peter Schmeichel | 89 | Icons | 141k coins | +58.4% | +91.8% |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 29k coins | +57.9% | -17.2% |
+| Gianfranco Zola | 87 | Icons | 136k coins | +59.1% | +96% |
+| Janina Minge | 88 | — | 32k coins | +58.7% | +58.7% |
 | Benedict Hollerbach | 87 | Bundesliga | 30k coins | +57.9% | +79.1% |
-| Abdul Fatawu | 88 | EFL Championship | 38k coins | +57.1% | -26.7% |
-| Wesley | 88 | Serie A TIM | 72k coins | +55.9% | +10.7% |
-| Hernán Crespo | 88 | Icons | 58k coins | +55.7% | -0.9% |
+| Steve McManaman | 87 | Premier League | 21k coins | +57.4% | +10.4% |
+| Ole Gunnar Solskjær | 88 | Premier League | 25k coins | +56.6% | +52.6% |
+| Rubén García | 87 | LALIGA EA SPORTS | 26k coins | +55.9% | -34.2% |
+| Hernán Crespo | 88 | Icons | 50k coins | +55.7% | +5.5% |
 | Lucy Bronze | 88 | Barclays WSL | 112k coins | +55.6% | -33.7% |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 36k coins | +54.3% | -29% |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 20k coins | +53.6% | +24.6% |
+| Éder Militão | 88 | LALIGA EA SPORTS | 172k coins | +53% | -2.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **24/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Estefanía Banini (89)** subiu **+59.8%** em 24h, a **34k coins** (faixa do dia: 20k–39k). Está +29% acima da média de 7 dias (aquecida).
+- **Gianfranco Zola (87)** subiu **+59.1%** em 24h, a **136k coins** (faixa do dia: 70k–176k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Nemanja Vidić (87)** subiu **+59.1%** em 24h, a **210k coins** (faixa do dia: 118k–240k). Está +39% acima da média de 7 dias (aquecida).
+- **Janina Minge (88)** subiu **+58.7%** em 24h, a **32k coins** (faixa do dia: 14.750–32k). Está +78% acima da média de 7 dias (aquecida).
 
-- **Peter Schmeichel (89)** subiu **+58.4%** em 24h, a **141k coins** (faixa do dia: 88k–159k). Está +56% acima da média de 7 dias (aquecida).
+- **Benedict Hollerbach (87)** subiu **+57.9%** em 24h, a **30k coins** (faixa do dia: 15.000–30k). Está +55% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jairzinho | 89 | Icons | 231k coins | -47.5% | -37.2% |
+| Ché Adams | 89 | Serie A TIM | 34k coins | -47.7% | -56.6% |
+| Hugo Sánchez | 89 | Icons | 76k coins | -47.7% | -25.9% |
+| Lionel Messi | 87 | MLS | 133k coins | -47.6% | -27.3% |
+| Tijjani Reijnders | 87 | Premier League | 50k coins | -46.9% | -26.2% |
 | Jaedyn Shaw | 89 | NWSL | 29k coins | -45.8% | -42.5% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 44k coins | -45% | -68.6% |
+| Donyell Malen | 89 | Serie A TIM | 29k coins | -44% | -17.1% |
+| Luis Díaz | 87 | Bundesliga | 48k coins | -43.6% | -44.3% |
 | Daniele De Rossi | 89 | Serie A TIM | 102k coins | -43.3% | -49% |
-| Chris Smalling | 87 | ROSHN Saudi League | 39k coins | -43.2% | -19.4% |
-| Ahmed Hegazi | 87 | Brasileirão | 54k coins | -42.2% | -33.9% |
-| Hugo Sánchez | 89 | Icons | 87k coins | -42% | -17.9% |
-| Rui Costa | 88 | Serie A TIM | 25k coins | -41.2% | -40.5% |
-| Tijjani Reijnders | 87 | Premier League | 56k coins | -41% | -16.3% |
-| Debinha | 89 | NWSL | 187k coins | -39.1% | -39.1% |
+| Cora Zicai | 88 | GPFBL | 80k coins | -41.8% | -55.9% |
+| Rui Costa | 88 | Serie A TIM | 25k coins | -40.1% | -40.5% |
 
 
 ### Análise das baixas
 
-- **Jairzinho (89)** caiu **-47.5%** em 24h, a **231k coins** (faixa do dia: 231k–440k). Está -30% abaixo da média de 7 dias (descontada).
+- **Ché Adams (89)** caiu **-47.7%** em 24h, a **34k coins** (faixa do dia: 31k–62k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Jaedyn Shaw (89)** caiu **-45.8%** em 24h, a **29k coins** (faixa do dia: 24k–55k). Está -13% abaixo da média de 7 dias (descontada).
+- **Hugo Sánchez (89)** caiu **-47.7%** em 24h, a **76k coins** (faixa do dia: 70k–180k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Aurélien Tchouaméni (87)** caiu **-45%** em 24h, a **44k coins** (faixa do dia: 44k–96k). Está -42% abaixo da média de 7 dias (descontada).
+- **Lionel Messi (87)** caiu **-47.6%** em 24h, a **133k coins** (faixa do dia: 88k–254k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Estefanía Banini já avançou 59.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gianfranco Zola já avançou 59.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jairzinho recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ché Adams recuou -47.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Estefanía Banini (89, Liga F), com +59.8% em 24h, a 34k coins no PC.
+Gianfranco Zola (87, Icons), com +59.1% em 24h, a 136k coins no PC.
 
 **E a maior queda do dia?**
-Jairzinho (89), -47.5% em 24h, a 231k coins.
+Ché Adams (89), -47.7% em 24h, a 34k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 271 cartas em alta contra 287 em queda (média 5.61%).
+Hoje o mercado está em alta — predominam as valorizações, com 262 cartas em alta contra 289 em queda (média 4.4%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

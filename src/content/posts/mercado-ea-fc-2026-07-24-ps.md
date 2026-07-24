@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:39:08.000Z
+pubDatetime: 2026-07-24T13:39:10.000Z
 title: "Mercado EA FC em 24/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Alphonso Davies (89, Bundesliga), com +60% em 24h, a 55k coins no Console (PS)."
+    a: "Kenan Yıldız (87, Serie A TIM), com +58.7% em 24h, a 45k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Francisco Conceição (89), -50% em 24h, a 31k coins."
+    a: "Tarciane (88), -50% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 292 cartas em alta contra 254 em queda (média 8.78%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 283 cartas em alta contra 277 em queda (média 6.35%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **24/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **292 valorizações** contra **254 quedas** entre as cartas relevantes, com média de **8.78%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **24/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **283 valorizações** contra **277 quedas** entre as cartas relevantes, com média de **6.35%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alphonso Davies (89) **+60%** · 🔴 **Maior baixa:** Francisco Conceição (89) **-50%**
+> 🟢 **Maior alta:** Kenan Yıldız (87) **+58.7%** · 🔴 **Maior baixa:** Tarciane (88) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **24/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.5% entre as cartas que se moveram; o universo observado reúne 580 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.5% entre as cartas que se moveram; o universo observado reúne 616 cartas.
+- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alphonso Davies | 89 | Bundesliga | 55k coins | +60% | +30.6% |
-| Frank Rijkaard | 89 | Icons | 93k coins | +60% | -26.7% |
-| Gilberto Silva | 87 | Premier League | 37k coins | +58.1% | -5.8% |
-| Trinity Rodman | 88 | NWSL | 110k coins | +57.5% | +52.7% |
-| Jade Le Guilly | 89 | D1 Arkema | 46k coins | +56.7% | +51.6% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 39k coins | +56% | +59.2% |
-| Tara McKeown | 89 | NWSL | 30k coins | +55.7% | +43% |
-| Harry Wilson | 88 | Premier League | 42k coins | +54.1% | +20% |
-| Jan Oblak | 89 | LALIGA EA SPORTS | 30k coins | +53.8% | +2.6% |
-| Jaelin Howell | 89 | NWSL | 26k coins | +51.5% | -1.9% |
+| Kenan Yıldız | 87 | Serie A TIM | 45k coins | +58.7% | -2.9% |
+| Giorgio Chiellini | 89 | Icons | 188k coins | +58.3% | +66.7% |
+| Lukas Klostermann | 88 | Bundesliga | 181k coins | +58.3% | -7.8% |
+| Daniele De Rossi | 87 | Serie A TIM | 34k coins | +57.8% | +36.5% |
+| Florian Wirtz | 89 | Premier League | 199k coins | +57.6% | +11.7% |
+| Rodrigo Mora | 88 | Liga Portugal | 60k coins | +57.1% | +37.5% |
+| Franck Ribéry | 88 | Icons | 166k coins | +57% | -9.2% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 114k coins | +56.2% | -12.3% |
+| Alphonso Davies | 89 | Bundesliga | 55k coins | +53.8% | +11.7% |
+| Bremer | 87 | Serie A TIM | 65k coins | +53.3% | +64.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **24/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alphonso Davies (89)** subiu **+60%** em 24h, a **55k coins** (faixa do dia: 33k–120k). Está em linha com a média de 7 dias (+5%).
+- **Kenan Yıldız (87)** subiu **+58.7%** em 24h, a **45k coins** (faixa do dia: 29k–103k). Está em linha com a média de 7 dias (+2%).
 
-- **Frank Rijkaard (89)** subiu **+60%** em 24h, a **93k coins** (faixa do dia: 40k–103k). Está -13% abaixo da média de 7 dias (descontada).
+- **Giorgio Chiellini (89)** subiu **+58.3%** em 24h, a **188k coins** (faixa do dia: 80k–210k). Está +42% acima da média de 7 dias (aquecida).
 
-- **Gilberto Silva (87)** subiu **+58.1%** em 24h, a **37k coins** (faixa do dia: 16.000–45k). Está +14% acima da média de 7 dias (aquecida).
+- **Lukas Klostermann (88)** subiu **+58.3%** em 24h, a **181k coins** (faixa do dia: 111k–326k). Está em linha com a média de 7 dias (-0%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Francisco Conceição | 89 | Serie A TIM | 31k coins | -50% | -56.9% |
-| João Moutinho | 88 | Liga Portugal | 74k coins | -46.5% | -56.1% |
-| Malik Tillman | 88 | Bundesliga | 143k coins | -44.7% | -15.2% |
-| Marco Carnesecchi | 87 | Serie A TIM | 36k coins | -44.1% | -19.3% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 38k coins | -43.3% | -47.9% |
-| Cole Palmer | 88 | Premier League | 370k coins | -43.1% | -19.6% |
-| Iván Córdoba | 88 | Serie A TIM | 58k coins | -42.3% | -50.4% |
-| Riley Tiernan | 88 | NWSL | 24k coins | -41.7% | +25.6% |
-| Cole Palmer | 89 | Premier League | 134k coins | -41% | -49.1% |
-| Carlos Tévez | 89 | Premier League | 268k coins | -40.6% | -25.6% |
+| Tarciane | 88 | D1 Arkema | 20k coins | -50% | -52.4% |
+| João Moutinho | 88 | Liga Portugal | 70k coins | -49.3% | -69% |
+| Riley Tiernan | 88 | NWSL | 22k coins | -46.7% | +2.3% |
+| Cole Palmer | 88 | Premier League | 348k coins | -46.2% | -23.9% |
+| Rasmus Højlund | 87 | Serie A TIM | 34k coins | -40.2% | -25.2% |
+| Malik Tillman | 88 | Bundesliga | 164k coins | -39.9% | -7.9% |
+| Juan Mata | 88 | A-League | 44k coins | -39.3% | -19.3% |
+| Julie Foudy | 88 | Icons | 20k coins | -39.3% | -21.3% |
+| Ane Azkona | 88 | Liga F | 22k coins | -37.8% | -41.8% |
+| Linda Caicedo | 87 | Liga F | 38k coins | -37.5% | -18.5% |
 
 
 ### Análise das baixas
 
-- **Francisco Conceição (89)** caiu **-50%** em 24h, a **31k coins** (faixa do dia: 19.250–62k). Está -34% abaixo da média de 7 dias (descontada).
+- **Tarciane (88)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 19.500–39k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **João Moutinho (88)** caiu **-46.5%** em 24h, a **74k coins** (faixa do dia: 53k–142k). Está -53% abaixo da média de 7 dias (descontada).
+- **João Moutinho (88)** caiu **-49.3%** em 24h, a **70k coins** (faixa do dia: 53k–134k). Está -55% abaixo da média de 7 dias (descontada).
 
-- **Malik Tillman (88)** caiu **-44.7%** em 24h, a **143k coins** (faixa do dia: 120k–360k). Está -22% abaixo da média de 7 dias (descontada).
+- **Riley Tiernan (88)** caiu **-46.7%** em 24h, a **22k coins** (faixa do dia: 15.000–42k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alphonso Davies já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kenan Yıldız já avançou 58.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Francisco Conceição recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tarciane recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Alphonso Davies (89, Bundesliga), com +60% em 24h, a 55k coins no Console (PS).
+Kenan Yıldız (87, Serie A TIM), com +58.7% em 24h, a 45k coins no Console (PS).
 
 **E a maior queda do dia?**
-Francisco Conceição (89), -50% em 24h, a 31k coins.
+Tarciane (88), -50% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 292 cartas em alta contra 254 em queda (média 8.78%).
+Hoje o mercado está em alta — predominam as valorizações, com 283 cartas em alta contra 277 em queda (média 6.35%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
