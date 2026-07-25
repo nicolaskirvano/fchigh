@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:39:18.000Z
+pubDatetime: 2026-07-25T22:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Sydney Leroux (88, NWSL) lidera, com +80.6% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sydney Leroux (88, NWSL) lidera, com +87.7% em 7 dias a 61k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sydney Leroux (88) acumula **+80.6% em 7 dias** a 65k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sydney Leroux (88) acumula **+87.7% em 7 dias** a 61k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.0% em 24h** e **+55.6% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+56.5% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sydney Leroux | 88 | NWSL | 65k coins | +14% | +80.6% | Esticada |
-| Louisa Necib | 88 | D1 Arkema | 86k coins | +13.1% | +80.2% | Esticada |
-| Morgan Rogers | 87 | Premier League | 149k coins | +22.1% | +71.3% | Esticada |
-| Nadine Keßler | 89 | GPFBL | 35k coins | +15% | +64.3% | Esticada |
-| João Pedro | 87 | Premier League | 65k coins | +14.5% | +62.4% | Esticada |
-| Nico O'Reilly | 87 | — | 80k coins | +20.3% | +60% | Esticada |
-| Hanna Lundkvist | 87 | Barclays WSL | 57k coins | +14.6% | +57.2% | Momentum moderado |
-| Andrej Kramarić | 89 | Bundesliga | 17.000 coins | +22.5% | +55.6% | Esticada |
-| Ramy Bensebaini | 87 | — | 68k coins | +3.8% | +55.4% | Momentum moderado |
-| Granit Xhaka | 89 | Premier League | 77k coins | +15.8% | +54% | Momentum moderado |
+| Sydney Leroux | 88 | NWSL | 61k coins | +7% | +87.7% | Esticada |
+| Vivianne Miedema | 87 | — | 63k coins | +14.5% | +78.7% | Esticada |
+| Louisa Necib | 88 | D1 Arkema | 86k coins | +13.1% | +75.6% | Esticada |
+| Emmanuel Petit | 87 | Icons | 208k coins | +8.2% | +73% | Esticada |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +7.7% | +70.7% | Esticada |
+| Janina Minge | 88 | — | 25k coins | +28.7% | +68.9% | Esticada |
+| Nadine Keßler | 89 | GPFBL | 32k coins | +9.2% | +57.8% | Momentum moderado |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 56k coins | +15.6% | +56.5% | Momentum moderado |
 | Pernille Harder | 87 | GPFBL | 55k coins | +36.6% | +52.8% | Esticada |
-| Julia Grosso | 88 | NWSL | 20k coins | +13.6% | +49.3% | Momentum moderado |
-| David Raya | 88 | Premier League | 45k coins | +16.9% | +47.5% | Momentum moderado |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 39k coins | +23.1% | +45.5% | Esticada |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +9.4% | +40% | Momentum moderado |
+| Ashley Sanchez | 88 | NWSL | 96k coins | +3.7% | +52.3% | Momentum moderado |
+| Mikkel Damsgaard | 88 | — | 50k coins | +27.6% | +49.7% | Esticada |
+| Noah Ohio | 87 | LaLiga Hypermotion | 32k coins | +38.5% | +49.4% | Esticada |
+| Finn Azaz | 88 | EFL Championship | 48k coins | +33.6% | +47.7% | Esticada |
+| Hanna Lundkvist | 87 | Barclays WSL | 50k coins | +8.1% | +47.6% | Momentum moderado |
+| Sveindís Jane Jónsdóttir | 88 | — | 138k coins | +7% | +45.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sydney Leroux (88)** — 65k coins, **+80.6% em 7 dias** (+14% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sydney Leroux (88)** — 61k coins, **+87.7% em 7 dias** (+7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Louisa Necib (88)** — 86k coins, **+80.2% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vivianne Miedema (87)** — 63k coins, **+78.7% em 7 dias** (+14.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Morgan Rogers (87)** — 149k coins, **+71.3% em 7 dias** (+22.1% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Louisa Necib (88)** — 86k coins, **+75.6% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (89)** — 35k coins, **+64.3% em 7 dias** (+15% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Petit (87)** — 208k coins, **+73% em 7 dias** (+8.2% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Pedro (87)** — 65k coins, **+62.4% em 7 dias** (+14.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Icardi (87)** — 70k coins, **+70.7% em 7 dias** (+7.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Sydney Leroux (88, NWSL) lidera, com +80.6% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sydney Leroux (88, NWSL) lidera, com +87.7% em 7 dias a 61k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
