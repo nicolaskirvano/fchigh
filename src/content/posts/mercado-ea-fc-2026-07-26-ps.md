@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:39:09.000Z
+pubDatetime: 2026-07-26T19:39:07.000Z
 title: "Mercado EA FC em 26/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Carlos Tévez (88, Premier League), com +57.7% em 24h, a 20k coins no Console (PS)."
+    a: "Yaya Touré (87, Premier League), com +58.2% em 24h, a 530k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Vanessa Fudalla (88), -47.2% em 24h, a 28k coins."
+    a: "Ryan Gravenberch (87), -49.7% em 24h, a 39k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 226 cartas em alta contra 240 em queda (média 3.09%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 220 cartas em alta contra 193 em queda (média 3.5%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **226 subiram** e **240 caíram**, com variação média de **3.09%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **220 subiram** e **193 caíram**, com variação média de **3.5%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Carlos Tévez (88) **+57.7%** · 🔴 **Maior baixa:** Vanessa Fudalla (88) **-47.2%**
+> 🟢 **Maior alta:** Yaya Touré (87) **+58.2%** · 🔴 **Maior baixa:** Ryan Gravenberch (87) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 539 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 512 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Tévez | 88 | Premier League | 20k coins | +57.7% | -31.1% |
-| Aron Dønnum | 87 | Ligue 1 McDonald's | 21k coins | +57.4% | +10.4% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 365k coins | +53.1% | -5.2% |
-| Naomi Girma | 87 | Barclays WSL | 70k coins | +52.9% | +16.3% |
-| Gonçalo Inácio | 89 | Liga Portugal | 42k coins | +50.4% | +24.1% |
-| Robert Lewandowski | 88 | LALIGA EA SPORTS | 261k coins | +49.7% | -34.2% |
-| Rodrigo Mora | 88 | Liga Portugal | 60k coins | +46.3% | +100% |
-| Larissa Mühlhaus | 87 | GPFBL | 22k coins | +46% | -51.1% |
-| Bremer | 88 | Serie A TIM | 273k coins | +45% | -18% |
-| Finn Azaz | 88 | EFL Championship | 59k coins | +44.4% | +30% |
+| Yaya Touré | 87 | Premier League | 530k coins | +58.2% | -8.6% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 24k coins | +57.1% | -12% |
+| Clint Dempsey | 89 | Premier League | 115k coins | +54.4% | +1.5% |
+| Julia Grosso | 88 | NWSL | 26k coins | +52.1% | -1.8% |
+| Beth Mead | 88 | Barclays WSL | 81k coins | +51.4% | -3.6% |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 33k coins | +51.1% | -10.1% |
+| Rasmus Højlund | 87 | Serie A TIM | 25k coins | +47.6% | +6% |
+| Richard Ríos | 88 | Liga Portugal | 139k coins | +46.1% | -11.9% |
+| Roy Keane | 88 | Icons | 493k coins | +45.2% | +30.3% |
+| James Milner | 88 | Premier League | 68k coins | +44.2% | -46.6% |
 
 
 ### Análise das altas
@@ -61,52 +61,43 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Carlos Tévez (88)** subiu **+57.7%** em 24h, a **20k coins** (faixa do dia: 16.000–30k). Está -16% abaixo da média de 7 dias (descontada).
+- **Yaya Touré (87)** subiu **+58.2%** em 24h, a **530k coins** (faixa do dia: 301k–580k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Aron Dønnum (87)** subiu **+57.4%** em 24h, a **21k coins** (faixa do dia: 12.000–25k). Está +9% acima da média de 7 dias (aquecida).
+- **Fabián Ruiz (88)** subiu **+57.1%** em 24h, a **24k coins** (faixa do dia: 14.000–36k). Está em linha com a média de 7 dias (+3%).
 
-- **Eduardo Camavinga (87)** subiu **+53.1%** em 24h, a **365k coins** (faixa do dia: 156k–600k). Está +34% acima da média de 7 dias (aquecida).
+- **Clint Dempsey (89)** subiu **+54.4%** em 24h, a **115k coins** (faixa do dia: 67k–132k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vanessa Fudalla | 88 | GPFBL | 28k coins | -47.2% | -13% |
-| Sam Kerr | 88 | Barclays WSL | 32k coins | -41.7% | -44% |
-| Rasmus Højlund | 87 | Serie A TIM | 26k coins | -41.2% | -49.6% |
-| Jerzy Dudek | 87 | Premier League | 24k coins | -39.9% | -24% |
-| Wesley | 88 | Serie A TIM | 25k coins | -35.9% | -77.9% |
-| Denzel Dumfries | 89 | Serie A TIM | 23k coins | -35.3% | -44.3% |
-| Lewis Hall | 89 | Premier League | 50k coins | -32.7% | -49.5% |
-| Emilie Haavi | 87 | Calcio A Femminile | 20k coins | -32.3% | -17.6% |
-| Joshua Zirkzee | 87 | Premier League | 28k coins | -30.3% | -28.3% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 22k coins | -29.4% | -31% |
+| Ryan Gravenberch | 87 | Premier League | 39k coins | -49.7% | -10.3% |
+| Iván Córdoba | 88 | Serie A TIM | 33k coins | -47.2% | -49.6% |
+| Morgan Rogers | 87 | Premier League | 46k coins | -45.6% | -61.5% |
+| Tariq Lamptey | 89 | — | 26k coins | -41.8% | -26.2% |
+| Luis Díaz | 89 | Bundesliga | 100k coins | -38.9% | -55% |
+| Emilie Haavi | 87 | Calcio A Femminile | 24k coins | -37.9% | -24.5% |
+| Antonio Di Natale | 88 | Serie A TIM | 38k coins | -37.3% | -60% |
+| Kyle Walker | 89 | Premier League | 89k coins | -36.9% | -69.5% |
+| Gabriel Martinelli | 87 | Premier League | 50k coins | -36.8% | -39.9% |
+| Kevin De Bruyne | 89 | Serie A TIM | 58k coins | -35% | -46.8% |
 
 
 ### Análise das baixas
 
-- **Vanessa Fudalla (88)** caiu **-47.2%** em 24h, a **28k coins** (faixa do dia: 16.750–60k). Está -22% abaixo da média de 7 dias (descontada).
+- **Ryan Gravenberch (87)** caiu **-49.7%** em 24h, a **39k coins** (faixa do dia: 23k–105k). Está em linha com a média de 7 dias (+4%).
 
-- **Sam Kerr (88)** caiu **-41.7%** em 24h, a **32k coins** (faixa do dia: 13.250–35k). Está +16% acima da média de 7 dias (aquecida).
+- **Iván Córdoba (88)** caiu **-47.2%** em 24h, a **33k coins** (faixa do dia: 32k–80k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Rasmus Højlund (87)** caiu **-41.2%** em 24h, a **26k coins** (faixa do dia: 14.750–32k). Está -18% abaixo da média de 7 dias (descontada).
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
-
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| John Barnes | 89 | 65k coins | -2.3% |
+- **Morgan Rogers (87)** caiu **-45.6%** em 24h, a **46k coins** (faixa do dia: 46k–92k). Está -56% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Carlos Tévez já avançou 57.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Yaya Touré já avançou 58.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vanessa Fudalla recuou -47.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ryan Gravenberch recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Carlos Tévez (88, Premier League), com +57.7% em 24h, a 20k coins no Console (PS).
+Yaya Touré (87, Premier League), com +58.2% em 24h, a 530k coins no Console (PS).
 
 **E a maior queda do dia?**
-Vanessa Fudalla (88), -47.2% em 24h, a 28k coins.
+Ryan Gravenberch (87), -49.7% em 24h, a 39k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 226 cartas em alta contra 240 em queda (média 3.09%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 220 cartas em alta contra 193 em queda (média 3.5%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

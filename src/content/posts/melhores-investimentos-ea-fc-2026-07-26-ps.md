@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:39:10.000Z
+pubDatetime: 2026-07-26T19:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Edwin van der Sar (88, Icons) lidera, com +82% em 7 dias a 157k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rodrigo Mora (88, Liga Portugal) lidera, com +76.2% em 7 dias a 57k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Edwin van der Sar (88) acumula **+82% em 7 dias** a 157k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rodrigo Mora (88) acumula **+76.2% em 7 dias** a 57k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.0% em 24h** e **+34.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+35.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Edwin van der Sar | 88 | Icons | 157k coins | +40% | +82% | Esticada |
-| Julian Quiñones | 87 | ROSHN Saudi League | 61k coins | +35.5% | +68.7% | Esticada |
-| Ashley Sanchez | 88 | NWSL | 82k coins | +18% | +51.9% | Momentum moderado |
-| Iván Zamorano | 88 | LALIGA EA SPORTS | 15.250 coins | +22.4% | +44.9% | Esticada |
-| Rose Lavelle | 89 | NWSL | 73k coins | +5.7% | +41% | Momentum moderado |
-| Can Bozdoğan | 87 | Eredivisie | 17.000 coins | +11.1% | +40.4% | Momentum moderado |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 105k coins | +27.5% | +34.6% | Esticada |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 50k coins | +10.6% | +34.5% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 45k coins | +11.1% | +33.3% | Momentum moderado |
-| Steffi Jones | 89 | Icons | 48k coins | +12.9% | +33.3% | Momentum moderado |
-| Rose Lavelle | 88 | NWSL | 52k coins | +4.8% | +25.7% | Momentum moderado |
-| Mikkel Damsgaard | 88 | — | 46k coins | +17.5% | +23.7% | Momentum moderado |
-| Matteo Politano | 87 | — | 46k coins | +22% | +22% | Esticada |
-| Johan Bakayoko | 88 | Bundesliga | 25k coins | +30.8% | +21.4% | Esticada |
-| Lautaro Martínez | 89 | Serie A TIM | 70k coins | +18.3% | +21.1% | Momentum moderado |
+| Rodrigo Mora | 88 | Liga Portugal | 57k coins | +38.8% | +76.2% | Esticada |
+| Ada Hegerberg | 88 | Frauen-Bundesliga | 99k coins | +39.2% | +70.1% | Esticada |
+| Kerolin Nicoli | 87 | Barclays WSL | 110k coins | +7.8% | +69.2% | Esticada |
+| Lindsey Heaps | 88 | D1 Arkema | 156k coins | +12.9% | +62.7% | Esticada |
+| António Silva | 87 | Liga Portugal | 24k coins | +2.1% | +53.1% | Momentum moderado |
+| Christian Günter | 88 | Bundesliga | 38k coins | +7% | +41.7% | Momentum moderado |
+| Can Bozdoğan | 87 | Eredivisie | 17.500 coins | +7% | +38.2% | Momentum moderado |
+| Julian Quiñones | 87 | ROSHN Saudi League | 50k coins | +10.6% | +35.4% | Momentum moderado |
+| Filip Kostić | 88 | Serie A TIM | 24k coins | +17.5% | +32.4% | Momentum moderado |
+| Jess Fishlock | 88 | NWSL | 32k coins | +13.5% | +31.2% | Momentum moderado |
+| Chibuike Nwaiwu | 87 | — | 40k coins | +28.6% | +28.6% | Esticada |
+| Ederson | 87 | Trendyol Süper Lig | 57k coins | +27.2% | +28.6% | Esticada |
+| Sandro Tonali | 87 | Premier League | 49k coins | +16.7% | +28.1% | Momentum moderado |
+| Roy Makaay | 87 | Bundesliga | 15.500 coins | +27.7% | +25% | Esticada |
+| Rasmus Højlund | 87 | Serie A TIM | 50k coins | +25% | +25% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Edwin van der Sar (88)** — 157k coins, **+82% em 7 dias** (+40% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Mora (88)** — 57k coins, **+76.2% em 7 dias** (+38.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Quiñones (87)** — 61k coins, **+68.7% em 7 dias** (+35.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ada Hegerberg (88)** — 99k coins, **+70.1% em 7 dias** (+39.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Sanchez (88)** — 82k coins, **+51.9% em 7 dias** (+18% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kerolin Nicoli (87)** — 110k coins, **+69.2% em 7 dias** (+7.8% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iván Zamorano (88)** — 15.250 coins, **+44.9% em 7 dias** (+22.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (88)** — 156k coins, **+62.7% em 7 dias** (+12.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 73k coins, **+41% em 7 dias** (+5.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **António Silva (87)** — 24k coins, **+53.1% em 7 dias** (+2.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Edwin van der Sar (88, Icons) lidera, com +82% em 7 dias a 157k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rodrigo Mora (88, Liga Portugal) lidera, com +76.2% em 7 dias a 57k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
