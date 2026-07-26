@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:39:18.000Z
+pubDatetime: 2026-07-26T13:39:18.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 26/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.3% em 24h** e **+58.2% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.4% em 24h** e **+37.4% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mikael Ishak | 87 | PKO BP Ekstraklasa | 150k coins | +24% | +89.9% | Esticada |
-| Ramy Bensebaini | 87 | — | 71k coins | +1.4% | +88.1% | Esticada |
-| Tijjani Reijnders | 87 | Premier League | 130k coins | +23.8% | +81.8% | Esticada |
-| Croix Bethune | 89 | NWSL | 38k coins | +27.1% | +78.6% | Esticada |
-| Charles De Ketelaere | 88 | Serie A TIM | 180k coins | +5.3% | +74.8% | Esticada |
-| Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +65% | Esticada |
-| Senne Lammens | 88 | Premier League | 95k coins | +20.3% | +62.4% | Esticada |
-| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +13.8% | +58.2% | Momentum moderado |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 32k coins | +26% | +57.5% | Esticada |
-| Julian Quiñones | 87 | ROSHN Saudi League | 72k coins | +38.8% | +57.1% | Esticada |
-| Enzo Millot | 89 | ROSHN Saudi League | 29k coins | +29.2% | +53.3% | Esticada |
-| Ricardo Pepi | 87 | Eredivisie | 42k coins | +12% | +52.7% | Momentum moderado |
-| Gabriel Martinelli | 87 | Premier League | 123k coins | +26.2% | +49.1% | Esticada |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 159k coins | +6.7% | +45.9% | Momentum moderado |
-| Tom Bischof | 87 | — | 56k coins | +18.1% | +45.1% | Momentum moderado |
+| Yui Hasegawa | 87 | Barclays WSL | 65k coins | +12.6% | +62.4% | Esticada |
+| Jaden Philogene | 87 | EFL Championship | 58k coins | +23.2% | +61.4% | Esticada |
+| Rubén García | 87 | LALIGA EA SPORTS | 27k coins | +17.4% | +56.5% | Momentum moderado |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 28k coins | +25% | +43.8% | Esticada |
+| Debinha | 89 | NWSL | 98k coins | +2.1% | +41.7% | Momentum moderado |
+| Saki Kumagai | 88 | Barclays WSL | 24k coins | +34.3% | +38.2% | Esticada |
+| Rocío Gálvez | 88 | Liga F | 33k coins | +11.5% | +37.4% | Momentum moderado |
+| Mërgim Vojvoda | 87 | — | 48k coins | +11.5% | +34.7% | Momentum moderado |
+| Santiago Castro | 87 | Serie A TIM | 20k coins | +14.5% | +31.8% | Momentum moderado |
+| Tom Bischof | 87 | — | 48k coins | +11.7% | +30.7% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 112k coins | +1.8% | +28.7% | Momentum moderado |
+| Vivianne Miedema | 89 | Barclays WSL | 40k coins | +14.4% | +27.7% | Momentum moderado |
+| Ada Hegerberg | 87 | D1 Arkema | 95k coins | +15.2% | +26.7% | Momentum moderado |
+| Cristian Manea | 88 | SUPERLIGA | 46k coins | +3.9% | +23.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Mikael Ishak (87)** — 150k coins, **+89.9% em 7 dias** (+24% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mikael Ishak (87)** — 150k coins, **+89.9% em 7 dias** (+24% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramy Bensebaini (87)** — 71k coins, **+88.1% em 7 dias** (+1.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 65k coins, **+62.4% em 7 dias** (+12.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (87)** — 130k coins, **+81.8% em 7 dias** (+23.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaden Philogene (87)** — 58k coins, **+61.4% em 7 dias** (+23.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (89)** — 38k coins, **+78.6% em 7 dias** (+27.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rubén García (87)** — 27k coins, **+56.5% em 7 dias** (+17.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charles De Ketelaere (88)** — 180k coins, **+74.8% em 7 dias** (+5.3% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Musab Al Juwair (87)** — 28k coins, **+43.8% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

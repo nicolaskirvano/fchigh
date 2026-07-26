@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:39:09.000Z
+pubDatetime: 2026-07-26T13:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Croix Bethune (87, NWSL) lidera, com +83.3% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +66.9% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Croix Bethune (87) acumula **+83.3% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marc-André ter Stegen (89) acumula **+66.9% em 7 dias** a 110k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.7% em 24h** e **+45.7% em 7 dias**.
+- A mediana é de **+14.0% em 24h** e **+25.8% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Croix Bethune | 87 | NWSL | 25k coins | +26.9% | +83.3% | Esticada |
-| Ramy Bensebaini | 87 | — | 75k coins | +15.4% | +74.4% | Esticada |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 106k coins | +7.1% | +58.2% | Momentum moderado |
-| Christian Günter | 88 | Bundesliga | 42k coins | +7% | +57% | Momentum moderado |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 126k coins | +4.1% | +55.6% | Momentum moderado |
-| Vanessa Fudalla | 87 | GPFBL | 60k coins | +29% | +50% | Esticada |
-| Senne Lammens | 88 | Premier League | 80k coins | +17.6% | +46.8% | Momentum moderado |
-| Paula Fernández | 88 | — | 55k coins | +22.9% | +45.7% | Esticada |
-| Ona Batlle | 88 | — | 55k coins | +31.7% | +44.7% | Esticada |
-| Kevin Schade | 88 | Premier League | 31k coins | +14.7% | +42% | Momentum moderado |
-| Miguel Ángel Merentiel | 88 | LPF | 44k coins | +14.3% | +41.9% | Momentum moderado |
-| Murillo | 87 | Premier League | 159k coins | +16.1% | +40.7% | Momentum moderado |
-| Jess Fishlock | 88 | NWSL | 29k coins | +8.4% | +39.8% | Momentum moderado |
-| Igor Paixão | 87 | Ligue 1 McDonald's | 52k coins | +4% | +39.6% | Momentum moderado |
-| Laura Georges | 89 | D1 Arkema | 41k coins | +4.5% | +37.8% | Momentum moderado |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 110k coins | +12.1% | +66.9% | Esticada |
+| Ashley Sanchez | 88 | NWSL | 83k coins | +3.8% | +52.3% | Momentum moderado |
+| Filip Kostić | 88 | Serie A TIM | 26k coins | +5.1% | +46.5% | Momentum moderado |
+| Ada Hegerberg | 88 | Frauen-Bundesliga | 110k coins | +28.7% | +35.8% | Esticada |
+| Itziar Pinillos | 87 | — | 45k coins | +17.1% | +32.4% | Momentum moderado |
+| Johan Bakayoko | 88 | Bundesliga | 27k coins | +8% | +28.6% | Momentum moderado |
+| Mario Lemina | 88 | Trendyol Süper Lig | 40k coins | +6% | +27.2% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 122k coins | +14% | +25.8% | Momentum moderado |
+| Ko Itakura | 88 | Eredivisie | 21k coins | +37.5% | +25.7% | Esticada |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 34k coins | +7.9% | +24.8% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 111k coins | +30.4% | +22.4% | Esticada |
+| Trinity Rodman | 87 | NWSL | 160k coins | +15.1% | +21.2% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 46k coins | +4.9% | +20.8% | Entrada a observar |
+| Rose Lavelle | 89 | NWSL | 77k coins | +28.3% | +20.3% | Esticada |
+| Lautaro Martínez | 89 | Serie A TIM | 74k coins | +18.3% | +20.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Croix Bethune (87)** — 25k coins, **+83.3% em 7 dias** (+26.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc-André ter Stegen (89)** — 110k coins, **+66.9% em 7 dias** (+12.1% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramy Bensebaini (87)** — 75k coins, **+74.4% em 7 dias** (+15.4% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (88)** — 83k coins, **+52.3% em 7 dias** (+3.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc-André ter Stegen (89)** — 106k coins, **+58.2% em 7 dias** (+7.1% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Filip Kostić (88)** — 26k coins, **+46.5% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Günter (88)** — 42k coins, **+57% em 7 dias** (+7% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ada Hegerberg (88)** — 110k coins, **+35.8% em 7 dias** (+28.7% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ada Hegerberg (88)** — 126k coins, **+55.6% em 7 dias** (+4.1% em 24h). Preço +76% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Itziar Pinillos (87)** — 45k coins, **+32.4% em 7 dias** (+17.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Croix Bethune (87, NWSL) lidera, com +83.3% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +66.9% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
