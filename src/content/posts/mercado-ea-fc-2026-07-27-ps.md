@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:39:08.000Z
+pubDatetime: 2026-07-27T22:39:07.000Z
 title: "Mercado EA FC em 27/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Morgan Rogers (87, Premier League), com +54.1% em 24h, a 60k coins no Console (PS)."
+    a: "Julian Quiñones (87, ROSHN Saudi League), com +57.3% em 24h, a 65k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alexandra Popp (89), -48.1% em 24h, a 46k coins."
+    a: "Heung Min Son (88), -46.9% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 214 cartas em alta contra 230 em queda (média 3.5%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 209 cartas em alta contra 237 em queda (média 2.83%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **214 em alta** e **230 em queda**, média de **3.5%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **209 em alta** e **237 em queda**, média de **2.83%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Morgan Rogers (87) **+54.1%** · 🔴 **Maior baixa:** Alexandra Popp (89) **-48.1%**
+> 🟢 **Maior alta:** Julian Quiñones (87) **+57.3%** · 🔴 **Maior baixa:** Heung Min Son (88) **-46.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 530 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 505 cartas.
+- **Concentração:** MLS aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Morgan Rogers | 87 | Premier League | 60k coins | +54.1% | -52.7% |
-| Ian Maatsen | 89 | Premier League | 22k coins | +51.7% | +2.3% |
-| Can Bozdoğan | 87 | Eredivisie | 20k coins | +50% | +77% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 68k coins | +50% | -14% |
-| Pavel Nedvěd | 89 | Icons | 357k coins | +48.8% | +28.4% |
-| Aleksandar Pavlović | 89 | Bundesliga | 23k coins | +47.3% | +21.1% |
-| Firas Al Birekan | 89 | ROSHN Saudi League | 23k coins | +46.2% | -7.1% |
-| Barbara Bonansea | 87 | Calcio A Femminile | 21k coins | +45.8% | -9.5% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 110k coins | +44.3% | -40.9% |
-| Martin Ødegaard | 87 | Premier League | 151k coins | +43.8% | -2.6% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 65k coins | +57.3% | +61.3% |
+| Malcom | 87 | ROSHN Saudi League | 69k coins | +56.8% | +43.8% |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 34k coins | +55.6% | +16.7% |
+| Marco Reus | 89 | MLS | 296k coins | +55.1% | -20.9% |
+| Sydney Leroux | 88 | NWSL | 54k coins | +53.2% | +60.5% |
+| Ché Adams | 89 | Serie A TIM | 35k coins | +52.8% | -27.6% |
+| Lukas Klostermann | 88 | Bundesliga | 226k coins | +52.6% | +64.1% |
+| Quaresma | 89 | Liga Portugal | 216k coins | +50.7% | -11% |
+| Nwankwo Kanu | 87 | Premier League | 20k coins | +50% | -44% |
+| Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +46.8% | +66.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Morgan Rogers (87)** subiu **+54.1%** em 24h, a **60k coins** (faixa do dia: 39k–111k). Está -39% abaixo da média de 7 dias (descontada).
+- **Julian Quiñones (87)** subiu **+57.3%** em 24h, a **65k coins** (faixa do dia: 40k–74k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Ian Maatsen (89)** subiu **+51.7%** em 24h, a **22k coins** (faixa do dia: 13.000–33k). Está +9% acima da média de 7 dias (aquecida).
+- **Malcom (87)** subiu **+56.8%** em 24h, a **69k coins** (faixa do dia: 40k–88k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Can Bozdoğan (87)** subiu **+50%** em 24h, a **20k coins** (faixa do dia: 17.250–38k). Está -18% abaixo da média de 7 dias (descontada).
+- **Pierre-Emerick Aubameyang (89)** subiu **+55.6%** em 24h, a **34k coins** (faixa do dia: 11.250–47k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexandra Popp | 89 | GPFBL | 46k coins | -48.1% | +7.5% |
-| Heung Min Son | 88 | MLS | 30k coins | -46.9% | -94.9% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 46k coins | -45.7% | -8.9% |
-| Nico Williams | 87 | LALIGA EA SPORTS | 88k coins | -43.2% | -64.3% |
-| James Milner | 88 | Premier League | 39k coins | -42.6% | -71.7% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 30k coins | -41% | -81.6% |
+| Heung Min Son | 88 | MLS | 30k coins | -46.9% | -94.6% |
+| Viktor Gyökeres | 88 | — | 50k coins | -44.6% | -5.2% |
+| Bastian Schweinsteiger | 89 | Icons | 72k coins | -43.6% | -37.5% |
+| James Milner | 88 | Premier League | 38k coins | -43.2% | -72.6% |
+| Marina Hegering | 87 | GPFBL | 22k coins | -43% | -6.2% |
+| Tara McKeown | 89 | NWSL | 24k coins | -38.6% | +7.8% |
 | Luis Suárez | 89 | MLS | 82k coins | -38.4% | -94.5% |
-| Yaya Touré | 87 | Premier League | 316k coins | -38.3% | -37.9% |
-| Millie Bright | 88 | Barclays WSL | 24k coins | -38.1% | -26.7% |
-| Joelinton | 87 | Premier League | 25k coins | -37.2% | -71.5% |
+| Amaiur Sarriegi | 88 | Liga F | 51k coins | -37.9% | -1.8% |
+| Morata | 87 | Serie A TIM | 35k coins | -37.9% | -47.9% |
+| Eden Hazard | 88 | Premier League | 90k coins | -34.1% | -73.9% |
 
 
 ### Análise das baixas
 
-- **Alexandra Popp (89)** caiu **-48.1%** em 24h, a **46k coins** (faixa do dia: 18.750–100k). Está +44% acima da média de 7 dias (aquecida).
-
 - **Heung Min Son (88)** caiu **-46.9%** em 24h, a **30k coins** (faixa do dia: 30k–56k). Está -88% abaixo da média de 7 dias (descontada).
 
-- **Gerónimo Rulli (87)** caiu **-45.7%** em 24h, a **46k coins** (faixa do dia: 21k–50k). Está +60% acima da média de 7 dias (aquecida).
+- **Viktor Gyökeres (88)** caiu **-44.6%** em 24h, a **50k coins** (faixa do dia: 46k–83k). Está -24% abaixo da média de 7 dias (descontada).
+
+- **Bastian Schweinsteiger (89)** caiu **-43.6%** em 24h, a **72k coins** (faixa do dia: 72k–176k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Morgan Rogers já avançou 54.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Julian Quiñones já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alexandra Popp recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Heung Min Son recuou -46.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Morgan Rogers (87, Premier League), com +54.1% em 24h, a 60k coins no Console (PS).
+Julian Quiñones (87, ROSHN Saudi League), com +57.3% em 24h, a 65k coins no Console (PS).
 
 **E a maior queda do dia?**
-Alexandra Popp (89), -48.1% em 24h, a 46k coins.
+Heung Min Son (88), -46.9% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 214 cartas em alta contra 230 em queda (média 3.5%).
+Hoje o mercado está em alta — predominam as valorizações, com 209 cartas em alta contra 237 em queda (média 2.83%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
