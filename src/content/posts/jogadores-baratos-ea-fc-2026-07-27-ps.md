@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:39:11.000Z
+pubDatetime: 2026-07-27T19:39:10.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 1.600 coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 1.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 1.600 coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 1.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 27/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-27-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 4.403 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 1.600 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 3.647 coins.
+- **Posição mais frequente:** GK, com 3 cartas.
+- **Faixa real:** 1.500 a 5.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 1.600 coins | +20% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.000 coins | +50% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.600 coins | +16.1% |
-| Alisson | 89 | GK | Premier League | 3.700 coins | +20% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3.700 coins | +9.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.800 coins | +14.7% |
-| Mariona | 89 | CM | Barclays WSL | 3.900 coins | +30% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4.000 coins | +14.3% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 4.000 coins | +15.6% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.000 coins | +12.5% |
-| Mapi León | 89 | CB | Liga F | 4.300 coins | +8.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4.600 coins | +24.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.300 coins | -6.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.300 coins | +10.4% |
-| Ian Rush | 89 | ST | — | 11.250 coins | -4.3% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 1.500 coins | +16.1% |
+| Alessia Russo | 89 | ST | Barclays WSL | 2.900 coins | +45% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.300 coins | +28.6% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 3.400 coins | +23.3% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 3.500 coins | +20% |
+| Mariona | 89 | CM | Barclays WSL | 3.500 coins | +20% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.600 coins | +16.1% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.700 coins | +20% |
+| Alisson | 89 | GK | Premier League | 3.700 coins | +27.6% |
+| Mapi León | 89 | CB | Liga F | 3.900 coins | +18.2% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4.000 coins | +37.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 4.000 coins | +15.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.200 coins | +8.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4.500 coins | -2.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.000 coins | -3.7% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **1.500 coins**
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **2.900 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Alisson (89, GK)** da Premier League, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **3.400 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **3.700 coins**
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Thibaut Courtois (89, GK) por 3.600 coins é a referência de rating deste recorte.
+- **Defesa:** Achraf Hakimi (89, RB) por 1.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 1.600 coins é a referência de rating deste recorte.
+- **Meio:** Raphinha (89, LM) por 3.400 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alessia Russo (89, ST) por 3.000 coins é a referência de rating deste recorte.
+- **Ataque:** Alessia Russo (89, ST) por 2.900 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 1.600 coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 1.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
