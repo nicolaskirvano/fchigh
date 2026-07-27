@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:39:20.000Z
+pubDatetime: 2026-07-27T16:39:20.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 27/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.500 coins no PC."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.800 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2.500 coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2.800 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 27/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-27-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 4.960 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.500 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 4.293 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.800 a 6.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2.500 coins | -7.1% |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.300 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.500 coins | +5.7% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 3.600 coins | +14.3% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.600 coins | +2.8% |
-| Alisson | 89 | GK | Premier League | 3.700 coins | +2.8% |
+| Harry Kane | 89 | ST | Bundesliga | 2.800 coins | +11.1% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.400 coins | +3.3% |
+| Mariona | 89 | CM | Barclays WSL | 3.700 coins | +5.7% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 3.800 coins | +30% |
 | Mapi León | 89 | CB | Liga F | 3.800 coins | +2.7% |
-| Mariona | 89 | CM | Barclays WSL | 3.800 coins | +5.7% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 4.000 coins | +30% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.400 coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.500 coins | +12.2% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 5.400 coins | +19.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.800 coins | +20% |
-| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 3.900 coins | +8.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 4.000 coins | +25.7% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4.000 coins | +2.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.300 coins | +2.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.400 coins | 0% |
+| Alisson | 89 | GK | Premier League | 4.500 coins | +14.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.600 coins | +12.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.400 coins | +31% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.800 coins | +1.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.000 coins | +1.7% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2.800 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.500 coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3.700 coins**
 
-- **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **3.600 coins**
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **3.800 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3.600 coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **3.800 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Gianluigi Donnarumma (89, GK) por 3.500 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 3.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Raphinha (89, LM) por 3.600 coins é a referência de rating deste recorte.
+- **Meio:** Mariona (89, CM) por 3.700 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 2.500 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 2.800 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.500 coins no PC.
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.800 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

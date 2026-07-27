@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:39:19.000Z
+pubDatetime: 2026-07-27T16:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Lindsey Heaps (88, D1 Arkema) lidera, com +89% em 7 dias a 189k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lindsey Heaps (88, D1 Arkema) lidera, com +81.7% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lindsey Heaps (88) acumula **+89% em 7 dias** a 189k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lindsey Heaps (88) acumula **+81.7% em 7 dias** a 169k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+25.9% em 24h** e **+47.4% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.4% em 24h** e **+50.0% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 88 | D1 Arkema | 189k coins | +39% | +89% | Esticada |
-| Alex Scott | 89 | Barclays WSL | 98k coins | +38.9% | +81.8% | Esticada |
-| Croix Bethune | 89 | NWSL | 32k coins | +12.9% | +79.5% | Esticada |
-| Declan Rice | 89 | Premier League | 112k coins | +17.9% | +78.4% | Esticada |
-| Mario Götze | 88 | Bundesliga | 55k coins | +38.4% | +59.4% | Esticada |
-| Kasper Høgh | 87 | Eliteserien | 135k coins | +1.4% | +57.9% | Momentum moderado |
-| Jerzy Dudek | 87 | Premier League | 48k coins | +18.8% | +52% | Momentum moderado |
-| Sveindís Jane Jónsdóttir | 88 | — | 132k coins | +26.1% | +47.4% | Esticada |
-| Narcis Ilaș | 87 | SUPERLIGA | 30k coins | +40% | +46.9% | Esticada |
-| Maya Le Tissier | 88 | Barclays WSL | 115k coins | +3.4% | +44.6% | Momentum moderado |
-| Ladislav Krejčí | 87 | — | 50k coins | +31.6% | +44.4% | Esticada |
-| Grimaldo | 88 | — | 60k coins | +25.9% | +41.7% | Esticada |
-| Granit Xhaka | 89 | Premier League | 82k coins | +14.1% | +41.7% | Momentum moderado |
-| Steve McManaman | 89 | Premier League | 52k coins | +15.8% | +38.4% | Momentum moderado |
-| Laura Freigang | 87 | — | 65k coins | +30.7% | +38.3% | Esticada |
+| Lindsey Heaps | 88 | D1 Arkema | 169k coins | +39% | +81.7% | Esticada |
+| David Raum | 87 | Bundesliga | 26k coins | +23.9% | +78.7% | Esticada |
+| Can Bozdoğan | 87 | Eredivisie | 32k coins | +5.8% | +62.8% | Esticada |
+| Pascal Groß | 87 | Premier League | 36k coins | +11.9% | +59.6% | Momentum moderado |
+| Grimaldo | 88 | — | 67k coins | +34.7% | +55.8% | Esticada |
+| Nico Schlotterbeck | 87 | Bundesliga | 85k coins | +1.2% | +53.7% | Momentum moderado |
+| Jens Petter Hauge | 88 | Eliteserien | 112k coins | +7.4% | +51.6% | Momentum moderado |
+| Croix Bethune | 89 | NWSL | 28k coins | +14% | +50% | Momentum moderado |
+| Filip Kostić | 88 | Serie A TIM | 34k coins | +35.6% | +48.4% | Esticada |
+| Klara Bühl | 88 | GPFBL | 50k coins | +16.6% | +45.7% | Momentum moderado |
+| Sadio Mané | 87 | — | 53k coins | +27.4% | +45.6% | Esticada |
+| Tim Cahill | 89 | Premier League | 80k coins | +18.4% | +45% | Momentum moderado |
+| Pernille Harder | 87 | Liga F | 58k coins | +30% | +42.7% | Esticada |
+| Jaedyn Shaw | 89 | NWSL | 47k coins | +7.5% | +41.7% | Momentum moderado |
+| Laura Freigang | 87 | — | 65k coins | +28.7% | +39% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Lindsey Heaps (88)** — 189k coins, **+89% em 7 dias** (+39% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (88)** — 169k coins, **+81.7% em 7 dias** (+39% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alex Scott (89)** — 98k coins, **+81.8% em 7 dias** (+38.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (87)** — 26k coins, **+78.7% em 7 dias** (+23.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (89)** — 32k coins, **+79.5% em 7 dias** (+12.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Can Bozdoğan (87)** — 32k coins, **+62.8% em 7 dias** (+5.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 112k coins, **+78.4% em 7 dias** (+17.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pascal Groß (87)** — 36k coins, **+59.6% em 7 dias** (+11.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mario Götze (88)** — 55k coins, **+59.4% em 7 dias** (+38.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (88)** — 67k coins, **+55.8% em 7 dias** (+34.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Lindsey Heaps (88, D1 Arkema) lidera, com +89% em 7 dias a 189k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lindsey Heaps (88, D1 Arkema) lidera, com +81.7% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
