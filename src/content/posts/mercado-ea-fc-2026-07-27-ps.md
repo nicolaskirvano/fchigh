@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:39:09.000Z
+pubDatetime: 2026-07-27T13:39:08.000Z
 title: "Mercado EA FC em 27/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Rodrigo Mora (88, Liga Portugal), com +58.6% em 24h, a 56k coins no Console (PS)."
+    a: "Dunga (89, Icons), com +60% em 24h, a 109k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Dominik Szoboszlai (87), -48.2% em 24h, a 58k coins."
+    a: "Anthony Nwakaeme (87), -46.3% em 24h, a 29k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 258 cartas em alta contra 223 em queda (média 7.68%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 276 cartas em alta contra 191 em queda (média 9.31%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **258 em alta** e **223 em queda**, média de **7.68%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **276 em alta** e **191 em queda**, média de **9.31%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rodrigo Mora (88) **+58.6%** · 🔴 **Maior baixa:** Dominik Szoboszlai (87) **-48.2%**
+> 🟢 **Maior alta:** Dunga (89) **+60%** · 🔴 **Maior baixa:** Anthony Nwakaeme (87) **-46.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.6% entre as cartas que se moveram; o universo observado reúne 543 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 59.1% entre as cartas que se moveram; o universo observado reúne 553 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodrigo Mora | 88 | Liga Portugal | 56k coins | +58.6% | +66.9% |
-| Sven Ulreich | 87 | Bundesliga | 34k coins | +54.1% | +48.9% |
-| Alessandro Nesta | 88 | — | 22k coins | +53.6% | +26.5% |
-| Lionel Messi | 87 | MLS | 104k coins | +52.5% | -15.9% |
-| Chris Smalling | 87 | ROSHN Saudi League | 60k coins | +51.9% | +63.3% |
-| Jens Petter Hauge | 88 | Eliteserien | 51k coins | +49.6% | -26.8% |
-| Dunga | 89 | Icons | 120k coins | +48.5% | +7.6% |
-| Mërgim Vojvoda | 87 | — | 67k coins | +48.4% | +78.5% |
-| Julian Quiñones | 87 | ROSHN Saudi League | 66k coins | +48% | +44% |
-| João Pedro | 87 | Premier League | 80k coins | +47.4% | +56.4% |
+| Dunga | 89 | Icons | 109k coins | +60% | +4.3% |
+| Ewa Pajor | 89 | Liga F | 254k coins | +56.4% | +44.3% |
+| Nerea Nevado | 89 | Liga F | 25k coins | +56% | -30.4% |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 45k coins | +55.6% | +72.8% |
+| Serhou Guirassy | 88 | Bundesliga | 37k coins | +54.2% | +48% |
+| Jairzinho | 89 | Icons | 252k coins | +54.1% | -16.6% |
+| Bernardo Silva | 87 | Premier League | 70k coins | +53.8% | +12.9% |
+| Georgia Stanway | 88 | Liga F | 60k coins | +53.8% | +64% |
+| Alyssa Naeher | 88 | NWSL | 21k coins | +53.7% | -15.3% |
+| Zé Roberto | 87 | Bundesliga | 46k coins | +53.1% | +11.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **27/07/2026** (Console (PS)): mercado **em alta** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rodrigo Mora (88)** subiu **+58.6%** em 24h, a **56k coins** (faixa do dia: 30k–60k). Está +38% acima da média de 7 dias (aquecida).
+- **Dunga (89)** subiu **+60%** em 24h, a **109k coins** (faixa do dia: 68k–215k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Sven Ulreich (87)** subiu **+54.1%** em 24h, a **34k coins** (faixa do dia: 21k–34k). Está +31% acima da média de 7 dias (aquecida).
+- **Ewa Pajor (89)** subiu **+56.4%** em 24h, a **254k coins** (faixa do dia: 179k–280k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Alessandro Nesta (88)** subiu **+53.6%** em 24h, a **22k coins** (faixa do dia: 11.250–24k). Está +32% acima da média de 7 dias (aquecida).
+- **Nerea Nevado (89)** subiu **+56%** em 24h, a **25k coins** (faixa do dia: 11.500–44k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominik Szoboszlai | 87 | Premier League | 58k coins | -48.2% | -41.6% |
-| Lucy Bronze | 88 | Barclays WSL | 41k coins | -47.2% | -30.4% |
-| Mallory Swanson | 88 | NWSL | 66k coins | -45.1% | -48.8% |
-| Antonio Di Natale | 89 | Serie A TIM | 52k coins | -43.7% | -74.8% |
-| Nadine Keßler | 89 | GPFBL | 22k coins | -42.4% | +37.9% |
-| Lauren James | 89 | Barclays WSL | 22k coins | -42% | -65.5% |
-| Charles De Ketelaere | 88 | Serie A TIM | 59k coins | -41.7% | -57.1% |
-| Khéphren Thuram | 87 | Serie A TIM | 54k coins | -40.9% | -37.4% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 269k coins | -40% | -8.1% |
-| Taylor Flint | 88 | NWSL | 53k coins | -40% | -64.7% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 29k coins | -46.3% | -9.3% |
+| Francisco Conceição | 89 | Serie A TIM | 38k coins | -45% | +30.3% |
+| Ricardo Pepi | 87 | Eredivisie | 22k coins | -45% | -31.2% |
+| Dominik Szoboszlai | 87 | Premier League | 56k coins | -44.3% | -42.1% |
+| Iván Córdoba | 88 | Serie A TIM | 38k coins | -40.4% | -56.9% |
+| Sissi | 88 | Icons | 40k coins | -39.6% | -25.7% |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 28k coins | -38.9% | -17.3% |
+| Antonio Di Natale | 89 | Serie A TIM | 50k coins | -38.3% | -76.4% |
+| Lucy Bronze | 88 | Barclays WSL | 38k coins | -37.7% | -43.9% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 84k coins | -36% | -73.5% |
 
 
 ### Análise das baixas
 
-- **Dominik Szoboszlai (87)** caiu **-48.2%** em 24h, a **58k coins** (faixa do dia: 50k–114k). Está -40% abaixo da média de 7 dias (descontada).
+- **Anthony Nwakaeme (87)** caiu **-46.3%** em 24h, a **29k coins** (faixa do dia: 14.000–68k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Lucy Bronze (88)** caiu **-47.2%** em 24h, a **41k coins** (faixa do dia: 41k–79k). Está -46% abaixo da média de 7 dias (descontada).
+- **Francisco Conceição (89)** caiu **-45%** em 24h, a **38k coins** (faixa do dia: 18.000–78k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Mallory Swanson (88)** caiu **-45.1%** em 24h, a **66k coins** (faixa do dia: 16.500–177k). Está em linha com a média de 7 dias (+3%).
+- **Ricardo Pepi (87)** caiu **-45%** em 24h, a **22k coins** (faixa do dia: 11.000–22k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rodrigo Mora já avançou 58.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Dunga já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Dominik Szoboszlai recuou -48.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anthony Nwakaeme recuou -46.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Rodrigo Mora (88, Liga Portugal), com +58.6% em 24h, a 56k coins no Console (PS).
+Dunga (89, Icons), com +60% em 24h, a 109k coins no Console (PS).
 
 **E a maior queda do dia?**
-Dominik Szoboszlai (87), -48.2% em 24h, a 58k coins.
+Anthony Nwakaeme (87), -46.3% em 24h, a 29k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 258 cartas em alta contra 223 em queda (média 7.68%).
+Hoje o mercado está em alta — predominam as valorizações, com 276 cartas em alta contra 191 em queda (média 9.31%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
