@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:39:20.000Z
+pubDatetime: 2026-07-28T19:39:20.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 28/07 — PC"
 draft: false
 featured: false
