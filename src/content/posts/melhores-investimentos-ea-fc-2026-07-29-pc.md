@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:39:19.000Z
+pubDatetime: 2026-07-29T19:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 29/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Martín Cauteruccio (87, Libertadores) lidera, com +80% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patrick Kluivert (87, Icons) lidera, com +82.6% em 7 dias a 168k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Martín Cauteruccio (87) acumula **+80% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patrick Kluivert (87) acumula **+82.6% em 7 dias** a 168k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 29/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-29-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.0% em 24h** e **+56.5% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.4% em 24h** e **+65.8% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Martín Cauteruccio | 87 | Libertadores | 45k coins | +14.6% | +80% | Esticada |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 90k coins | +12.5% | +73.1% | Esticada |
-| Maxence Lacroix | 87 | Premier League | 159k coins | +6% | +71.9% | Esticada |
-| Fabio Cannavaro | 89 | Icons | 230k coins | +2% | +71.2% | Esticada |
+| Patrick Kluivert | 87 | Icons | 168k coins | +38.8% | +82.6% | Esticada |
+| Tara McKeown | 89 | NWSL | 28k coins | +28.4% | +73.8% | Esticada |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 21k coins | +6.3% | +71.4% | Esticada |
+| Beto | 87 | — | 62k coins | +28.3% | +69.3% | Esticada |
+| Martín Cauteruccio | 87 | Libertadores | 42k coins | +7.6% | +69% | Esticada |
+| Rose Lavelle | 89 | NWSL | 60k coins | +19.4% | +68.5% | Esticada |
+| Sadio Mané | 87 | — | 64k coins | +10.3% | +66.2% | Esticada |
 | Lautaro Martínez | 89 | Serie A TIM | 92k coins | +5.1% | +65.8% | Esticada |
-| Hakan Çalhanoğlu | 88 | — | 74k coins | +13.1% | +63.3% | Esticada |
-| Shelina Zadorsky | 87 | Barclays WSL | 96k coins | +3.8% | +60% | Esticada |
-| John Arne Riise | 88 | Premier League | 35k coins | +11.6% | +56.5% | Momentum moderado |
-| Jay-Jay Okocha | 88 | Premier League | 65k coins | +3.4% | +51.9% | Momentum moderado |
-| Katie McCabe | 88 | Barclays Women’s Super League | 62k coins | +8.7% | +48.8% | Momentum moderado |
-| Vanessa Fudalla | 87 | GPFBL | 70k coins | +11.1% | +47.4% | Momentum moderado |
-| Itziar Pinillos | 87 | — | 58k coins | +1.8% | +45.6% | Momentum moderado |
-| Julia Grosso | 88 | NWSL | 74k coins | +16.9% | +43.4% | Momentum moderado |
-| Pernille Harder | 87 | Liga F | 60k coins | +2.6% | +42.9% | Momentum moderado |
-| Katie McCabe | 89 | Barclays WSL | 31k coins | +3.4% | +39.5% | Momentum moderado |
+| Bryan Mbeumo | 87 | Premier League | 60k coins | +5.3% | +60.9% | Esticada |
+| Michelle Cooper | 87 | NWSL | 20k coins | +32.5% | +55.9% | Esticada |
+| Fran Kirby | 88 | — | 92k coins | +33.6% | +54.5% | Esticada |
+| Tijjani Reijnders | 87 | Premier League | 126k coins | +27.3% | +53.7% | Esticada |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 250k coins | +5.5% | +53.4% | Momentum moderado |
+| Mikkel Damsgaard | 87 | Premier League | 54k coins | +17.4% | +52.1% | Momentum moderado |
+| Moisés Caicedo | 88 | Premier League | 58k coins | +33% | +51.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Martín Cauteruccio (87)** — 45k coins, **+80% em 7 dias** (+14.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Kluivert (87)** — 168k coins, **+82.6% em 7 dias** (+38.8% em 24h). Preço +95% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi Cazorla (87)** — 90k coins, **+73.1% em 7 dias** (+12.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tara McKeown (89)** — 28k coins, **+73.8% em 7 dias** (+28.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maxence Lacroix (87)** — 159k coins, **+71.9% em 7 dias** (+6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (88)** — 21k coins, **+71.4% em 7 dias** (+6.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabio Cannavaro (89)** — 230k coins, **+71.2% em 7 dias** (+2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beto (87)** — 62k coins, **+69.3% em 7 dias** (+28.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lautaro Martínez (89)** — 92k coins, **+65.8% em 7 dias** (+5.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Martín Cauteruccio (87)** — 42k coins, **+69% em 7 dias** (+7.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Martín Cauteruccio (87, Libertadores) lidera, com +80% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patrick Kluivert (87, Icons) lidera, com +82.6% em 7 dias a 168k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
