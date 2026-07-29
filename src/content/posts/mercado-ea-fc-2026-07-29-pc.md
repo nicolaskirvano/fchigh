@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:39:17.000Z
+pubDatetime: 2026-07-29T16:39:18.000Z
 title: "Mercado EA FC em 29/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Natalia Ramos (87, sem liga), com +57.5% em 24h, a 62k coins no PC."
+    a: "Luis Díaz (87, Bundesliga), com +52.9% em 24h, a 260k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Amar Dedić (88), -49.5% em 24h, a 36k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 19.250 coins."
+    a: "Steffi Jones (89), -31.2% em 24h, a 28k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 214 cartas em alta contra 249 em queda (média 6.27%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 109 cartas em alta contra 115 em queda (média 0.39%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **29/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **214 valorizações** contra **249 quedas** entre as cartas relevantes, com média de **6.27%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **29/07/2026** no PC: dia **indefinido** — sem tendência dominante. **109 valorizações** contra **115 quedas** entre as cartas relevantes, com média de **0.39%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Natalia Ramos (87) **+57.5%** · 🔴 **Maior baixa:** Amar Dedić (88) **-49.5%**
+> 🟢 **Maior alta:** Luis Díaz (87) **+52.9%** · 🔴 **Maior baixa:** Steffi Jones (89) **-31.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -37,24 +35,24 @@ Resumo de **29/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.2% entre as cartas que se moveram; o universo observado reúne 558 cartas.
+- **Amplitude do dia:** 84.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.7% entre as cartas que se moveram; o universo observado reúne 333 cartas.
 - **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Natalia Ramos | 87 | — | 62k coins | +57.5% | +72.6% |
-| Rubén García | 87 | LALIGA EA SPORTS | 42k coins | +57.4% | +150% |
-| Nuno Tavares | 87 | Serie A TIM | 46k coins | +56.7% | +17.5% |
-| Bastian Schweinsteiger | 89 | Icons | 180k coins | +56.5% | +29.5% |
-| Vanessa Fudalla | 87 | GPFBL | 63k coins | +56.4% | +52.5% |
-| Jamie Carragher | 89 | — | 22k coins | +56.4% | -10.4% |
-| Fábio Vieira | 87 | Bundesliga | 38k coins | +56.1% | +93.7% |
-| João Cancelo | 87 | ROSHN Saudi League | 92k coins | +55.4% | +104.3% |
-| Juan Román Riquelme | 88 | Icons | 66k coins | +55.2% | +50% |
-| Sócrates | 89 | Icons | 140k coins | +53.3% | +93.7% |
+| Luis Díaz | 87 | Bundesliga | 260k coins | +52.9% | +18.7% |
+| Ona Batlle | 88 | — | 50k coins | +25% | +31.6% |
+| Anaële Le Moguédec | 88 | D1 Arkema | 23k coins | +21.1% | -14.8% |
+| Maicon | 88 | Serie A TIM | 50k coins | +18.2% | -45.5% |
+| Daniele De Rossi | 89 | Serie A TIM | 160k coins | +17.4% | -0.6% |
+| Julia Grosso | 88 | NWSL | 74k coins | +16.9% | +43.4% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 25k coins | +14.9% | +37% |
+| Daniel James | 87 | Premier League | 385k coins | +14.9% | +51.6% |
+| Martín Cauteruccio | 87 | Libertadores | 45k coins | +14.6% | +80% |
+| Kevin Schade | 88 | Premier League | 60k coins | +14.3% | +17.6% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Resumo de **29/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Natalia Ramos (87)** subiu **+57.5%** em 24h, a **62k coins** (faixa do dia: 37k–65k). Está +27% acima da média de 7 dias (aquecida).
+- **Luis Díaz (87)** subiu **+52.9%** em 24h, a **260k coins** (faixa do dia: 73k–260k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Rubén García (87)** subiu **+57.4%** em 24h, a **42k coins** (faixa do dia: 22k–42k). Está +87% acima da média de 7 dias (aquecida).
+- **Ona Batlle (88)** subiu **+25%** em 24h, a **50k coins** (faixa do dia: 44k–50k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Nuno Tavares (87)** subiu **+56.7%** em 24h, a **46k coins** (faixa do dia: 13.250–70k). Está em linha com a média de 7 dias (+6%).
+- **Anaële Le Moguédec (88)** subiu **+21.1%** em 24h, a **23k coins** (faixa do dia: 23k–23k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Amar Dedić | 88 | — | 36k coins | -49.5% | -26.5% |
-| Marco Reus | 89 | MLS | 266k coins | -49.5% | -32.5% |
-| Koke | 88 | LALIGA EA SPORTS | 42k coins | -48.1% | -61.6% |
-| Philipp Lahm | 89 | Icons | 72k coins | -47.9% | -13.1% |
-| Johan Cruyff | 87 | Icons | 125k coins | -46.1% | -59.5% |
-| Heung Min Son | 88 | MLS | 72k coins | -43.3% | -94.5% |
-| Aron Dønnum | 87 | Ligue 1 McDonald's | 24k coins | -42.3% | +1.1% |
-| Lukáš Haraslín | 89 | Česká Liga | 20k coins | -41.7% | -12.5% |
-| Gervinho | 87 | Serie A TIM | 70k coins | -39.7% | -44% |
-| Rafael Leão | 87 | Serie A TIM | 375k coins | -38% | -60.5% |
+| Steffi Jones | 89 | Icons | 28k coins | -31.2% | -18.5% |
+| Gareth Bale | 89 | Icons | 2.21M coins | -20.4% | -24.1% |
+| Theo Hernández | 88 | ROSHN Saudi League | 94k coins | -15% | -6.5% |
+| Eric Cantona | 89 | Icons | 129k coins | -14.6% | -27.9% |
+| Franck Ribéry | 89 | Icons | 344k coins | -14% | -13.8% |
+| Iván Córdoba | 87 | Serie A TIM | 23k coins | -13.3% | -24.2% |
+| Jamal Musiala | 89 | Bundesliga | 349k coins | -12.8% | +4.2% |
+| Nico Williams | 87 | LALIGA EA SPORTS | 280k coins | -12.5% | +15.7% |
+| Bastian Schweinsteiger | 88 | Icons | 105k coins | -12.5% | -0.9% |
+| Alyssa Naeher | 88 | NWSL | 29k coins | -12.5% | -45.9% |
 
 
 ### Análise das baixas
 
-- **Amar Dedić (88)** caiu **-49.5%** em 24h, a **36k coins** (faixa do dia: 27k–56k). Está -10% abaixo da média de 7 dias (descontada).
+- **Steffi Jones (89)** caiu **-31.2%** em 24h, a **28k coins** (faixa do dia: 28k–28k). Está em linha com a média de 7 dias (+6%).
 
-- **Marco Reus (89)** caiu **-49.5%** em 24h, a **266k coins** (faixa do dia: 106k–485k). Está -32% abaixo da média de 7 dias (descontada).
+- **Gareth Bale (89)** caiu **-20.4%** em 24h, a **2.21M coins** (faixa do dia: 1.80M–2.26M). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Koke (88)** caiu **-48.1%** em 24h, a **42k coins** (faixa do dia: 42k–170k). Está -60% abaixo da média de 7 dias (descontada).
-
-
-## 🔮 Radar de valorização (24h)
-
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Fara Williams | 88 | 19.250 coins | 21k coins | 78% |
+- **Theo Hernández (88)** caiu **-15%** em 24h, a **94k coins** (faixa do dia: 94k–110k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Natalia Ramos já avançou 57.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Luis Díaz já avançou 52.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Amar Dedić recuou -49.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Steffi Jones recuou -31.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Natalia Ramos (87, sem liga), com +57.5% em 24h, a 62k coins no PC.
+Luis Díaz (87, Bundesliga), com +52.9% em 24h, a 260k coins no PC.
 
 **E a maior queda do dia?**
-Amar Dedić (88), -49.5% em 24h, a 36k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 19.250 coins.
+Steffi Jones (89), -31.2% em 24h, a 28k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 214 cartas em alta contra 249 em queda (média 6.27%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 109 cartas em alta contra 115 em queda (média 0.39%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
