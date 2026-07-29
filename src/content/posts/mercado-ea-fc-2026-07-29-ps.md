@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:39:08.000Z
+pubDatetime: 2026-07-29T22:39:08.000Z
 title: "Mercado EA FC em 29/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,22 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Ian Maatsen (89, Premier League), com +54.9% em 24h, a 32k coins no Console (PS)."
+    a: "Gabriel Martinelli (87, Premier League), com +56.8% em 24h, a 75k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Patrick Vieira (88), -50% em 24h, a 190k coins."
+    a: "Naomi Girma (87), -50% em 24h, a 49k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 26k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 205 cartas em alta contra 236 em queda (média 5.4%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 196 cartas em alta contra 244 em queda (média 3.99%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **29/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **205 valorizações** contra **236 quedas** entre as cartas relevantes, com média de **5.4%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **29/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **196 valorizações** contra **244 quedas** entre as cartas relevantes, com média de **3.99%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ian Maatsen (89) **+54.9%** · 🔴 **Maior baixa:** Patrick Vieira (88) **-50%**
+> 🟢 **Maior alta:** Gabriel Martinelli (87) **+56.8%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +37,24 @@ Resumo de **29/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.5% entre as cartas que se moveram; o universo observado reúne 534 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.5% entre as cartas que se moveram; o universo observado reúne 502 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ian Maatsen | 89 | Premier League | 32k coins | +54.9% | +69.3% |
-| Aleksandar Pavlović | 89 | Bundesliga | 35k coins | +53.2% | +5.4% |
-| Dante | 88 | Ligue 1 McDonald's | 32k coins | +52.4% | +20.8% |
-| Carlos Tévez | 88 | Premier League | 32k coins | +51.2% | +41.1% |
-| Peter Crouch | 87 | Premier League | 356k coins | +50.8% | +34.3% |
-| Aleksandar Stanković | 87 | 1A Pro League | 200k coins | +50.4% | +29% |
-| Marek Hamšík | 87 | Serie A TIM | 28k coins | +50% | +73.4% |
-| Sydney Leroux | 88 | NWSL | 74k coins | +49% | +88.8% |
-| Croix Bethune | 89 | NWSL | 40k coins | +48.8% | +140% |
-| Georgia Stanway | 88 | Liga F | 62k coins | +47.1% | +42.9% |
+| Gabriel Martinelli | 87 | Premier League | 75k coins | +56.8% | +46.2% |
+| João Neves | 88 | Ligue 1 McDonald's | 30k coins | +55.3% | +8.2% |
+| Kenan Yıldız | 88 | Serie A TIM | 109k coins | +54.4% | -35.8% |
+| Steffi Jones | 89 | Icons | 24k coins | +54% | -10.2% |
+| Ian Maatsen | 89 | Premier League | 30k coins | +51.2% | +65.3% |
+| Zé Roberto | 87 | Bundesliga | 46k coins | +49.3% | +20.5% |
+| Filip Kostić | 88 | Serie A TIM | 26k coins | +48.1% | +68.8% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 650k coins | +45% | -43.6% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 66k coins | +45% | -31.6% |
+| Georgia Stanway | 88 | Liga F | 60k coins | +43.5% | +49.7% |
 
 
 ### Análise das altas
@@ -61,43 +63,52 @@ Resumo de **29/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ian Maatsen (89)** subiu **+54.9%** em 24h, a **32k coins** (faixa do dia: 20k–32k). Está +56% acima da média de 7 dias (aquecida).
+- **Gabriel Martinelli (87)** subiu **+56.8%** em 24h, a **75k coins** (faixa do dia: 56k–114k). Está em linha com a média de 7 dias (+3%).
 
-- **Aleksandar Pavlović (89)** subiu **+53.2%** em 24h, a **35k coins** (faixa do dia: 19.250–39k). Está +42% acima da média de 7 dias (aquecida).
+- **João Neves (88)** subiu **+55.3%** em 24h, a **30k coins** (faixa do dia: 21k–49k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Dante (88)** subiu **+52.4%** em 24h, a **32k coins** (faixa do dia: 14.750–34k). Está +47% acima da média de 7 dias (aquecida).
+- **Kenan Yıldız (88)** subiu **+54.4%** em 24h, a **109k coins** (faixa do dia: 52k–126k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Vieira | 88 | Icons | 190k coins | -50% | +27.5% |
-| Alejandro Garnacho | 89 | Premier League | 213k coins | -44.4% | -8.1% |
-| Ahmed Hegazi | 87 | Brasileirão | 38k coins | -44.3% | +31.1% |
-| Aleix García | 89 | Bundesliga | 20k coins | -44.1% | +9.2% |
-| Ashley Sanchez | 88 | NWSL | 48k coins | -43.4% | -13% |
-| Emiliano Martínez | 88 | Premier League | 30k coins | -40.3% | +42.7% |
-| Charles De Ketelaere | 88 | Serie A TIM | 30k coins | -39.5% | -70.9% |
-| Sakina Karchaoui | 88 | D1 Arkema | 36k coins | -39.2% | -39.2% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 24k coins | -38.7% | -34.3% |
-| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 28k coins | -37.6% | -41.7% |
+| Naomi Girma | 87 | Barclays WSL | 49k coins | -50% | +15.1% |
+| Alejandro Garnacho | 89 | Premier League | 220k coins | -45% | -9% |
+| Sakina Karchaoui | 88 | D1 Arkema | 30k coins | -44.2% | -43.2% |
+| Gilberto Silva | 87 | Premier League | 22k coins | -43.5% | -13% |
+| Tariq Lamptey | 89 | — | 29k coins | -43.2% | -15.5% |
+| Patrick Vieira | 88 | Icons | 202k coins | -42.9% | +45.6% |
+| Maxence Lacroix | 87 | Premier League | 120k coins | -42.6% | +23.7% |
+| Bruno Fernandes | 88 | Premier League | 48k coins | -41.6% | -40% |
+| Aaron Wan-Bissaka | 89 | Premier League | 32k coins | -41.4% | -6.8% |
+| Marco Reus | 89 | MLS | 198k coins | -40.1% | -32.2% |
 
 
 ### Análise das baixas
 
-- **Patrick Vieira (88)** caiu **-50%** em 24h, a **190k coins** (faixa do dia: 175k–380k). Está -17% abaixo da média de 7 dias (descontada).
+- **Naomi Girma (87)** caiu **-50%** em 24h, a **49k coins** (faixa do dia: 49k–99k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Alejandro Garnacho (89)** caiu **-44.4%** em 24h, a **213k coins** (faixa do dia: 192k–349k). Está -23% abaixo da média de 7 dias (descontada).
+- **Alejandro Garnacho (89)** caiu **-45%** em 24h, a **220k coins** (faixa do dia: 180k–349k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Ahmed Hegazi (87)** caiu **-44.3%** em 24h, a **38k coins** (faixa do dia: 35k–70k). Está -38% abaixo da média de 7 dias (descontada).
+- **Sakina Karchaoui (88)** caiu **-44.2%** em 24h, a **30k coins** (faixa do dia: 30k–61k). Está -43% abaixo da média de 7 dias (descontada).
+
+
+## 🔮 Radar de valorização (24h)
+
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Maicon | 88 | 26k coins | 27k coins | 54% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ian Maatsen já avançou 54.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gabriel Martinelli já avançou 56.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Patrick Vieira recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Naomi Girma recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +120,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Ian Maatsen (89, Premier League), com +54.9% em 24h, a 32k coins no Console (PS).
+Gabriel Martinelli (87, Premier League), com +56.8% em 24h, a 75k coins no Console (PS).
 
 **E a maior queda do dia?**
-Patrick Vieira (88), -50% em 24h, a 190k coins.
+Naomi Girma (87), -50% em 24h, a 49k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**
+Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 26k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 205 cartas em alta contra 236 em queda (média 5.4%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 196 cartas em alta contra 244 em queda (média 3.99%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

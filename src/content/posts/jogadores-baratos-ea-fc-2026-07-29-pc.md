@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:39:20.000Z
+pubDatetime: 2026-07-29T22:39:20.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 5.293 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 3.800 a 5.900 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 5.447 coins.
+- **Posição mais frequente:** GK, com 3 cartas.
+- **Faixa real:** 3.800 a 6.200 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alessia Russo | 89 | ST | Barclays WSL | 3.800 coins | +22.6% |
-| Mariona | 89 | CM | Barclays WSL | 4.600 coins | +29.7% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.900 coins | +42.9% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 5.100 coins | +31.6% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 5.200 coins | +33.3% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.800 coins | +35.5% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4.700 coins | +36.8% |
+| Mariona | 89 | CM | Barclays WSL | 5.100 coins | +35.1% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 5.100 coins | +34.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.200 coins | +28.6% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 5.300 coins | +26.2% |
-| Alisson | 89 | GK | Premier League | 5.300 coins | +11.6% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.400 coins | +26.2% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5.400 coins | +42.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 5.600 coins | +7.3% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +33.3% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.700 coins | +33.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.800 coins | +25% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.800 coins | +5.5% |
-| Mapi León | 89 | CB | Liga F | 5.900 coins | +50% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 5.400 coins | +42.9% |
+| Alisson | 89 | GK | Premier League | 5.400 coins | +16.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.700 coins | +3.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 5.700 coins | +35.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.900 coins | +27.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.000 coins | +15.4% |
+| Mapi León | 89 | CB | Liga F | 6.100 coins | +47.5% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6.100 coins | +41% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.200 coins | +37.8% |
 
 
 ## 📈 Destaques
 
 - **Alessia Russo (89, ST)** da Barclays WSL, a apenas **3.800 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4.600 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **4.700 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.900 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **5.100 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 - **Raphinha (89, LM)** da LALIGA EA SPORTS, a apenas **5.100 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **5.200 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Gianluigi Donnarumma (89, GK) por 4.900 coins é a referência de rating deste recorte.
+- **Defesa:** Thibaut Courtois (89, GK) por 4.700 coins é a referência de rating deste recorte.
 
-- **Meio:** Mariona (89, CM) por 4.600 coins é a referência de rating deste recorte.
+- **Meio:** Mariona (89, CM) por 5.100 coins é a referência de rating deste recorte.
 
 - **Ataque:** Alessia Russo (89, ST) por 3.800 coins é a referência de rating deste recorte.
 
