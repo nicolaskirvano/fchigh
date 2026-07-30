@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raphinha</text>
-<rect x="285" y="95" width="310" height="28" rx="7" fill="#38bdf8"/>
-<text x="605" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.000</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="153" width="372" height="28" rx="7" fill="#38bdf8"/>
-<text x="667" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.800</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Federico Valverde</text>
-<rect x="285" y="211" width="434" height="28" rx="7" fill="#38bdf8"/>
-<text x="729" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.600</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lamine Yamal</text>
+<rect x="285" y="95" width="393" height="28" rx="7" fill="#38bdf8"/>
+<text x="688" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.000</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Wirtz</text>
+<rect x="285" y="153" width="417" height="28" rx="7" fill="#38bdf8"/>
+<text x="712" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.300</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="211" width="433" height="28" rx="7" fill="#38bdf8"/>
+<text x="728" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.500</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
 <rect x="285" y="269" width="441" height="28" rx="7" fill="#38bdf8"/>
-<text x="736" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.700</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Wirtz</text>
-<rect x="285" y="327" width="465" height="28" rx="7" fill="#38bdf8"/>
-<text x="760" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.000</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lamine Yamal</text>
+<text x="736" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.600</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
+<rect x="285" y="327" width="464" height="28" rx="7" fill="#38bdf8"/>
+<text x="759" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.900</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedri</text>
 <rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.200</text>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.100</text>
 </svg>
