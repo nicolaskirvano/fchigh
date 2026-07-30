@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:39:28.000Z
+pubDatetime: 2026-07-30T13:39:20.000Z
 title: "Mercado EA FC em 30/07: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Patrik Schick (88, Bundesliga), com +59.7% em 24h, a 48k coins no PC."
+    a: "Hristo Stoichkov (89, Icons), com +59.7% em 24h, a 109k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Iván Zamorano (89), -50% em 24h, a 20k coins."
+    a: "Nemanja Vidić (89), -49.7% em 24h, a 603k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 17.750 coins."
+    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 42k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 275 cartas em alta contra 237 em queda (média 15.06%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 242 cartas em alta contra 243 em queda (média 8.2%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **275 subiram**, **237 caíram** (80+ e 5k+ coins), média de **15.06%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **242 subiram**, **243 caíram** (80+ e 5k+ coins), média de **8.2%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Patrik Schick (88) **+59.7%** · 🔴 **Maior baixa:** Iván Zamorano (89) **-50%**
+> 🟢 **Maior alta:** Hristo Stoichkov (89) **+59.7%** · 🔴 **Maior baixa:** Nemanja Vidić (89) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -37,24 +37,24 @@ Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.7% entre as cartas que se moveram; o universo observado reúne 608 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.9% entre as cartas que se moveram; o universo observado reúne 611 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrik Schick | 88 | Bundesliga | 48k coins | +59.7% | +54.5% |
-| Pernille Harder | 89 | GPFBL | 95k coins | +59.7% | +88.1% |
-| Kristin Kögel | 89 | GPFBL | 21k coins | +57.4% | +1.2% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 940k coins | +56.9% | +108.9% |
-| Bruno Guimarães | 87 | Premier League | 65k coins | +56.2% | +40.4% |
-| Gabriel Martinelli | 87 | Premier League | 160k coins | +55.3% | +24% |
-| Carlos Tévez | 88 | Premier League | 37k coins | +55.2% | +11.2% |
-| Julian Brandt | 87 | Bundesliga | 28k coins | +54.7% | -10.8% |
-| Cha Bum Kun | 88 | Icons | 230k coins | +53.3% | 0% |
-| Luis Díaz | 87 | Bundesliga | 260k coins | +52.9% | 0% |
+| Hristo Stoichkov | 89 | Icons | 109k coins | +59.7% | +3.6% |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 21k coins | +56.6% | -1.2% |
+| Debinha | 89 | NWSL | 85k coins | +54.5% | -17.5% |
+| Jaap Stam | 89 | Premier League | 180k coins | +53.8% | +20% |
+| Morgan Rogers | 87 | Premier League | 107k coins | +51% | -23.4% |
+| Giovane | 89 | Serie A TIM | 26k coins | +50.7% | -1% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 200k coins | +50.4% | +25.8% |
+| Ashley Cole | 88 | — | 46k coins | +49.3% | +88.7% |
+| Hidetoshi Nakata | 88 | Serie A TIM | 32k coins | +48.8% | +10.3% |
+| Jauregizar | 87 | LALIGA EA SPORTS | 20k coins | +47.4% | +16.7% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Patrik Schick (88)** subiu **+59.7%** em 24h, a **48k coins** (faixa do dia: 28k–48k). Está +49% acima da média de 7 dias (aquecida).
+- **Hristo Stoichkov (89)** subiu **+59.7%** em 24h, a **109k coins** (faixa do dia: 72k–145k). Está em linha com a média de 7 dias (-4%).
 
-- **Pernille Harder (89)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 65k–102k). Está +42% acima da média de 7 dias (aquecida).
+- **Javier Mascherano (88)** subiu **+56.6%** em 24h, a **21k coins** (faixa do dia: 13.250–30k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Kristin Kögel (89)** subiu **+57.4%** em 24h, a **21k coins** (faixa do dia: 11.250–32k). Está +24% acima da média de 7 dias (aquecida).
+- **Debinha (89)** subiu **+54.5%** em 24h, a **85k coins** (faixa do dia: 40k–120k). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iván Zamorano | 89 | LALIGA EA SPORTS | 20k coins | -50% | -62% |
-| Rasmus Højlund | 87 | Serie A TIM | 20k coins | -49.4% | -21.8% |
-| Lionel Messi | 89 | MLS | 182k coins | -48% | -53.3% |
-| Pedro Neto | 88 | Premier League | 50k coins | -48% | +2% |
+| Nemanja Vidić | 89 | Icons | 603k coins | -49.7% | -25.6% |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 28k coins | -48.2% | 0% |
 | Dominik Szoboszlai | 87 | Premier League | 100k coins | -47.4% | -9.1% |
-| Richard Ríos | 88 | Liga Portugal | 50k coins | -44.4% | -71.3% |
-| Ann-Katrin Berger | 88 | NWSL | 36k coins | -43.8% | +60.4% |
-| Giulia Gwinn | 89 | GPFBL | 32k coins | -43.6% | +1.6% |
-| Wesley Sneijder | 89 | Serie A TIM | 72k coins | -43.4% | -42.5% |
-| João Cancelo | 87 | ROSHN Saudi League | 50k coins | -42.9% | -7.9% |
+| Sydney Leroux | 88 | NWSL | 39k coins | -44.7% | -12.4% |
+| Antonio Di Natale | 88 | Serie A TIM | 26k coins | -44.5% | -62.4% |
+| Kenan Yıldız | 88 | Serie A TIM | 87k coins | -41.6% | -54.2% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 42k coins | -40.7% | -49.6% |
+| Pedro Neto | 88 | Premier League | 44k coins | -40% | -11.8% |
+| Vanessa Fudalla | 87 | GPFBL | 44k coins | -37.1% | -31.2% |
+| Ko Itakura | 88 | Eredivisie | 21k coins | -37% | -34.3% |
 
 
 ### Análise das baixas
 
-- **Iván Zamorano (89)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 19.500–41k). Está -51% abaixo da média de 7 dias (descontada).
+- **Nemanja Vidić (89)** caiu **-49.7%** em 24h, a **603k coins** (faixa do dia: 603k–1.20M). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Rasmus Højlund (87)** caiu **-49.4%** em 24h, a **20k coins** (faixa do dia: 14.250–42k). Está -46% abaixo da média de 7 dias (descontada).
+- **Pablo Aimar (88)** caiu **-48.2%** em 24h, a **28k coins** (faixa do dia: 26k–55k). Está em linha com a média de 7 dias (+6%).
 
-- **Lionel Messi (89)** caiu **-48%** em 24h, a **182k coins** (faixa do dia: 94k–290k). Está -35% abaixo da média de 7 dias (descontada).
+- **Dominik Szoboszlai (87)** caiu **-47.4%** em 24h, a **100k coins** (faixa do dia: 100k–190k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -101,14 +101,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Lukáš Haraslín | 89 | 17.750 coins | 18.151 coins | 63% |
+| Fara Williams | 88 | 42k coins | 46k coins | 78% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Patrik Schick já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Hristo Stoichkov já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Iván Zamorano recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nemanja Vidić recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Patrik Schick (88, Bundesliga), com +59.7% em 24h, a 48k coins no PC.
+Hristo Stoichkov (89, Icons), com +59.7% em 24h, a 109k coins no PC.
 
 **E a maior queda do dia?**
-Iván Zamorano (89), -50% em 24h, a 20k coins.
+Nemanja Vidić (89), -49.7% em 24h, a 603k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 17.750 coins.
+Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 42k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 275 cartas em alta contra 237 em queda (média 15.06%).
+Hoje o mercado está em alta — predominam as valorizações, com 242 cartas em alta contra 243 em queda (média 8.2%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

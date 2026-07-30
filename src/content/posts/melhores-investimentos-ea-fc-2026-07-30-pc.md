@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:39:30.000Z
+pubDatetime: 2026-07-30T13:39:21.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Ashley Cole (88, sem liga) lidera, com +88.7% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rose Lavelle (89, NWSL) lidera, com +86.7% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ashley Cole (88) acumula **+88.7% em 7 dias** a 50k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rose Lavelle (89) acumula **+86.7% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.2% em 24h** e **+65.8% em 7 dias**.
-- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.3% em 24h** e **+68.7% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ashley Cole | 88 | — | 50k coins | +14.9% | +88.7% | Esticada |
-| Rose Lavelle | 89 | NWSL | 70k coins | +35.9% | +86.7% | Esticada |
-| Janina Minge | 88 | — | 31k coins | +5.8% | +84.1% | Esticada |
-| Petr Čech | 88 | Icons | 171k coins | +29.6% | +83.2% | Esticada |
-| Rúben Neves | 87 | ROSHN Saudi League | 32k coins | +37.5% | +73.7% | Esticada |
-| Nadine Keßler | 89 | GPFBL | 37k coins | +24.2% | +73.3% | Esticada |
-| Rose Lavelle | 88 | NWSL | 62k coins | +1.6% | +68.9% | Esticada |
-| Steven Gerrard | 89 | Icons | 157k coins | +17.4% | +65.8% | Esticada |
-| Nemanja Vidić | 87 | Icons | 234k coins | +28.6% | +61.4% | Esticada |
-| Jonathan Tah | 88 | Bundesliga | 54k coins | +27.8% | +58.8% | Esticada |
-| Pervis Estupiñán | 87 | Serie A TIM | 50k coins | +21.1% | +51.4% | Esticada |
-| Karim Benzema | 87 | ROSHN Saudi League | 165k coins | +11.5% | +51.4% | Momentum moderado |
-| Alessandro Nesta | 88 | — | 53k coins | +34.2% | +48.3% | Esticada |
-| Rocío Gálvez | 88 | Liga F | 36k coins | +35.2% | +47.5% | Esticada |
-| Declan Rice | 89 | Premier League | 112k coins | +12.6% | +47.4% | Momentum moderado |
+| Rose Lavelle | 89 | NWSL | 70k coins | +6.9% | +86.7% | Esticada |
+| Naomie Feller | 88 | — | 42k coins | +12% | +86.7% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 66k coins | +5.3% | +82.9% | Esticada |
+| Michelle Cooper | 87 | NWSL | 32k coins | +22.6% | +80.6% | Esticada |
+| Nemanja Vidić | 87 | Icons | 249k coins | +12.7% | +77.9% | Esticada |
+| Ian Maatsen | 89 | Premier League | 40k coins | +28% | +77.8% | Esticada |
+| Viktor Gyökeres | 88 | — | 114k coins | +19.8% | +76.1% | Esticada |
+| Jess Fishlock | 88 | NWSL | 35k coins | +3.7% | +68.7% | Esticada |
+| John Arne Riise | 88 | Premier League | 40k coins | +10.4% | +65.6% | Esticada |
+| Eberechi Eze | 88 | Premier League | 72k coins | +19.4% | +65.6% | Esticada |
+| Ann-Katrin Berger | 88 | NWSL | 36k coins | +12.3% | +64% | Esticada |
+| Charles De Ketelaere | 88 | Serie A TIM | 180k coins | +7.1% | +63.6% | Esticada |
+| Bruno Fernandes | 89 | Premier League | 106k coins | +30.4% | +62.2% | Esticada |
+| Janina Minge | 88 | — | 28k coins | +4.5% | +62% | Esticada |
+| Patrik Schick | 88 | Bundesliga | 48k coins | +15.2% | +59.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ashley Cole (88)** — 50k coins, **+88.7% em 7 dias** (+14.9% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 70k coins, **+86.7% em 7 dias** (+6.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 70k coins, **+86.7% em 7 dias** (+35.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Naomie Feller (88)** — 42k coins, **+86.7% em 7 dias** (+12% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Janina Minge (88)** — 31k coins, **+84.1% em 7 dias** (+5.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moisés Caicedo (88)** — 66k coins, **+82.9% em 7 dias** (+5.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Petr Čech (88)** — 171k coins, **+83.2% em 7 dias** (+29.6% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 32k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 32k coins, **+73.7% em 7 dias** (+37.5% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nemanja Vidić (87)** — 249k coins, **+77.9% em 7 dias** (+12.7% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Ashley Cole (88, sem liga) lidera, com +88.7% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rose Lavelle (89, NWSL) lidera, com +86.7% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
