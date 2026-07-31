@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:39:18.000Z
+pubDatetime: 2026-07-31T16:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Javier Mascherano (88, LALIGA EA SPORTS) lidera, com +85.2% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sócrates (89, Icons) lidera, com +81.6% em 7 dias a 183k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Javier Mascherano (88) acumula **+85.2% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sócrates (89) acumula **+81.6% em 7 dias** a 183k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.4% em 24h** e **+65.0% em 7 dias**.
+- A mediana é de **+17.6% em 24h** e **+58.7% em 7 dias**.
 - **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 25k coins | +19% | +85.2% | Esticada |
-| Eduardo Quaresma | 88 | Liga Portugal | 45k coins | +6.5% | +81.8% | Esticada |
-| Cláudio Braga | 87 | Scottish Premiership | 27k coins | +23.3% | +79% | Esticada |
-| Petr Čech | 88 | Icons | 173k coins | +7.2% | +73.8% | Esticada |
-| Hakan Çalhanoğlu | 88 | — | 75k coins | +29.3% | +70.5% | Esticada |
-| Santiago Mouriño | 87 | LALIGA EA SPORTS | 62k coins | +22.1% | +69.3% | Esticada |
-| Trinity Rodman | 88 | NWSL | 220k coins | +7.8% | +67.8% | Esticada |
-| Dominik Szoboszlai | 87 | Premier League | 165k coins | +37.5% | +65% | Esticada |
-| Hugo Sánchez | 89 | Icons | 113k coins | +37.6% | +55% | Esticada |
-| Matvey Safonov | 88 | Ligue 1 McDonald's | 245k coins | +11.9% | +54.1% | Momentum moderado |
-| Janina Minge | 88 | — | 34k coins | +13.4% | +53.4% | Momentum moderado |
-| Kevin Schade | 88 | Premier League | 50k coins | +3.6% | +44.9% | Momentum moderado |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 61k coins | +24.8% | +44.8% | Esticada |
-| Ashley Cole | 88 | — | 43k coins | +6.6% | +43.4% | Momentum moderado |
-| Aron Dønnum | 87 | Ligue 1 McDonald's | 24k coins | +9.1% | +43.3% | Momentum moderado |
+| Sócrates | 89 | Icons | 183k coins | +6.9% | +81.6% | Esticada |
+| Elliot Anderson | 89 | Premier League | 146k coins | +37.7% | +72.8% | Esticada |
+| Hakan Çalhanoğlu | 88 | — | 75k coins | +20% | +70.5% | Esticada |
+| Aleksandar Pavlović | 89 | Bundesliga | 60k coins | +21.8% | +70.2% | Esticada |
+| Petr Čech | 88 | Icons | 173k coins | +3.6% | +68% | Esticada |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 62k coins | +32% | +66.7% | Esticada |
+| Carlos Tévez | 88 | Premier League | 37k coins | +17.6% | +61.6% | Esticada |
+| Santiago Mouriño | 87 | LALIGA EA SPORTS | 64k coins | +10.2% | +58.7% | Momentum moderado |
+| Hugo Sánchez | 89 | Icons | 111k coins | +30.6% | +58.6% | Esticada |
+| Juan Sebastián Verón | 88 | — | 26k coins | +7.1% | +55.9% | Momentum moderado |
+| Freddie Ljungberg | 87 | Premier League | 22k coins | +7.1% | +55.2% | Momentum moderado |
+| Matvey Safonov | 88 | Ligue 1 McDonald's | 245k coins | +8.9% | +54.1% | Momentum moderado |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 140k coins | +15.8% | +52.7% | Momentum moderado |
+| Carles Puyol | 89 | Icons | 150k coins | +27% | +50.7% | Esticada |
+| Marco Carnesecchi | 87 | Serie A TIM | 66k coins | +32% | +46.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Javier Mascherano (88)** — 25k coins, **+85.2% em 7 dias** (+19% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sócrates (89)** — 183k coins, **+81.6% em 7 dias** (+6.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eduardo Quaresma (88)** — 45k coins, **+81.8% em 7 dias** (+6.5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elliot Anderson (89)** — 146k coins, **+72.8% em 7 dias** (+37.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cláudio Braga (87)** — 27k coins, **+79% em 7 dias** (+23.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hakan Çalhanoğlu (88)** — 75k coins, **+70.5% em 7 dias** (+20% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Petr Čech (88)** — 173k coins, **+73.8% em 7 dias** (+7.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (89)** — 60k coins, **+70.2% em 7 dias** (+21.8% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hakan Çalhanoğlu (88)** — 75k coins, **+70.5% em 7 dias** (+29.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Petr Čech (88)** — 173k coins, **+68% em 7 dias** (+3.6% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Javier Mascherano (88, LALIGA EA SPORTS) lidera, com +85.2% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sócrates (89, Icons) lidera, com +81.6% em 7 dias a 183k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
