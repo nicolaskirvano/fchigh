@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:39:14.000Z
+pubDatetime: 2026-07-31T01:39:08.000Z
 title: "Mercado EA FC em 30/07: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Rúben Neves (87, ROSHN Saudi League), com +58.3% em 24h, a 24k coins no Console (PS)."
+    a: "Maximilian Mittelstädt (88, Bundesliga), com +59.5% em 24h, a 32k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Hernán Crespo (88), -49.1% em 24h, a 25k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 16.500 coins."
+    a: "Sissi (88), -47.5% em 24h, a 63k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 218 cartas em alta contra 238 em queda (média 3.63%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 188 cartas em alta contra 255 em queda (média 0.83%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**30/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predominam as valorizações — **218 subiram**, **238 caíram** (80+ e 5k+ coins), média de **3.63%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**30/07/2026**, Console (PS)) o Ultimate Team está **lateral** — sem direção clara — **188 subiram**, **255 caíram** (80+ e 5k+ coins), média de **0.83%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rúben Neves (87) **+58.3%** · 🔴 **Maior baixa:** Hernán Crespo (88) **-49.1%**
+> 🟢 **Maior alta:** Maximilian Mittelstädt (88) **+59.5%** · 🔴 **Maior baixa:** Sissi (88) **-47.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -37,24 +35,24 @@ Hoje (**30/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.8% entre as cartas que se moveram; o universo observado reúne 545 cartas.
-- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.4% entre as cartas que se moveram; o universo observado reúne 500 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rúben Neves | 87 | ROSHN Saudi League | 24k coins | +58.3% | +61% |
-| Saki Kumagai | 88 | Barclays WSL | 24k coins | +55.3% | +88.6% |
-| Luany | 88 | Liga F | 24k coins | +54.1% | -13% |
-| Fábio Vieira | 87 | Bundesliga | 39k coins | +53.5% | +29.2% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 61k coins | +52.2% | +70.7% |
-| Mario Götze | 88 | Bundesliga | 60k coins | +50% | +106.9% |
-| João Neves | 88 | Ligue 1 McDonald's | 41k coins | +50% | +135.7% |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 150k coins | +48.5% | +248.8% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 135k coins | +46.3% | +213% |
-| Ramy Bensebaini | 87 | — | 64k coins | +43% | +6.7% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 32k coins | +59.5% | +8.1% |
+| Francisco Conceição | 89 | Serie A TIM | 99k coins | +58.5% | +240.5% |
+| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 300k coins | +57.9% | +36.4% |
+| Bruno Fernandes | 88 | Premier League | 70k coins | +57.9% | +11.1% |
+| Moisés Caicedo | 88 | Premier League | 68k coins | +51.7% | +43.6% |
+| Grimaldo | 87 | Bundesliga | 29k coins | +51.1% | +6% |
+| Daniele De Rossi | 87 | Serie A TIM | 56k coins | +50.5% | 0% |
+| Johan Bakayoko | 88 | Bundesliga | 42k coins | +49.5% | +48.1% |
+| Jonathan Tah | 88 | Bundesliga | 21k coins | +49.3% | -23.3% |
+| Daniel James | 87 | Premier League | 290k coins | +48.7% | +42.9% |
 
 
 ### Análise das altas
@@ -63,53 +61,43 @@ Hoje (**30/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rúben Neves (87)** subiu **+58.3%** em 24h, a **24k coins** (faixa do dia: 18.500–32k). Está +52% acima da média de 7 dias (aquecida).
+- **Maximilian Mittelstädt (88)** subiu **+59.5%** em 24h, a **32k coins** (faixa do dia: 11.500–38k). Está +73% acima da média de 7 dias (aquecida).
 
-- **Saki Kumagai (88)** subiu **+55.3%** em 24h, a **24k coins** (faixa do dia: 14.000–40k). Está +24% acima da média de 7 dias (aquecida).
+- **Francisco Conceição (89)** subiu **+58.5%** em 24h, a **99k coins** (faixa do dia: 39k–110k). Está +159% acima da média de 7 dias (aquecida).
 
-- **Luany (88)** subiu **+54.1%** em 24h, a **24k coins** (faixa do dia: 11.000–24k). Está +11% acima da média de 7 dias (aquecida).
+- **Barış Alper Yılmaz (89)** subiu **+57.9%** em 24h, a **300k coins** (faixa do dia: 179k–310k). Está +53% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hernán Crespo | 88 | Icons | 25k coins | -49.1% | -33.7% |
-| Marcelo | 89 | Icons | 97k coins | -48% | +27.6% |
-| Tijjani Reijnders | 87 | Premier League | 31k coins | -48% | -34.7% |
-| Jens Petter Hauge | 88 | Eliteserien | 50k coins | -43.6% | -22.7% |
+| Sissi | 88 | Icons | 63k coins | -47.5% | +35.5% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 36k coins | -43.5% | +75% |
 | Laura Georges | 89 | D1 Arkema | 25k coins | -42.9% | -16.5% |
-| Barbara Bonansea | 87 | Calcio A Femminile | 38k coins | -41.9% | +79.8% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 80k coins | -41.1% | -19.7% |
-| Julian Brandt | 87 | Bundesliga | 24k coins | -40.5% | -37.3% |
+| Ryan Gravenberch | 87 | Premier League | 40k coins | -42.5% | +11.8% |
+| Taylor Flint | 88 | NWSL | 64k coins | -41.6% | -29.8% |
+| Iván Córdoba | 88 | Serie A TIM | 51k coins | -40% | +48.9% |
 | Luis Suárez | 89 | MLS | 50k coins | -39.4% | -95.6% |
-| Nadine Keßler | 89 | GPFBL | 28k coins | -38.9% | -39.6% |
+| Cora Zicai | 88 | GPFBL | 116k coins | -38.4% | +10.4% |
+| Petr Čech | 88 | Icons | 85k coins | -38% | +17.9% |
+| James Milner | 88 | Premier League | 71k coins | -37.5% | +16.9% |
 
 
 ### Análise das baixas
 
-- **Hernán Crespo (88)** caiu **-49.1%** em 24h, a **25k coins** (faixa do dia: 13.000–34k). Está +28% acima da média de 7 dias (aquecida).
+- **Sissi (88)** caiu **-47.5%** em 24h, a **63k coins** (faixa do dia: 40k–127k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Marcelo (89)** caiu **-48%** em 24h, a **97k coins** (faixa do dia: 90k–185k). Está em linha com a média de 7 dias (+0%).
+- **Barbara Bonansea (87)** caiu **-43.5%** em 24h, a **36k coins** (faixa do dia: 36k–100k). Está em linha com a média de 7 dias (+5%).
 
-- **Tijjani Reijnders (87)** caiu **-48%** em 24h, a **31k coins** (faixa do dia: 28k–75k). Está -20% abaixo da média de 7 dias (descontada).
-
-
-## 🔮 O que o modelo prevê para as próximas 24h
-
-Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | 16.500 coins | 17.949 coins | 94% |
-| Maicon | 88 | 17.000 coins | 17.670 coins | 54% |
+- **Laura Georges (89)** caiu **-42.9%** em 24h, a **25k coins** (faixa do dia: 18.750–44k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rúben Neves já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maximilian Mittelstädt já avançou 59.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Hernán Crespo recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sissi recuou -47.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -121,16 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Rúben Neves (87, ROSHN Saudi League), com +58.3% em 24h, a 24k coins no Console (PS).
+Maximilian Mittelstädt (88, Bundesliga), com +59.5% em 24h, a 32k coins no Console (PS).
 
 **E a maior queda do dia?**
-Hernán Crespo (88), -49.1% em 24h, a 25k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 16.500 coins.
+Sissi (88), -47.5% em 24h, a 63k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 218 cartas em alta contra 238 em queda (média 3.63%).
+Hoje o mercado está lateral — sem direção clara, com 188 cartas em alta contra 255 em queda (média 0.83%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
