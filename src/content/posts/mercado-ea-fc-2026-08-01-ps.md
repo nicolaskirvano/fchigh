@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:39:08.000Z
+pubDatetime: 2026-08-01T16:39:08.000Z
 title: "Mercado EA FC em 01/08: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Dominik Szoboszlai (87, Premier League), com +59.5% em 24h, a 135k coins no Console (PS)."
+    a: "Matthias Ginter (88, Bundesliga), com +58.9% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tim Cahill (89), -50% em 24h, a 41k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 20k coins."
+    a: "Blaise Matuidi (87), -48.6% em 24h, a 70k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 174 cartas em alta contra 287 em queda (média -4.48%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 197 cartas em alta contra 257 em queda (média 0.73%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **01/08/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **174 em alta** e **287 em queda**, média de **-4.48%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **01/08/2026** (Console (PS)): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **197 em alta** e **257 em queda**, média de **0.73%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Dominik Szoboszlai (87) **+59.5%** · 🔴 **Maior baixa:** Tim Cahill (89) **-50%**
+> 🟢 **Maior alta:** Matthias Ginter (88) **+58.9%** · 🔴 **Maior baixa:** Blaise Matuidi (87) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -37,24 +35,24 @@ Panorama de **01/08/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.7% entre as cartas que se moveram; o universo observado reúne 526 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.4% entre as cartas que se moveram; o universo observado reúne 555 cartas.
+- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominik Szoboszlai | 87 | Premier League | 135k coins | +59.5% | +28.6% |
-| Ian Maatsen | 89 | Premier League | 23k coins | +56.9% | +31.9% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 111k coins | +56.2% | +160.6% |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 32k coins | +53.7% | +69.4% |
-| Tijjani Reijnders | 87 | Premier League | 70k coins | +52.4% | +56.5% |
-| Hanna Lundkvist | 87 | Barclays WSL | 51k coins | +51.1% | +52.2% |
-| Cody Gakpo | 89 | Premier League | 200k coins | +50.4% | +117.4% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 32k coins | +47.7% | +62.5% |
-| Trinity Rodman | 88 | NWSL | 180k coins | +47.5% | +76.5% |
-| Michał Skóraś | 88 | 1A Pro League | 50k coins | +47.4% | +43.2% |
+| Matthias Ginter | 88 | Bundesliga | 34k coins | +58.9% | -31.9% |
+| Kaká | 89 | Icons | 286k coins | +58.2% | +89.4% |
+| Lucy Bronze | 88 | Barclays WSL | 149k coins | +56.8% | +220.4% |
+| Khéphren Thuram | 87 | Serie A TIM | 70k coins | +55.8% | +29.4% |
+| Noah Ohio | 87 | LaLiga Hypermotion | 28k coins | +53.5% | +70.3% |
+| Michael Olise | 88 | Bundesliga | 400k coins | +53.3% | +40.3% |
+| Francesco Totti | 89 | Icons | 525k coins | +50.7% | +72.3% |
+| Dominik Szoboszlai | 87 | Premier League | 119k coins | +48.1% | +17.6% |
+| Trinity Rodman | 88 | NWSL | 180k coins | +47.5% | +68.2% |
+| Alejandro Garnacho | 89 | Premier League | 298k coins | +45.9% | +15% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Panorama de **01/08/2026** (Console (PS)): mercado **pressionado** — as quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Dominik Szoboszlai (87)** subiu **+59.5%** em 24h, a **135k coins** (faixa do dia: 30k–156k). Está +51% acima da média de 7 dias (aquecida).
+- **Matthias Ginter (88)** subiu **+58.9%** em 24h, a **34k coins** (faixa do dia: 16.000–64k). Está em linha com a média de 7 dias (-6%).
 
-- **Ian Maatsen (89)** subiu **+56.9%** em 24h, a **23k coins** (faixa do dia: 12.000–27k). Está +9% acima da média de 7 dias (aquecida).
+- **Kaká (89)** subiu **+58.2%** em 24h, a **286k coins** (faixa do dia: 148k–327k). Está +64% acima da média de 7 dias (aquecida).
 
-- **Julián Alvarez (88)** subiu **+56.2%** em 24h, a **111k coins** (faixa do dia: 31k–127k). Está +69% acima da média de 7 dias (aquecida).
+- **Lucy Bronze (88)** subiu **+56.8%** em 24h, a **149k coins** (faixa do dia: 49k–149k). Está +116% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tim Cahill | 89 | Premier League | 41k coins | -50% | +2.4% |
-| Claudia Pina | 88 | Liga F | 46k coins | -49.5% | -19.4% |
-| Bremer | 88 | Serie A TIM | 180k coins | -49% | -10.3% |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 35k coins | -48.5% | -28.4% |
-| Richard Ríos | 87 | Liga Portugal | 189k coins | -48.5% | -18.9% |
-| Eden Hazard | 88 | Premier League | 79k coins | -48.2% | -23.5% |
-| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 165k coins | -48% | -11.1% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 80k coins | -42.4% | +101.3% |
-| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 200k coins | -41.8% | -21.2% |
-| João Neves | 88 | Ligue 1 McDonald's | 32k coins | -41.4% | -12.2% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 70k coins | -48.6% | -53.7% |
+| Eden Hazard | 88 | Premier League | 83k coins | -46.8% | -27% |
+| Marcelo | 89 | Icons | 110k coins | -46.3% | +47.7% |
+| Charles De Ketelaere | 89 | Serie A TIM | 23k coins | -45.2% | +51.7% |
+| Wesley Sneijder | 89 | Serie A TIM | 26k coins | -44.5% | -4.5% |
+| Antonio Nusa | 89 | Bundesliga | 81k coins | -40.3% | -17% |
+| Federico Dimarco | 87 | Serie A TIM | 46k coins | -39.3% | -39.3% |
+| Ane Azkona | 88 | Liga F | 26k coins | -38.7% | +71% |
+| Cristian Manea | 88 | SUPERLIGA | 21k coins | -38.5% | -30.7% |
+| Éder Militão | 88 | LALIGA EA SPORTS | 44k coins | -37.9% | +13.9% |
 
 
 ### Análise das baixas
 
-- **Tim Cahill (89)** caiu **-50%** em 24h, a **41k coins** (faixa do dia: 30k–109k). Está -20% abaixo da média de 7 dias (descontada).
+- **Blaise Matuidi (87)** caiu **-48.6%** em 24h, a **70k coins** (faixa do dia: 70k–150k). Está -61% abaixo da média de 7 dias (descontada).
 
-- **Claudia Pina (88)** caiu **-49.5%** em 24h, a **46k coins** (faixa do dia: 42k–106k). Está -47% abaixo da média de 7 dias (descontada).
+- **Eden Hazard (88)** caiu **-46.8%** em 24h, a **83k coins** (faixa do dia: 79k–145k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Bremer (88)** caiu **-49%** em 24h, a **180k coins** (faixa do dia: 180k–359k). Está -45% abaixo da média de 7 dias (descontada).
-
-
-## 🔮 Radar de valorização (24h)
-
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Maicon | 88 | 20k coins | 21k coins | 54% |
+- **Marcelo (89)** caiu **-46.3%** em 24h, a **110k coins** (faixa do dia: 98k–206k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Dominik Szoboszlai já avançou 59.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Matthias Ginter já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tim Cahill recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Blaise Matuidi recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Dominik Szoboszlai (87, Premier League), com +59.5% em 24h, a 135k coins no Console (PS).
+Matthias Ginter (88, Bundesliga), com +58.9% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tim Cahill (89), -50% em 24h, a 41k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 20k coins.
+Blaise Matuidi (87), -48.6% em 24h, a 70k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 174 cartas em alta contra 287 em queda (média -4.48%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 197 cartas em alta contra 257 em queda (média 0.73%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
