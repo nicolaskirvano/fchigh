@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:39:19.000Z
+pubDatetime: 2026-08-02T22:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Johanna Kaneryd (89, sem liga) lidera, com +89.5% em 7 dias a 27k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gilberto Silva (87, Premier League) lidera, com +86.8% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Johanna Kaneryd (89) acumula **+89.5% em 7 dias** a 27k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gilberto Silva (87) acumula **+86.8% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.3% em 24h** e **+66.7% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.0% em 24h** e **+62.5% em 7 dias**.
+- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Johanna Kaneryd | 89 | — | 27k coins | +14.9% | +89.5% | Esticada |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 88k coins | +9.4% | +88.2% | Esticada |
-| Fábio Vieira | 87 | Bundesliga | 45k coins | +31.9% | +82.7% | Esticada |
-| Jørgen Strand Larsen | 89 | Premier League | 19.500 coins | +39% | +82.2% | Esticada |
-| Marcos Senesi | 88 | Premier League | 48k coins | +7.7% | +79.8% | Esticada |
-| Rocío Gálvez | 88 | Liga F | 20k coins | +16.3% | +76.3% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 138k coins | +22.7% | +66.9% | Esticada |
-| Marcos Acuña | 89 | LPF | 18.500 coins | +8.1% | +66.7% | Esticada |
-| Keita Baldé | 88 | Serie BKT | 17.750 coins | +4.3% | +65.9% | Esticada |
-| Marek Hamšík | 89 | Serie A TIM | 31k coins | +2.5% | +65.3% | Esticada |
-| Jorge Campos | 87 | MLS | 20k coins | +29.2% | +64.7% | Esticada |
+| Gilberto Silva | 87 | Premier League | 42k coins | +9% | +86.8% | Esticada |
+| Antonio Di Natale | 88 | Serie A TIM | 122k coins | +10.5% | +82.6% | Esticada |
+| Dirk Kuyt | 88 | Eredivisie | 29k coins | +30.9% | +78.3% | Esticada |
+| Carles Puyol | 89 | Icons | 114k coins | +5.4% | +74.8% | Esticada |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 84k coins | +1.8% | +69% | Esticada |
+| Marcos Acuña | 89 | LPF | 20k coins | +9.6% | +66.7% | Esticada |
+| Jorge Campos | 87 | MLS | 21k coins | +37.3% | +65.3% | Esticada |
 | Ferdi Kadıoğlu | 87 | — | 65k coins | +34.7% | +62.5% | Esticada |
-| Barbara Bonansea | 87 | Calcio A Femminile | 41k coins | +30% | +62.5% | Esticada |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 64k coins | +27.7% | +57.3% | Esticada |
-| Julian Quiñones | 87 | ROSHN Saudi League | 66k coins | +13.9% | +56.9% | Momentum moderado |
+| Lucy Bronze | 88 | Barclays WSL | 114k coins | +13% | +62.5% | Esticada |
+| Keita Baldé | 88 | Serie BKT | 22k coins | +1.4% | +61.4% | Esticada |
+| Julian Quiñones | 87 | ROSHN Saudi League | 66k coins | +13.9% | +60.7% | Esticada |
+| Aya Miyama | 87 | Icons | 27k coins | +11.2% | +60.3% | Esticada |
+| Eberechi Eze | 87 | Premier League | 100k coins | +32.2% | +55.1% | Esticada |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 60k coins | +21.4% | +52.4% | Esticada |
+| Timo Werner | 87 | Bundesliga | 52k coins | +24.9% | +50% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Johanna Kaneryd (89)** — 27k coins, **+89.5% em 7 dias** (+14.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gilberto Silva (87)** — 42k coins, **+86.8% em 7 dias** (+9% em 24h). Preço -61% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rafael Márquez (88)** — 88k coins, **+88.2% em 7 dias** (+9.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Di Natale (88)** — 122k coins, **+82.6% em 7 dias** (+10.5% em 24h). Preço -74% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fábio Vieira (87)** — 45k coins, **+82.7% em 7 dias** (+31.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dirk Kuyt (88)** — 29k coins, **+78.3% em 7 dias** (+30.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jørgen Strand Larsen (89)** — 19.500 coins, **+82.2% em 7 dias** (+39% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carles Puyol (89)** — 114k coins, **+74.8% em 7 dias** (+5.4% em 24h). Preço -66% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Senesi (88)** — 48k coins, **+79.8% em 7 dias** (+7.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bartosz Kapustka (87)** — 84k coins, **+69% em 7 dias** (+1.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Johanna Kaneryd (89, sem liga) lidera, com +89.5% em 7 dias a 27k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gilberto Silva (87, Premier League) lidera, com +86.8% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
