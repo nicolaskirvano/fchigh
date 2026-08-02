@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:39:08.000Z
+pubDatetime: 2026-08-02T19:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Taylor Flint (88, NWSL) lidera, com +77.3% em 7 dias a 117k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kevin De Bruyne (89, Serie A TIM) lidera, com +83.3% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Taylor Flint (88) acumula **+77.3% em 7 dias** a 117k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kevin De Bruyne (89) acumula **+83.3% em 7 dias** a 110k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+64.4% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.8% em 24h** e **+75.7% em 7 dias**.
+- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Taylor Flint | 88 | NWSL | 117k coins | +6.4% | +77.3% | Esticada |
-| Leah Williamson | 88 | Barclays WSL | 66k coins | +3.1% | +73.5% | Esticada |
-| Serhou Guirassy | 88 | Bundesliga | 41k coins | +3.1% | +72.9% | Esticada |
-| Capdevila | 87 | LALIGA EA SPORTS | 18.500 coins | +31.2% | +71.4% | Esticada |
-| Claire Lavogez | 88 | Liga F | 20k coins | +20.6% | +70.8% | Esticada |
-| Jerzy Dudek | 87 | Premier League | 42k coins | +18.1% | +70% | Esticada |
-| Ane Azkona | 88 | Liga F | 36k coins | +35.2% | +69% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 60k coins | +21.2% | +64.4% | Esticada |
-| Hakan Çalhanoğlu | 88 | — | 70k coins | +7.7% | +63.7% | Esticada |
-| Ramy Bensebaini | 87 | — | 75k coins | +3.4% | +63% | Esticada |
-| Kouadio Manu Koné | 88 | Serie A TIM | 65k coins | +19.3% | +62.5% | Esticada |
-| Ko Itakura | 88 | Eredivisie | 27k coins | +38.3% | +62.3% | Esticada |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 180k coins | +5.9% | +62.2% | Esticada |
-| Chris Smalling | 87 | ROSHN Saudi League | 60k coins | +9.1% | +60% | Esticada |
-| Amaiur Sarriegi | 88 | Liga F | 159k coins | +10% | +58.7% | Momentum moderado |
+| Kevin De Bruyne | 89 | Serie A TIM | 110k coins | +13.4% | +83.3% | Esticada |
+| Karim Benzema | 87 | ROSHN Saudi League | 99k coins | +10% | +83.3% | Esticada |
+| John Arne Riise | 88 | Premier League | 31k coins | +10% | +83.3% | Esticada |
+| João Cancelo | 87 | ROSHN Saudi League | 44k coins | +11.8% | +81.7% | Esticada |
+| Marcos Acuña | 89 | LPF | 21k coins | +3.8% | +80.4% | Esticada |
+| Finn Azaz | 88 | EFL Championship | 50k coins | +20.8% | +80% | Esticada |
+| Aleix García | 89 | Bundesliga | 16.250 coins | +7.2% | +76.3% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 59k coins | +28.1% | +75.7% | Esticada |
+| Amaiur Sarriegi | 88 | Liga F | 141k coins | +2% | +74.7% | Esticada |
+| Leah Williamson | 88 | Barclays WSL | 66k coins | +3.1% | +74.7% | Esticada |
+| Aleksandar Stanković | 87 | 1A Pro League | 249k coins | +9.8% | +74.2% | Esticada |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 119k coins | +30.3% | +72.8% | Esticada |
+| Christian Eriksen | 87 | Bundesliga | 64k coins | +25% | +67.7% | Esticada |
+| Abdul Fatawu | 88 | EFL Championship | 26k coins | +30% | +67.1% | Esticada |
+| Martin Ødegaard | 87 | Premier League | 185k coins | +13.9% | +60.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Taylor Flint (88)** — 117k coins, **+77.3% em 7 dias** (+6.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin De Bruyne (89)** — 110k coins, **+83.3% em 7 dias** (+13.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leah Williamson (88)** — 66k coins, **+73.5% em 7 dias** (+3.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (87)** — 99k coins, **+83.3% em 7 dias** (+10% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Serhou Guirassy (88)** — 41k coins, **+72.9% em 7 dias** (+3.1% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **John Arne Riise (88)** — 31k coins, **+83.3% em 7 dias** (+10% em 24h). Preço -32% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Capdevila (87)** — 18.500 coins, **+71.4% em 7 dias** (+31.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Cancelo (87)** — 44k coins, **+81.7% em 7 dias** (+11.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claire Lavogez (88)** — 20k coins, **+70.8% em 7 dias** (+20.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Acuña (89)** — 21k coins, **+80.4% em 7 dias** (+3.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Taylor Flint (88, NWSL) lidera, com +77.3% em 7 dias a 117k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kevin De Bruyne (89, Serie A TIM) lidera, com +83.3% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
