@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:25:44.000Z
+pubDatetime: 2026-08-02T10:39:30.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 02/08 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.380 coins.
-- **Posição mais frequente:** GK, com 2 cartas.
+- **Preço médio das 15 opções:** 7.897 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
 - **Faixa real:** 3.900 a 11.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -41,42 +41,42 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.900 coins | -9.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.200 coins | -14.9% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 5.000 coins | +11.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.000 coins | -6.2% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.200 coins | -9.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.000 coins | -6.2% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 6.400 coins | -7.1% |
-| Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
-| Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
-| Mariona | 89 | CAM | Barclays WSL | 11.250 coins | 0% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Dunga | 89 | CDM | Icons | 11.250 coins | 0% |
-| Kerolin Nicoli | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.100 coins | +8.9% |
+| Alessia Russo | 89 | ST | Barclays WSL | 4.800 coins | -4.3% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.900 coins | -14.9% |
+| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | 0% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 5.000 coins | +10% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.500 coins | -7.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.500 coins | -6.2% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
 | Katie McCabe | 89 | LB | Barclays WSL | 11.250 coins | 0% |
+| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
+| Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **3.900 coins**
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Alessia Russo (89, ST)** da Barclays WSL, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5.000 coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Thibaut Courtois (89, GK) por 3.900 coins é a referência de rating deste recorte.
 
-- **Meio:** Lamine Yamal (89, RM) por 5.000 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 5.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alexandra Popp (89, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Alessia Russo (89, ST) por 4.800 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

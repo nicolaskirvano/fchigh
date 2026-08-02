@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:25:33.000Z
+pubDatetime: 2026-08-02T10:39:19.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.6% em 24h** e **+71.4% em 7 dias**.
+- A mediana é de **+21.6% em 24h** e **+72.2% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Marcelo | 89 | Icons | 150k coins | +15.4% | +87.5% | Esticada |
-| Tomas Brolin | 89 | Premier League | 34k coins | +22.6% | +85.5% | Esticada |
+| Joshua Zirkzee | 87 | Premier League | 35k coins | +14.6% | +87.5% | Esticada |
+| Tomas Brolin | 89 | Premier League | 15.250 coins | +22.6% | +85.5% | Esticada |
 | Karim Benzema | 87 | ROSHN Saudi League | 110k coins | +13.4% | +83.3% | Esticada |
-| Joshua Zirkzee | 87 | Premier League | 35k coins | +14.6% | +80% | Esticada |
+| James Milner | 88 | Premier League | 127k coins | +1.6% | +78.9% | Esticada |
 | Aleix García | 89 | Bundesliga | 28k coins | +21.6% | +77.1% | Esticada |
 | Sven Ulreich | 87 | Bundesliga | 40k coins | +33.3% | +73.9% | Esticada |
 | Mario Lemina | 88 | Trendyol Süper Lig | 65k coins | +8.3% | +72.2% | Esticada |
-| Alessandro Nesta | 88 | — | 23k coins | +28% | +71.4% | Esticada |
-| Bruno Fernandes | 88 | Premier League | 74k coins | +40% | +71.4% | Esticada |
-| Hanna Lundkvist | 87 | Barclays WSL | 54k coins | +24.4% | +69.7% | Esticada |
-| Marcos Acuña | 89 | LPF | 17.750 coins | +20.6% | +68.9% | Esticada |
-| Grimaldo | 87 | Bundesliga | 28k coins | +29.4% | +66.7% | Esticada |
+| Kyle Walker | 89 | Premier League | 199k coins | +35.2% | +71.5% | Esticada |
+| Hanna Lundkvist | 87 | Barclays WSL | 53k coins | +24.4% | +69.7% | Esticada |
+| Marcos Acuña | 89 | LPF | 18.500 coins | +20.6% | +68.9% | Esticada |
 | Miguel Ángel Merentiel | 88 | LPF | 55k coins | +36.6% | +66.7% | Esticada |
-| David Beckham | 89 | Icons | 40k coins | +17.9% | +63.4% | Esticada |
-| Taylor Flint | 88 | NWSL | 120k coins | +23.5% | +63.3% | Esticada |
+| Grimaldo | 87 | Bundesliga | 28k coins | +31% | +66.7% | Esticada |
+| Alessandro Nesta | 88 | — | 23k coins | +22.7% | +64.3% | Esticada |
+| Dirk Kuyt | 88 | Eredivisie | 35k coins | +4.2% | +63.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Marcelo (89)** — 150k coins, **+87.5% em 7 dias** (+15.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tomas Brolin (89)** — 34k coins, **+85.5% em 7 dias** (+22.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Zirkzee (87)** — 35k coins, **+87.5% em 7 dias** (+14.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Tomas Brolin (89)** — 15.250 coins, **+85.5% em 7 dias** (+22.6% em 24h). Preço -36% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Karim Benzema (87)** — 110k coins, **+83.3% em 7 dias** (+13.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua Zirkzee (87)** — 35k coins, **+80% em 7 dias** (+14.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Aleix García (89)** — 28k coins, **+77.1% em 7 dias** (+21.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Milner (88)** — 127k coins, **+78.9% em 7 dias** (+1.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:25:42.000Z
+pubDatetime: 2026-08-02T10:39:29.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 02/08 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+60.0% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.1% em 24h** e **+64.7% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -48,16 +48,16 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +8.5% | +81.8% | Esticada |
 | Croix Bethune | 87 | NWSL | 42k coins | +5.1% | +78.5% | Esticada |
 | Serhou Guirassy | 88 | Bundesliga | 78k coins | +30.8% | +72.5% | Esticada |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 55k coins | +4.8% | +69.2% | Esticada |
 | Giorgio Chiellini | 89 | Icons | 159k coins | +23.3% | +67.4% | Esticada |
-| Orbelín Pineda | 89 | — | 33k coins | +40% | +64.7% | Esticada |
+| Orbelín Pineda | 89 | — | 35k coins | +40% | +64.7% | Esticada |
+| Matteo Politano | 87 | — | 60k coins | +39.5% | +61.1% | Esticada |
 | Tomáš Rosický | 89 | Bundesliga | 32k coins | +6.7% | +60% | Esticada |
 | Caitlin Cosme | 88 | D1 Arkema | 30k coins | +12.1% | +60% | Esticada |
 | James McClean | 87 | EFL Championship | 48k coins | +2.1% | +58.9% | Momentum moderado |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +56.2% | Esticada |
-| Javier Zanetti | 89 | Icons | 102k coins | +5% | +55.6% | Momentum moderado |
-| Bruno Guimarães | 87 | Premier League | 62k coins | +32.6% | +52.6% | Esticada |
-| Santiago Mouriño | 87 | LALIGA EA SPORTS | 64k coins | +15.5% | +52.1% | Momentum moderado |
-| Saki Kumagai | 88 | Barclays WSL | 34k coins | +6.3% | +45.2% | Momentum moderado |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +57.9% | Esticada |
+| Mikkel Damsgaard | 87 | Premier League | 75k coins | +12.8% | +57.1% | Momentum moderado |
+| Javier Zanetti | 89 | Icons | 102k coins | +4% | +54.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,9 +66,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Martín Cauteruccio (87)** — 28k coins, **+82.5% em 7 dias** (+2.7% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+8.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+8.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (87)** — 42k coins, **+78.5% em 7 dias** (+5.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Croix Bethune (87)** — 42k coins, **+78.5% em 7 dias** (+5.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Serhou Guirassy (88)** — 78k coins, **+72.5% em 7 dias** (+30.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
