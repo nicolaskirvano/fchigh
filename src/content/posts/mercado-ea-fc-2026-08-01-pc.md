@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:39:17.000Z
+pubDatetime: 2026-08-02T01:39:19.000Z
 title: "Mercado EA FC em 01/08: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,22 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Kevin De Bruyne (89, Serie A TIM), com +60% em 24h, a 223k coins no PC."
+    a: "Georginio Wijnaldum (87, Brasileirão), com +59.8% em 24h, a 45k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "James McClean (87), -49.5% em 24h, a 22k coins."
+    a: "Paul Scholes (88), -49.6% em 24h, a 66k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 32k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 189 cartas em alta contra 243 em queda (média 4.95%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 210 cartas em alta contra 237 em queda (média 6.07%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **01/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **189 em alta** e **243 em queda**, média de **4.95%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **01/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **210 em alta** e **237 em queda**, média de **6.07%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kevin De Bruyne (89) **+60%** · 🔴 **Maior baixa:** James McClean (87) **-49.5%**
+> 🟢 **Maior alta:** Georginio Wijnaldum (87) **+59.8%** · 🔴 **Maior baixa:** Paul Scholes (88) **-49.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +37,24 @@ Panorama de **01/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.8% entre as cartas que se moveram; o universo observado reúne 576 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.0% entre as cartas que se moveram; o universo observado reúne 609 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kevin De Bruyne | 89 | Serie A TIM | 223k coins | +60% | +31.1% |
+| Georginio Wijnaldum | 87 | Brasileirão | 45k coins | +59.8% | +27.9% |
 | Murillo | 87 | Premier League | 123k coins | +58.7% | +51.9% |
-| Robin Roefs | 87 | Premier League | 37k coins | +55.2% | +63.7% |
-| Rafael Leão | 87 | Serie A TIM | 850k coins | +54.8% | +93.2% |
+| Zico | 87 | Icons | 190k coins | +58.3% | +95.9% |
+| Julian Araujo | 89 | Scottish Premiership | 140k coins | +57.1% | +83.3% |
+| Ilias Akhomach | 88 | LALIGA EA SPORTS | 38k coins | +56% | -7.7% |
 | Sakina Karchaoui | 89 | — | 95k coins | +54.5% | +106.5% |
-| Hugo Sánchez | 89 | Icons | 153k coins | +53.8% | -6.7% |
-| Igor Jesus | 87 | Premier League | 22k coins | +53.6% | +53.6% |
-| Hugo Ekitiké | 87 | Premier League | 75k coins | +53.1% | +57.9% |
-| Morata | 87 | Serie A TIM | 162k coins | +52.9% | -11.5% |
 | Mats Deijl | 88 | Eredivisie | 30k coins | +51.9% | +51.9% |
+| Carles Puyol | 88 | — | 22k coins | +50% | +25% |
+| Alexander Sørloth | 89 | LALIGA EA SPORTS | 170k coins | +49.1% | 0% |
+| Shelina Zadorsky | 87 | Barclays WSL | 100k coins | +46% | +35.1% |
 
 
 ### Análise das altas
@@ -61,43 +63,52 @@ Panorama de **01/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kevin De Bruyne (89)** subiu **+60%** em 24h, a **223k coins** (faixa do dia: 150k–240k). Está +27% acima da média de 7 dias (aquecida).
+- **Georginio Wijnaldum (87)** subiu **+59.8%** em 24h, a **45k coins** (faixa do dia: 19.500–45k). Está +97% acima da média de 7 dias (aquecida).
 
-- **Murillo (87)** subiu **+58.7%** em 24h, a **123k coins** (faixa do dia: 78k–210k). Está -22% abaixo da média de 7 dias (descontada).
+- **Murillo (87)** subiu **+58.7%** em 24h, a **123k coins** (faixa do dia: 78k–210k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Robin Roefs (87)** subiu **+55.2%** em 24h, a **37k coins** (faixa do dia: 22k–40k). Está +19% acima da média de 7 dias (aquecida).
+- **Zico (87)** subiu **+58.3%** em 24h, a **190k coins** (faixa do dia: 80k–190k). Está +48% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| James McClean | 87 | EFL Championship | 22k coins | -49.5% | -25% |
-| Aleksandar Stanković | 87 | 1A Pro League | 86k coins | -49.1% | -29.7% |
-| Alessandro Nesta | 89 | Icons | 72k coins | -47.2% | +10.4% |
-| Davor Šuker | 87 | Icons | 66k coins | -46.8% | 0% |
-| Malik Tillman | 88 | Bundesliga | 129k coins | -46% | -11.6% |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 26k coins | -45.6% | -9% |
-| Larissa Mühlhaus | 87 | GPFBL | 26k coins | -45.2% | -38% |
+| Paul Scholes | 88 | Icons | 66k coins | -49.6% | 0% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 20k coins | -49.4% | -43.4% |
+| Gabriel Martinelli | 87 | Premier League | 56k coins | -49.1% | -45.6% |
+| Debinha | 89 | NWSL | 96k coins | -46.1% | -37.7% |
+| Louisa Necib | 88 | D1 Arkema | 50k coins | -45.2% | -40.7% |
 | Callum McGregor | 87 | Scottish Premiership | 72k coins | -45% | -51.4% |
-| Cody Gakpo | 89 | Premier League | 100k coins | -44.4% | -43.1% |
-| Henrik Larsson | 88 | Icons | 74k coins | -41.8% | -18.1% |
+| Alessandro Nesta | 89 | Icons | 72k coins | -44.6% | +6.7% |
+| Davor Šuker | 87 | Icons | 66k coins | -44.5% | 0% |
+| Jonathan Tah | 88 | Bundesliga | 30k coins | -43.7% | -31% |
+| Henrik Larsson | 88 | Icons | 74k coins | -41.8% | -16.3% |
 
 
 ### Análise das baixas
 
-- **James McClean (87)** caiu **-49.5%** em 24h, a **22k coins** (faixa do dia: 22k–55k). Está -31% abaixo da média de 7 dias (descontada).
+- **Paul Scholes (88)** caiu **-49.6%** em 24h, a **66k coins** (faixa do dia: 66k–151k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Aleksandar Stanković (87)** caiu **-49.1%** em 24h, a **86k coins** (faixa do dia: 75k–170k). Está -28% abaixo da média de 7 dias (descontada).
+- **Gerónimo Rulli (87)** caiu **-49.4%** em 24h, a **20k coins** (faixa do dia: 19.250–35k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Alessandro Nesta (89)** caiu **-47.2%** em 24h, a **72k coins** (faixa do dia: 68k–146k). Está -18% abaixo da média de 7 dias (descontada).
+- **Gabriel Martinelli (87)** caiu **-49.1%** em 24h, a **56k coins** (faixa do dia: 56k–152k). Está -54% abaixo da média de 7 dias (descontada).
+
+
+## 🔮 Radar de valorização (24h)
+
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Lukáš Haraslín | 89 | 32k coins | 32k coins | 63% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kevin De Bruyne já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Georginio Wijnaldum já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** James McClean recuou -49.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paul Scholes recuou -49.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +120,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Kevin De Bruyne (89, Serie A TIM), com +60% em 24h, a 223k coins no PC.
+Georginio Wijnaldum (87, Brasileirão), com +59.8% em 24h, a 45k coins no PC.
 
 **E a maior queda do dia?**
-James McClean (87), -49.5% em 24h, a 22k coins.
+Paul Scholes (88), -49.6% em 24h, a 66k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**
+Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 32k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 189 cartas em alta contra 243 em queda (média 4.95%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 210 cartas em alta contra 237 em queda (média 6.07%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

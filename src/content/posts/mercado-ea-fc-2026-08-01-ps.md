@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:39:08.000Z
+pubDatetime: 2026-08-02T01:39:09.000Z
 title: "Mercado EA FC em 01/08: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Louisa Necib (88, D1 Arkema), com +58.1% em 24h, a 29k coins no Console (PS)."
+    a: "Jerzy Dudek (87, Premier League), com +60% em 24h, a 54k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "N'Golo Kanté (89), -49% em 24h, a 82k coins."
+    a: "John Arne Riise (88), -50% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 194 cartas em alta contra 193 em queda (média 4.29%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 210 cartas em alta contra 220 em queda (média 5.26%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **01/08/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **194 em alta** e **193 em queda**, média de **4.29%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **01/08/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **210 em alta** e **220 em queda**, média de **5.26%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Louisa Necib (88) **+58.1%** · 🔴 **Maior baixa:** N'Golo Kanté (89) **-49%**
+> 🟢 **Maior alta:** Jerzy Dudek (87) **+60%** · 🔴 **Maior baixa:** John Arne Riise (88) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **01/08/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.1% entre as cartas que se moveram; o universo observado reúne 515 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 532 cartas.
+- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Louisa Necib | 88 | D1 Arkema | 29k coins | +58.1% | +17% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 41k coins | +57.1% | +65.4% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 31k coins | +56.2% | +68.5% |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 114k coins | +53% | +33.3% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 399k coins | +50.9% | +103.3% |
-| Rio Ferdinand | 88 | Icons | 425k coins | +50.9% | +26.5% |
-| Jerzy Dudek | 87 | Premier League | 54k coins | +50% | +35% |
-| Miguel Ángel Merentiel | 88 | LPF | 55k coins | +46.7% | +66.7% |
-| Hugo Sánchez | 89 | Icons | 120k coins | +45.9% | +50.3% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 170k coins | +44.5% | -60.2% |
+| Jerzy Dudek | 87 | Premier League | 54k coins | +60% | +35% |
+| Pedro Neto | 88 | Premier League | 28k coins | +60% | +41.7% |
+| Matthias Ginter | 88 | Bundesliga | 54k coins | +58.8% | +13.7% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 249k coins | +57.2% | +14.2% |
+| Nemanja Vidić | 89 | Icons | 354k coins | +55.6% | +47.3% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 28k coins | +54.5% | +98.3% |
+| Hugo Ekitiké | 87 | Premier League | 95k coins | +54.5% | +82.7% |
+| Franck Ribéry | 89 | Icons | 380k coins | +52.8% | +58.6% |
+| Jaap Stam | 89 | Premier League | 55k coins | +51.4% | -30.2% |
+| Claudia Pina | 88 | Liga F | 148k coins | +48% | +37% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **01/08/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Louisa Necib (88)** subiu **+58.1%** em 24h, a **29k coins** (faixa do dia: 18.500–29k). Está +30% acima da média de 7 dias (aquecida).
+- **Jerzy Dudek (87)** subiu **+60%** em 24h, a **54k coins** (faixa do dia: 32k–54k). Está +53% acima da média de 7 dias (aquecida).
 
-- **Mario Lemina (88)** subiu **+57.1%** em 24h, a **41k coins** (faixa do dia: 30k–60k). Está em linha com a média de 7 dias (-4%).
+- **Pedro Neto (88)** subiu **+60%** em 24h, a **28k coins** (faixa do dia: 17.750–57k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Jean-Mattéo Bahoya (89)** subiu **+56.2%** em 24h, a **31k coins** (faixa do dia: 24k–95k). Está -33% abaixo da média de 7 dias (descontada).
+- **Matthias Ginter (88)** subiu **+58.8%** em 24h, a **54k coins** (faixa do dia: 24k–64k). Está +53% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 82k coins | -49% | -44.9% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 38k coins | -48.7% | +11.1% |
-| Mallory Swanson | 88 | NWSL | 52k coins | -47.5% | +89.2% |
-| Malcom | 87 | ROSHN Saudi League | 52k coins | -45.3% | -5.5% |
-| Andrej Kramarić | 87 | Bundesliga | 47k coins | -45.1% | -8.2% |
-| Wesley Sneijder | 89 | Serie A TIM | 23k coins | -45% | +5.7% |
-| Juan Mata | 88 | A-League | 75k coins | -41.2% | -3.2% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 55k coins | -39.9% | -50% |
-| Kieffer Moore | 88 | EFL Championship | 25k coins | -39.8% | -28.6% |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 394k coins | -37.5% | +2.6% |
+| John Arne Riise | 88 | Premier League | 40k coins | -50% | -16.1% |
+| Andrej Kramarić | 87 | Bundesliga | 44k coins | -47% | -15% |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 34k coins | -45.2% | -26.2% |
+| Luis Díaz | 89 | Bundesliga | 67k coins | -42.5% | -33.7% |
+| Emily van Egmond | 88 | Barclays WSL | 84k coins | -41.7% | -63.1% |
+| Cora Zicai | 88 | GPFBL | 24k coins | -41.1% | -74.7% |
+| João Pedro | 87 | Premier League | 48k coins | -40% | +1.1% |
+| Georgia Stanway | 88 | Liga F | 65k coins | -39.2% | 0% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 382k coins | -39.1% | -1.8% |
+| Lautaro Martínez | 89 | Serie A TIM | 64k coins | -38% | -11% |
 
 
 ### Análise das baixas
 
-- **N'Golo Kanté (89)** caiu **-49%** em 24h, a **82k coins** (faixa do dia: 31k–101k). Está +9% acima da média de 7 dias (aquecida).
+- **John Arne Riise (88)** caiu **-50%** em 24h, a **40k coins** (faixa do dia: 26k–60k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Thelo Aasgaard (87)** caiu **-48.7%** em 24h, a **38k coins** (faixa do dia: 15.000–42k). Está +79% acima da média de 7 dias (aquecida).
+- **Andrej Kramarić (87)** caiu **-47%** em 24h, a **44k coins** (faixa do dia: 44k–81k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Mallory Swanson (88)** caiu **-47.5%** em 24h, a **52k coins** (faixa do dia: 52k–116k). Está -14% abaixo da média de 7 dias (descontada).
+- **Rafael Márquez (88)** caiu **-45.2%** em 24h, a **34k coins** (faixa do dia: 25k–68k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Louisa Necib já avançou 58.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jerzy Dudek já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** N'Golo Kanté recuou -49%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** John Arne Riise recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Louisa Necib (88, D1 Arkema), com +58.1% em 24h, a 29k coins no Console (PS).
+Jerzy Dudek (87, Premier League), com +60% em 24h, a 54k coins no Console (PS).
 
 **E a maior queda do dia?**
-N'Golo Kanté (89), -49% em 24h, a 82k coins.
+John Arne Riise (88), -50% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 194 cartas em alta contra 193 em queda (média 4.29%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 210 cartas em alta contra 220 em queda (média 5.26%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:39:19.000Z
+pubDatetime: 2026-08-02T01:39:20.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Firas Al Birekan (89, ROSHN Saudi League) lidera, com +85.9% em 7 dias a 58k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Manaka Matsukubo (89, NWSL) lidera, com +85.5% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Firas Al Birekan (89) acumula **+85.9% em 7 dias** a 58k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Manaka Matsukubo (89) acumula **+85.5% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.5% em 24h** e **+71.9% em 7 dias**.
+- A mediana é de **+12.9% em 24h** e **+72.7% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **ROSHN Saudi League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Firas Al Birekan | 89 | ROSHN Saudi League | 58k coins | +23.3% | +85.9% | Esticada |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 109k coins | +3% | +83.7% | Esticada |
-| Catarina Macario | 87 | Barclays WSL | 26k coins | +2% | +81.8% | Esticada |
-| Vanessa Gilles | 87 | GPFBL | 25k coins | +36.5% | +77.2% | Esticada |
-| Javier Zanetti | 89 | Icons | 124k coins | +21.4% | +76.3% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 210k coins | +10% | +76% | Esticada |
-| Mateo Chávez | 89 | — | 95k coins | +29.3% | +75.9% | Esticada |
-| Carles Puyol | 89 | Icons | 112k coins | +10.5% | +71.9% | Esticada |
-| Nerea Nevado | 89 | Liga F | 30k coins | +3.4% | +69% | Esticada |
-| Julia Grosso | 88 | NWSL | 74k coins | +27.1% | +67.1% | Esticada |
-| Marcos Acuña | 89 | LPF | 18.750 coins | +8.7% | +66.7% | Esticada |
-| Tomas Brolin | 89 | Premier League | 35k coins | +14.5% | +63% | Esticada |
-| Caroline Weir | 87 | Liga F | 65k coins | +4.8% | +62.5% | Esticada |
-| Amaiur Sarriegi | 88 | Liga F | 112k coins | +24.4% | +62.3% | Esticada |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 120k coins | +20% | +62.2% | Esticada |
+| Manaka Matsukubo | 89 | NWSL | 32k coins | +9.4% | +85.5% | Esticada |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 160k coins | +10% | +82.3% | Esticada |
+| Firas Al Birekan | 89 | ROSHN Saudi League | 52k coins | +13.2% | +81.4% | Esticada |
+| Tomas Brolin | 89 | Premier League | 38k coins | +15.3% | +79.8% | Esticada |
+| Abdul Fatawu | 88 | EFL Championship | 22k coins | +37.5% | +79.6% | Esticada |
+| Claudio Pizarro | 87 | Bundesliga | 16.500 coins | +7.7% | +78.7% | Esticada |
+| Robin Roefs | 87 | Premier League | 24k coins | +35.6% | +75.8% | Esticada |
+| Chris Smalling | 87 | ROSHN Saudi League | 66k coins | +3.1% | +72.7% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +10% | +69.2% | Esticada |
+| Nerea Nevado | 89 | Liga F | 30k coins | +15.4% | +69% | Esticada |
+| Bruno Fernandes | 88 | Premier League | 116k coins | +13.2% | +67.8% | Esticada |
+| Irene Paredes | 88 | Liga F | 60k coins | +15.4% | +66.7% | Esticada |
+| Janina Minge | 88 | — | 37k coins | +12.9% | +65.6% | Esticada |
+| Marcos Acuña | 89 | LPF | 18.250 coins | +12.3% | +62.2% | Esticada |
+| Carles Puyol | 89 | Icons | 104k coins | +2.9% | +60% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Firas Al Birekan (89)** — 58k coins, **+85.9% em 7 dias** (+23.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manaka Matsukubo (89)** — 32k coins, **+85.5% em 7 dias** (+9.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rafael Márquez (88)** — 109k coins, **+83.7% em 7 dias** (+3% em 24h). Preço +64% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jayden Oosterwolde (87)** — 160k coins, **+82.3% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Catarina Macario (87)** — 26k coins, **+81.8% em 7 dias** (+2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Firas Al Birekan (89)** — 52k coins, **+81.4% em 7 dias** (+13.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vanessa Gilles (87)** — 25k coins, **+77.2% em 7 dias** (+36.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tomas Brolin (89)** — 38k coins, **+79.8% em 7 dias** (+15.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Zanetti (89)** — 124k coins, **+76.3% em 7 dias** (+21.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Abdul Fatawu (88)** — 22k coins, **+79.6% em 7 dias** (+37.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Firas Al Birekan (89, ROSHN Saudi League) lidera, com +85.9% em 7 dias a 58k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Manaka Matsukubo (89, NWSL) lidera, com +85.5% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
