@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:26:43.000Z
+pubDatetime: 2026-08-03T10:39:21.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 5.260 coins.
+- **Preço médio das 15 opções:** 5.020 coins.
 - **Posição mais frequente:** GK, com 3 cartas.
-- **Faixa real:** 3.300 a 8.300 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.300 a 6.400 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,42 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.300 coins | +10.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.900 coins | +25% |
 | Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4.000 coins | +10.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.000 coins | +2.5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.200 coins | -13.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.000 coins | -11.1% |
+| Harry Kane | 89 | ST | Bundesliga | 4.600 coins | +10.6% |
 | Alisson | 89 | GK | Premier League | 4.800 coins | +54.8% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 4.900 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | +10.6% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 5.000 coins | 0% |
 | Patri Guijarro | 89 | CDM | Liga F | 5.100 coins | +12% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 5.200 coins | +5% |
 | Raphinha | 89 | LM | LALIGA EA SPORTS | 5.300 coins | -9.4% |
 | Alessia Russo | 89 | ST | Barclays WSL | 5.500 coins | +12.2% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 5.800 coins | +1.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.200 coins | 0% |
 | Mapi León | 89 | CB | Liga F | 6.200 coins | +1.7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.300 coins | -12.3% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 8.300 coins | +30.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.200 coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.400 coins | -12.3% |
 
 
 ## 📈 Destaques
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.900 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+
 - **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.000 coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4.200 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Alisson (89, GK)** da Premier League, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Achraf Hakimi (89, RB) por 3.300 coins é a referência de rating deste recorte.
 
-- **Meio:** Lamine Yamal (89, RM) por 4.200 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 3.900 coins é a referência de rating deste recorte.
 
-- **Ataque:** Khadija Shaw (89, ST) por 4.900 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 4.600 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

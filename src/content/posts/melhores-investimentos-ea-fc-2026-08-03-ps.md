@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:26:32.000Z
+pubDatetime: 2026-08-03T10:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+72.5% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.3% em 24h** e **+72.2% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | João Neves | 88 | Ligue 1 McDonald's | 50k coins | +6.9% | +87% | Esticada |
-| Matheus Cunha | 87 | Premier League | 216k coins | +19.8% | +86.3% | Esticada |
-| Peer Koopmeiners | 89 | — | 22k coins | +9.4% | +86% | Esticada |
-| Marie Katoto | 89 | Frauen-Bundesliga | 160k coins | +36% | +83.8% | Esticada |
+| Matheus Cunha | 87 | Premier League | 216k coins | +18.7% | +84.6% | Esticada |
+| Peer Koopmeiners | 89 | — | 22k coins | +5.9% | +80% | Esticada |
 | Rui Costa | 88 | Serie A TIM | 50k coins | +25.8% | +77% | Esticada |
-| Zico | 87 | Icons | 86k coins | +25% | +75% | Esticada |
-| Antonio Di Natale | 88 | Serie A TIM | 68k coins | +19.7% | +75% | Esticada |
+| Antonio Di Natale | 88 | Serie A TIM | 68k coins | +20.5% | +76.2% | Esticada |
+| Marie Katoto | 89 | Frauen-Bundesliga | 160k coins | +28% | +73% | Esticada |
 | Joshua Zirkzee | 87 | Premier League | 45k coins | +11.4% | +72.5% | Esticada |
 | Mateus Mané | 88 | Premier League | 50k coins | +3.1% | +72.2% | Esticada |
+| Zico | 87 | Icons | 86k coins | +22.9% | +72% | Esticada |
 | Aleix García | 89 | Bundesliga | 30k coins | +5.4% | +71% | Esticada |
 | Declan Rice | 89 | Premier League | 68k coins | +13.3% | +70% | Esticada |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 113k coins | +31.4% | +65% | Esticada |
 | Steven Gerrard | 89 | Icons | 195k coins | +11.5% | +62.9% | Esticada |
-| Marcos Acuña | 89 | LPF | 20k coins | +3.9% | +61.2% | Esticada |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 113k coins | +31.4% | +62.6% | Esticada |
 | Bastian Schweinsteiger | 88 | Icons | 106k coins | +30.1% | +59.4% | Esticada |
+| Marcos Acuña | 89 | LPF | 19.250 coins | +1.3% | +57.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **João Neves (88)** — 50k coins, **+87% em 7 dias** (+6.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matheus Cunha (87)** — 216k coins, **+86.3% em 7 dias** (+19.8% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matheus Cunha (87)** — 216k coins, **+84.6% em 7 dias** (+18.7% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Peer Koopmeiners (89)** — 22k coins, **+86% em 7 dias** (+9.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Marie Katoto (89)** — 160k coins, **+83.8% em 7 dias** (+36% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Peer Koopmeiners (89)** — 22k coins, **+80% em 7 dias** (+5.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Rui Costa (88)** — 50k coins, **+77% em 7 dias** (+25.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Antonio Di Natale (88)** — 68k coins, **+76.2% em 7 dias** (+20.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
