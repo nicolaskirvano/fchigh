@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:39:09.000Z
+pubDatetime: 2026-08-03T16:39:08.000Z
 title: "Mercado EA FC em 03/08: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Johan Bakayoko (88, Bundesliga), com +60% em 24h, a 38k coins no Console (PS)."
+    a: "Maximilian Mittelstädt (88, Bundesliga), com +59% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Martin Baturina (89), -50% em 24h, a 23k coins."
+    a: "Mikael Ishak (87), -49.4% em 24h, a 39k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 229 cartas em alta contra 234 em queda (média 3.69%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 258 cartas em alta contra 210 em queda (média 5.27%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **03/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **229 valorizações** contra **234 quedas** entre as cartas relevantes, com média de **3.69%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **03/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **258 valorizações** contra **210 quedas** entre as cartas relevantes, com média de **5.27%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Johan Bakayoko (88) **+60%** · 🔴 **Maior baixa:** Martin Baturina (89) **-50%**
+> 🟢 **Maior alta:** Maximilian Mittelstädt (88) **+59%** · 🔴 **Maior baixa:** Mikael Ishak (87) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Cartas 87-89 — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **03/08/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 547 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.1% entre as cartas que se moveram; o universo observado reúne 568 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Johan Bakayoko | 88 | Bundesliga | 38k coins | +60% | +81.8% |
-| Rayan Cherki | 87 | Premier League | 62k coins | +56.2% | +104.9% |
-| Juan Román Riquelme | 88 | Icons | 112k coins | +56% | +61.4% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 48k coins | +55.6% | +69% |
-| Debinha | 89 | NWSL | 264k coins | +55.1% | +62.4% |
-| Cole Palmer | 88 | Premier League | 535k coins | +52.4% | +40.8% |
-| Jade Le Guilly | 89 | D1 Arkema | 35k coins | +52.1% | +117.9% |
-| Emmanuel Petit | 87 | Icons | 110k coins | +50.6% | +66.4% |
-| Rose Lavelle | 89 | NWSL | 79k coins | +50.5% | +5.3% |
-| Tomáš Rosický | 89 | Bundesliga | 38k coins | +50% | +134.4% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 24k coins | +59% | +56.5% |
+| Gustav Isaksen | 87 | Serie A TIM | 66k coins | +58.8% | +14.4% |
+| Florian Wirtz | 89 | Premier League | 66k coins | +54.7% | -12.5% |
+| Linda Caicedo | 87 | Liga F | 68k coins | +53.5% | +56.6% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +53.4% | +96.5% |
+| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 428k coins | +52.2% | +63.6% |
+| Rose Lavelle | 89 | NWSL | 75k coins | +50.5% | +6.8% |
+| Iván Córdoba | 88 | Serie A TIM | 65k coins | +50% | +93.5% |
+| Debinha | 89 | NWSL | 270k coins | +49.5% | +48.6% |
+| Ona Batlle | 88 | — | 46k coins | +48.9% | +64.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **03/08/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Johan Bakayoko (88)** subiu **+60%** em 24h, a **38k coins** (faixa do dia: 19.750–44k). Está +18% acima da média de 7 dias (aquecida).
+- **Maximilian Mittelstädt (88)** subiu **+59%** em 24h, a **24k coins** (faixa do dia: 11.000–44k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Rayan Cherki (87)** subiu **+56.2%** em 24h, a **62k coins** (faixa do dia: 21k–175k). Está em linha com a média de 7 dias (+1%).
+- **Gustav Isaksen (87)** subiu **+58.8%** em 24h, a **66k coins** (faixa do dia: 42k–80k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Juan Román Riquelme (88)** subiu **+56%** em 24h, a **112k coins** (faixa do dia: 70k–180k). Está +32% acima da média de 7 dias (aquecida).
+- **Florian Wirtz (89)** subiu **+54.7%** em 24h, a **66k coins** (faixa do dia: 40k–92k). Está em linha com a média de 7 dias (-7%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Martin Baturina | 89 | Serie A TIM | 23k coins | -50% | +23.1% |
-| Louisa Necib | 88 | D1 Arkema | 28k coins | -49% | -1.9% |
-| Jens Petter Hauge | 88 | Eliteserien | 36k coins | -48.6% | -9.3% |
-| Mikael Ishak | 87 | PKO BP Ekstraklasa | 40k coins | -48.4% | +7.9% |
-| Joelinton | 87 | Premier League | 57k coins | -45% | +103.4% |
-| Iñaki Williams | 87 | LALIGA EA SPORTS | 186k coins | -44% | +3.7% |
-| Gervinho | 87 | Serie A TIM | 58k coins | -36.1% | -42.5% |
-| Ashley Sanchez | 87 | NWSL | 51k coins | -35.3% | -32.1% |
-| Cláudio Braga | 87 | Scottish Premiership | 24k coins | -34% | -22.4% |
-| João Neves | 88 | Ligue 1 McDonald's | 39k coins | -32.6% | +12.3% |
+| Mikael Ishak | 87 | PKO BP Ekstraklasa | 39k coins | -49.4% | -1.2% |
+| Jens Petter Hauge | 88 | Eliteserien | 38k coins | -48.2% | -17.4% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 22k coins | -45.7% | -27.3% |
+| John Arne Riise | 88 | Premier League | 45k coins | -40.9% | -10.3% |
+| Orbelín Pineda | 89 | — | 25k coins | -39.4% | 0% |
+| Igor Jesus | 87 | Premier League | 41k coins | -37% | -20% |
+| Vanessa Gilles | 87 | GPFBL | 23k coins | -35.1% | +60% |
+| Lucy Bronze | 88 | Barclays WSL | 74k coins | -34.4% | +65.2% |
+| Nwankwo Kanu | 87 | Premier League | 26k coins | -32.5% | +22.7% |
+| Cláudio Braga | 87 | Scottish Premiership | 29k coins | -32.4% | -7.1% |
 
 
 ### Análise das baixas
 
-- **Martin Baturina (89)** caiu **-50%** em 24h, a **23k coins** (faixa do dia: 13.500–40k). Está em linha com a média de 7 dias (-4%).
+- **Mikael Ishak (87)** caiu **-49.4%** em 24h, a **39k coins** (faixa do dia: 39k–80k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Louisa Necib (88)** caiu **-49%** em 24h, a **28k coins** (faixa do dia: 19.500–50k). Está +13% acima da média de 7 dias (aquecida).
+- **Jens Petter Hauge (88)** caiu **-48.2%** em 24h, a **38k coins** (faixa do dia: 36k–71k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Jens Petter Hauge (88)** caiu **-48.6%** em 24h, a **36k coins** (faixa do dia: 36k–72k). Está -22% abaixo da média de 7 dias (descontada).
+- **Julián Alvarez (88)** caiu **-45.7%** em 24h, a **22k coins** (faixa do dia: 22k–41k). Está -65% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Johan Bakayoko já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maximilian Mittelstädt já avançou 59% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Martin Baturina recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Mikael Ishak recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Johan Bakayoko (88, Bundesliga), com +60% em 24h, a 38k coins no Console (PS).
+Maximilian Mittelstädt (88, Bundesliga), com +59% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**
-Martin Baturina (89), -50% em 24h, a 23k coins.
+Mikael Ishak (87), -49.4% em 24h, a 39k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 229 cartas em alta contra 234 em queda (média 3.69%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 258 cartas em alta contra 210 em queda (média 5.27%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
