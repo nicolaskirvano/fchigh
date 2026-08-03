@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:39:20.000Z
+pubDatetime: 2026-08-03T19:39:19.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 03/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 03/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/08/2026)?"
-    a: "Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 4.000 coins no PC."
+    a: "Martin Ødegaard (89, Premier League) aparece como melhor custo-benefício, a 1.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lamine Yamal (89) por apenas 4.000 coins.
+> 💰 **Melhor pechincha:** Martin Ødegaard (89) por apenas 1.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 03/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-03-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 5.153 coins.
-- **Posição mais frequente:** GK, com 3 cartas.
-- **Faixa real:** 4.000 a 6.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 7.963 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.500 a 11.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.000 coins | +7.3% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4.500 coins | +20% |
-| Harry Kane | 89 | ST | Bundesliga | 4.500 coins | +2% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.500 coins | +11.9% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.500 coins | +37.1% |
-| Alisson | 89 | GK | Premier League | 4.700 coins | +23.7% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.800 coins | +20% |
-| Alessia Russo | 89 | ST | Barclays WSL | 5.100 coins | +28.9% |
-| Mariona | 89 | CM | Barclays WSL | 5.300 coins | -1.8% |
-| Mapi León | 89 | CB | Liga F | 5.500 coins | +18.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.500 coins | +15.1% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 5.600 coins | -1.8% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6.000 coins | -5.3% |
-| Raphinha | 89 | LM | LALIGA EA SPORTS | 6.300 coins | +10.2% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.500 coins | -3.2% |
+| Martin Ødegaard | 89 | CM | Premier League | 1.500 coins | +15.4% |
+| Ada Hegerberg | 89 | ST | Arkema PL | 1.500 coins | +53.8% |
+| Mapi León | 89 | CB | Liga F | 3.000 coins | 0% |
+| Sophia Smith | 89 | ST | NWSL | 3.600 coins | +30% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4.100 coins | -7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.500 coins | +4.7% |
+| Eli Junior Kroupi | 89 | ST | Premier League | 11.250 coins | 0% |
+| Davor Šuker | 89 | ST | Icons | 11.250 coins | -6.2% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
+| Katie McCabe | 89 | LB | Barclays WSL | 11.250 coins | 0% |
+| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
+| Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Martin Ødegaard (89, CM)** da Premier League, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Ada Hegerberg (89, ST)** da Arkema PL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Sophia Smith (89, ST)** da NWSL, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4.500 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **4.100 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Thibaut Courtois (89, GK) por 4.500 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 3.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Lamine Yamal (89, RM) por 4.000 coins é a referência de rating deste recorte.
+- **Meio:** Martin Ødegaard (89, CM) por 1.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 4.500 coins é a referência de rating deste recorte.
+- **Ataque:** Ada Hegerberg (89, ST) por 1.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/08/2026)?**  
-Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 4.000 coins no PC.
+Martin Ødegaard (89, Premier League) aparece como melhor custo-benefício, a 1.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
