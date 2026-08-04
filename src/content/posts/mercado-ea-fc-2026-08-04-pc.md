@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:39:16.000Z
+pubDatetime: 2026-08-04T13:39:19.000Z
 title: "Mercado EA FC em 04/08: Cartas 87-89 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Pernille Harder (89, GPFBL), com +60% em 24h, a 70k coins no PC."
+    a: "Lucy Bronze (88, Barclays WSL), com +51.8% em 24h, a 145k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Abedi Pelé (89), -43.5% em 24h, a 20k coins."
+    a: "Jess Fishlock (88), -44.2% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 135 cartas em alta contra 148 em queda (média 3.11%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 110 cartas em alta contra 107 em queda (média 2.69%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**04/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **135 subiram**, **148 caíram** (80+ e 5k+ coins), média de **3.11%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**04/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **110 subiram**, **107 caíram** (80+ e 5k+ coins), média de **2.69%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Pernille Harder (89) **+60%** · 🔴 **Maior baixa:** Abedi Pelé (89) **-43.5%**
+> 🟢 **Maior alta:** Lucy Bronze (88) **+51.8%** · 🔴 **Maior baixa:** Jess Fishlock (88) **-44.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Cartas 87-89 — PC](/charts/mercado-ea-fc-2026-08-04-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**04/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 400 cartas.
-- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.7% entre as cartas que se moveram; o universo observado reúne 307 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pernille Harder | 89 | GPFBL | 70k coins | +60% | -23.1% |
-| Lucy Bronze | 88 | Barclays WSL | 145k coins | +51.8% | +27.2% |
-| Andrea Barzagli | 87 | Serie A TIM | 22k coins | +50.9% | +95.5% |
-| Juan Mata | 88 | A-League | 90k coins | +46.3% | +86.5% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 95k coins | +39.6% | -42.9% |
-| Pavel Nedvěd | 88 | Icons | 128k coins | +39% | +45.5% |
-| Jairzinho | 89 | Icons | 266k coins | +35.2% | -7.6% |
-| Marcel Desailly | 88 | — | 34k coins | +34.6% | +84.5% |
-| Antonio Di Natale | 89 | Serie A TIM | 157k coins | +33.1% | -39.8% |
-| Martin Baturina | 89 | Serie A TIM | 20k coins | +32.8% | +1.2% |
+| Lucy Bronze | 88 | Barclays WSL | 145k coins | +51.8% | -27.1% |
+| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | +40% | +86.7% |
+| Philipp Lahm | 89 | Icons | 96k coins | +40% | +30.3% |
+| Peter Schmeichel | 89 | Icons | 80k coins | +31.1% | +14.2% |
+| Jairzinho | 89 | Icons | 230k coins | +29.4% | -6.5% |
+| Naomie Feller | 88 | — | 41k coins | +29.1% | -9.9% |
+| Jan Oblak | 89 | LALIGA EA SPORTS | 40k coins | +28% | +44.1% |
+| Rui Costa | 88 | Serie A TIM | 38k coins | +26.4% | +12.9% |
+| Uli Hoeneß | 88 | Bundesliga | 25k coins | +25.8% | +165.9% |
+| Grimaldo | 88 | — | 68k coins | +25% | +5.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**04/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Pernille Harder (89)** subiu **+60%** em 24h, a **70k coins** (faixa do dia: 39k–110k). Está em linha com a média de 7 dias (-1%).
-
 - **Lucy Bronze (88)** subiu **+51.8%** em 24h, a **145k coins** (faixa do dia: 96k–220k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Andrea Barzagli (87)** subiu **+50.9%** em 24h, a **22k coins** (faixa do dia: 14.250–29k). Está +22% acima da média de 7 dias (aquecida).
+- **Enzo Millot (89)** subiu **+40%** em 24h, a **21k coins** (faixa do dia: 11.250–30k). Está +11% acima da média de 7 dias (aquecida).
+
+- **Philipp Lahm (89)** subiu **+40%** em 24h, a **96k coins** (faixa do dia: 68k–98k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 20k coins | -43.5% | -20% |
-| Jess Fishlock | 88 | NWSL | 21k coins | -42.9% | -3.4% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 50k coins | -42.1% | +6.4% |
-| Mateo Chávez | 89 | — | 50k coins | -41.2% | +2.6% |
-| Amar Dedić | 88 | — | 26k coins | -40.9% | -0.9% |
-| Debinha | 89 | NWSL | 50k coins | -40.6% | -40.6% |
-| Claude Makélélé | 87 | Icons | 107k coins | -40.5% | +28% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -35.7% | +19.4% |
-| Tomas Brolin | 89 | Premier League | 35k coins | -35.3% | -40% |
-| Denzel Dumfries | 89 | Serie A TIM | 42k coins | -35% | +5.6% |
+| Jess Fishlock | 88 | NWSL | 20k coins | -44.2% | -3.5% |
+| Ilias Akhomach | 88 | LALIGA EA SPORTS | 36k coins | -39.2% | -38.7% |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -35.7% | +23% |
+| Steffi Jones | 89 | Icons | 40k coins | -32.9% | +0.6% |
+| Andrea Barzagli | 89 | — | 30k coins | -31% | -50% |
+| Cody Gakpo | 89 | Premier League | 120k coins | -29.4% | -30.2% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 95k coins | -26.4% | +72.7% |
+| Cláudio Braga | 87 | Scottish Premiership | 22k coins | -26.3% | -8.4% |
+| Martin Ødegaard | 88 | Premier League | 90k coins | -23.1% | +5.3% |
+| Sebastian Nanasi | 89 | — | 24k coins | -22.8% | -22.8% |
 
 
 ### Análise das baixas
 
-- **Abedi Pelé (89)** caiu **-43.5%** em 24h, a **20k coins** (faixa do dia: 15.500–26k). Está em linha com a média de 7 dias (-0%).
+- **Jess Fishlock (88)** caiu **-44.2%** em 24h, a **20k coins** (faixa do dia: 11.250–37k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Jess Fishlock (88)** caiu **-42.9%** em 24h, a **21k coins** (faixa do dia: 11.250–37k). Está -19% abaixo da média de 7 dias (descontada).
+- **Ilias Akhomach (88)** caiu **-39.2%** em 24h, a **36k coins** (faixa do dia: 17.250–60k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Jean-Mattéo Bahoya (89)** caiu **-42.1%** em 24h, a **50k coins** (faixa do dia: 25k–85k). Está +31% acima da média de 7 dias (aquecida).
+- **Marc Bartra (87)** caiu **-35.7%** em 24h, a **42k coins** (faixa do dia: 40k–64k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Pernille Harder já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lucy Bronze já avançou 51.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Abedi Pelé recuou -43.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jess Fishlock recuou -44.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Pernille Harder (89, GPFBL), com +60% em 24h, a 70k coins no PC.
+Lucy Bronze (88, Barclays WSL), com +51.8% em 24h, a 145k coins no PC.
 
 **E a maior queda do dia?**
-Abedi Pelé (89), -43.5% em 24h, a 20k coins.
+Jess Fishlock (88), -44.2% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 135 cartas em alta contra 148 em queda (média 3.11%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 110 cartas em alta contra 107 em queda (média 2.69%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
