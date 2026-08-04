@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:39:09.000Z
+pubDatetime: 2026-08-04T01:39:09.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Timo Werner (87, Bundesliga) lidera, com +90% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Václav Černý (87, Trendyol Süper Lig) lidera, com +89.8% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Timo Werner (87) acumula **+90% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Václav Černý (87) acumula **+89.8% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 87-89 em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+64.7% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+24.6% em 24h** e **+69.5% em 7 dias**.
+- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | Bundesliga | 48k coins | +16.3% | +90% | Esticada |
-| Diego Luna | 89 | MLS | 33k coins | +10.8% | +79.7% | Esticada |
-| Taylor Flint | 88 | NWSL | 150k coins | +18.3% | +77.1% | Esticada |
-| Leonardo Spinazzola | 89 | Serie A TIM | 45k coins | +4.1% | +73.8% | Esticada |
-| Christian Eriksen | 87 | Bundesliga | 85k coins | +6.9% | +73.5% | Esticada |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 32k coins | +38.7% | +72% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 150k coins | +7.9% | +66.7% | Esticada |
-| Nico Williams | 87 | LALIGA EA SPORTS | 144k coins | +6.9% | +64.7% | Esticada |
-| Sissi | 88 | Icons | 120k coins | +1.5% | +64.2% | Esticada |
-| Karim Benzema | 87 | ROSHN Saudi League | 110k coins | +10% | +64.2% | Esticada |
-| Václav Černý | 87 | Trendyol Süper Lig | 40k coins | +33.3% | +63.3% | Esticada |
-| Khéphren Thuram | 87 | Serie A TIM | 65k coins | +7.7% | +60.9% | Esticada |
-| Matheus Cunha | 87 | Premier League | 168k coins | +31.9% | +54.8% | Esticada |
-| Martin Ødegaard | 87 | Premier League | 214k coins | +25.5% | +54% | Esticada |
-| Mateus Mané | 88 | Premier League | 31k coins | +4.2% | +53.8% | Momentum moderado |
+| Václav Černý | 87 | Trendyol Süper Lig | 46k coins | +3.3% | +89.8% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 122k coins | +32.6% | +88.1% | Esticada |
+| Mateus Mané | 88 | Premier League | 58k coins | +4.2% | +85.2% | Esticada |
+| Serhou Guirassy | 88 | Bundesliga | 37k coins | +34.9% | +83.8% | Esticada |
+| Selina Cerci | 87 | GPFBL | 22k coins | +7.1% | +82% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 140k coins | +25% | +78.9% | Esticada |
+| Beto | 87 | — | 70k coins | +37.7% | +71.2% | Esticada |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 25k coins | +26.6% | +69.5% | Esticada |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +24.6% | +68.6% | Esticada |
+| Giulia Gwinn | 89 | GPFBL | 22k coins | +5.3% | +67.4% | Esticada |
+| Iván Córdoba | 88 | Serie A TIM | 109k coins | +4.8% | +65.2% | Esticada |
+| Jack McGlynn | 87 | MLS | 17.500 coins | +12.5% | +63.6% | Esticada |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 72k coins | +30.4% | +62.2% | Esticada |
+| Kevin De Bruyne | 89 | Serie A TIM | 127k coins | +31.3% | +62% | Esticada |
+| Aleksandar Stanković | 87 | 1A Pro League | 238k coins | +3.5% | +60.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Timo Werner (87)** — 48k coins, **+90% em 7 dias** (+16.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Václav Černý (87)** — 46k coins, **+89.8% em 7 dias** (+3.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Luna (89)** — 33k coins, **+79.7% em 7 dias** (+10.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 122k coins, **+88.1% em 7 dias** (+32.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Taylor Flint (88)** — 150k coins, **+77.1% em 7 dias** (+18.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mateus Mané (88)** — 58k coins, **+85.2% em 7 dias** (+4.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leonardo Spinazzola (89)** — 45k coins, **+73.8% em 7 dias** (+4.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Serhou Guirassy (88)** — 37k coins, **+83.8% em 7 dias** (+34.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Eriksen (87)** — 85k coins, **+73.5% em 7 dias** (+6.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selina Cerci (87)** — 22k coins, **+82% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Timo Werner (87, Bundesliga) lidera, com +90% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Václav Černý (87, Trendyol Süper Lig) lidera, com +89.8% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:39:10.000Z
+pubDatetime: 2026-08-04T01:39:10.000Z
 title: "Jogadores baratos EA FC: Cartas 87-89 em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 03/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/08/2026)?"
-    a: "Lautaro Martínez (89, Serie A Enilive) aparece como melhor custo-benefício, a 2.000 coins no Console (PS)."
+    a: "Sophia Smith (89, NWSL) aparece como melhor custo-benefício, a 2.400 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lautaro Martínez (89) por apenas 2.000 coins.
+> 💰 **Melhor pechincha:** Sophia Smith (89) por apenas 2.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 87-89 em 03/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-03-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.607 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.000 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.163 coins.
+- **Posição mais frequente:** ST, com 8 cartas.
+- **Faixa real:** 2.400 a 11.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 89 | ST | Serie A Enilive | 2.000 coins | +12.5% |
-| Ada Hegerberg | 89 | ST | Arkema PL | 2.500 coins | -13.6% |
-| Mapi León | 89 | CB | Liga F | 4.600 coins | -5.5% |
+| Sophia Smith | 89 | ST | NWSL | 2.400 coins | 0% |
+| Virgil van Dijk | 89 | CB | Premier League | 3.800 coins | -5% |
+| Julián Alvarez | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -13.5% |
+| Carvajal | 89 | RB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Johanna Kaneryd | 89 | RM | — | 11.250 coins | +13.3% |
-| Lauren James | 89 | RM | Barclays WSL | 11.250 coins | 0% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 11.250 coins | 0% |
-| Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
-| Mariona | 89 | CAM | Barclays WSL | 11.250 coins | 0% |
-| Dunga | 89 | CDM | Icons | 11.250 coins | -13.5% |
-| Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
-| Cole Palmer | 89 | CAM | Premier League | 11.250 coins | 0% |
+| Míchel Salgado | 89 | RB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Rasheedat Ajibade | 89 | RM | D1 Arkema | 11.250 coins | 0% |
+| Maximiliano Araújo | 89 | LM | — | 11.250 coins | -7.7% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Alexandre Lacazette | 89 | ST | Brasileirão | 11.250 coins | 0% |
+| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| Rachel Williams | 89 | ST | Barclays WSL | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | -13.5% |
-| Katie McCabe | 89 | LB | Barclays WSL | 11.250 coins | 0% |
+| Lauren James | 89 | ST | Barclays WSL | 11.250 coins | 0% |
+| Nico Williams | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Lautaro Martínez (89, ST)** da Serie A Enilive, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Sophia Smith (89, ST)** da NWSL, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ada Hegerberg (89, ST)** da Arkema PL, a apenas **2.500 coins**
+- **Virgil van Dijk (89, CB)** da Premier League, a apenas **3.800 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Julián Alvarez (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Carvajal (89, RB)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins**
-
-- **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 4.600 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (89, CB) por 3.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Johanna Kaneryd (89, RM) por 11.250 coins é a referência de rating deste recorte.
+- **Meio:** Rasheedat Ajibade (89, RM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Lautaro Martínez (89, ST) por 2.000 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Smith (89, ST) por 2.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/08/2026)?**  
-Lautaro Martínez (89, Serie A Enilive) aparece como melhor custo-benefício, a 2.000 coins no Console (PS).
+Sophia Smith (89, NWSL) aparece como melhor custo-benefício, a 2.400 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
