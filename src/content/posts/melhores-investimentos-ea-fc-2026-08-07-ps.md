@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T10:39:09.000Z
+pubDatetime: 2026-08-07T13:39:10.000Z
 title: "Investimentos EA FC: Cartas 87-89 em 07/08 — Console (PS)"
 draft: false
 featured: true
