@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T13:39:07.000Z
+pubDatetime: 2026-08-08T16:39:08.000Z
 title: "Mercado EA FC em 08/08: Cartas 87-89 — Console (PS)"
 draft: false
 featured: true
